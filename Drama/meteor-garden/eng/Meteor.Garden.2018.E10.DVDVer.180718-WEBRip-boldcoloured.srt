@@ -1,0 +1,2930 @@
+﻿1
+00:00:00,164 --> 00:00:01,924
+A NETFLIX ORIGINAL SERIES
+
+2
+00:01:22,837 --> 00:01:27,020
+METEOR GARDEN
+
+3
+00:01:27,164 --> 00:01:30,084
+EPISODE 10
+
+4
+00:01:50,244 --> 00:01:52,324
+<font color="#ffff00"><b>Among these cards,
+which has the highest value?</b></font>
+
+5
+00:01:56,684 --> 00:01:58,684
+<font color="#ffff00"><b>Ace of Diamonds.</b></font>
+
+6
+00:01:58,764 --> 00:01:59,604
+<font color="#ffff00"><b>Are you sure?</b></font>
+
+7
+00:02:00,244 --> 00:02:01,164
+<font color="#ffff00"><b>I'm sure.</b></font>
+
+8
+00:02:03,084 --> 00:02:04,004
+<font color="#ffff00"><b>Hearts...</b></font>
+
+9
+00:02:05,364 --> 00:02:06,724
+<font color="#ffff00"><b>Jack of Hearts.</b></font>
+
+10
+00:02:10,044 --> 00:02:11,404
+<font color="#ffff00"><b>Clubs...</b></font>
+
+11
+00:02:13,484 --> 00:02:15,004
+<font color="#ffff00"><b>King of Clubs.</b></font>
+
+12
+00:02:21,444 --> 00:02:22,564
+<font color="#ffff00"><b>Diamonds.</b></font>
+
+13
+00:02:24,524 --> 00:02:25,804
+<font color="#ffff00"><b>Spades...</b></font>
+
+14
+00:02:26,724 --> 00:02:27,964
+<font color="#ffff00"><b>Queen of Spades.</b></font>
+
+15
+00:02:47,004 --> 00:02:47,884
+<font color="#ffff00"><b>Am I wrong again?</b></font>
+
+16
+00:02:48,604 --> 00:02:50,484
+<font color="#ffff00"><b>No, but you're too slow.</b></font>
+
+17
+00:02:51,084 --> 00:02:53,564
+<font color="#ffff00"><b>Hey, it's quite amazing
+that I didn't make a mistake, okay?</b></font>
+
+18
+00:03:00,004 --> 00:03:01,284
+<font color="#ffff00"><b>I'll do better.</b></font>
+
+19
+00:03:01,924 --> 00:03:03,724
+<font color="#ffff00"><b>Since you already know the basics,</b></font>
+
+20
+00:03:03,804 --> 00:03:05,364
+<font color="#ffff00"><b>the biggest problem now</b></font>
+
+21
+00:03:05,444 --> 00:03:07,644
+<font color="#ffff00"><b>is that you always expose
+the cards you have.</b></font>
+
+22
+00:03:08,844 --> 00:03:09,684
+<font color="#ffff00"><b>No way.</b></font>
+
+23
+00:03:10,404 --> 00:03:11,604
+<font color="#ffff00"><b>You have a lot of spades.</b></font>
+
+24
+00:03:13,364 --> 00:03:14,644
+<font color="#ffff00"><b>Am I right?</b></font>
+
+25
+00:03:15,924 --> 00:03:17,764
+<font color="#ffff00"><b>You're insanely good at this.</b></font>
+
+26
+00:03:17,924 --> 00:03:19,524
+<font color="#ffff00"><b>Try to bluff and see if you can fool me.</b></font>
+
+27
+00:03:19,804 --> 00:03:21,444
+<font color="#ffff00"><b>If you can do that,
+then we stand a chance.</b></font>
+
+28
+00:03:23,924 --> 00:03:24,764
+<font color="#ffff00"><b>All right.</b></font>
+
+29
+00:03:26,684 --> 00:03:28,564
+<font color="#ffff00"><b>Do you like studying at Mingde University?</b></font>
+
+30
+00:03:28,964 --> 00:03:30,044
+<font color="#ffff00"><b>Yes.</b></font>
+
+31
+00:03:30,484 --> 00:03:32,284
+<font color="#ffff00"><b>The people here are really amazing.</b></font>
+
+32
+00:03:32,844 --> 00:03:33,884
+<font color="#ffff00"><b>You don't like it here.</b></font>
+
+33
+00:03:34,604 --> 00:03:36,604
+<font color="#ffff00"><b>That doesn't count. You already know that.</b></font>
+
+34
+00:03:37,164 --> 00:03:38,404
+<font color="#ffff00"><b>Do you like Si?</b></font>
+
+35
+00:03:39,324 --> 00:03:40,444
+<font color="#ffff00"><b>Of course not.</b></font>
+
+36
+00:03:41,044 --> 00:03:42,244
+<font color="#ffff00"><b>I asked you to fool me.</b></font>
+
+37
+00:03:42,364 --> 00:03:44,724
+<font color="#ffff00"><b>If you don't like him,
+you should have said that you do.</b></font>
+
+38
+00:03:45,284 --> 00:03:46,644
+<font color="#ffff00"><b>I couldn't make myself say that.</b></font>
+
+39
+00:03:46,724 --> 00:03:48,044
+<font color="#ffff00"><b>Then do you like me?</b></font>
+
+40
+00:03:53,484 --> 00:03:54,324
+<font color="#ffff00"><b>No.</b></font>
+
+41
+00:03:55,964 --> 00:03:57,684
+<font color="#ffff00"><b>That seems like the truth.</b></font>
+
+42
+00:03:57,764 --> 00:03:59,084
+<font color="#ffff00"><b>That's not true.</b></font>
+
+43
+00:03:59,164 --> 00:04:00,924
+<font color="#ffff00"><b>I was just kidding.</b></font>
+
+44
+00:04:08,284 --> 00:04:10,244
+<font color="#ffff00"><b>Who asks questions like that?</b></font>
+
+45
+00:04:10,324 --> 00:04:11,244
+<font color="#ffff00"><b>How can I answer that?</b></font>
+
+46
+00:04:12,684 --> 00:04:13,764
+<font color="#ffff00"><b>Only you can't.</b></font>
+
+47
+00:04:15,524 --> 00:04:16,804
+<font color="#ffff00"><b>Then do you like Jing?</b></font>
+
+48
+00:04:22,404 --> 00:04:23,644
+<font color="#ffff00"><b>Sorry.</b></font>
+
+49
+00:04:23,884 --> 00:04:25,564
+<font color="#ffff00"><b>I shouldn't have asked that question.</b></font>
+
+50
+00:04:27,524 --> 00:04:29,564
+<font color="#ffff00"><b>If I say I'm already over her,
+would you believe me?</b></font>
+
+51
+00:04:34,924 --> 00:04:36,684
+<font color="#ffff00"><b>Do you want me to stay here?</b></font>
+
+52
+00:04:37,684 --> 00:04:38,684
+<font color="#ffff00"><b>Yes.</b></font>
+
+53
+00:04:39,684 --> 00:04:41,204
+<font color="#ffff00"><b>Then I'll do my best to stay,</b></font>
+
+54
+00:04:41,844 --> 00:04:43,964
+<font color="#ffff00"><b>so that I can do everything
+to protect you.</b></font>
+
+55
+00:05:20,484 --> 00:05:21,844
+<font color="#ffff00"><b>If Shancai leaves Mingde,</b></font>
+
+56
+00:05:22,484 --> 00:05:23,444
+<font color="#ffff00"><b>I'll leave F4.</b></font>
+
+57
+00:05:26,404 --> 00:05:27,684
+<font color="#ffff00"><b>Do you know what you're saying?</b></font>
+
+58
+00:05:31,684 --> 00:05:34,564
+<font color="#ffff00"><b>Although it's cool to be a part of F4,</b></font>
+
+59
+00:05:35,244 --> 00:05:38,244
+<font color="#ffff00"><b>if you bully Shancai, you're my enemy.</b></font>
+
+60
+00:05:39,524 --> 00:05:42,324
+<font color="#ffff00"><b>Qinghe, you're not that important.</b></font>
+
+61
+00:05:43,484 --> 00:05:45,644
+<font color="#ffff00"><b>And Shancai doesn't even like you.</b></font>
+
+62
+00:05:46,644 --> 00:05:48,404
+<font color="#ffff00"><b>That doesn't matter.</b></font>
+
+63
+00:05:48,564 --> 00:05:49,884
+<font color="#ffff00"><b>I like Shancai.</b></font>
+
+64
+00:05:50,964 --> 00:05:53,204
+<font color="#ffff00"><b>If I expect the person I like
+to like me as well,</b></font>
+
+65
+00:05:53,764 --> 00:05:54,964
+<font color="#ffff00"><b>that's not manly at all.</b></font>
+
+66
+00:05:58,204 --> 00:05:59,084
+<font color="#ffff00"><b>Daoming Si.</b></font>
+
+67
+00:05:59,604 --> 00:06:02,364
+<font color="#ffff00"><b>If you like Shancai,
+you have to treat her nicely.</b></font>
+
+68
+00:06:03,444 --> 00:06:04,964
+<font color="#ffff00"><b>Even if Shancai doesn't like you,</b></font>
+
+69
+00:06:05,684 --> 00:06:07,964
+<font color="#ffff00"><b>it should be enough for you
+to see her happy,</b></font>
+
+70
+00:06:08,364 --> 00:06:09,204
+<font color="#ffff00"><b>isn't it?</b></font>
+
+71
+00:06:10,484 --> 00:06:14,124
+<font color="#ffff00"><b>Qinghe, I suddenly realized
+that you have the potential to join F4.</b></font>
+
+72
+00:06:15,364 --> 00:06:17,844
+<font color="#ffff00"><b>What you just said is very manly.</b></font>
+
+73
+00:06:18,404 --> 00:06:19,884
+<font color="#ffff00"><b>Start practicing how to play Bridge.</b></font>
+
+74
+00:06:20,444 --> 00:06:22,404
+<font color="#ffff00"><b>This way, if F4 really loses a member,</b></font>
+
+75
+00:06:23,124 --> 00:06:26,804
+<font color="#ffff00"><b>at least we can have a full team
+in competitions.</b></font>
+
+76
+00:06:36,724 --> 00:06:38,884
+<font color="#ffff00"><b><i>From the very first day
+I entered Mingde University,</i></b></font>
+
+77
+00:06:39,084 --> 00:06:42,084
+<font color="#ffff00"><b><i>I heard about all sorts of bets made
+when playing against F4.</i></b></font>
+
+78
+00:06:42,684 --> 00:06:44,284
+<font color="#ffff00"><b><i>I never imagined</i></b></font>
+
+79
+00:06:44,604 --> 00:06:47,764
+<font color="#ffff00"><b><i>I'd receive a joker card
+to fight Daoming Si</i></b></font>
+
+80
+00:06:48,004 --> 00:06:50,604
+<font color="#ffff00"><b><i>with Huaze Lei on my side
+during my freshman year.</i></b></font>
+
+81
+00:06:54,724 --> 00:06:56,164
+<font color="#ffff00"><b>Who do you think will win?</b></font>
+
+82
+00:06:57,284 --> 00:06:59,004
+<font color="#ffff00"><b>Daoming Si, of course.</b></font>
+
+83
+00:06:59,204 --> 00:07:00,884
+<font color="#ffff00"><b>Shancai doesn't know how to play Bridge.</b></font>
+
+84
+00:07:00,964 --> 00:07:04,404
+<font color="#ffff00"><b>Even if Huaze Lei is amazing at it,
+she'll be useless.</b></font>
+
+85
+00:07:05,484 --> 00:07:06,364
+<font color="#ffff00"><b>Shancai.</b></font>
+
+86
+00:07:08,164 --> 00:07:09,564
+<font color="#ffff00"><b>Do your best. I hope you'll win.</b></font>
+
+87
+00:07:10,764 --> 00:07:11,604
+<font color="#ffff00"><b>Look.</b></font>
+
+88
+00:07:11,684 --> 00:07:12,924
+<font color="#ffff00"><b>SHANCAI, YOU CAN DO IT</b></font>
+
+89
+00:07:24,844 --> 00:07:26,124
+<font color="#ffff00"><b>Did you sleep well last night?</b></font>
+
+90
+00:07:26,204 --> 00:07:28,804
+<font color="#ffff00"><b>I'm so nervous.
+I didn't sleep well at all.</b></font>
+
+91
+00:07:29,844 --> 00:07:30,684
+<font color="#ffff00"><b>Don't be scared.</b></font>
+
+92
+00:07:34,884 --> 00:07:37,204
+<font color="#ffff00"><b>Actually, I slept really well.
+I fooled you, right?</b></font>
+
+93
+00:07:38,164 --> 00:07:40,284
+<font color="#ffff00"><b>Yes, you did.
+You can make it on your own now.</b></font>
+
+94
+00:07:43,924 --> 00:07:45,524
+<font color="#ffff00"><b>Then do we stand a chance now?</b></font>
+
+95
+00:07:45,964 --> 00:07:46,804
+<font color="#ffff00"><b>My gosh!</b></font>
+
+96
+00:07:47,204 --> 00:07:50,204
+<font color="#ffff00"><b>-Why are they holding hands?
+-Right?</b></font>
+
+97
+00:08:05,164 --> 00:08:06,004
+<font color="#ffff00"><b>Shancai.</b></font>
+
+98
+00:08:06,244 --> 00:08:09,684
+<font color="#ffff00"><b>Welcome to the Bridge Room and to
+the two-on-two competition against the F4.</b></font>
+
+99
+00:08:10,244 --> 00:08:11,924
+<font color="#ffff00"><b>Did Huaze Lei explain the rules to you?</b></font>
+
+100
+00:08:13,084 --> 00:08:13,924
+<font color="#ffff00"><b>Yes.</b></font>
+
+101
+00:08:14,004 --> 00:08:16,364
+<font color="#ffff00"><b>Do you plan to hold hands
+while playing Bridge?</b></font>
+
+102
+00:08:19,364 --> 00:08:21,404
+<font color="#ffff00"><b>Si will play with Meizuo,
+and Shancai with Lei.</b></font>
+
+103
+00:08:21,484 --> 00:08:23,124
+<font color="#ffff00"><b>The two teams will take turns dealing.</b></font>
+
+104
+00:08:23,204 --> 00:08:24,764
+<font color="#ffff00"><b>Six tricks will be added
+to the card they have called.</b></font>
+
+105
+00:08:24,844 --> 00:08:28,084
+<font color="#ffff00"><b>Win the number you bid or more,
+and you win the game. Otherwise, you lose.</b></font>
+
+106
+00:08:28,924 --> 00:08:29,964
+<font color="#ffff00"><b>Are we clear?</b></font>
+
+107
+00:08:31,844 --> 00:08:32,684
+<font color="#ffff00"><b>Yes.</b></font>
+
+108
+00:08:33,644 --> 00:08:34,604
+<font color="#ffff00"><b>Please have a seat.</b></font>
+
+109
+00:08:44,124 --> 00:08:45,644
+<font color="#ffff00"><b>You know what's at stake, right?</b></font>
+
+110
+00:08:48,684 --> 00:08:49,884
+<font color="#ffff00"><b>Don't we all?</b></font>
+
+111
+00:08:51,724 --> 00:08:52,964
+<font color="#ffff00"><b>What's at stake here?</b></font>
+
+112
+00:08:54,564 --> 00:08:56,164
+<font color="#ffff00"><b>Shancai, tell them.</b></font>
+
+113
+00:09:02,684 --> 00:09:03,844
+<font color="#ffff00"><b>What's at stake</b></font>
+
+114
+00:09:05,364 --> 00:09:06,244
+<font color="#ffff00"><b>is that if I win,</b></font>
+
+115
+00:09:07,524 --> 00:09:08,604
+<font color="#ffff00"><b>you have to forgive me.</b></font>
+
+116
+00:09:14,564 --> 00:09:16,124
+<font color="#ffff00"><b>Is it that important to you?</b></font>
+
+117
+00:09:18,764 --> 00:09:19,604
+<font color="#ffff00"><b>Yes.</b></font>
+
+118
+00:09:20,124 --> 00:09:21,244
+<font color="#ffff00"><b>From what I can see,</b></font>
+
+119
+00:09:21,964 --> 00:09:25,044
+<font color="#ffff00"><b>you just want to be free from guilt
+when you're in a relationship with Lei.</b></font>
+
+120
+00:09:26,644 --> 00:09:27,564
+<font color="#ffff00"><b>Maybe.</b></font>
+
+121
+00:09:28,444 --> 00:09:29,764
+<font color="#ffff00"><b>Then I definitely refuse to lose.</b></font>
+
+122
+00:09:30,924 --> 00:09:32,124
+<font color="#ffff00"><b>What if I win?</b></font>
+
+123
+00:09:34,524 --> 00:09:35,924
+<font color="#ffff00"><b>Then I won't see Shancai again.</b></font>
+
+124
+00:09:41,404 --> 00:09:42,764
+<font color="#ffff00"><b>You said that on your own accord.</b></font>
+
+125
+00:09:43,524 --> 00:09:45,524
+<font color="#ffff00"><b>Yes, I did.</b></font>
+
+126
+00:09:46,404 --> 00:09:47,804
+<font color="#ffff00"><b>But I might not lose.</b></font>
+
+127
+00:09:48,324 --> 00:09:49,324
+<font color="#ffff00"><b>Right?</b></font>
+
+128
+00:09:50,564 --> 00:09:51,404
+<font color="#ffff00"><b>Yes.</b></font>
+
+129
+00:09:53,964 --> 00:09:55,564
+<font color="#ffff00"><b>All right. Let the competition begin.</b></font>
+
+130
+00:10:02,084 --> 00:10:03,044
+<font color="#ffff00"><b>Please check your cards.</b></font>
+
+131
+00:10:11,364 --> 00:10:13,004
+<font color="#ffff00"><b>Shancai, you can call your card first.</b></font>
+
+132
+00:10:17,444 --> 00:10:18,684
+<font color="#ffff00"><b>One of Hearts.</b></font>
+
+133
+00:10:19,524 --> 00:10:20,724
+<font color="#ffff00"><b>One of Spades.</b></font>
+
+134
+00:10:21,844 --> 00:10:23,084
+<font color="#ffff00"><b>Three of Hearts.</b></font>
+
+135
+00:10:23,164 --> 00:10:24,004
+<font color="#ffff00"><b><i>What?</i></b></font>
+
+136
+00:10:25,084 --> 00:10:27,004
+<font color="#ffff00"><b><i>Huaze Lei is calling
+the same Hearts suit as me?</i></b></font>
+
+137
+00:10:27,084 --> 00:10:29,004
+<font color="#ffff00"><b>I don't have any Hearts cards.</b></font>
+
+138
+00:10:29,084 --> 00:10:31,364
+<font color="#ffff00"><b>I just bluffed it initially.</b></font>
+
+139
+00:10:34,004 --> 00:10:34,884
+<font color="#ffff00"><b>Four of Clubs.</b></font>
+
+140
+00:10:35,604 --> 00:10:37,924
+<font color="#ffff00"><b><i>Daoming Si is calling four of Clubs now.</i></b></font>
+
+141
+00:10:38,724 --> 00:10:41,124
+<font color="#ffff00"><b><i>If I want to continue calling,
+I have to go with four too.</i></b></font>
+
+142
+00:10:41,204 --> 00:10:44,724
+<font color="#ffff00"><b><i>That means I should at least
+win ten tricks in order to win.</i></b></font>
+
+143
+00:10:45,204 --> 00:10:46,884
+<font color="#ffff00"><b><i>I only have three Clubs cards.</i></b></font>
+
+144
+00:10:47,404 --> 00:10:50,204
+<font color="#ffff00"><b><i>If Huaze Lei also has them...</i></b></font>
+
+145
+00:11:01,324 --> 00:11:02,484
+<font color="#ffff00"><b>The trump suit is Clubs.</b></font>
+
+146
+00:11:02,964 --> 00:11:04,524
+<font color="#ffff00"><b>Huaze Lei, please proceed.</b></font>
+
+147
+00:11:10,604 --> 00:11:12,804
+<font color="#ffff00"><b>Shancai, Lei made a mistake.</b></font>
+
+148
+00:11:13,524 --> 00:11:15,244
+<font color="#ffff00"><b>He thinks that you have the ace of Hearts.</b></font>
+
+149
+00:11:15,764 --> 00:11:17,244
+<font color="#ffff00"><b>That's why he played the Hearts suit.</b></font>
+
+150
+00:11:17,524 --> 00:11:19,044
+<font color="#ffff00"><b>He wants you to win the first trick.</b></font>
+
+151
+00:11:19,564 --> 00:11:21,644
+<font color="#ffff00"><b>Actually, the ace of Hearts is with me.</b></font>
+
+152
+00:11:22,484 --> 00:11:24,644
+<font color="#ffff00"><b>It looks like your plan
+is not going to work.</b></font>
+
+153
+00:11:38,404 --> 00:11:41,324
+<font color="#ffff00"><b>Shancai has no Hearts. The trump suit,
+two of Clubs, wins the first trick.</b></font>
+
+154
+00:11:44,364 --> 00:11:46,364
+<font color="#ffff00"><b>Shancai, you did great.</b></font>
+
+155
+00:11:50,204 --> 00:11:53,764
+<font color="#ffff00"><b>I never thought the innocent Shancai
+would cheat.</b></font>
+
+156
+00:11:55,604 --> 00:11:57,724
+<font color="#ffff00"><b>Even if Shancai cheats, she's still cute.</b></font>
+
+157
+00:11:58,364 --> 00:12:01,644
+<font color="#ffff00"><b>Unlike others who tell the truth,
+but always hurts people.</b></font>
+
+158
+00:12:06,324 --> 00:12:08,404
+<font color="#ffff00"><b>A liar is more despicable, of course.</b></font>
+
+159
+00:12:09,684 --> 00:12:11,004
+<font color="#ffff00"><b>Aren't you like that?</b></font>
+
+160
+00:12:12,724 --> 00:12:14,764
+<font color="#ffff00"><b>Please note that this is a Bridge game.</b></font>
+
+161
+00:12:15,324 --> 00:12:16,644
+<font color="#ffff00"><b>Refrain from verbal attacks.</b></font>
+
+162
+00:12:18,284 --> 00:12:20,484
+<font color="#ffff00"><b>Shancai, the winner continues playing.</b></font>
+
+163
+00:12:36,604 --> 00:12:38,804
+<font color="#ffff00"><b>Shancai's ace of Diamonds beats you all.</b></font>
+
+164
+00:12:39,924 --> 00:12:42,764
+<font color="#ffff00"><b>-She wins the second trick.
+-Shancai, you're doing great.</b></font>
+
+165
+00:12:44,364 --> 00:12:45,444
+<font color="#ffff00"><b>Huaze Lei taught me well.</b></font>
+
+166
+00:12:46,444 --> 00:12:47,844
+<font color="#ffff00"><b>She's a quick study.</b></font>
+
+167
+00:12:50,164 --> 00:12:51,164
+<font color="#ffff00"><b>Please continue.</b></font>
+
+168
+00:12:58,564 --> 00:13:00,484
+<font color="#ffff00"><b>I won't let you two win again.</b></font>
+
+169
+00:13:01,204 --> 00:13:02,244
+<font color="#ffff00"><b>Says who?</b></font>
+
+170
+00:13:02,684 --> 00:13:04,204
+<font color="#ffff00"><b>We might not lose.</b></font>
+
+171
+00:13:05,764 --> 00:13:06,724
+<font color="#ffff00"><b>"We"?</b></font>
+
+172
+00:13:07,844 --> 00:13:08,964
+<font color="#ffff00"><b>Shancai.</b></font>
+
+173
+00:13:09,524 --> 00:13:11,324
+<font color="#ffff00"><b>The "we" that you and Huaze Lei refer to</b></font>
+
+174
+00:13:11,404 --> 00:13:13,724
+<font color="#ffff00"><b>will soon disappear
+from Mingde University.</b></font>
+
+175
+00:13:25,084 --> 00:13:26,684
+<font color="#ffff00"><b>Why are they still not out?</b></font>
+
+176
+00:13:26,884 --> 00:13:29,204
+<font color="#ffff00"><b>We finished the Big and Small game
+in ten minutes.</b></font>
+
+177
+00:13:29,284 --> 00:13:33,484
+<font color="#ffff00"><b>Qinghe, Shancai and Daoming Si
+are playing an official game of Bridge.</b></font>
+
+178
+00:13:34,044 --> 00:13:35,524
+<font color="#ffff00"><b>I know how to play that too.</b></font>
+
+179
+00:13:35,604 --> 00:13:38,684
+<font color="#ffff00"><b>If I play them,
+I'm sure F4 would surrender immediately.</b></font>
+
+180
+00:13:38,844 --> 00:13:40,084
+<font color="#ffff00"><b>You silly boy.</b></font>
+
+181
+00:13:40,164 --> 00:13:43,244
+<font color="#ffff00"><b>F4 is the champion of countless
+international Bridge competitions.</b></font>
+
+182
+00:13:44,004 --> 00:13:45,484
+<font color="#ffff00"><b>Whom do you think you're fooling?</b></font>
+
+183
+00:13:46,004 --> 00:13:48,844
+<font color="#ffff00"><b>Qinghe, I know that you
+and Shancai are close.</b></font>
+
+184
+00:13:49,564 --> 00:13:51,964
+<font color="#ffff00"><b>But even so, you have to face reality.</b></font>
+
+185
+00:13:53,044 --> 00:13:57,084
+<font color="#ffff00"><b>I think it would be better for you
+to pray that she gets a nice set of cards.</b></font>
+
+186
+00:13:57,644 --> 00:13:58,764
+<font color="#ffff00"><b>Xinhui, you're right.</b></font>
+
+187
+00:14:00,684 --> 00:14:03,844
+<font color="#ffff00"><b>God, please protect the innocent
+and cute Shancai.</b></font>
+
+188
+00:14:03,924 --> 00:14:06,044
+<font color="#ffff00"><b>Don't let her be bullied
+by the monster, Daoming Si.</b></font>
+
+189
+00:14:08,124 --> 00:14:08,964
+<font color="#ffff00"><b>Shancai.</b></font>
+
+190
+00:14:09,484 --> 00:14:10,484
+<font color="#ffff00"><b>You're bound to lose.</b></font>
+
+191
+00:14:11,044 --> 00:14:13,324
+<font color="#ffff00"><b>No one has the trump suit now.</b></font>
+
+192
+00:14:13,404 --> 00:14:16,484
+<font color="#ffff00"><b>And I'm now going to play
+the Spade suit that you don't have.</b></font>
+
+193
+00:14:17,404 --> 00:14:19,244
+<font color="#ffff00"><b>You'll surely lose this round.</b></font>
+
+194
+00:14:35,244 --> 00:14:37,244
+<font color="#ffff00"><b>You didn't have the King of Spades?</b></font>
+
+195
+00:14:43,804 --> 00:14:45,964
+<font color="#ffff00"><b>Shancai's King of Spades
+beats Si's Queen of Spades.</b></font>
+
+196
+00:14:46,524 --> 00:14:48,284
+<font color="#ffff00"><b>I thought we were bound to lose.</b></font>
+
+197
+00:14:48,644 --> 00:14:50,524
+<font color="#ffff00"><b>Shancai, you're bound to lose, all right.</b></font>
+
+198
+00:14:51,204 --> 00:14:52,564
+<font color="#ffff00"><b>Based on the cards played earlier,</b></font>
+
+199
+00:14:52,644 --> 00:14:56,284
+<font color="#ffff00"><b>we all should have Diamonds
+left in our hands.</b></font>
+
+200
+00:14:56,844 --> 00:14:59,884
+<font color="#ffff00"><b>Si's card should be the highest among us.</b></font>
+
+201
+00:15:00,444 --> 00:15:02,044
+<font color="#ffff00"><b>My memory can't be wrong,</b></font>
+
+202
+00:15:02,324 --> 00:15:04,524
+<font color="#ffff00"><b>so you will lose this round.</b></font>
+
+203
+00:15:05,524 --> 00:15:06,444
+<font color="#ffff00"><b><i>Really?</i></b></font>
+
+204
+00:15:07,804 --> 00:15:10,364
+<font color="#ffff00"><b><i>Are we really going to lose?</i></b></font>
+
+205
+00:15:13,164 --> 00:15:15,084
+<font color="#ffff00"><b><i>Yes, that's the smile.</i></b></font>
+
+206
+00:15:15,764 --> 00:15:17,524
+<font color="#ffff00"><b><i>That's the priceless smile.</i></b></font>
+
+207
+00:15:18,364 --> 00:15:19,684
+<font color="#ffff00"><b><i>It gives me courage.</i></b></font>
+
+208
+00:15:20,244 --> 00:15:21,684
+<font color="#ffff00"><b><i>I'm not afraid anymore.</i></b></font>
+
+209
+00:15:31,124 --> 00:15:33,084
+<font color="#ffff00"><b>Hey! Play your card!</b></font>
+
+210
+00:15:51,244 --> 00:15:52,564
+<font color="#ffff00"><b>Si.</b></font>
+
+211
+00:15:54,124 --> 00:15:55,364
+<font color="#ffff00"><b>Are you sure you'll win?</b></font>
+
+212
+00:15:55,444 --> 00:15:56,284
+<font color="#ffff00"><b>We can't be too sure.</b></font>
+
+213
+00:15:57,084 --> 00:15:58,764
+<font color="#ffff00"><b>Maybe he doesn't have any Diamonds.</b></font>
+
+214
+00:16:00,084 --> 00:16:02,564
+<font color="#ffff00"><b>If so, then we win.</b></font>
+
+215
+00:16:03,044 --> 00:16:04,084
+<font color="#ffff00"><b>If we win,</b></font>
+
+216
+00:16:04,164 --> 00:16:06,324
+<font color="#ffff00"><b>the one who'll leave
+Mingde University is Daoming Si.</b></font>
+
+217
+00:16:08,924 --> 00:16:10,284
+<font color="#ffff00"><b>In that case,</b></font>
+
+218
+00:16:10,404 --> 00:16:11,964
+<font color="#ffff00"><b>maybe our stakes are too high.</b></font>
+
+219
+00:16:12,324 --> 00:16:13,764
+<font color="#ffff00"><b>Because Si will surely win.</b></font>
+
+220
+00:16:14,244 --> 00:16:18,724
+<font color="#ffff00"><b>Which means, the ones leaving
+Mingde University will be Lei and Shancai.</b></font>
+
+221
+00:16:18,804 --> 00:16:20,484
+<font color="#ffff00"><b>It's fine if we can't see Lei here.</b></font>
+
+222
+00:16:20,644 --> 00:16:22,004
+<font color="#ffff00"><b>We can go to his house.</b></font>
+
+223
+00:16:22,444 --> 00:16:23,804
+<font color="#ffff00"><b>If Shancai leaves,</b></font>
+
+224
+00:16:24,044 --> 00:16:25,964
+<font color="#ffff00"><b>there will be no Ms. Flying Kick
+at Mingde.</b></font>
+
+225
+00:16:27,124 --> 00:16:28,044
+<font color="#ffff00"><b>That's fine.</b></font>
+
+226
+00:16:28,124 --> 00:16:30,484
+<font color="#ffff00"><b>Then the school will no longer
+have girls from average--</b></font>
+
+227
+00:16:30,564 --> 00:16:33,044
+<font color="#ffff00"><b>Daoming Si. Are you playing or not?</b></font>
+
+228
+00:16:33,604 --> 00:16:34,644
+<font color="#ffff00"><b>You're not scared, are you?</b></font>
+
+229
+00:16:38,244 --> 00:16:39,484
+<font color="#ffff00"><b>Play your card.</b></font>
+
+230
+00:16:41,404 --> 00:16:42,604
+<font color="#ffff00"><b>I'll acknowledge it if I lose.</b></font>
+
+231
+00:17:14,084 --> 00:17:16,124
+<font color="#ffff00"><b>I'm not playing anymore! You guys suck.</b></font>
+
+232
+00:17:26,524 --> 00:17:27,404
+<font color="#ffff00"><b>You won.</b></font>
+
+233
+00:17:28,764 --> 00:17:30,084
+<font color="#ffff00"><b>We won?</b></font>
+
+234
+00:17:31,444 --> 00:17:33,724
+<font color="#ffff00"><b>Huaze Lei, we won.</b></font>
+
+235
+00:17:34,924 --> 00:17:36,084
+<font color="#ffff00"><b>Actually, we didn't win.</b></font>
+
+236
+00:17:37,364 --> 00:17:38,284
+<font color="#ffff00"><b>Why not?</b></font>
+
+237
+00:17:38,924 --> 00:17:41,044
+<font color="#ffff00"><b>Si couldn't beat my card.</b></font>
+
+238
+00:17:41,124 --> 00:17:43,284
+<font color="#ffff00"><b>That's why he got mad
+he mixed the cards up.</b></font>
+
+239
+00:17:43,804 --> 00:17:45,124
+<font color="#ffff00"><b>What a sore loser.</b></font>
+
+240
+00:17:45,884 --> 00:17:48,524
+<font color="#ffff00"><b>Si's card was actually higher
+than all of ours.</b></font>
+
+241
+00:17:49,164 --> 00:17:50,124
+<font color="#ffff00"><b>Meizuo.</b></font>
+
+242
+00:17:52,084 --> 00:17:53,924
+<font color="#ffff00"><b>This was Si's card.</b></font>
+
+243
+00:17:54,484 --> 00:17:56,364
+<font color="#ffff00"><b>My memory cannot be wrong.</b></font>
+
+244
+00:17:59,084 --> 00:18:01,844
+<font color="#ffff00"><b>Nobody compares to Meizuo
+in remembering cards.</b></font>
+
+245
+00:18:05,804 --> 00:18:07,724
+<font color="#ffff00"><b>Then he won.</b></font>
+
+246
+00:18:08,604 --> 00:18:10,124
+<font color="#ffff00"><b>Why did he stop playing?</b></font>
+
+247
+00:18:13,284 --> 00:18:14,164
+<font color="#ffff00"><b>What do you think?</b></font>
+
+248
+00:18:17,324 --> 00:18:20,084
+<font color="#ffff00"><b>Let's go. Ms. Zhuang is still waiting
+to celebrate with us.</b></font>
+
+249
+00:18:29,844 --> 00:18:30,684
+<font color="#ffff00"><b><i>Come on.</i></b></font>
+
+250
+00:18:31,164 --> 00:18:32,844
+<font color="#ffff00"><b><i>To all our good times together.</i></b></font>
+
+251
+00:18:32,924 --> 00:18:33,884
+<font color="#ffff00"><b>Cheers.</b></font>
+
+252
+00:18:33,964 --> 00:18:35,324
+<font color="#ffff00"><b>Cheers.</b></font>
+
+253
+00:18:39,924 --> 00:18:42,524
+<font color="#ffff00"><b>I think we were able to settle
+the matter today, right?</b></font>
+
+254
+00:18:42,604 --> 00:18:43,724
+<font color="#ffff00"><b>I hope so.</b></font>
+
+255
+00:18:43,804 --> 00:18:46,084
+<font color="#ffff00"><b>But Si isn't home yet.</b></font>
+
+256
+00:18:46,284 --> 00:18:48,164
+<font color="#ffff00"><b>I'm not sure where he went
+after the competition.</b></font>
+
+257
+00:18:49,004 --> 00:18:50,164
+<font color="#ffff00"><b>He'll be fine.</b></font>
+
+258
+00:18:50,244 --> 00:18:54,284
+<font color="#ffff00"><b>Si used to quit in the middle
+of playing Bridge before too.</b></font>
+
+259
+00:18:54,364 --> 00:18:55,884
+<font color="#ffff00"><b>I know my brother very well.</b></font>
+
+260
+00:18:55,964 --> 00:18:58,284
+<font color="#ffff00"><b>He's a self-centered, childish person.</b></font>
+
+261
+00:18:59,484 --> 00:19:01,244
+<font color="#ffff00"><b>It's my fault.
+I didn't discipline him well.</b></font>
+
+262
+00:19:01,324 --> 00:19:02,404
+<font color="#ffff00"><b>Don't mind him.</b></font>
+
+263
+00:19:02,484 --> 00:19:04,244
+<font color="#ffff00"><b>Let's enjoy the food together.</b></font>
+
+264
+00:19:05,844 --> 00:19:09,164
+<font color="#ffff00"><b>Ms. Zhuang, we're not pigs.
+We can't finish all of this.</b></font>
+
+265
+00:19:11,204 --> 00:19:12,804
+<font color="#ffff00"><b>You eat too little.</b></font>
+
+266
+00:19:12,884 --> 00:19:15,204
+<font color="#ffff00"><b>That's why you're so tall and skinny.
+It's abnormal.</b></font>
+
+267
+00:19:15,764 --> 00:19:16,764
+<font color="#ffff00"><b>Shancai, eat up.</b></font>
+
+268
+00:19:17,044 --> 00:19:19,444
+<font color="#ffff00"><b>Don't act like a cow silently grazing.</b></font>
+
+269
+00:19:21,524 --> 00:19:22,924
+<font color="#ffff00"><b>How could I have an appetite?</b></font>
+
+270
+00:19:23,044 --> 00:19:24,804
+<font color="#ffff00"><b>I was so nervous, that my stomach hurts.</b></font>
+
+271
+00:19:24,884 --> 00:19:25,844
+<font color="#ffff00"><b>Nervous about what?</b></font>
+
+272
+00:19:26,764 --> 00:19:28,404
+<font color="#ffff00"><b>The stakes for the bet with Daoming Si.</b></font>
+
+273
+00:19:29,164 --> 00:19:30,924
+<font color="#ffff00"><b>From the day I entered Mingde University,</b></font>
+
+274
+00:19:31,484 --> 00:19:34,964
+<font color="#ffff00"><b>I heard all sorts of rumors
+about F4 and Joker cards.</b></font>
+
+275
+00:19:35,524 --> 00:19:37,444
+<font color="#ffff00"><b>And it was my first time playing Bridge.</b></font>
+
+276
+00:19:37,884 --> 00:19:39,284
+<font color="#ffff00"><b>I was under so much pressure.</b></font>
+
+277
+00:19:39,964 --> 00:19:41,244
+<font color="#ffff00"><b>I see.</b></font>
+
+278
+00:19:41,604 --> 00:19:42,604
+<font color="#ffff00"><b>But Shancai,</b></font>
+
+279
+00:19:42,684 --> 00:19:45,244
+<font color="#ffff00"><b>those rumors were created by people
+jealous of Si and the F4.</b></font>
+
+280
+00:19:45,324 --> 00:19:48,284
+<font color="#ffff00"><b>They challenged them but knew
+they couldn't beat them,</b></font>
+
+281
+00:19:48,364 --> 00:19:49,924
+<font color="#ffff00"><b>and were too ashamed to admit it.</b></font>
+
+282
+00:19:50,644 --> 00:19:51,644
+<font color="#ffff00"><b>We can't help it.</b></font>
+
+283
+00:19:51,724 --> 00:19:53,644
+<font color="#ffff00"><b>So many people challenged us.</b></font>
+
+284
+00:19:53,724 --> 00:19:55,284
+<font color="#ffff00"><b>It was too much to handle.</b></font>
+
+285
+00:19:55,404 --> 00:19:56,604
+<font color="#ffff00"><b>If we didn't require a bet,</b></font>
+
+286
+00:19:56,684 --> 00:19:58,804
+<font color="#ffff00"><b>we'd need to play Bridge
+with people daily.</b></font>
+
+287
+00:19:58,884 --> 00:20:00,604
+<font color="#ffff00"><b>We'd die from exhaustion.</b></font>
+
+288
+00:20:02,604 --> 00:20:03,884
+<font color="#ffff00"><b>They're all grown up.</b></font>
+
+289
+00:20:03,964 --> 00:20:05,244
+<font color="#ffff00"><b>They're not childish anymore.</b></font>
+
+290
+00:20:05,364 --> 00:20:07,324
+<font color="#ffff00"><b>That's a cause for celebration.</b></font>
+
+291
+00:20:07,404 --> 00:20:08,684
+<font color="#ffff00"><b>Come on. Cheers.</b></font>
+
+292
+00:20:09,284 --> 00:20:10,364
+<font color="#ffff00"><b>-Cheers.
+-Cheers.</b></font>
+
+293
+00:20:18,204 --> 00:20:20,724
+<font color="#ffff00"><b>Ms. Zhuang,
+every time you have a few drinks,</b></font>
+
+294
+00:20:20,804 --> 00:20:22,204
+<font color="#ffff00"><b>you become wild and carefree.</b></font>
+
+295
+00:20:23,404 --> 00:20:26,284
+<font color="#ffff00"><b>I can't believe that the kids
+who wore open-crotch pants</b></font>
+
+296
+00:20:26,404 --> 00:20:28,364
+<font color="#ffff00"><b>and wet their beds</b></font>
+
+297
+00:20:28,844 --> 00:20:31,724
+<font color="#ffff00"><b>have now reached the age
+when they're fighting over a girl.</b></font>
+
+298
+00:20:32,124 --> 00:20:33,244
+<font color="#ffff00"><b>That's really amazing.</b></font>
+
+299
+00:20:34,844 --> 00:20:37,004
+<font color="#ffff00"><b>The famous F4 wore open-crotch pants</b></font>
+
+300
+00:20:37,684 --> 00:20:38,884
+<font color="#ffff00"><b>and even wet their beds.</b></font>
+
+301
+00:20:40,044 --> 00:20:42,004
+<font color="#ffff00"><b>-I really can't imagine it.
+-Shut up.</b></font>
+
+302
+00:20:45,324 --> 00:20:47,564
+<font color="#ffff00"><b>Ms. Zhuang, that's ancient history.</b></font>
+
+303
+00:20:47,644 --> 00:20:49,564
+<font color="#ffff00"><b>-Let's not mention that.
+-What does it matter?</b></font>
+
+304
+00:20:49,644 --> 00:20:50,604
+<font color="#ffff00"><b>We've all been there.</b></font>
+
+305
+00:20:52,204 --> 00:20:56,564
+<font color="#ffff00"><b>Furthermore, Ximen and Meizuo would bite
+each other's toes when they were young.</b></font>
+
+306
+00:20:56,644 --> 00:20:58,284
+<font color="#ffff00"><b>They were drooling
+while biting each other.</b></font>
+
+307
+00:20:58,564 --> 00:21:00,604
+<font color="#ffff00"><b>They kept clamoring for their pacifiers.</b></font>
+
+308
+00:21:00,684 --> 00:21:02,044
+<font color="#ffff00"><b>And Lei...</b></font>
+
+309
+00:21:02,324 --> 00:21:05,564
+<font color="#ffff00"><b>When he was young, he stuck his head
+in the toilet when he washed his hair.</b></font>
+
+310
+00:21:05,644 --> 00:21:07,804
+<font color="#ffff00"><b>It got stuck there
+and we couldn't get it out.</b></font>
+
+311
+00:21:09,764 --> 00:21:11,604
+<font color="#ffff00"><b>Ms. Zhuang, that's enough.</b></font>
+
+312
+00:21:12,164 --> 00:21:13,924
+<font color="#ffff00"><b>Why do you have to remember those things?</b></font>
+
+313
+00:21:15,004 --> 00:21:16,844
+<font color="#ffff00"><b>I didn't mention the time
+you guys wore my--</b></font>
+
+314
+00:21:16,924 --> 00:21:19,404
+<font color="#ffff00"><b>Cheers.</b></font>
+
+315
+00:21:44,724 --> 00:21:45,644
+<font color="#ffff00"><b>Hey.</b></font>
+
+316
+00:21:48,204 --> 00:21:49,684
+<font color="#ffff00"><b>Look where you're going.</b></font>
+
+317
+00:21:52,724 --> 00:21:53,564
+<font color="#ffff00"><b>Hey.</b></font>
+
+318
+00:21:55,164 --> 00:21:56,164
+<font color="#ffff00"><b>Are you deaf?</b></font>
+
+319
+00:21:58,644 --> 00:22:01,804
+<font color="#ffff00"><b>It's a pain talking to deaf people.
+You're lucky I'm lazy.</b></font>
+
+320
+00:22:07,124 --> 00:22:08,204
+<font color="#ffff00"><b>What did you say?</b></font>
+
+321
+00:22:08,564 --> 00:22:09,564
+<font color="#ffff00"><b>I...</b></font>
+
+322
+00:22:11,724 --> 00:22:12,844
+<font color="#ffff00"><b>I asked what you said.</b></font>
+
+323
+00:22:12,924 --> 00:22:14,564
+<font color="#ffff00"><b>I didn't...</b></font>
+
+324
+00:22:15,284 --> 00:22:16,244
+<font color="#ffff00"><b>You said "Lei"!</b></font>
+
+325
+00:22:16,884 --> 00:22:19,044
+<font color="#ffff00"><b>No, I said, "lazy."</b></font>
+
+326
+00:22:19,124 --> 00:22:21,484
+<font color="#ffff00"><b>You can't let me hear the word "Lei."
+Understood?</b></font>
+
+327
+00:22:21,564 --> 00:22:23,404
+<font color="#ffff00"><b>Understood.</b></font>
+
+328
+00:22:25,084 --> 00:22:26,204
+<font color="#ffff00"><b>I'm Daoming Si.</b></font>
+
+329
+00:22:26,844 --> 00:22:28,884
+<font color="#ffff00"><b>How can I be sad because of a girl?</b></font>
+
+330
+00:22:29,204 --> 00:22:31,284
+<font color="#ffff00"><b>-Right?
+-Right.</b></font>
+
+331
+00:22:31,604 --> 00:22:33,644
+<font color="#ffff00"><b>I'm not depressed. I'm...</b></font>
+
+332
+00:22:49,564 --> 00:22:51,924
+<font color="#ffff00"><b>33721842369.</b></font>
+
+333
+00:22:52,524 --> 00:22:55,244
+<font color="#ffff00"><b>17718512317.</b></font>
+
+334
+00:22:55,324 --> 00:22:56,684
+<font color="#ffff00"><b>What are you doing?</b></font>
+
+335
+00:22:57,284 --> 00:22:58,684
+<font color="#ffff00"><b>We're seeing whose memory is better.</b></font>
+
+336
+00:22:59,284 --> 00:23:00,924
+<font color="#ffff00"><b>Who can memorize more ex's phone numbers.</b></font>
+
+337
+00:23:01,844 --> 00:23:04,564
+<font color="#ffff00"><b>17701672125.</b></font>
+
+338
+00:23:05,884 --> 00:23:06,924
+<font color="#ffff00"><b>Isn't that Li's number?</b></font>
+
+339
+00:23:07,564 --> 00:23:08,644
+<font color="#ffff00"><b>She liked me first.</b></font>
+
+340
+00:23:08,724 --> 00:23:09,604
+<font color="#ffff00"><b>Shut up.</b></font>
+
+341
+00:23:10,604 --> 00:23:12,484
+<font color="#ffff00"><b>Hey, we shouldn't be
+the only ones doing this.</b></font>
+
+342
+00:23:12,804 --> 00:23:14,084
+<font color="#ffff00"><b>Girls should participate too.</b></font>
+
+343
+00:23:14,164 --> 00:23:16,084
+<font color="#ffff00"><b>Shancai, tell us an ex-boyfriend's number.</b></font>
+
+344
+00:23:16,204 --> 00:23:18,884
+<font color="#ffff00"><b>Shancai doesn't have an ex-boyfriend.
+You don't need to ask her.</b></font>
+
+345
+00:23:19,524 --> 00:23:20,924
+<font color="#ffff00"><b>Si's number</b></font>
+
+346
+00:23:21,004 --> 00:23:24,604
+<font color="#ffff00"><b>is 10881217039.</b></font>
+
+347
+00:23:27,324 --> 00:23:28,164
+<font color="#ffff00"><b>Oh, please.</b></font>
+
+348
+00:23:28,444 --> 00:23:30,324
+<font color="#ffff00"><b>Si is not Shancai's ex-boyfriend.</b></font>
+
+349
+00:23:30,804 --> 00:23:32,084
+<font color="#ffff00"><b>He liked her by himself.</b></font>
+
+350
+00:23:32,484 --> 00:23:33,484
+<font color="#ffff00"><b>Right, Shancai?</b></font>
+
+351
+00:23:37,244 --> 00:23:38,804
+<font color="#ffff00"><b>Why did you hit me again?</b></font>
+
+352
+00:23:41,844 --> 00:23:42,804
+<font color="#ffff00"><b>Shancai.</b></font>
+
+353
+00:23:43,244 --> 00:23:45,484
+<font color="#ffff00"><b>How far have you and Lei gone?</b></font>
+
+354
+00:23:48,964 --> 00:23:51,884
+<font color="#ffff00"><b>We went out on a date.</b></font>
+
+355
+00:23:54,564 --> 00:23:56,804
+<font color="#ffff00"><b>Shancai may seem like a buffalo</b></font>
+
+356
+00:23:57,684 --> 00:23:59,244
+<font color="#ffff00"><b>compared to the gorgeous Jing,</b></font>
+
+357
+00:23:59,604 --> 00:24:00,564
+<font color="#ffff00"><b>but Lei,</b></font>
+
+358
+00:24:00,684 --> 00:24:02,364
+<font color="#ffff00"><b>this is not what a normal guy would do.</b></font>
+
+359
+00:24:03,004 --> 00:24:03,844
+<font color="#ffff00"><b>Ms. Zhuang.</b></font>
+
+360
+00:24:03,924 --> 00:24:06,164
+<font color="#ffff00"><b>The most intimate they got
+was probably at the airport</b></font>
+
+361
+00:24:06,724 --> 00:24:08,364
+<font color="#ffff00"><b>when Lei kissed Shancai's forehead.</b></font>
+
+362
+00:24:09,644 --> 00:24:11,484
+<font color="#ffff00"><b>You two are moving too slowly.</b></font>
+
+363
+00:24:11,564 --> 00:24:13,884
+<font color="#ffff00"><b>That's why Si had the chance
+to get between you.</b></font>
+
+364
+00:24:14,764 --> 00:24:16,524
+<font color="#ffff00"><b>How about spending the night
+together tonight,</b></font>
+
+365
+00:24:16,604 --> 00:24:17,964
+<font color="#ffff00"><b>just the two of you,</b></font>
+
+366
+00:24:18,084 --> 00:24:20,044
+<font color="#ffff00"><b>so that you can have
+some quality time together?</b></font>
+
+367
+00:24:21,964 --> 00:24:23,444
+<font color="#ffff00"><b>What does that mean?</b></font>
+
+368
+00:24:23,524 --> 00:24:24,844
+<font color="#ffff00"><b>What are you planning to do?</b></font>
+
+369
+00:24:26,804 --> 00:24:27,764
+<font color="#ffff00"><b>Sure.</b></font>
+
+370
+00:24:30,844 --> 00:24:33,564
+<font color="#ffff00"><b>I wanted to speak to Shancai alone anyway.</b></font>
+
+371
+00:24:45,164 --> 00:24:46,724
+<font color="#ffff00"><b>What did you want to speak to me about?</b></font>
+
+372
+00:24:47,284 --> 00:24:48,364
+<font color="#ffff00"><b>I'm not too sure either.</b></font>
+
+373
+00:24:48,924 --> 00:24:50,884
+<font color="#ffff00"><b>I just want to talk to you alone.</b></font>
+
+374
+00:24:52,244 --> 00:24:54,244
+<font color="#ffff00"><b>Do you want to suggest a topic
+we can talk about?</b></font>
+
+375
+00:24:59,524 --> 00:25:00,524
+<font color="#ffff00"><b>How about</b></font>
+
+376
+00:25:00,884 --> 00:25:02,284
+<font color="#ffff00"><b>we talk about</b></font>
+
+377
+00:25:03,124 --> 00:25:04,484
+<font color="#ffff00"><b>our graduation trip?</b></font>
+
+378
+00:25:06,164 --> 00:25:08,164
+<font color="#ffff00"><b>We went to Chongming Island</b></font>
+
+379
+00:25:08,764 --> 00:25:10,164
+<font color="#ffff00"><b>for our graduation trip.</b></font>
+
+380
+00:25:11,364 --> 00:25:14,404
+<font color="#ffff00"><b>At night, we had pillow fights.</b></font>
+
+381
+00:25:15,084 --> 00:25:16,924
+<font color="#ffff00"><b>We also had a bonfire.</b></font>
+
+382
+00:25:17,684 --> 00:25:18,924
+<font color="#ffff00"><b>When I think about it now,</b></font>
+
+383
+00:25:19,004 --> 00:25:20,724
+<font color="#ffff00"><b>it's still a very special memory.</b></font>
+
+384
+00:25:21,884 --> 00:25:23,804
+<font color="#ffff00"><b>How about you? Where did you go?</b></font>
+
+385
+00:25:28,604 --> 00:25:29,884
+<font color="#ffff00"><b>Prague.</b></font>
+
+386
+00:25:30,364 --> 00:25:31,204
+<font color="#ffff00"><b>I've never been--</b></font>
+
+387
+00:25:36,524 --> 00:25:39,644
+<font color="#ffff00"><b>Why are you staring at me?</b></font>
+
+388
+00:25:40,804 --> 00:25:41,764
+<font color="#ffff00"><b>You're so ugly.</b></font>
+
+389
+00:25:43,924 --> 00:25:44,844
+<font color="#ffff00"><b>Just kidding.</b></font>
+
+390
+00:25:46,444 --> 00:25:49,404
+<font color="#ffff00"><b>But when I look at you this way,
+you're really ordinary</b></font>
+
+391
+00:25:49,604 --> 00:25:50,444
+<font color="#ffff00"><b>and plain.</b></font>
+
+392
+00:25:52,964 --> 00:25:54,764
+<font color="#ffff00"><b>You don't need to remind me, okay?</b></font>
+
+393
+00:26:01,564 --> 00:26:03,964
+<font color="#ffff00"><b>However, the way you looked
+so serious during our game today</b></font>
+
+394
+00:26:05,084 --> 00:26:06,004
+<font color="#ffff00"><b>was mesmerizing.</b></font>
+
+395
+00:26:08,124 --> 00:26:11,964
+<font color="#ffff00"><b>I never understood
+why Si likes you so much before,</b></font>
+
+396
+00:26:13,564 --> 00:26:15,004
+<font color="#ffff00"><b>but I finally understood today.</b></font>
+
+397
+00:26:15,724 --> 00:26:16,884
+<font color="#ffff00"><b>Actually...</b></font>
+
+398
+00:26:20,044 --> 00:26:21,084
+<font color="#ffff00"><b>Actually, what?</b></font>
+
+399
+00:26:25,924 --> 00:26:27,644
+<font color="#ffff00"><b>I'm not sure how I feel about you.</b></font>
+
+400
+00:26:29,164 --> 00:26:30,244
+<font color="#ffff00"><b>Ximen said</b></font>
+
+401
+00:26:30,764 --> 00:26:32,644
+<font color="#ffff00"><b>it may be because I'm still hurt
+about Jing,</b></font>
+
+402
+00:26:33,884 --> 00:26:35,524
+<font color="#ffff00"><b>and that I'm using you to forget her.</b></font>
+
+403
+00:26:37,244 --> 00:26:38,084
+<font color="#ffff00"><b>Maybe.</b></font>
+
+404
+00:26:39,484 --> 00:26:40,324
+<font color="#ffff00"><b>However...</b></font>
+
+405
+00:26:42,124 --> 00:26:43,124
+<font color="#ffff00"><b>It's fine.</b></font>
+
+406
+00:26:43,564 --> 00:26:44,684
+<font color="#ffff00"><b>I understand.</b></font>
+
+407
+00:26:45,884 --> 00:26:48,804
+<font color="#ffff00"><b>I know how you feel about Jing.</b></font>
+
+408
+00:26:49,564 --> 00:26:53,244
+<font color="#ffff00"><b>I also know how special she is to you.</b></font>
+
+409
+00:27:10,684 --> 00:27:12,604
+<font color="#ffff00"><b>Why are you alone again?</b></font>
+
+410
+00:27:14,684 --> 00:27:16,964
+<font color="#ffff00"><b>I looked for you for so long,
+my legs are tired.</b></font>
+
+411
+00:27:19,364 --> 00:27:21,204
+<font color="#ffff00"><b>From now on, don't hide
+from us again, okay?</b></font>
+
+412
+00:27:24,284 --> 00:27:25,364
+<font color="#ffff00"><b>What are you drawing?</b></font>
+
+413
+00:27:30,964 --> 00:27:32,244
+<font color="#ffff00"><b>Is that me?</b></font>
+
+414
+00:27:34,364 --> 00:27:36,444
+<font color="#ffff00"><b>It really looks like me.
+I like it so much.</b></font>
+
+415
+00:27:39,644 --> 00:27:42,404
+<font color="#ffff00"><b>When I was little, everyone mocked me
+and said my drawings were ugly.</b></font>
+
+416
+00:27:43,324 --> 00:27:44,284
+<font color="#ffff00"><b>Except Jing.</b></font>
+
+417
+00:27:48,404 --> 00:27:51,804
+<font color="#ffff00"><b>Jing is a really special person.</b></font>
+
+418
+00:27:53,604 --> 00:27:56,404
+<font color="#ffff00"><b>I'm not sure if I can love
+another person again.</b></font>
+
+419
+00:27:59,884 --> 00:28:01,004
+<font color="#ffff00"><b>Although I really like you,</b></font>
+
+420
+00:28:02,324 --> 00:28:04,724
+<font color="#ffff00"><b>I know it's not love.</b></font>
+
+421
+00:28:08,804 --> 00:28:10,364
+<font color="#ffff00"><b>It's fine.</b></font>
+
+422
+00:28:12,404 --> 00:28:13,244
+<font color="#ffff00"><b>Sorry.</b></font>
+
+423
+00:28:14,684 --> 00:28:16,004
+<font color="#ffff00"><b>Why are you apologizing to me?</b></font>
+
+424
+00:28:17,444 --> 00:28:20,404
+<font color="#ffff00"><b>If I didn't come back,
+you could've been with Si.</b></font>
+
+425
+00:28:21,724 --> 00:28:23,324
+<font color="#ffff00"><b>You don't have to apologize to me.</b></font>
+
+426
+00:28:24,004 --> 00:28:25,804
+<font color="#ffff00"><b>Who would want to be with him?</b></font>
+
+427
+00:28:27,684 --> 00:28:28,524
+<font color="#ffff00"><b>And...</b></font>
+
+428
+00:28:30,084 --> 00:28:31,764
+<font color="#ffff00"><b>if this hadn't happened,</b></font>
+
+429
+00:28:33,004 --> 00:28:36,044
+<font color="#ffff00"><b>I wouldn't have witnessed
+the new person you are now.</b></font>
+
+430
+00:28:38,324 --> 00:28:39,324
+<font color="#ffff00"><b>The new person?</b></font>
+
+431
+00:28:39,564 --> 00:28:40,844
+<font color="#ffff00"><b>How am I different?</b></font>
+
+432
+00:28:45,044 --> 00:28:46,564
+<font color="#ffff00"><b>The old you</b></font>
+
+433
+00:28:47,324 --> 00:28:49,004
+<font color="#ffff00"><b>was very lazy.</b></font>
+
+434
+00:28:50,204 --> 00:28:51,924
+<font color="#ffff00"><b>And the way you spoke was so cold.</b></font>
+
+435
+00:28:53,084 --> 00:28:54,684
+<font color="#ffff00"><b>You seemed</b></font>
+
+436
+00:28:55,604 --> 00:28:56,764
+<font color="#ffff00"><b>very distant.</b></font>
+
+437
+00:28:57,844 --> 00:28:58,844
+<font color="#ffff00"><b>Like this.</b></font>
+
+438
+00:29:01,204 --> 00:29:04,244
+<font color="#ffff00"><b>"I'm not interested
+in other people's problems."</b></font>
+
+439
+00:29:09,644 --> 00:29:10,484
+<font color="#ffff00"><b>You know,</b></font>
+
+440
+00:29:11,604 --> 00:29:13,004
+<font color="#ffff00"><b>every time you said</b></font>
+
+441
+00:29:13,164 --> 00:29:15,124
+<font color="#ffff00"><b>that other people's problems
+were not your concern,</b></font>
+
+442
+00:29:16,524 --> 00:29:18,244
+<font color="#ffff00"><b>I felt really sad.</b></font>
+
+443
+00:29:21,284 --> 00:29:23,724
+<font color="#ffff00"><b>But you're completely different now.</b></font>
+
+444
+00:29:25,324 --> 00:29:27,284
+<font color="#ffff00"><b>I like the new person you are now.</b></font>
+
+445
+00:29:30,724 --> 00:29:31,804
+<font color="#ffff00"><b>I'm willing</b></font>
+
+446
+00:29:33,044 --> 00:29:34,564
+<font color="#ffff00"><b>to be your good friend forever.</b></font>
+
+447
+00:29:55,244 --> 00:29:56,844
+<font color="#ffff00"><b>Thank you for being so understanding.</b></font>
+
+448
+00:30:11,244 --> 00:30:12,324
+<font color="#ffff00"><b>I'm home.</b></font>
+
+449
+00:30:13,564 --> 00:30:15,884
+<font color="#ffff00"><b>Si, your sister, Shancai</b></font>
+
+450
+00:30:16,004 --> 00:30:18,484
+<font color="#ffff00"><b>and your best friends are having
+a gathering in the dining room.</b></font>
+
+451
+00:30:18,804 --> 00:30:20,364
+<font color="#ffff00"><b>How dare they have a gathering here?</b></font>
+
+452
+00:30:26,764 --> 00:30:28,004
+<font color="#ffff00"><b>You're so close with my brother.</b></font>
+
+453
+00:30:28,084 --> 00:30:30,204
+<font color="#ffff00"><b>Why won't you teach him
+how to get along with girls?</b></font>
+
+454
+00:30:31,204 --> 00:30:34,204
+<font color="#ffff00"><b>Ms. Zhuang, aside from you,</b></font>
+
+455
+00:30:34,284 --> 00:30:36,564
+<font color="#ffff00"><b>what other girls can get along with Si?</b></font>
+
+456
+00:30:37,724 --> 00:30:39,484
+<font color="#ffff00"><b>Ms. Zhuang, it isn't just the girls.</b></font>
+
+457
+00:30:40,044 --> 00:30:40,924
+<font color="#ffff00"><b>Even the guys.</b></font>
+
+458
+00:30:41,524 --> 00:30:44,124
+<font color="#ffff00"><b>Aside from us,
+no one wants to play with him.</b></font>
+
+459
+00:30:44,844 --> 00:30:45,804
+<font color="#ffff00"><b>You're right.</b></font>
+
+460
+00:30:46,284 --> 00:30:47,844
+<font color="#ffff00"><b>We all inherited our mom's</b></font>
+
+461
+00:30:48,404 --> 00:30:51,804
+<font color="#ffff00"><b>bratty, difficult and
+hard-to-get-along-with attitude.</b></font>
+
+462
+00:30:54,444 --> 00:30:56,364
+<font color="#ffff00"><b>As for Lei, even though
+he's unpredictable,</b></font>
+
+463
+00:30:56,444 --> 00:30:58,284
+<font color="#ffff00"><b>he has become very patient with her</b></font>
+
+464
+00:30:58,364 --> 00:30:59,844
+<font color="#ffff00"><b>once he liked her.</b></font>
+
+465
+00:31:00,164 --> 00:31:02,004
+<font color="#ffff00"><b>No wonder we hear a "pow"</b></font>
+
+466
+00:31:02,124 --> 00:31:03,804
+<font color="#ffff00"><b>whenever Shancai sees Si.</b></font>
+
+467
+00:31:05,964 --> 00:31:08,084
+<font color="#ffff00"><b>It's like being in love with a time bomb.</b></font>
+
+468
+00:31:08,604 --> 00:31:10,164
+<font color="#ffff00"><b>Let my brother suffer a little.</b></font>
+
+469
+00:31:10,684 --> 00:31:12,564
+<font color="#ffff00"><b>Sometimes, being heartbroken
+is not a bad thing.</b></font>
+
+470
+00:31:14,844 --> 00:31:18,404
+<font color="#ffff00"><b>I wonder what Shancai and Lei</b></font>
+
+471
+00:31:18,804 --> 00:31:19,804
+<font color="#ffff00"><b>are doing right now.</b></font>
+
+472
+00:31:20,204 --> 00:31:21,884
+<font color="#ffff00"><b>They should be doing what they need to do.</b></font>
+
+473
+00:31:22,884 --> 00:31:23,724
+<font color="#ffff00"><b>Si.</b></font>
+
+474
+00:31:24,244 --> 00:31:26,124
+<font color="#ffff00"><b>What does Si have to do
+with what they're doing?</b></font>
+
+475
+00:31:26,764 --> 00:31:27,964
+<font color="#ffff00"><b>What?</b></font>
+
+476
+00:31:46,964 --> 00:31:49,204
+<font color="#ffff00"><b>Si, why are you home so late?</b></font>
+
+477
+00:31:49,924 --> 00:31:51,204
+<font color="#ffff00"><b>Si, are you tired?</b></font>
+
+478
+00:31:51,364 --> 00:31:52,724
+<font color="#ffff00"><b>Do you want to go get some rest?</b></font>
+
+479
+00:31:53,804 --> 00:31:55,044
+<font color="#ffff00"><b>What were you talking about?</b></font>
+
+480
+00:31:56,844 --> 00:31:58,684
+<font color="#ffff00"><b>We don't have to hide this from him.</b></font>
+
+481
+00:31:59,244 --> 00:32:00,604
+<font color="#ffff00"><b>We have to tell him eventually.</b></font>
+
+482
+00:32:05,844 --> 00:32:06,684
+<font color="#ffff00"><b>Si.</b></font>
+
+483
+00:32:07,484 --> 00:32:09,644
+<font color="#ffff00"><b>Shancai and Lei
+are in a bedroom right now.</b></font>
+
+484
+00:32:10,124 --> 00:32:13,644
+<font color="#ffff00"><b>If you're a real man,
+you should be happy for them.</b></font>
+
+485
+00:32:17,924 --> 00:32:19,604
+<font color="#ffff00"><b>Why does it smell like gunpowder?</b></font>
+
+486
+00:32:20,404 --> 00:32:22,284
+<font color="#ffff00"><b>I even hear the trigger for a bomb
+being engaged.</b></font>
+
+487
+00:32:25,244 --> 00:32:27,724
+<font color="#ffff00"><b>What do you think?
+Is there anything you want to say?</b></font>
+
+488
+00:32:39,764 --> 00:32:42,764
+<font color="#ffff00"><b>I never thought that Lei
+had his ways with women.</b></font>
+
+489
+00:32:46,684 --> 00:32:48,004
+<font color="#ffff00"><b>It's a good thing, isn't it?</b></font>
+
+490
+00:32:51,204 --> 00:32:52,324
+<font color="#ffff00"><b>That's great, Si.</b></font>
+
+491
+00:32:53,124 --> 00:32:55,124
+<font color="#ffff00"><b>-You're really over her.
+-Si.</b></font>
+
+492
+00:32:55,844 --> 00:32:57,164
+<font color="#ffff00"><b>You're doing great.</b></font>
+
+493
+00:32:57,244 --> 00:32:59,764
+<font color="#ffff00"><b>-You'll become a good man--
+-Shut it!</b></font>
+
+494
+00:33:02,404 --> 00:33:03,364
+<font color="#ffff00"><b>I'm starving.</b></font>
+
+495
+00:33:04,284 --> 00:33:05,284
+<font color="#ffff00"><b>Get me something to eat.</b></font>
+
+496
+00:33:15,204 --> 00:33:16,284
+<font color="#ffff00"><b><i>Lei.</i></b></font>
+
+497
+00:33:17,124 --> 00:33:19,044
+<font color="#ffff00"><b><i>Thank you for telling me those things
+last night.</i></b></font>
+
+498
+00:33:23,364 --> 00:33:24,324
+<font color="#ffff00"><b><i>Jing.</i></b></font>
+
+499
+00:33:25,044 --> 00:33:27,844
+<font color="#ffff00"><b><i>It's true, I still can't compare to you.</i></b></font>
+
+500
+00:33:30,284 --> 00:33:31,444
+<font color="#ffff00"><b><i>But it doesn't matter.</i></b></font>
+
+501
+00:33:32,604 --> 00:33:33,924
+<font color="#ffff00"><b><i>I'm Shancai, the weed.</i></b></font>
+
+502
+00:34:14,924 --> 00:34:17,004
+<font color="#ffff00"><b>Si, why are you up so early?</b></font>
+
+503
+00:34:20,324 --> 00:34:21,164
+<font color="#ffff00"><b>Ximen.</b></font>
+
+504
+00:34:22,844 --> 00:34:25,524
+<font color="#ffff00"><b>Do you remember when I took
+Lei's favorite toy?</b></font>
+
+505
+00:34:29,564 --> 00:34:30,484
+<font color="#ffff00"><b>When was that?</b></font>
+
+506
+00:34:33,844 --> 00:34:35,364
+<font color="#ffff00"><b>When we first entered grade school.</b></font>
+
+507
+00:34:36,044 --> 00:34:37,724
+<font color="#ffff00"><b><i>I liked that autographed Spiderman</i></b></font>
+
+508
+00:34:38,164 --> 00:34:39,524
+<font color="#ffff00"><b><i>with the serial number.</i></b></font>
+
+509
+00:34:40,444 --> 00:34:41,964
+<font color="#ffff00"><b><i>If I had asked my dad,</i></b></font>
+
+510
+00:34:42,204 --> 00:34:44,124
+<font color="#ffff00"><b><i>he would've gotten it for me from the U.S.</i></b></font>
+
+511
+00:34:44,884 --> 00:34:46,124
+<font color="#ffff00"><b><i>As many as I wanted.</i></b></font>
+
+512
+00:34:48,564 --> 00:34:49,604
+<font color="#ffff00"><b>What are you holding?</b></font>
+
+513
+00:34:50,244 --> 00:34:51,124
+<font color="#ffff00"><b>Let me see.</b></font>
+
+514
+00:34:51,844 --> 00:34:52,684
+<font color="#ffff00"><b>Give it to me.</b></font>
+
+515
+00:34:52,924 --> 00:34:54,764
+<font color="#ffff00"><b><i>The more he treasured it,
+the more I wanted it.</i></b></font>
+
+516
+00:34:55,844 --> 00:34:56,804
+<font color="#ffff00"><b><i>I know</i></b></font>
+
+517
+00:34:57,324 --> 00:34:58,804
+<font color="#ffff00"><b><i>that I made an unforgivable mistake.</i></b></font>
+
+518
+00:35:02,764 --> 00:35:04,964
+<font color="#ffff00"><b>You should've let go sooner!</b></font>
+
+519
+00:35:05,884 --> 00:35:07,124
+<font color="#ffff00"><b>It's all your fault.</b></font>
+
+520
+00:35:07,204 --> 00:35:08,364
+<font color="#ffff00"><b><i>But I just wouldn't admit it.</i></b></font>
+
+521
+00:35:11,084 --> 00:35:11,924
+<font color="#ffff00"><b><i>That night,</i></b></font>
+
+522
+00:35:13,444 --> 00:35:14,684
+<font color="#ffff00"><b><i>I couldn't sleep.</i></b></font>
+
+523
+00:35:17,644 --> 00:35:20,044
+<font color="#ffff00"><b><i>I thought that Lei would be mad
+at me the next morning.</i></b></font>
+
+524
+00:35:22,004 --> 00:35:23,644
+<font color="#ffff00"><b>So I planned to get you two</b></font>
+
+525
+00:35:24,964 --> 00:35:26,044
+<font color="#ffff00"><b>and bully him the next day.</b></font>
+
+526
+00:35:28,884 --> 00:35:30,244
+<font color="#ffff00"><b>That's when I realized</b></font>
+
+527
+00:35:31,564 --> 00:35:33,444
+<font color="#ffff00"><b>that I'd never be able to beat him.</b></font>
+
+528
+00:35:37,244 --> 00:35:38,884
+<font color="#ffff00"><b>Nobody ever mentioned it again.</b></font>
+
+529
+00:35:40,244 --> 00:35:42,324
+<font color="#ffff00"><b>Maybe Lei had also forgotten about it.</b></font>
+
+530
+00:35:46,124 --> 00:35:47,244
+<font color="#ffff00"><b>But I still feel</b></font>
+
+531
+00:35:48,204 --> 00:35:49,364
+<font color="#ffff00"><b>that I owe him somehow.</b></font>
+
+532
+00:35:54,804 --> 00:35:55,644
+<font color="#ffff00"><b>I think...</b></font>
+
+533
+00:35:58,764 --> 00:36:00,244
+<font color="#ffff00"><b>it's time to make it up to him.</b></font>
+
+534
+00:36:03,804 --> 00:36:05,964
+<font color="#ffff00"><b>Are you talking about Shancai?</b></font>
+
+535
+00:36:11,204 --> 00:36:12,524
+<font color="#ffff00"><b>I shouldn't torment her anymore.</b></font>
+
+536
+00:36:52,124 --> 00:36:53,124
+<font color="#ffff00"><b>Shancai, come here.</b></font>
+
+537
+00:36:53,484 --> 00:36:54,804
+<font color="#ffff00"><b>We have something to tell you.</b></font>
+
+538
+00:37:01,484 --> 00:37:02,324
+<font color="#ffff00"><b>Dad, Mom.</b></font>
+
+539
+00:37:02,644 --> 00:37:05,044
+<font color="#ffff00"><b>Sorry. I stayed over
+at my friend's place last night.</b></font>
+
+540
+00:37:05,124 --> 00:37:06,484
+<font color="#ffff00"><b>I wasn't able to tell you about it.</b></font>
+
+541
+00:37:08,084 --> 00:37:08,924
+<font color="#ffff00"><b>Shancai.</b></font>
+
+542
+00:37:09,204 --> 00:37:10,844
+<font color="#ffff00"><b>You can't live here anymore.</b></font>
+
+543
+00:37:13,084 --> 00:37:13,924
+<font color="#ffff00"><b>Why?</b></font>
+
+544
+00:37:15,564 --> 00:37:17,924
+<font color="#ffff00"><b>Your dad's moving into
+a different company housing.</b></font>
+
+545
+00:37:19,044 --> 00:37:20,004
+<font color="#ffff00"><b>Where?</b></font>
+
+546
+00:37:26,444 --> 00:37:28,684
+<font color="#ffff00"><b>"Great Earnings Investment
+Consulting Corporation."</b></font>
+
+547
+00:37:29,564 --> 00:37:30,844
+<font color="#ffff00"><b>Dad, really?</b></font>
+
+548
+00:37:31,404 --> 00:37:32,244
+<font color="#ffff00"><b>That's right.</b></font>
+
+549
+00:37:33,844 --> 00:37:35,844
+<font color="#ffff00"><b>I had an interview a few days ago.</b></font>
+
+550
+00:37:36,844 --> 00:37:39,524
+<font color="#ffff00"><b>The boss said that I have a lot
+of potential in investment.</b></font>
+
+551
+00:37:40,764 --> 00:37:43,244
+<font color="#ffff00"><b>Not only does this company
+guarantee bonuses,</b></font>
+
+552
+00:37:43,804 --> 00:37:45,084
+<font color="#ffff00"><b>the salaries are also guaranteed.</b></font>
+
+553
+00:37:45,884 --> 00:37:47,844
+<font color="#ffff00"><b>I'm going to be rich.</b></font>
+
+554
+00:37:48,684 --> 00:37:50,604
+<font color="#ffff00"><b>Do you know anything
+about investment consulting?</b></font>
+
+555
+00:37:51,204 --> 00:37:53,044
+<font color="#ffff00"><b>Right? I asked him the same thing.</b></font>
+
+556
+00:37:53,244 --> 00:37:56,324
+<font color="#ffff00"><b>But he said that the company
+has a complete "S" something.</b></font>
+
+557
+00:37:59,364 --> 00:38:00,284
+<font color="#ffff00"><b>Yes.</b></font>
+
+558
+00:38:02,084 --> 00:38:05,364
+<font color="#ffff00"><b>Just follow the SOP
+and you can get all the benefits</b></font>
+
+559
+00:38:05,644 --> 00:38:06,844
+<font color="#ffff00"><b>and earn a lot of money.</b></font>
+
+560
+00:38:07,404 --> 00:38:08,724
+<font color="#ffff00"><b>Is it that simple?</b></font>
+
+561
+00:38:08,804 --> 00:38:09,924
+<font color="#ffff00"><b>No problem.</b></font>
+
+562
+00:38:10,564 --> 00:38:12,524
+<font color="#ffff00"><b>I finally found a new career.</b></font>
+
+563
+00:38:14,684 --> 00:38:16,324
+<font color="#ffff00"><b>If you found a new career,</b></font>
+
+564
+00:38:16,804 --> 00:38:19,164
+<font color="#ffff00"><b>why do you two look so sad?</b></font>
+
+565
+00:38:19,564 --> 00:38:20,684
+<font color="#ffff00"><b>Because we have to move.</b></font>
+
+566
+00:38:21,244 --> 00:38:23,044
+<font color="#ffff00"><b>We lived in this house for over ten years.</b></font>
+
+567
+00:38:23,364 --> 00:38:25,524
+<font color="#ffff00"><b>Just thinking about it makes me sad.</b></font>
+
+568
+00:38:27,404 --> 00:38:28,364
+<font color="#ffff00"><b>Furthermore,</b></font>
+
+569
+00:38:28,444 --> 00:38:30,964
+<font color="#ffff00"><b>my money will be invested in that company,</b></font>
+
+570
+00:38:31,924 --> 00:38:32,804
+<font color="#ffff00"><b>so...</b></font>
+
+571
+00:38:33,724 --> 00:38:37,164
+<font color="#ffff00"><b>we'll be living in a place
+that is smaller.</b></font>
+
+572
+00:38:37,724 --> 00:38:39,444
+<font color="#ffff00"><b>Then the kitchen will surely be small.</b></font>
+
+573
+00:38:39,804 --> 00:38:42,404
+<font color="#ffff00"><b>It'll be inconvenient for me
+to cook from now on.</b></font>
+
+574
+00:38:44,724 --> 00:38:46,284
+<font color="#ffff00"><b>What worries me most is...</b></font>
+
+575
+00:38:49,484 --> 00:38:51,804
+<font color="#ffff00"><b>How do we pack all this stuff?</b></font>
+
+576
+00:38:53,484 --> 00:38:55,044
+<font color="#ffff00"><b>Just the souvenirs your mom and I bought</b></font>
+
+577
+00:38:55,124 --> 00:38:57,004
+<font color="#ffff00"><b>when we traveled together
+are already a lot.</b></font>
+
+578
+00:38:57,164 --> 00:38:58,604
+<font color="#ffff00"><b>-Just throw them away.
+-Throw them...</b></font>
+
+579
+00:38:59,404 --> 00:39:00,444
+<font color="#ffff00"><b>Throw them away?</b></font>
+
+580
+00:39:01,244 --> 00:39:03,044
+<font color="#ffff00"><b>Those are souvenirs of love.</b></font>
+
+581
+00:39:03,644 --> 00:39:04,484
+<font color="#ffff00"><b>Throw them...</b></font>
+
+582
+00:39:05,204 --> 00:39:07,204
+<font color="#ffff00"><b>Shancai, go and pack your things.</b></font>
+
+583
+00:39:07,284 --> 00:39:08,564
+<font color="#ffff00"><b>We're moving tomorrow.</b></font>
+
+584
+00:39:09,164 --> 00:39:11,244
+<font color="#ffff00"><b>All right.</b></font>
+
+585
+00:39:15,044 --> 00:39:16,164
+<font color="#ffff00"><b>What should we do?</b></font>
+
+586
+00:39:30,604 --> 00:39:31,564
+<font color="#ffff00"><b>Come inside.</b></font>
+
+587
+00:39:32,044 --> 00:39:32,884
+<font color="#ffff00"><b>We're here.</b></font>
+
+588
+00:39:33,124 --> 00:39:34,244
+<font color="#ffff00"><b>We're here.</b></font>
+
+589
+00:39:36,244 --> 00:39:37,084
+<font color="#ffff00"><b>Dear.</b></font>
+
+590
+00:39:37,524 --> 00:39:38,724
+<font color="#ffff00"><b>This place might not look nice</b></font>
+
+591
+00:39:38,844 --> 00:39:40,084
+<font color="#ffff00"><b>and it might not be big,</b></font>
+
+592
+00:39:40,284 --> 00:39:41,244
+<font color="#ffff00"><b>but dear,</b></font>
+
+593
+00:39:41,324 --> 00:39:43,044
+<font color="#ffff00"><b>with your taste and ideas,</b></font>
+
+594
+00:39:43,284 --> 00:39:46,844
+<font color="#ffff00"><b>I know you'll turn it into
+an intricate and practical place.</b></font>
+
+595
+00:39:47,684 --> 00:39:48,924
+<font color="#ffff00"><b>Leave it to me.</b></font>
+
+596
+00:39:49,004 --> 00:39:51,364
+<font color="#ffff00"><b>I'll buy our furniture from
+the second-hand store online.</b></font>
+
+597
+00:39:51,444 --> 00:39:52,804
+<font color="#ffff00"><b>It's economical and practical.</b></font>
+
+598
+00:39:53,164 --> 00:39:56,444
+<font color="#ffff00"><b>The most important thing is that
+we're closer to Shancai's school.</b></font>
+
+599
+00:39:56,844 --> 00:39:59,124
+<font color="#ffff00"><b>She can sleep half an hour more now.</b></font>
+
+600
+00:39:59,204 --> 00:40:00,164
+<font color="#ffff00"><b>Am I right?</b></font>
+
+601
+00:40:00,244 --> 00:40:01,844
+<font color="#ffff00"><b>-Yes.
+-Dear, you're so great.</b></font>
+
+602
+00:40:02,444 --> 00:40:03,884
+<font color="#ffff00"><b>You always think about our family.</b></font>
+
+603
+00:40:04,684 --> 00:40:05,524
+<font color="#ffff00"><b>Marrying you</b></font>
+
+604
+00:40:05,604 --> 00:40:07,364
+<font color="#ffff00"><b>was the biggest blessing in my life.</b></font>
+
+605
+00:40:08,004 --> 00:40:09,724
+<font color="#ffff00"><b>I'll do anything to make our family happy.</b></font>
+
+606
+00:40:10,444 --> 00:40:12,524
+<font color="#ffff00"><b>Dear, I'll also work hard</b></font>
+
+607
+00:40:12,604 --> 00:40:14,724
+<font color="#ffff00"><b>for you and our beloved daughter.</b></font>
+
+608
+00:40:15,164 --> 00:40:16,284
+<font color="#ffff00"><b>I believe in you.</b></font>
+
+609
+00:40:16,884 --> 00:40:19,244
+<font color="#ffff00"><b>-I'll also work hard.
+-Shancai.</b></font>
+
+610
+00:40:19,324 --> 00:40:20,964
+<font color="#ffff00"><b>You have to study hard.</b></font>
+
+611
+00:40:21,084 --> 00:40:23,684
+<font color="#ffff00"><b>-You're our family's hope.
+-Okay.</b></font>
+
+612
+00:40:23,764 --> 00:40:24,604
+<font color="#ffff00"><b>-Yes?
+-You can do it.</b></font>
+
+613
+00:40:24,684 --> 00:40:26,004
+<font color="#ffff00"><b>-You can do it.
+-I can do it.</b></font>
+
+614
+00:40:32,164 --> 00:40:34,204
+<font color="#ffff00"><b>Mom, I've already connected the water</b></font>
+
+615
+00:40:34,284 --> 00:40:35,324
+<font color="#ffff00"><b>-and electricity--
+-Hey.</b></font>
+
+616
+00:40:35,404 --> 00:40:36,484
+<font color="#ffff00"><b>Check them--</b></font>
+
+617
+00:40:39,324 --> 00:40:40,484
+<font color="#ffff00"><b>Why didn't you say something?</b></font>
+
+618
+00:40:40,564 --> 00:40:42,764
+<font color="#ffff00"><b>I called out to you.
+What were you thinking about?</b></font>
+
+619
+00:40:43,684 --> 00:40:44,524
+<font color="#ffff00"><b>Nothing.</b></font>
+
+620
+00:40:45,884 --> 00:40:47,524
+<font color="#ffff00"><b>You left these books at my house.</b></font>
+
+621
+00:40:48,524 --> 00:40:49,764
+<font color="#ffff00"><b>I completely forgot about them.</b></font>
+
+622
+00:40:50,444 --> 00:40:52,084
+<font color="#ffff00"><b>Bring your brain with you, will you?</b></font>
+
+623
+00:40:52,164 --> 00:40:53,844
+<font color="#ffff00"><b>You're always so absent-minded.</b></font>
+
+624
+00:40:55,324 --> 00:40:56,404
+<font color="#ffff00"><b>All right.</b></font>
+
+625
+00:41:02,124 --> 00:41:03,324
+<font color="#ffff00"><b>Did you forget something again?</b></font>
+
+626
+00:41:04,044 --> 00:41:05,244
+<font color="#ffff00"><b>What?</b></font>
+
+627
+00:41:05,324 --> 00:41:07,884
+<font color="#ffff00"><b>To say thank you.
+I brought it to you personally.</b></font>
+
+628
+00:41:09,884 --> 00:41:10,844
+<font color="#ffff00"><b>Thank you.</b></font>
+
+629
+00:41:16,884 --> 00:41:18,044
+<font color="#ffff00"><b><i>It's so strange.</i></b></font>
+
+630
+00:41:18,284 --> 00:41:20,644
+<font color="#ffff00"><b><i>Why is he suddenly acting so normal again?</i></b></font>
+
+631
+00:41:21,204 --> 00:41:23,444
+<font color="#ffff00"><b><i>Shouldn't he be ignoring me?</i></b></font>
+
+632
+00:41:33,644 --> 00:41:36,084
+<font color="#ffff00"><b>Frankie Restaurant is looking
+for a kitchen assistant.</b></font>
+
+633
+00:41:36,644 --> 00:41:37,484
+<font color="#ffff00"><b>The hours...</b></font>
+
+634
+00:41:37,684 --> 00:41:39,484
+<font color="#ffff00"><b>Six to ten at night.</b></font>
+
+635
+00:41:41,164 --> 00:41:42,124
+<font color="#ffff00"><b>Where is it?</b></font>
+
+636
+00:41:42,204 --> 00:41:43,444
+<font color="#ffff00"><b>It's near our school.</b></font>
+
+637
+00:41:44,404 --> 00:41:45,244
+<font color="#ffff00"><b>That's great.</b></font>
+
+638
+00:42:10,124 --> 00:42:11,084
+<font color="#ffff00"><b>Hi.</b></font>
+
+639
+00:42:11,364 --> 00:42:13,404
+<font color="#ffff00"><b>I'm here to apply for the kitchen
+assistant position.</b></font>
+
+640
+00:42:14,204 --> 00:42:15,524
+<font color="#ffff00"><b>The kitchen is that way.</b></font>
+
+641
+00:42:16,004 --> 00:42:17,084
+<font color="#ffff00"><b>Thank you.</b></font>
+
+642
+00:42:35,404 --> 00:42:36,444
+<font color="#ffff00"><b>Who are you?</b></font>
+
+643
+00:42:37,084 --> 00:42:39,604
+<font color="#ffff00"><b>Well, I'm here to apply
+for the kitchen assistant position.</b></font>
+
+644
+00:42:40,244 --> 00:42:41,084
+<font color="#ffff00"><b>Kitchen assistant?</b></font>
+
+645
+00:42:42,404 --> 00:42:44,564
+<font color="#ffff00"><b>We're short on staff right now.
+You can start right away.</b></font>
+
+646
+00:42:49,604 --> 00:42:50,844
+<font color="#ffff00"><b>Peel these potatoes.</b></font>
+
+647
+00:43:19,324 --> 00:43:20,524
+<font color="#ffff00"><b>Hey, Si.</b></font>
+
+648
+00:43:21,084 --> 00:43:22,684
+<font color="#ffff00"><b>I never thought you'd recover this fast.</b></font>
+
+649
+00:43:22,764 --> 00:43:24,484
+<font color="#ffff00"><b>You got over Shancai in just a few days.</b></font>
+
+650
+00:43:25,084 --> 00:43:26,084
+<font color="#ffff00"><b>Of course.</b></font>
+
+651
+00:43:26,284 --> 00:43:27,364
+<font color="#ffff00"><b>What was I thinking?</b></font>
+
+652
+00:43:28,444 --> 00:43:30,044
+<font color="#ffff00"><b>I'm completely over it now.</b></font>
+
+653
+00:43:30,244 --> 00:43:32,084
+<font color="#ffff00"><b>Who wants such a cheap girl?</b></font>
+
+654
+00:43:32,164 --> 00:43:35,764
+<font color="#ffff00"><b>If Lei likes her,
+I'll tie a bow on her and give her to him.</b></font>
+
+655
+00:43:40,484 --> 00:43:42,284
+<font color="#ffff00"><b>Speak of the devil.</b></font>
+
+656
+00:43:43,124 --> 00:43:44,244
+<font color="#ffff00"><b>Who told him to come here?</b></font>
+
+657
+00:43:52,684 --> 00:43:54,244
+<font color="#ffff00"><b>Why are you suddenly shooting pool?</b></font>
+
+658
+00:43:54,324 --> 00:43:55,164
+<font color="#ffff00"><b>It's been a while.</b></font>
+
+659
+00:43:56,964 --> 00:43:58,324
+<font color="#ffff00"><b>It's all because of Si.</b></font>
+
+660
+00:43:58,924 --> 00:44:01,164
+<font color="#ffff00"><b>I'm not sure what he's thinking.
+He told us to come.</b></font>
+
+661
+00:44:02,364 --> 00:44:03,484
+<font color="#ffff00"><b>-Hey.
+-Si.</b></font>
+
+662
+00:44:03,724 --> 00:44:05,564
+<font color="#ffff00"><b>Didn't you say
+you're completely over it now?</b></font>
+
+663
+00:44:09,924 --> 00:44:11,324
+<font color="#ffff00"><b>Why are you leaving after I arrived?</b></font>
+
+664
+00:44:12,724 --> 00:44:13,964
+<font color="#ffff00"><b>I'm still mad.</b></font>
+
+665
+00:44:14,564 --> 00:44:15,764
+<font color="#ffff00"><b>Si, where are you going?</b></font>
+
+666
+00:44:16,004 --> 00:44:17,924
+<font color="#ffff00"><b>Don't mind him. He's always been that way.</b></font>
+
+667
+00:44:18,004 --> 00:44:19,484
+<font color="#ffff00"><b>Lei, how did it go last night?</b></font>
+
+668
+00:44:20,204 --> 00:44:21,084
+<font color="#ffff00"><b>What do you mean?</b></font>
+
+669
+00:44:21,644 --> 00:44:23,204
+<font color="#ffff00"><b>Don't play dumb. You and Shancai.</b></font>
+
+670
+00:44:24,964 --> 00:44:26,564
+<font color="#ffff00"><b>You two were alone in the room together.</b></font>
+
+671
+00:44:27,244 --> 00:44:28,284
+<font color="#ffff00"><b>Did something happen?</b></font>
+
+672
+00:44:33,284 --> 00:44:35,444
+<font color="#ffff00"><b>Aren't we going to shoot pool? Come on.</b></font>
+
+673
+00:44:36,124 --> 00:44:38,084
+<font color="#ffff00"><b>Hey, why aren't you answering?</b></font>
+
+674
+00:44:38,164 --> 00:44:39,324
+<font color="#ffff00"><b>There's nothing to hide.</b></font>
+
+675
+00:44:41,404 --> 00:44:42,844
+<font color="#ffff00"><b>Shancai is a nice girl.</b></font>
+
+676
+00:44:44,004 --> 00:44:46,604
+<font color="#ffff00"><b>I admit. I almost fell for her.</b></font>
+
+677
+00:44:48,164 --> 00:44:50,124
+<font color="#ffff00"><b>But how do I say this?</b></font>
+
+678
+00:44:51,484 --> 00:44:52,964
+<font color="#ffff00"><b>I won't do anything to her.</b></font>
+
+679
+00:44:55,364 --> 00:44:56,284
+<font color="#ffff00"><b>Why?</b></font>
+
+680
+00:44:56,884 --> 00:44:59,284
+<font color="#ffff00"><b>Because I won't betray Si.</b></font>
+
+681
+00:45:00,044 --> 00:45:01,604
+<font color="#ffff00"><b>He's a good friend that we grew up with.</b></font>
+
+682
+00:45:02,724 --> 00:45:03,564
+<font color="#ffff00"><b>I see.</b></font>
+
+683
+00:45:04,924 --> 00:45:07,724
+<font color="#ffff00"><b>If Si learns how to treasure
+the person he likes</b></font>
+
+684
+00:45:08,204 --> 00:45:11,244
+<font color="#ffff00"><b>and realizes that he can't
+get everything he wants,</b></font>
+
+685
+00:45:11,404 --> 00:45:14,164
+<font color="#ffff00"><b>then everything that happened
+will have been worth it.</b></font>
+
+686
+00:45:15,764 --> 00:45:16,804
+<font color="#ffff00"><b>Until then,</b></font>
+
+687
+00:45:17,364 --> 00:45:19,004
+<font color="#ffff00"><b>I'll keep my distance from Shancai.</b></font>
+
+688
+00:45:20,524 --> 00:45:24,044
+<font color="#ffff00"><b>He would be so happy to hear that.</b></font>
+
+689
+00:45:25,564 --> 00:45:27,004
+<font color="#ffff00"><b>I don't plan to tell him.</b></font>
+
+690
+00:45:28,204 --> 00:45:29,124
+<font color="#ffff00"><b>-Why not?
+-Why not?</b></font>
+
+691
+00:45:30,564 --> 00:45:33,284
+<font color="#ffff00"><b>Because Si did something terrible
+to me before.</b></font>
+
+692
+00:45:40,745 --> 00:45:44,714
+Subtitles by Netflix
+
+693
+00:45:44,816 --> 00:45:48,576
+Translated by Coleen Chua
+
+694
+00:45:48,783 --> 00:45:51,529
+Ripped and synced by
+gabbyu @ Subscene
+
