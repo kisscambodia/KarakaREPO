@@ -1,0 +1,2317 @@
+1
+00:00:06,080 --> 00:00:08,780
+♫ Karakter yang tidak dicari siapapun ♫
+
+2
+00:00:08,780 --> 00:00:16,080
+♫ Siapa yang kau puja, siapa yang kau benci? ♫
+
+3
+00:00:17,280 --> 00:00:20,080
+♫ Kesedihan setelah hasrat tipuan ♫
+
+4
+00:00:20,080 --> 00:00:22,880
+♫ Berpura-pura menjadi belenggu kebebasan ♫
+
+5
+00:00:22,880 --> 00:00:28,480
+♫ Menjadi apa dirimu pada akhirnya? ♫
+
+6
+00:00:28,480 --> 00:00:31,380
+♫ Asap dan api yang menyalakan pesona ♫
+
+7
+00:00:31,380 --> 00:00:38,980
+♫ Satu ledakan sudah cukup, apa lagi yang dicari? ♫
+
+8
+00:00:41,280 --> 00:00:44,480
+♫ Orang tak bernama, siapakah aku? ♫
+
+9
+00:00:44,480 --> 00:00:47,180
+♫ Siapa yang terlupakan? Tidak penting lagi ♫
+
+10
+00:00:47,180 --> 00:00:52,580
+♫ Siapa yang tidak berusaha keras dan berjalan hingga akhir kehidupan? ♫
+
+11
+00:00:52,580 --> 00:00:55,380
+♫ Mungkin sangat melelahkan, dengan keadaan yang sangat menyedihkan ♫
+
+12
+00:00:55,380 --> 00:00:58,580
+♫ Rendahan tanpa ada yang bisa ditunjukkan ♫
+
+13
+00:00:58,580 --> 00:01:03,880
+♫ Mungkin aku tak akan bisa menjadi pancaranmu ♫
+
+14
+00:01:03,880 --> 00:01:06,980
+♫ Orang tak bernama, siapakah aku? ♫
+
+15
+00:01:06,980 --> 00:01:09,880
+♫ Siapa yang terlupakan? Tidak penting lagi ♫
+
+16
+00:01:09,880 --> 00:01:15,180
+♫ Terus mengejar, kejayaan yang mana yang tidak berdampingan dengan air mata? ♫
+
+17
+00:01:15,180 --> 00:01:17,980
+♫ Mungkin sangat melelahkan, dengan keadaan yang sangat menyedihkan ♫
+
+18
+00:01:17,980 --> 00:01:20,980
+♫ Rendahan tanpa ada yang bisa ditunjukkan ♫
+
+19
+00:01:20,980 --> 00:01:30,680
+♫ Siapa yang tidak dilahirkan dengan sama, jangan ragu untuk memanggilku orang tak bernama ♫
+
+20
+00:01:30,680 --> 00:01:35,880
+[Semangat, Cumi-cumi!]
+
+21
+00:01:35,880 --> 00:01:38,880
+[Episode 1]
+
+22
+00:01:38,880 --> 00:01:43,180
+[Sektor internet Cina telah mencapai garis terdepan. Diperhatikan oleh dunia. Turnamen Keamanan Siber (Cybersecurity Tournamen) memberikan kesempatan pada para ahli untuk mengasah kemampuan mereka. Yang paling terkenal adalah CTF (Catch The Flag).]
+
+23
+00:01:43,180 --> 00:01:47,080
+[Hal ini berdasarkan model penyelesaian masalah, maupun model serangan dan pertahanan. Kompetitor akan menarget perimeter keamanan server, mencari celah kerentanan pertahanan, dan berkompetisi dengan banyak permasalahan keamanan.]
+
+24
+00:01:47,080 --> 00:01:50,380
+[Keamanan siber menjadi sangat penting, Turnamen Keamanan Siber juga merupakan jalur untuk menemukan talenta baru di bidangnya. Ini juga merupakan perwujudan dari strategi pembangunan negara secara online.]
+
+25
+00:01:50,380 --> 00:01:51,880
+[Turnamen Keamanan Siber, Kompetisi Singapura]
+
+26
+00:01:51,880 --> 00:01:53,380
+[Kapten Tim K&K: Wu Bai, Posisi: Penyerang Utama, Kemampuan: Analisis Oposisi, Pemeriksaan Kerentanan, Membaca Algoritma]
+- Tim SP yang pertama menyerang server tim lawan.
+
+27
+00:01:53,380 --> 00:01:55,310
+[Anggota Tim K&K: Dai Feng, Posisi: Penyerang Kedua, Kemampuan: Pemanfaatan Kerentanan, Penerapan Penyerangan, Penyabot Server]
+- Tim SP yang pertama menyerang server tim lawan.
+
+28
+00:01:55,310 --> 00:01:56,580
+[Anggota Tim K&K: Ling Shan, Posisi: Pertahanan Utama, Kemampuan: Penguatan Keamanan, Operasi Sistem, Struktur Server, Flow]
+- Tim SP yang pertama menyerang server tim lawan.
+
+29
+00:01:56,580 --> 00:01:58,680
+Di awal permainan, Tim SP memilih untuk mengirim virus ke server tim lawan.
+
+30
+00:01:58,680 --> 00:01:59,680
+[Anggota Tim K&K: Zhou Yi, Posisi: Pertahanan Sisi, Kemampuan: Pemanfaatan Kerentanan, Penambahan Pengembang, Pemblokir Kerentanan]
+ - Di awal permainan, Tim SP memilih untuk mengirim virus ke server tim lawan.
+
+31
+00:01:59,680 --> 00:02:00,380
+[Anggota Tim K&K: Shen Zhe, Posisi: Koordinator Strategi, Kemampuan: Perebutan Flow Data, Analisis Jejak, Perebutan Flow Data Lawan]
+- Di awal permainan, Tim SP memilih untuk mengirim virus ke server tim lawan.
+
+32
+00:02:00,380 --> 00:02:03,280
+K&K bertahan dari gelombang serangan ini, memperbaiki kerentanan, dan menambah keamanan!
+
+33
+00:02:03,280 --> 00:02:06,080
+Ya ampun! SP sudah menemukan kerentanan pertahanan K&K sekali lagi,
+
+34
+00:02:06,080 --> 00:02:08,480
+melumpuhkan server K&K.
+
+35
+00:02:08,480 --> 00:02:10,380
+Ketua Tim, ayo menyerah. Basis kita sudah kalah.
+
+36
+00:02:10,380 --> 00:02:12,980
+Diam, 97! Apa kau yang mengajari Ketua Tim?
+
+37
+00:02:12,980 --> 00:02:16,580
+Grunt, apa yang kau katakan dengan membingungkan ini?
+[Han Shangyan: Bos K&K]
+
+38
+00:02:16,580 --> 00:02:22,680
+Selamat untuk Tim SP yang telah memenangkan tur CTF Kompetisi SIngapura tahun ini!
+
+39
+00:02:22,680 --> 00:02:26,280
+- Ya, meskipun K&K adalah tim yang baru terbentuk,
+- Ya.
+
+40
+00:02:26,280 --> 00:02:30,380
+Aku tidak menduga mereka akan kalah dalam kompetisi ini dengan Master Gun sebagai bos mereka.
+
+41
+00:02:30,380 --> 00:02:34,180
+Sekarang, di sebelah sini adalah orang yang bertanggung jawab akan Distrik Cina, dikenal sebagai Solo.
+
+42
+00:02:34,180 --> 00:02:38,380
+Aku yakin semua orang masih mengingat Solo, pencipta dari 10 tahun yang lalu.
+
+43
+00:02:38,380 --> 00:02:41,380
+- Solo adalah pemimpin legendaris di hati semua orang.
+
+44
+00:02:41,380 --> 00:02:44,680
+Akhir-akhir ini, dia mengundang banyak penyerang legendaris dari kompetisi Keamanan Siber sebelumnya.
+
+45
+00:02:44,680 --> 00:02:47,080
+Lao Han.
+
+46
+00:02:47,080 --> 00:02:49,180
+Gaya kompetisi mereka juga cukup stabil.
+
+47
+00:02:49,180 --> 00:02:52,080
+Kerja sama antar anggota tim berjalan mulus dan mereka saling memahami.
+
+48
+00:02:52,080 --> 00:02:55,980
+Tampaknya kita bisa melihat dari mereka, bayangan dari Tim Solo saat itu.
+
+49
+00:02:55,980 --> 00:02:57,680
+Solo memang benar-benar Solo.
+
+50
+00:02:57,680 --> 00:03:01,580
+Hari ini, SP, di bawah kepemimpinannya, menunjukkan gayanya dari beberapa tahun yang lalu.
+
+51
+00:03:01,580 --> 00:03:05,480
+Sekali lagi kami mengucapkan selamat untuk Tim SP yang telah memenangkan kompetisi tahun ini!
+
+52
+00:03:05,480 --> 00:03:07,780
+Aku yakin mulai dari sekarang,
+
+53
+00:03:07,780 --> 00:03:12,180
+CTF di Cina akan menjadi teritori SP dan K&K!
+
+54
+00:03:12,180 --> 00:03:14,710
+[Tim SP]
+
+55
+00:03:14,710 --> 00:03:17,880
+SP! SP! SP!
+
+56
+00:03:17,880 --> 00:03:20,180
+[Appledog]
+[Manajer Tim SP]
+
+57
+00:03:25,780 --> 00:03:27,560
+[Wu Bai]
+[Kapten Tim K&K]
+
+58
+00:03:33,580 --> 00:03:35,680
+SP!
+
+59
+00:03:46,880 --> 00:03:49,680
+♫ Diantara cahaya kota dini hari> ♫
+
+60
+00:03:49,680 --> 00:03:52,480
+♫ Selalu ada kemegahan yang jatuh ♫
+
+61
+00:03:52,480 --> 00:03:55,880
+♫ Peniru satu demi satu ♫
+
+62
+00:03:55,880 --> 00:03:58,280
+Demo, ada apa denganmu hari ini?
+
+63
+00:03:58,280 --> 00:04:01,880
+Aku menyuruhmu menyebarkan virus. Kenapa kau tidak melakukannya?
+
+64
+00:04:01,880 --> 00:04:03,280
+97 menyuruhku untuk menunggu sebentar.
+
+65
+00:04:03,280 --> 00:04:06,580
+Apa yang salah? Servernya bahkan belum diatur. Bagaimana mungkin kita menyebarkan virus?
+
+66
+00:04:06,580 --> 00:04:08,480
+Apa maksudmu apa yang salah?
+
+67
+00:04:08,480 --> 00:04:09,780
+Lalu kau!
+
+68
+00:04:09,780 --> 00:04:12,580
+Kau pertahanan sisi. Bagaimana kau bertahan?
+
+69
+00:04:12,580 --> 00:04:16,380
+Kau pergi mengikuti jalanmu, sendirian. Kau merusak strategi semua orang.
+
+70
+00:04:16,380 --> 00:04:20,080
+Diam! Apa salahku?
+
+71
+00:04:20,080 --> 00:04:23,080
+Grunt, aku tidak ingin bicara tentangmu hari ini. Kau bermain terlalu agresif hari ini.
+
+72
+00:04:23,080 --> 00:04:25,580
+- Kau bermain terlalu agresif dan menimbulkan banyak sekali celah. 
+- Bagaimana bisa aku agresif?
+
+73
+00:04:25,580 --> 00:04:27,180
+Kau mau bicara tentang celah?! Bukankah menutup celah adalah tugasmu!
+
+74
+00:04:27,180 --> 00:04:30,380
+Kau seharusnya belajar dari Wu Bai, apa artinya menjadi master yang sebenarnya. Kau hanyalah Raja Mulut Terkuat.
+
+75
+00:04:30,380 --> 00:04:34,280
+Tentu saja, dia kaptennya. Tentu saja, dia master yang sebenarnya. Kalian bertiga cupu!
+
+76
+00:04:37,280 --> 00:04:40,180
+- Aku cupu? Bagaimana bisa aku cupu?!
+- Cukup!
+
+77
+00:04:48,220 --> 00:04:50,670
+Kalian kalah dan kalian berdebat di sini!
+
+78
+00:04:53,980 --> 00:04:56,580
+Jangan berpikir bahwa mendapatkan posisi kedua artinya tugas terpenuhi!
+
+79
+00:04:56,580 --> 00:04:58,880
+Dalam sebuah kompetisi, hanya ada dua peringkat!
+
+80
+00:04:58,880 --> 00:05:01,480
+Pemenang dan sampah!
+
+81
+00:05:01,480 --> 00:05:03,380
+Mengerti?
+
+82
+00:05:06,480 --> 00:05:08,380
+- Bos, kau mau ke mana?
+- Kami tahu kami salah!
+
+83
+00:05:08,380 --> 00:05:10,480
+- Bos, apa kau baik-baik saja?
+- Jangan pergi, Bos!
+
+84
+00:05:10,480 --> 00:05:13,080
+- Bos! 
+- Bos! 
+- Bos!
+
+85
+00:05:18,220 --> 00:05:25,040
+[Pertandingan E-Sports K&K]
+
+86
+00:05:25,980 --> 00:05:27,680
+[NetEase Musik]
+
+87
+00:05:33,780 --> 00:05:36,080
+Pria ini adalah Han Shangyan.
+
+88
+00:05:36,080 --> 00:05:39,280
+Investor dan Bos Klub K&K.
+
+89
+00:05:39,280 --> 00:05:41,580
+Tim memanggilnya "Bos".
+
+90
+00:05:41,580 --> 00:05:46,880
+Sekitar dua hari yang lalu, klubnya baru saja kalah dalam sebuah kompetisi CTF.
+
+91
+00:05:46,880 --> 00:05:50,480
+Saat ini, dia masih belum tahu siapa aku.
+
+92
+00:05:50,480 --> 00:05:52,780
+Namaku Tong Nian.
+
+93
+00:05:52,780 --> 00:05:55,980
+Aku mahasiswa pascasarjana tahun kedua jurusan ilmu komputer. 
+
+94
+00:05:55,980 --> 00:05:59,880
+Kebetulan, jurusanku juga terkait dengan keamanan siber.
+
+95
+00:05:59,880 --> 00:06:01,980
+Seperti takdir.
+
+96
+00:06:01,980 --> 00:06:05,640
+Dia dan aku akan saling bertemu.
+
+97
+00:06:05,640 --> 00:06:08,730
+♫ Mengejar dalam badai dan kabut, aku tidak bisa membedakan bayangan ♫
+
+98
+00:06:08,730 --> 00:06:13,490
+♫ Kau dan aku di langit yang luas ♫
+
+99
+00:06:22,680 --> 00:06:25,580
+Halo, aku ingin tahu apakah masih ada stroberi.
+
+100
+00:06:25,580 --> 00:06:28,580
+Oh, tidak ada lagi.
+
+101
+00:06:28,580 --> 00:06:31,080
+Permisi, apakah ada model amplop merah yang lain?
+
+102
+00:06:31,080 --> 00:06:33,480
+Semuanya ada di sana.
+
+103
+00:07:04,180 --> 00:07:09,580
+Siapa sangka, takdir akan berubah dalam sesaat.
+
+104
+00:07:12,280 --> 00:07:14,580
+Jika hari itu dia tidak berbalik arah,
+
+105
+00:07:14,580 --> 00:07:18,680
+mungkin... hasilnya tidak akan begini.
+
+106
+00:07:42,580 --> 00:07:44,280
+Menginap.
+
+107
+00:08:02,000 --> 00:08:03,680
+Menginap.
+
+108
+00:08:04,280 --> 00:08:08,180
+Tolong berikan kartu identitasmu sebentar.
+
+109
+00:08:14,080 --> 00:08:15,480
+Terima kasih.
+
+110
+00:08:25,580 --> 00:08:31,780
+Peraturan menginap di sini dimulai dari pukul 11 malam hingga pukul 6 besok pagi.
+
+111
+00:08:31,780 --> 00:08:34,480
+Kami biasanya tutup sekitar pukul 7.
+
+112
+00:08:34,480 --> 00:08:38,080
+Tak apa jika kau ingin pergi pada pukul 7.
+
+113
+00:08:38,080 --> 00:08:40,860
+Han Shangyan?
+
+114
+00:08:40,860 --> 00:08:44,880
+Di malam hari, kami punya mi instan. Kalau kau lapar, kau bisa beri tahu aku.
+
+115
+00:08:44,880 --> 00:08:47,880
+Aku bisa memasak mi instan untukmu setiap saat.
+
+116
+00:08:51,280 --> 00:08:52,880
+Kartu identitas.
+
+117
+00:08:53,780 --> 00:08:55,480
+Kukembalikan padamu.
+
+118
+00:09:17,780 --> 00:09:19,680
+Apa yang kau lihat?
+
+119
+00:09:47,320 --> 00:09:56,590
+Alih bahasa dipersembahkan oleh Padepokan Anak Negeri @Viki.com
+
+120
+00:10:11,680 --> 00:10:13,580
+Apa yang kau lakukan?
+
+121
+00:10:13,580 --> 00:10:17,480
+Aku pernah melihat orang menyelundupkan makanan tapi tidak pernah yang sepertimu begini.
+
+122
+00:10:17,480 --> 00:10:19,380
+Ada cokelat di laciku.
+
+123
+00:10:19,380 --> 00:10:20,980
+Di mana?
+
+124
+00:10:22,380 --> 00:10:23,780
+Kau seharusnya mengeluarkannya lebih awal.
+
+125
+00:10:23,780 --> 00:10:27,780
+Aku memintamu menjaga kafe internetku; kau malah mencuri makanan.
+
+126
+00:10:31,780 --> 00:10:33,680
+Terlihat jelek sekali.
+
+127
+00:10:36,480 --> 00:10:38,680
+Kalau kau lapar, kau bisa makan punyaku saja.
+
+128
+00:10:38,680 --> 00:10:40,880
+Diamlah, makan makananmu.
+
+129
+00:11:03,600 --> 00:11:05,300
+Halo.
+
+130
+00:11:07,580 --> 00:11:08,780
+Halo.
+
+131
+00:11:08,780 --> 00:11:11,680
+Ini paket camilan tengah malam warnet kami.
+
+132
+00:11:14,590 --> 00:11:16,490
+Apa kau membuat ini?
+
+133
+00:11:21,710 --> 00:11:23,520
+Baunya enak.
+
+134
+00:11:25,000 --> 00:11:27,820
+Kau imut sekali.
+
+135
+00:11:28,400 --> 00:11:29,790
+Terima kasih.
+
+136
+00:11:29,790 --> 00:11:33,260
+Bolehkah aku tahu namamu?
+
+137
+00:11:33,260 --> 00:11:35,750
+Aku Tong Nian.
+
+138
+00:11:36,800 --> 00:11:40,840
+Kalau begitu... bisakah aku berteman denganmu?
+
+139
+00:11:50,950 --> 00:11:52,760
+Halo.
+
+140
+00:11:59,330 --> 00:12:01,220
+Halo?
+
+141
+00:12:06,460 --> 00:12:08,230
+Halo.
+
+142
+00:12:11,490 --> 00:12:15,070
+Ini paket camilan tengah malam warnet kami.
+
+143
+00:12:16,640 --> 00:12:19,250
+Berapa harganya?
+
+144
+00:12:19,250 --> 00:12:20,760
+Paket ini gr–
+
+145
+00:12:20,760 --> 00:12:22,840
+40! 
+(¥40 ≈ Rp 80.000,-)
+
+146
+00:12:25,710 --> 00:12:28,050
+Ha-harga paketnya 30. 
+(¥30 ≈ Rp 60.000,-)
+
+147
+00:12:28,050 --> 00:12:32,030
+- 30 apa? Gratis, oke?
+- Tidak.
+
+148
+00:12:32,030 --> 00:12:33,970
+- Ya.
+- Tidak.
+
+149
+00:12:34,880 --> 00:12:36,460
+Cukup, cukup.
+
+150
+00:12:36,460 --> 00:12:39,110
+Kalau begitu, bisakah aku minta jus?
+
+151
+00:12:39,110 --> 00:12:41,580
+- Tak masalah.
+- Terima kasih.
+
+152
+00:12:52,890 --> 00:12:54,750
+Jusmu.
+
+153
+00:13:02,350 --> 00:13:04,280
+Pasti kau meminta lebih.
+
+154
+00:13:04,280 --> 00:13:06,450
+Aku harus menghitungnya dengan hati-hati.
+
+155
+00:13:06,450 --> 00:13:08,440
+Aku hanya takut kau akan tertipu.
+
+156
+00:13:08,440 --> 00:13:11,110
+Jadi aku cek saja apakah dia paman yang miskin.
+
+157
+00:13:11,110 --> 00:13:12,850
+Keluargaku menjalankan warnet.
+
+158
+00:13:12,850 --> 00:13:17,090
+Untuk pria yang memesan paket menginap, aku sangat mengerti hal ini.
+
+159
+00:13:17,090 --> 00:13:20,430
+Kebanyakan, hidup cenderung mengecewakan.
+
+160
+00:13:20,430 --> 00:13:23,950
+Paling tidak, penampilan paman ini terlihat baik.
+
+161
+00:13:26,350 --> 00:13:28,840
+Hanya sedikit lebih baik.
+
+162
+00:13:29,510 --> 00:13:33,030
+Jangan mengabaikanku, Yang Mulia Cumi-cumi.
+
+163
+00:13:33,030 --> 00:13:36,950
+Cumi-cumi kecil. Kak...!
+(Catatan: Mereka adalah sepupu, dalam budaya Asia, mereka memanggil satu sama lain dengan Kakak.)
+
+164
+00:13:36,950 --> 00:13:39,750
+Oke, oke. Aku akan membantumu. Apakah cukup?
+
+165
+00:13:39,750 --> 00:13:44,110
+- Bagaimana kau akan membantuku?
+- Memberi dia gratis menginap selama seminggu?
+
+166
+00:13:44,110 --> 00:13:47,260
+Katakan saja dia menang undian.
+
+167
+00:13:47,260 --> 00:13:49,130
+Menginap selama seminggu?
+
+168
+00:13:49,130 --> 00:13:51,020
+Tidak, tidak.
+
+169
+00:13:51,020 --> 00:13:53,130
+Bagaimana kalau kita memberinya gratis semuanya selama satu minggu?
+
+170
+00:13:53,130 --> 00:13:57,370
+Jadi kalau dia ingin datang, dia bisa datang.
+
+171
+00:13:57,370 --> 00:14:00,160
+- Ide yang bagus. Pergilah.
+- Aku harus pergi lagi?
+
+172
+00:14:00,160 --> 00:14:01,430
+Tentu saja, kau yang pergi.
+
+173
+00:14:01,430 --> 00:14:04,710
+Pergi dan beri tahu dia, ada undian di warnet kita hari ini.
+
+174
+00:14:04,710 --> 00:14:09,390
+Tapi dia harus menggunakan WeChat untuk memindai kode QR kita untuk dapat hadiahnya.
+
+175
+00:14:09,390 --> 00:14:12,260
+Kafe internet ini... tidak punya ID WeChat publik. 
+(WeChat adalah aplikasi layanan pesan instan, sosial media dan pembayaran di Cina)
+
+176
+00:14:12,260 --> 00:14:14,380
+Kau punya warnet tapi kau tidak punya akun WeChat publik?
+
+177
+00:14:14,380 --> 00:14:19,480
+Bukan benar-benar milikku. Aku hanya ada di sini untuk menjaga kafenya dan menerima pembayarannya.
+
+178
+00:14:28,130 --> 00:14:32,000
+"Warnet Takdir Malam Ini"
+
+179
+00:14:33,360 --> 00:14:35,780
+Gunakan milikku. Ambillah.
+
+180
+00:14:50,110 --> 00:14:51,970
+Biar aku bicara sebentar.
+
+181
+00:14:54,020 --> 00:14:57,140
+Ada promo di kafe internet kami: Undian Natal.
+
+182
+00:14:57,140 --> 00:15:00,890
+Kau memenangkan hadiah besar. Gratis selama seminggu. Semuanya gratis!
+
+183
+00:15:00,890 --> 00:15:02,780
+Tidak, terima kasih.
+
+184
+00:15:02,780 --> 00:15:07,180
+Ini kesempatan langka. Gratis akses internet selama seminggu. Gratis.
+
+185
+00:15:11,480 --> 00:15:12,900
+Kak.
+
+186
+00:15:16,770 --> 00:15:20,460
+Warnet ini sungguh tidak punya kembalian untukmu.
+
+187
+00:15:20,460 --> 00:15:24,440
+Apakah ada metode pembayaran lainnya?
+
+188
+00:15:24,440 --> 00:15:25,850
+Simpan saja kembaliannya.
+
+189
+00:15:25,850 --> 00:15:29,610
+Aku tidak bisa melakukannya. Ibuku berkata seseorang harus jujur dalam menjalankan bisnis.
+
+190
+00:15:29,610 --> 00:15:31,700
+Aku harus memberikan kembalianmu.
+
+191
+00:15:33,780 --> 00:15:36,310
+Kalau begitu gunakan WeChat Pay saja.
+
+192
+00:15:36,310 --> 00:15:37,820
+Maaf.
+
+193
+00:15:37,820 --> 00:15:41,820
+WeChat Pay kami tiba-tiba error.
+
+194
+00:15:45,480 --> 00:15:47,340
+Kalau begitu bagaimana aku membayarnya?
+
+195
+00:15:47,340 --> 00:15:48,940
+Transfer saja.
+
+196
+00:15:48,940 --> 00:15:53,010
+Tapi aku perlu berteman denganmu di WeChat.
+
+197
+00:15:55,800 --> 00:15:58,250
+Akan kutambahkan sebagai teman.
+
+198
+00:16:02,150 --> 00:16:04,520
+Oh, ya, Kak! Jangan lupa.
+
+199
+00:16:04,520 --> 00:16:08,220
+Satu minggu internet gratis. Semuanya gratis, Kak!
+
+200
+00:16:11,490 --> 00:16:14,510
+Ini WeChat-nya. Aku dapat untukmu.
+
+201
+00:16:14,510 --> 00:16:16,200
+Ayo, ayo!
+
+202
+00:16:18,120 --> 00:16:20,280
+- Ayo kita lihat.
+- GN ini adalah dia.
+
+203
+00:16:20,280 --> 00:16:24,380
+- Biar kulihat.
+- Cepat lihat Moments-nya. Lihat apa yang dia lakukan.
+
+204
+00:16:24,380 --> 00:16:26,160
+[Pertandingan E-Sports K&K]
+
+205
+00:16:27,640 --> 00:16:31,040
+Selain membagikan info keamanan siber, tidak ada hal lain.
+
+206
+00:16:31,040 --> 00:16:33,370
+Apa kau mengerti ini?
+
+207
+00:16:33,370 --> 00:16:35,860
+Lupakan saja. Buang-buang tenaga bertanya padamu. Kau tidak paham komputer.
+
+208
+00:16:35,860 --> 00:16:39,820
+Benar, benar, benar! Aku yang paling bodoh! Memangnya kenapa?
+
+209
+00:16:39,820 --> 00:16:42,890
+Sebaiknya aku bertanya pada orang yang tahu besok.
+
+210
+00:16:48,140 --> 00:16:57,070
+Alih bahasa dipersembahkan oleh Padepokan Anak Negeri @Viki.com
+
+211
+00:17:11,000 --> 00:17:12,510
+Tagihannya, tolong.
+
+212
+00:17:20,320 --> 00:17:25,430
+Bukankah kau memesan untuk semalaman? Ini baru... pukul 2 pagi.
+
+213
+00:17:26,300 --> 00:17:28,110
+Ini pukul 2 pagi.
+
+214
+00:17:28,960 --> 00:17:31,000
+Bukankah sudah larut?
+
+215
+00:17:31,000 --> 00:17:35,260
+Untuk yang di bawah umur, memang sudah larut.
+
+216
+00:17:35,260 --> 00:17:39,850
+Mereka tidak seharusnya ada di sekitar sini. Tapi kau sudah dewasa, jadi...
+
+217
+00:17:49,950 --> 00:17:51,900
+Tolong tunggu.
+
+218
+00:17:54,450 --> 00:17:57,870
+Apa yang harus kukatakan padanya?
+
+219
+00:18:00,760 --> 00:18:03,830
+Terima kasih sudah datang ke kafe internet kami.
+
+220
+00:18:05,420 --> 00:18:09,080
+Dan selamat karena sudah memenangkan hadiah utama.
+
+221
+00:18:09,080 --> 00:18:11,310
+Kami mengharapkan kehadiranmu selanjutnya.
+
+222
+00:18:11,310 --> 00:18:12,750
+Selanjutnya?
+
+223
+00:18:16,510 --> 00:18:18,960
+Apa kau ada di sini setiap malam?
+
+224
+00:18:24,280 --> 00:18:28,700
+Tidak, aku sedang libur kuliah, jadi aku membantu saudaraku untuk menjaga kafenya.
+
+225
+00:18:28,700 --> 00:18:31,510
+Aku tidak di sini setiap malam.
+
+226
+00:18:32,900 --> 00:18:36,730
+Jangan salah paham. Aku tidak punya maksud lain.
+
+227
+00:18:36,730 --> 00:18:41,560
+Aku hanya berpikir bahwa tidak aman untuk seorang gadis kecil ada di warnet.
+
+228
+00:19:02,420 --> 00:19:04,040
+Kak. Kak!
+
+229
+00:19:04,040 --> 00:19:06,660
+- Apa?
+- Ini.
+
+230
+00:19:07,820 --> 00:19:09,350
+Cepat pergilah.
+
+231
+00:19:09,350 --> 00:19:12,430
+[Warnet Takdir Malam Ini]
+
+232
+00:19:30,980 --> 00:19:32,820
+Han Shangyan!
+
+233
+00:19:39,180 --> 00:19:41,940
+Kau meninggalkan kartu identitasmu di kafe.
+
+234
+00:19:47,450 --> 00:19:48,740
+Terima kasih.
+
+235
+00:19:48,740 --> 00:19:50,740
+Sama-sama.
+
+236
+00:19:50,740 --> 00:19:53,500
+Lain kali, kalau kau ingin memesan lebih awal,
+
+237
+00:19:53,500 --> 00:19:57,410
+kau bisa mengirimkan pesan langsung ke Kafe Takdir Malam Ini.
+
+238
+00:20:01,950 --> 00:20:03,490
+Sampai jumpa.
+
+239
+00:20:39,900 --> 00:20:42,670
+Betapapun besar mimpi,
+
+240
+00:20:42,670 --> 00:20:45,860
+harga yang sama perlu dibayarkan.
+
+241
+00:20:47,050 --> 00:20:49,590
+Aku kembali,
+
+242
+00:20:49,590 --> 00:20:52,910
+mendirikan Tim K&K di Cina.
+
+243
+00:20:52,910 --> 00:20:55,820
+Aku ingin membantu anak-anak muda itu.
+
+244
+00:20:55,820 --> 00:20:58,550
+Mereka punya talenta yang hebat.
+
+245
+00:20:58,550 --> 00:21:01,900
+Mereka punya mimpi untuk membantu Cina memenangkan kejuaraannya.
+
+246
+00:21:02,710 --> 00:21:09,320
+Orang tua mereka memberikan bagian yang penting dari hidup anak mereka padaku.
+
+247
+00:21:09,320 --> 00:21:12,920
+Itu seperti pembayaran untuk masa depan mereka.
+
+248
+00:21:13,490 --> 00:21:16,540
+Menghadapi tanggung jawab sebesar itu,
+
+249
+00:21:16,540 --> 00:21:20,580
+bagaimana aku bisa melatih anak-anak muda itu dengan lebih keras?
+
+250
+00:21:22,910 --> 00:21:24,000
+[Cahaya]
+
+251
+00:21:24,000 --> 00:21:27,250
+Saat cinta semakin dalam, tanggung jawab menjadi lebih besar.
+
+252
+00:21:27,250 --> 00:21:30,800
+Tapi mereka hanyalah anak muda berusia dua puluh tahunan.
+
+253
+00:21:30,800 --> 00:21:33,720
+Kepribadian mereka belum terbentuk, masih fokus untuk bermain.
+
+254
+00:21:33,720 --> 00:21:35,980
+Kadang pikirannya tersebar dan ceroboh.
+
+255
+00:21:35,980 --> 00:21:40,170
+Kalau begini, kapan mereka bisa menyadari mimpi mereka.
+
+256
+00:21:42,300 --> 00:21:45,170
+Sekelompok anak muda K&K ini,
+
+257
+00:21:45,170 --> 00:21:48,590
+apa kalian tahu tanggung jawab yang bertumpu pada pundakku?
+
+258
+00:21:48,590 --> 00:21:51,430
+Lebih dari yang bisa kalian bayangkan.
+
+259
+00:21:52,370 --> 00:21:56,090
+Tapi... percayalah padaku.
+
+260
+00:21:57,030 --> 00:21:59,610
+Aku harus bisa.
+
+261
+00:23:34,180 --> 00:23:37,180
+Apa kalian... melihat Bos kemarin malam?
+
+262
+00:23:37,180 --> 00:23:38,770
+- Aku tidak melihatnya.
+- Tidak.
+
+263
+00:23:38,770 --> 00:23:40,740
+Tidak ada yang melihatnya?
+
+264
+00:23:40,740 --> 00:23:43,280
+Dia kembali atau tidak?
+
+265
+00:23:43,280 --> 00:23:44,570
+Sulit dikatakan.
+
+266
+00:23:44,570 --> 00:23:49,790
+Pria dewasa menghabiskan waktunya semalaman di luar dan tidak pulang. Hal seperti ini, jangan bertanya secara langsung.
+
+267
+00:23:49,790 --> 00:23:52,250
+- Kalau begitu...
+- Kalau begitu, pergilah!
+
+268
+00:23:52,250 --> 00:23:54,370
+Pergi. Cepat.
+
+269
+00:23:54,370 --> 00:23:56,620
+Pergi!
+
+270
+00:24:02,480 --> 00:24:04,540
+Kau saja!
+
+271
+00:24:04,540 --> 00:24:06,270
+Tidak, kau saja. Dengarkan aku.
+
+272
+00:24:06,270 --> 00:24:09,540
+Kau masih muda. Bos tidak akan marah padamu. Kau saja, sungguh.
+
+273
+00:24:09,540 --> 00:24:12,910
+Tapi aku yang selalu diteriaki setiap kali?
+
+274
+00:24:22,990 --> 00:24:24,460
+Huh.
+
+275
+00:24:27,750 --> 00:24:30,150
+Bos, kau pergi ke mana kemarin malam?
+
+276
+00:24:30,150 --> 00:24:31,610
+Apa kau membutuhkanku?
+
+277
+00:24:31,610 --> 00:24:34,220
+Tidak, hanya ingin bertanya saja.
+
+278
+00:24:34,220 --> 00:24:36,220
+Apa suasana hatimu membaik?
+
+279
+00:24:36,220 --> 00:24:38,450
+Bagaimana kalau tidak?
+
+280
+00:24:43,470 --> 00:24:45,590
+Bicaralah, kalau ada yang ingin kau katakan.
+
+281
+00:24:46,860 --> 00:24:49,640
+Bukan seperti aku akan memakanmu.
+
+282
+00:24:49,640 --> 00:24:53,760
+Sungguh bukan apa-apa! Aku hanya mengkhawatirkanmu.
+
+283
+00:24:53,760 --> 00:24:56,350
+Aku tidak butuh perhatianmu.
+
+284
+00:25:02,750 --> 00:25:05,010
+Anggota VIP yang terhormat, halo!
+
+285
+00:25:05,010 --> 00:25:07,030
+Diramalkan akan hujan.
+
+286
+00:25:07,030 --> 00:25:09,650
+Kalau pergi ke luar, bawa payungmu!
+
+287
+00:25:09,650 --> 00:25:11,230
+"Kafe Takdir Malam Ini."
+
+288
+00:25:11,230 --> 00:25:13,450
+Bos...
+
+289
+00:25:13,450 --> 00:25:16,800
+- Kau menggunakan WeChat!
+- Tidak buruk!
+
+290
+00:25:19,000 --> 00:25:20,300
+Apa yang kalian lakukan?
+
+291
+00:25:20,300 --> 00:25:22,470
+Cuci muka kalau perlu! Gosok gigi kalau perlu!
+
+292
+00:25:22,470 --> 00:25:24,330
+Mobilnya menunggu kalian di bawah!
+
+293
+00:25:24,330 --> 00:25:26,740
+Berapa lama lagi mereka harus menunggu kalian?
+
+294
+00:25:30,180 --> 00:25:33,350
+Kalau kau ingin memesan warnet untuk malam ini, kau bisa memesan lebih awal.
+
+295
+00:25:33,350 --> 00:25:36,300
+Akan kusimpankan tempat untukmu.
+
+296
+00:25:44,150 --> 00:25:46,550
+Bagaimana? Apa dia membalasnya?
+
+297
+00:25:48,210 --> 00:25:50,300
+Bukankah kau mengirimkan banyak pesan untuknya?
+
+298
+00:25:50,300 --> 00:25:52,450
+Dia tidak membalas pesannya satupun.
+
+299
+00:26:00,580 --> 00:26:03,190
+[Tim K&K]
+
+300
+00:26:04,790 --> 00:26:07,170
+Turun dari bus!
+
+301
+00:26:07,170 --> 00:26:10,460
+Turun dari bus.
+
+302
+00:26:10,460 --> 00:26:13,170
+Wah, hujan deras sekali.
+
+303
+00:26:13,960 --> 00:26:17,290
+- Apa yang kita lakukan?
+- Bagaimana mungkin aku tahu?
+
+304
+00:26:19,330 --> 00:26:21,560
+Wah, apa yang kita lakukan?
+
+305
+00:26:21,560 --> 00:26:24,940
+Bos, apa yang kita lakukan saat hujan deras begini?
+
+306
+00:26:24,940 --> 00:26:28,850
+Bos, apakah kita di sini untuk piknik atau melihat bunga?
+
+307
+00:26:28,850 --> 00:26:31,090
+Tapi... hujan.
+
+308
+00:26:31,090 --> 00:26:34,290
+Bukankah hujan cukup menyenangkan? Kita bisa melihat-lihat bunga. Romantis sekali!
+
+309
+00:26:34,290 --> 00:26:36,780
+Siapa yang meliihat-lihat bunga saat hujan?
+
+310
+00:26:36,780 --> 00:26:38,810
+Piknik apa? Bunga apa?
+
+311
+00:26:38,810 --> 00:26:40,780
+Apa kalian lupa lari 5K harian? 
+(Jarak 5 km)
+
+312
+00:26:40,780 --> 00:26:44,690
+- Tapi hujan.
+- Karena hujan, ayo kita lupakan saja, Bos.
+
+313
+00:26:44,690 --> 00:26:48,360
+- Ketua Tim, katakan sesuatu pada Bos. 
+- Tidak usah lari.
+- Bagaimana bisa kita lari?
+
+314
+00:26:48,360 --> 00:26:50,010
+Sungguh!
+
+315
+00:26:54,750 --> 00:26:56,440
+Lari kemana?
+
+316
+00:26:56,440 --> 00:26:57,790
+- Ketua Tim!
+- Ketua Tim!
+
+317
+00:26:57,790 --> 00:27:00,310
+Tidak!
+
+318
+00:27:02,300 --> 00:27:06,170
+Satu, dua, tiga! Satu, dua, tiga!
+
+319
+00:27:06,170 --> 00:27:08,330
+Lebih cepat!
+
+320
+00:27:08,330 --> 00:27:10,090
+Terus lari!
+
+321
+00:27:17,200 --> 00:27:19,440
+Aku tidak bisa lari lagi.
+
+322
+00:27:19,440 --> 00:27:21,970
+Tiga puluh kali lagi! Jangan malas!
+
+323
+00:27:21,970 --> 00:27:26,510
+Lari lambat sekali! Apa kalian menunggu makan siang sampai pukul 3 sore?
+
+324
+00:27:26,510 --> 00:27:28,210
+Lebih cepat!
+
+325
+00:27:32,120 --> 00:27:36,900
+Satu, dua, tiga! Tiga orang pertama akan dibebaskan dari hukuman!
+
+326
+00:27:36,900 --> 00:27:39,740
+- Aku tidak bisa lagi, Bos!
+- Apa yang kalian lakukan?
+
+327
+00:27:39,740 --> 00:27:41,210
+Peringkat keempat?
+
+328
+00:27:41,210 --> 00:27:43,460
+Kurangi satu hari liburan Tahun Baru Cina!
+
+329
+00:27:43,460 --> 00:27:46,230
+Tidak!
+
+330
+00:27:46,230 --> 00:27:50,130
+Cepat, kalau tidak dia akan mengurangi dua hari! Ayo lari!
+
+331
+00:27:50,130 --> 00:27:52,880
+Bos, itu Tahun Baru Cina kami!
+
+332
+00:27:52,880 --> 00:27:54,780
+Ayo pergi, ayo, ayo.
+
+333
+00:28:06,230 --> 00:28:08,750
+Kafe Takdir Malam Ini punya promo baru, untuk merayakan perayaan pernikahan pemilik,
+
+334
+00:28:08,750 --> 00:28:11,540
+mulai hari ini, kalau kau membalas "Bersama dengan bahagia selamanya selama seratus tahun",
+
+335
+00:28:11,540 --> 00:28:14,790
+kau akan dapat hadiah!
+
+336
+00:28:26,370 --> 00:28:30,410
+- Aku tidak sanggup.
+- Bos...
+
+337
+00:28:30,410 --> 00:28:32,630
+Bangun! Bangun!
+
+338
+00:28:32,630 --> 00:28:35,300
+Kelihatannya hukuman lebih efektif dibandingkan hadiah!
+
+339
+00:28:35,300 --> 00:28:38,560
+Bos, dengan hukumanmu, siapa yang tidak akan menggunakan seluruh kemampuan mereka?
+
+340
+00:28:38,560 --> 00:28:42,290
+- Libur Tahun Baru Cina kami!
+- Ada apa dengan libur Tahun Baru Cina kalian?
+
+341
+00:28:42,290 --> 00:28:44,840
+Berapa tahun lagi kalian pikir kalian bisa terus aktif dalam kompetisi?
+
+342
+00:28:44,840 --> 00:28:46,380
+Seorang pemain CTF,
+
+343
+00:28:46,380 --> 00:28:49,850
+umur optimalnya hanya bertahan selama 6 tahun.
+
+344
+00:28:49,850 --> 00:28:53,440
+Tahun-tahun ini adalah saat kalian ada di kondisi prima.
+
+345
+00:28:53,440 --> 00:28:55,790
+Setelah masa ini terlewati,
+
+346
+00:28:55,790 --> 00:28:59,250
+bahkan meskipun kalian tidak ingin merasakan makan malam Tahun Baru dan ingin terus berlatih,
+
+347
+00:28:59,250 --> 00:29:02,060
+lihat saja apa ada orang yang akan melatih kalian.
+
+348
+00:29:03,510 --> 00:29:07,530
+Mulai kemarin sampai sekarang, kalian cukup senang!
+
+349
+00:29:07,530 --> 00:29:10,250
+Apa kalian lupa sudah kalah?
+
+350
+00:29:10,250 --> 00:29:13,300
+Bos, kita mendapatkan peringkat ke-2 kan.
+
+351
+00:29:13,300 --> 00:29:16,000
+Lagipula, kalah pada SP tidak memalukan.
+
+352
+00:29:16,000 --> 00:29:18,220
+Ketua tim mereka selama bertahun-tahun...
+
+353
+00:29:18,220 --> 00:29:21,660
+Bos, Demo masih muda, dia bicara omong kosong. Jangan dianggap serius. Bicara apa kau?
+
+354
+00:29:21,660 --> 00:29:24,960
+Kalah pada SP tidak memalukan?
+
+355
+00:29:24,960 --> 00:29:29,250
+Salah! Yang paling memalukan adalah kalah pada SP!
+
+356
+00:29:29,250 --> 00:29:31,820
+Kau saja yang tidak ingin kalah pada Solo, kan?
+
+357
+00:29:31,820 --> 00:29:35,870
+- Apa kau gila? Bicara apa kau?
+- Apa? Apa aku salah?
+
+358
+00:29:35,870 --> 00:29:38,630
+Bos, dia bicara omong kosong.
+
+359
+00:29:38,630 --> 00:29:43,560
+Biar kuberi tahu. Dalam kamusku, tidak ada kata "kalah".
+
+360
+00:29:43,560 --> 00:29:45,420
+Mengerti?
+
+361
+00:29:49,290 --> 00:29:53,100
+Aku bertanya pada kalian. Kalian semua berpendidikan.
+
+362
+00:29:53,100 --> 00:29:56,740
+Setelah bertahun-tahun, apa kalian masih ingat peringkat pertama di kelas kalian?
+
+363
+00:29:56,740 --> 00:29:59,980
+Aku ingat. Aku ingat dengan sangat jelas. Wali kelas memujinya setiap hari.
+
+364
+00:29:59,980 --> 00:30:02,350
+Lalu, siapa yang ingat peringkat kedua?
+
+365
+00:30:09,240 --> 00:30:13,510
+Untuk sesuatu seperti CTF, sebaiknya kalian tidak ikut.
+(Catatan: CTF - Capture The Flag (base), kompetisi antara dua sisi)
+
+366
+00:30:13,510 --> 00:30:17,260
+Kalau kalian ikut, maka kalian harus menunjukkan hasilnya! Kalian dengar?
+
+367
+00:30:17,260 --> 00:30:18,480
+Mengerti...
+
+368
+00:30:18,480 --> 00:30:22,000
+- Lebih keras lagi!
+- Kami mengerti, Bos!
+
+369
+00:30:24,060 --> 00:30:25,760
+Makanlah.
+
+370
+00:30:26,300 --> 00:30:28,550
+Bukankah aku mengatakan yang sebenarnya?
+
+371
+00:30:31,940 --> 00:30:41,810
+Alih bahasa dipersembahkan oleh Padepokan Anak Negeri @Viki.com
+
+372
+00:30:51,850 --> 00:30:55,160
+Xiao Bai, kemari sebentar.
+
+373
+00:31:06,470 --> 00:31:09,220
+Dengan kau yang begini, mereka merasa tertekan.
+
+374
+00:31:09,220 --> 00:31:12,860
+Kalau mereka tidak bisa menangani tekanan seperti ini, bagaimana bisa mereka bertanding secara profesional?
+
+375
+00:31:12,860 --> 00:31:15,180
+Konyol sekali!
+
+376
+00:31:15,180 --> 00:31:17,670
+Tolong aku... ambil uang.
+
+377
+00:31:17,670 --> 00:31:20,430
+Kata sandinya 214214.
+
+378
+00:31:21,210 --> 00:31:22,270
+Berapa banyak?
+
+379
+00:31:22,270 --> 00:31:24,770
+Putuskan sendiri. Hadiah Tahun Baru.
+(Catatan: Hadiah Tahun Baru tradisional berisi uang)
+
+380
+00:31:24,770 --> 00:31:27,250
+Bukankah kau sudah membagikan bonus akhir tahun?
+
+381
+00:31:27,250 --> 00:31:29,060
+Itu hal yang berbeda.
+
+382
+00:31:29,060 --> 00:31:33,220
+Bonus akhir tahun itu keharusan. Uang tahun baru ini hanya sedikit hadiah dariku.
+
+383
+00:31:33,220 --> 00:31:36,710
+Kalau begitu... ¥500 per orang?
+(sekitar Rp 1.000.000,-)
+
+384
+00:31:38,970 --> 00:31:42,520
+Buat jadi ¥5.000 (sekitar Rp 10.000.000,-). Biar semuanya merayakan Tahun Baru dengan bahagia.
+
+385
+00:31:43,060 --> 00:31:47,230
+Sebagai sepupumu, aku juga dapat, kan?
+
+386
+00:31:47,230 --> 00:31:51,020
+Kau juga. Berdasarkan jumlah orangnya, ambil saja bagianmu.
+
+387
+00:31:51,020 --> 00:31:52,800
+Oh ya.
+
+388
+00:31:53,460 --> 00:31:56,080
+Apa kau tahu bagaimana cara memblokir seseorang di WeChat?
+
+389
+00:31:57,590 --> 00:32:01,270
+"Warnet Takdir Malam Ini"?
+
+390
+00:32:02,780 --> 00:32:04,770
+Apa kau ikut kencan buta?
+
+391
+00:32:05,470 --> 00:32:07,170
+Ini kafe internet.
+
+392
+00:32:07,170 --> 00:32:10,650
+- Mereka memaksa menjual makanan padaku dan bahkan menambahkan WeChat-ku.
+- Kalau begitu blok atau hapus saja mereka.
+
+393
+00:32:10,650 --> 00:32:12,910
+Sangat mudah. Biar kubantu.
+
+394
+00:32:12,910 --> 00:32:15,800
+Lupakan saja. Merepotkan sekali. Biarkan saja.
+
+395
+00:32:16,520 --> 00:32:18,850
+Kau, belikan mereka makanan.
+
+396
+00:32:18,850 --> 00:32:21,680
+Kalau tidak cukup, tambahkan saja.
+
+397
+00:32:21,680 --> 00:32:24,110
+Aku akan pergi ke luar kota.
+
+398
+00:32:24,110 --> 00:32:27,130
+Mengerti. Berapa hari?
+
+399
+00:32:27,130 --> 00:32:28,610
+Dua hari.
+
+400
+00:32:35,040 --> 00:32:36,930
+Bos pergi?
+
+401
+00:32:42,170 --> 00:32:44,740
+Kenapa Bos pergi?
+
+402
+00:32:44,740 --> 00:32:47,750
+- Dia pergi ke luar kota.
+- Ke luar kota untuk apa?
+
+403
+00:32:48,380 --> 00:32:50,690
+Tidak seorangpun tahu apa yang dia ingin lakukan.
+
+404
+00:32:50,690 --> 00:32:53,410
+Kalau begitu... apa itu artinya... kita bisa makan?
+
+405
+00:32:53,410 --> 00:32:55,820
+Benar. Aku lapar.
+
+406
+00:32:58,660 --> 00:33:00,050
+Aku kelaparan!
+
+407
+00:33:00,050 --> 00:33:02,060
+Aku menunggu lama sekali!
+
+408
+00:33:21,150 --> 00:33:23,240
+Kau menyebalkan sekali. Menakutiku saja.
+
+409
+00:33:23,240 --> 00:33:26,820
+Kenapa kau selalu di sini sendiri, melihat ponselmu dengan tatapan kosong?
+
+410
+00:33:26,820 --> 00:33:30,070
+Hampir Libur Musim Dingin dan kau bersikap aneh begini...
+
+411
+00:33:30,070 --> 00:33:32,700
+Apa kau merencanakan jalan-jalan rahasia?
+
+412
+00:33:32,700 --> 00:33:34,290
+Tidak, tidak.
+
+413
+00:33:34,290 --> 00:33:37,380
+Kau tahu sepupuku membuka warnet, kan? Tidak ada yang menjaganya sekarang.
+
+414
+00:33:37,380 --> 00:33:41,900
+Kapanpun aku punya waktu luang selama Libur Musim Dingin, aku akan membantunya. Aku tidak punya waktu jalan-jalan sama sekali.
+
+415
+00:33:41,900 --> 00:33:47,780
+Biar kuberi tahu. Kau tidak boleh hanya terus memikirkan belajar dan meneliti setiap hari.
+
+416
+00:33:47,780 --> 00:33:50,020
+Libur Musim Dingin sudah tiba, dan kau masih membantu orang lain menjaga warnet?
+
+417
+00:33:50,020 --> 00:33:54,120
+Lihatlah. Siapa yang kehidupannya membosankan seperti itu?
+
+418
+00:33:54,120 --> 00:33:58,510
+Kau seharusnya memulai petualangan romantis.
+
+419
+00:34:00,860 --> 00:34:04,660
+Yaya, bagaimana rasanya saat kau menyukai seseorang?
+
+420
+00:34:06,730 --> 00:34:08,360
+Apa kau sudah punya seseorang yang kau sukai?
+
+421
+00:34:08,360 --> 00:34:10,600
+Kau bicara apa? Tidak.
+
+422
+00:34:10,600 --> 00:34:12,880
+Kau— Beraninya kau.
+
+423
+00:34:18,290 --> 00:34:20,270
+Kau suka Zheng Hui? Itu Zheng Hui!
+
+424
+00:34:20,270 --> 00:34:22,950
+Omong kosong apa yang kau katakan? Dia seniorku.
+
+425
+00:34:22,950 --> 00:34:26,210
+Senior Zheng Hui adalah orang yang sangat jujur. Jangan membuat lelucon seperti itu.
+
+426
+00:34:26,210 --> 00:34:28,030
+Dia datang, dia datang.
+
+427
+00:34:30,430 --> 00:34:31,790
+Ini untukmu.
+
+428
+00:34:31,790 --> 00:34:33,230
+- Terima kasih.
+- Terima kasih.
+
+429
+00:34:33,230 --> 00:34:36,450
+Minumlah segelas jus setiap hari untuk memenuhi asupan vitamin C.
+
+430
+00:34:39,990 --> 00:34:41,910
+Yaya,
+
+431
+00:34:41,910 --> 00:34:44,820
+ada sesuatu yang ingin kukatakan padamu saja.
+
+432
+00:34:44,820 --> 00:34:47,910
+- Bolehkah?
+- Aku?
+
+433
+00:34:47,910 --> 00:34:50,690
+Bukan Nian Nian?
+
+434
+00:34:52,400 --> 00:34:54,060
+Kau.
+
+435
+00:34:56,470 --> 00:34:58,290
+Sebentar saja. Sebentar saja.
+
+436
+00:34:58,290 --> 00:34:59,430
+Oke.
+
+437
+00:34:59,430 --> 00:35:02,610
+Sebentar saja. Pergilah. Sebentar saja.
+
+438
+00:35:02,610 --> 00:35:06,360
+Tong Nian, aku akan kembali untuk menemuimu nanti.
+
+439
+00:35:06,360 --> 00:35:07,960
+Oke.
+
+440
+00:35:08,620 --> 00:35:10,430
+Kau harus menungguku!
+
+441
+00:35:18,250 --> 00:35:20,940
+[Universitas Shanghai Jiaodong]
+
+442
+00:35:20,940 --> 00:35:23,760
+Yaya, kemarilah. Yaya.
+
+443
+00:35:25,960 --> 00:35:30,110
+Aku ingin memberitahumu bahwa...
+
+444
+00:35:33,950 --> 00:35:37,120
+Yaya, aku selalu berpikir kau adalah orang yang baik.
+
+445
+00:35:37,120 --> 00:35:39,500
+Kita sudah mengenal satu sama lain sejak lama.
+
+446
+00:35:39,500 --> 00:35:44,030
+Kau sangat cantik dan nilaimu bagus, kan?
+
+447
+00:35:44,030 --> 00:35:45,570
+Ya.
+
+448
+00:35:46,540 --> 00:35:50,440
+Tong Nian... Dia juga orang yang sangat baik.
+
+449
+00:35:50,440 --> 00:35:52,670
+Nilainya juga bagus.
+
+450
+00:35:52,670 --> 00:35:55,900
+Kurasa dia juga sangat cantik.
+
+451
+00:35:55,900 --> 00:35:57,740
+Jadi, aku...
+
+452
+00:35:58,340 --> 00:35:59,320
+Kau...
+
+453
+00:35:59,320 --> 00:36:02,040
+Jadi aku... Aku ingin...
+
+454
+00:36:02,040 --> 00:36:03,530
+Kau ingin...?
+
+455
+00:36:03,530 --> 00:36:05,360
+Aku ingin... Aku—
+
+456
+00:36:06,080 --> 00:36:07,620
+Kau...
+
+457
+00:36:09,530 --> 00:36:13,780
+Aku tahu sekarang! Kau suka Nian Nian. Begitu kan?
+
+458
+00:36:14,290 --> 00:36:16,170
+Aku seharusnya tahu sejak awal!
+
+459
+00:36:16,170 --> 00:36:19,430
+Satu gelas jus setiap hari. Jadi begini.
+
+460
+00:36:19,430 --> 00:36:22,890
+Senior, kau sudah menyimpannya cukup lama.
+
+461
+00:36:22,890 --> 00:36:25,680
+Ya, aku menyimpannya cukup lama.
+
+462
+00:36:25,680 --> 00:36:28,550
+T-Tidak... Aku hanya berpikir bahwa Nian Nian sungguh luar biasa.
+
+463
+00:36:28,550 --> 00:36:31,160
+Aku takut dia akan menolakku. Aku tidak ada pilihan lain, jadi aku—
+
+464
+00:36:31,160 --> 00:36:35,020
+Kau tidak perlu khawatir. Kau juga luar biasa. Kalian berdua mahasiswa top.
+
+465
+00:36:35,020 --> 00:36:38,390
+Mahasiswa top ditambah mahasiswa top adalah 100%.
+
+466
+00:36:38,390 --> 00:36:42,460
+Karena aku juga mendapatkan jus setiap pagi, aku pasti akan membantumu.
+
+467
+00:36:42,460 --> 00:36:44,530
+Sungguh?
+
+468
+00:36:44,530 --> 00:36:48,100
+- Kalau begitu... kau harus membantuku. Terima kasih!
+- Sama-sama.
+
+469
+00:36:48,100 --> 00:36:50,050
+- Terima kasih!
+- Tak masalah!
+- Terima kasih!
+
+470
+00:36:50,050 --> 00:36:51,580
+- Senior, senior. Kau terlalu sopan.
+- Terima kasih, Yaya.
+
+471
+00:36:51,580 --> 00:36:54,190
+- Sungguh kau tidak perlu begitu.
+- Sungguh, terima kasih banyak.
+
+472
+00:36:59,670 --> 00:37:04,230
+[Toko Swalayan]
+
+473
+00:37:19,910 --> 00:37:25,090
+Apapun yang ingin kau beli, ambil saja sendiri. Bayar seperti yang tertera dan letakkan uangnya di meja.
+
+474
+00:37:25,090 --> 00:37:27,700
+Kalau kau butuh kembalian, ambil saja dari kotaknya.
+
+475
+00:37:27,700 --> 00:37:31,530
+Kami tidak menerima Alipay atau Apple Pay.
+
+476
+00:37:34,050 --> 00:37:37,520
+Berapa banyak harga untuk membelimu?
+
+477
+00:37:37,520 --> 00:37:40,220
+[Mi Shaofei]
+
+478
+00:37:52,250 --> 00:37:54,160
+Han Shangyan.
+
+479
+00:37:58,670 --> 00:38:01,750
+♫ Hari ini, aku melihat salju beterbangan di malam yang dingin ♫
+
+480
+00:38:01,750 --> 00:38:05,110
+♫ Dengan hati yang beku, aku terbawa ke tempat yang jauh ♫
+
+481
+00:38:05,110 --> 00:38:06,900
+Kupikir kau tidak akan kembali.
+
+482
+00:38:06,900 --> 00:38:08,900
+Bagaimana mungkin?
+
+483
+00:38:08,900 --> 00:38:10,980
+Aku kembali untuk menemukanmu.
+
+484
+00:38:13,010 --> 00:38:17,530
+Aku... Kupikir aku tidak akan pernah melihatmu lagi.
+
+485
+00:38:19,410 --> 00:38:23,590
+- Kenapa kau seperti gadis kecil? Masih menangis? 
+- Keluarlah!
+
+486
+00:38:25,990 --> 00:38:29,630
+Apa kau tinggal di sini hari ini? Ayo minum.
+
+487
+00:38:29,630 --> 00:38:30,880
+Kau tidak menjaga tokonya lagi?
+
+488
+00:38:30,880 --> 00:38:34,170
+Bos tidak buka hari ini. Ayo!
+
+489
+00:38:34,170 --> 00:38:38,480
+Aku masih harus pergi untuk melihat kompetisi. Aku hanya bisa sehari di sini.
+
+490
+00:38:39,810 --> 00:38:44,720
+Lao Han yang jenius sudah kembali.
+
+491
+00:38:44,720 --> 00:38:47,330
+Di mana kompetisinya? Aku pasti akan pergi dan mendukungmu.
+
+492
+00:38:47,330 --> 00:38:51,680
+Kukatakan padamu, kau tidak seharusnya berhenti.
+
+493
+00:38:51,680 --> 00:38:54,710
+Aku sudah berusia tiga puluh. Bagaimana mungkin aku masih bermain?
+
+494
+00:38:54,710 --> 00:38:58,210
+Dengarkan aku. Kau dilahirkan untuk CTF.
+
+495
+00:38:58,210 --> 00:39:02,190
+Setiap kali kau ikut dalam perlombaan, selalu kau pemenangnya.
+
+496
+00:39:05,650 --> 00:39:08,180
+Tidak usah bicara tentang aku. Aku bicara tentangmu.
+
+497
+00:39:11,000 --> 00:39:13,920
+Kenapa denganku?
+
+498
+00:39:14,950 --> 00:39:16,680
+Duduklah.
+
+499
+00:39:16,680 --> 00:39:18,530
+Bicara perlahan.
+
+500
+00:39:23,990 --> 00:39:27,660
+Lima tahun yang lalu, aku mendirikan sebuah klub CTF.
+
+501
+00:39:27,660 --> 00:39:31,650
+Kantor pusatnya di Norwegia. Setelah beberapa tahun, kami mendapatkan hasil yang lumayan.
+
+502
+00:39:31,650 --> 00:39:36,770
+Jadi, aku kembali dengan uang investasi untuk mendirikan cabang Cina.
+
+503
+00:39:36,770 --> 00:39:40,760
+Meskipun tidak besar, hasil kami cukup bagus.
+
+504
+00:39:42,910 --> 00:39:45,860
+Grup anak-anak ini cukup bagus.
+
+505
+00:39:45,860 --> 00:39:49,880
+Itu info yang hebat, Han Shangyan.
+
+506
+00:39:51,710 --> 00:39:53,540
+Tunggu.
+
+507
+00:39:56,150 --> 00:40:00,460
+Kantor pusat Klub K&K di Norwegia?
+
+508
+00:40:02,060 --> 00:40:02,900
+Ya.
+
+509
+00:40:02,900 --> 00:40:06,340
+Kau adalah bos Klub K&K?
+
+510
+00:40:06,340 --> 00:40:08,000
+Ya.
+
+511
+00:40:08,730 --> 00:40:13,800
+Wah, Han Shangyan. Kau sungguh sulit.
+
+512
+00:40:13,800 --> 00:40:16,460
+Kau masih mengikuti lingkaran ini?
+
+513
+00:40:18,110 --> 00:40:22,450
+Aku tidak punya hobi lain, jadi aku kadang melihat berita dari lingkaran ini.
+
+514
+00:40:22,450 --> 00:40:26,980
+Kadang aku merasa sedih setelah melihat beritanya, jadi lebih baik aku tidak mengikutinya.
+
+515
+00:40:28,020 --> 00:40:29,730
+Kau tidak bisa merelakannya?
+
+516
+00:40:30,310 --> 00:40:33,940
+Entah. Aku tidak tahu.
+
+517
+00:40:35,120 --> 00:40:38,610
+Kalau kau tidak bisa merelakannya, kembali dan bantu aku.
+
+518
+00:40:42,220 --> 00:40:44,230
+Jangan bercanda.
+
+519
+00:40:44,800 --> 00:40:47,750
+Kau pikir aku bercanda, Xiao Mi?
+
+520
+00:40:47,750 --> 00:40:50,700
+Bergabunglah dengan timku. Bantu aku bersaing di kompetisi.
+
+521
+00:40:50,700 --> 00:40:52,480
+Lengan tua, kaki tua. Tidak bisa bermain.
+
+522
+00:40:52,480 --> 00:40:56,500
+Kau lebih muda dari aku. Bagaimana bisa kau berkata kalau kau tua?
+
+523
+00:40:56,500 --> 00:41:00,890
+Aku datang jauh-jauh dari Shanghai hanya untuk menemuimu.
+
+524
+00:41:01,510 --> 00:41:06,520
+Aku tidak punya energi, ketahanan dan teknik lagi.
+
+525
+00:41:06,520 --> 00:41:09,580
+Baiklah, tidak usah bicara lagi. Ayo minum wine.
+
+526
+00:41:09,580 --> 00:41:12,700
+Hari ini, aku mengundang seseorang yang kau pasti ingin temui.
+
+527
+00:41:12,700 --> 00:41:16,130
+- Siapa?
+- Kau akan tahu kalau sudah di sana. Ayo.
+
+528
+00:41:19,970 --> 00:41:21,770
+Ayo.
+
+529
+00:41:28,670 --> 00:41:32,100
+Kau bersikap sok misterius. Apa aku akan bertemu dengan pacarmu?
+
+530
+00:41:32,100 --> 00:41:35,980
+Pacar apa? Siapa yang akan tertarik padaku?
+
+531
+00:41:40,080 --> 00:41:41,860
+Sudah sampai!
+
+532
+00:41:42,820 --> 00:41:45,380
+Tempat ini cukup bagus.
+
+533
+00:41:46,270 --> 00:41:48,320
+[Qu Qiang / Anggota Tim SP]
+
+534
+00:41:49,060 --> 00:41:50,960
+Lao Han?
+
+535
+00:41:53,820 --> 00:41:55,050
+Kapan kau kembali?
+
+536
+00:41:55,050 --> 00:41:58,270
+Kau jadi bodoh setelah melihatku. Ada apa?
+
+537
+00:41:58,270 --> 00:42:01,770
+Bodoh apa? Siapa yang pernah kutakuti?
+
+538
+00:42:01,770 --> 00:42:04,360
+Aku hanya tidak menduga kau akan kembali.
+
+539
+00:42:06,000 --> 00:42:09,030
+- Hari ini, aku mengajak seseorang untuk kalian.
+- Siapa?
+
+540
+00:42:14,190 --> 00:42:20,670
+Alih bahasa dipersembahkan oleh Padepokan Anak Negeri @Viki.com
+
+541
+00:42:20,670 --> 00:42:22,920
+Roti Susu oleh Yang Zi
+
+542
+00:42:22,920 --> 00:42:27,140
+♫ Bagaimana detak jantungku yang bergemuruh karenamu? ♫
+
+543
+00:42:27,140 --> 00:42:31,340
+♫ Aku ingin segera ada di matamu  ♫
+
+544
+00:42:31,340 --> 00:42:33,400
+♫ Cinta yang aneh menjadi badai ♫
+
+545
+00:42:33,400 --> 00:42:38,810
+♫ Dalam sekejap mata, batasan kita terlupakan ♫
+
+546
+00:42:39,630 --> 00:42:43,880
+♫ Rindu adalah sebuah racun, sulit untuk menyerah ♫
+
+547
+00:42:43,880 --> 00:42:47,980
+♫ Saat aku yakin bahwa kaulah satu-satunya koordinatku
+
+548
+00:42:47,980 --> 00:42:51,150
+♫ Berapa banyak lagi yang harus kupikirkan ♫
+
+549
+00:42:51,150 --> 00:42:56,910
+♫ Agar aku bisa memiliki pelukanmu sendiri? ♫
+
+550
+00:42:56,910 --> 00:43:01,080
+♫ Mencintaimu bagaikan susu yang mencintai roti ♫
+
+551
+00:43:01,080 --> 00:43:05,230
+♫ Pasangan yang tercipta untuk satu sama lain. Setelah bertemu, tak akan terpisah ♫
+
+552
+00:43:05,230 --> 00:43:09,970
+♫ Pasangan seperti ini tidaklah berlebihan, tidak kurang, cukup manis ♫
+
+553
+00:43:09,970 --> 00:43:13,640
+♫ Senyummu adalah resep khusus kebahagiaan ♫
+
+554
+00:43:13,640 --> 00:43:17,800
+♫ Mencintaimu bagaikan susu yang mencintai roti ♫
+
+555
+00:43:17,800 --> 00:43:21,960
+♫ Asam manis dan pahit pedas semua adalah bahan dasar cinta ♫
+
+556
+00:43:21,960 --> 00:43:26,180
+♫ Kenangan untuk memanggang rasa yang khas ♫
+
+557
+00:43:26,180 --> 00:43:32,860
+♫ Bisakah kau menjadi tumpuanku selamanya? ♫
+
+558
+00:43:34,430 --> 00:43:38,640
+♫ Mencintaimu seperti susu yang mencintai roti ♫
+
+559
+00:43:38,640 --> 00:43:42,790
+♫ Pasangan yang tercipta untuk satu sama lain. Setelah bertemu, tak akan terpisah ♫
+
+560
+00:43:42,790 --> 00:43:47,570
+♫ Pasangan seperti ini tidaklah berlebihan, tidak kurang, cukup manis ♫
+
+561
+00:43:47,570 --> 00:43:51,210
+♫ Senyummu adalah resep khusus kebahagiaan ♫
+
+562
+00:43:51,210 --> 00:43:55,340
+♫ Mencintaimu seperti susu yang mencintai roti ♫
+
+563
+00:43:55,340 --> 00:43:59,520
+♫ Asam manis dan pahit pedas semua adalah bahan dasar cinta ♫
+
+564
+00:43:59,520 --> 00:44:03,730
+♫ Kenangan untuk memanggang rasa yang khas ♫
+
+565
+00:44:03,730 --> 00:44:10,080
+♫ Bisakah kau menjadi tumpuanku selamanya? ♫
+
+

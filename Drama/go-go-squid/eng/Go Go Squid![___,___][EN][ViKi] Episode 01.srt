@@ -1,0 +1,2279 @@
+﻿1
+00:00:06,080 --> 00:00:08,780
+♫ <i>Characters that no one asks after</i> ♫
+
+2
+00:00:08,780 --> 00:00:16,080
+♫ <i>Who do you choose to worship, to resent?</i> ♫
+
+3
+00:00:17,280 --> 00:00:20,080
+♫ <i>The desolation after the feigned passion</i> ♫
+
+4
+00:00:20,080 --> 00:00:22,880
+♫ <i>Pretending to be the shackle of freedom</i> ♫
+
+5
+00:00:22,880 --> 00:00:28,480
+♫ <i>What did you become at the end?</i> ♫
+
+6
+00:00:28,480 --> 00:00:31,380
+♫ <i>The smoke and fire that ignited glamour</i> ♫
+
+7
+00:00:31,380 --> 00:00:38,980
+♫ <i>One burst forth is enough, what else is there to seek?</i> ♫
+
+8
+00:00:41,280 --> 00:00:44,480
+♫ <i>A nameless person, who am I?</i> ♫
+
+9
+00:00:44,480 --> 00:00:47,180
+♫ <i>Who was forgotten? It matters no more</i> ♫
+
+10
+00:00:47,180 --> 00:00:52,580
+♫ <i>Who didn’t do their utmost and walk to life’s final stage?</i> ♫
+
+11
+00:00:52,580 --> 00:00:55,480
+♫ <i>Perhaps very tiresome, in an entirely pathetic state</i> ♫
+
+12
+00:00:55,480 --> 00:00:58,580
+♫ <i>Perhaps lowly with nothing to show for my life</i> ♫
+
+13
+00:00:58,580 --> 00:01:03,880
+♫ <i>Perhaps I’ll never become your radiance</i> ♫
+
+14
+00:01:03,880 --> 00:01:07,080
+♫ <i>A nameless person, who am I?</i> ♫
+
+15
+00:01:07,080 --> 00:01:09,880
+♫ <i>Who was forgotten? It matters no more</i> ♫
+
+16
+00:01:09,880 --> 00:01:15,180
+♫ <i>Continue chasing, whose glory isn’t accompanied with tears?</i> ♫
+
+17
+00:01:15,180 --> 00:01:18,080
+♫ <i>Perhaps very tiresome, in an entirely pathetic state</i> ♫
+
+18
+00:01:18,080 --> 00:01:20,980
+♫ <i>Perhaps lowly with nothing to show for my life</i> ♫
+
+19
+00:01:20,980 --> 00:01:30,680
+♫ <i>Who isn’t born the same way, don’t hesitate to call me a nameless person</i> ♫
+
+20
+00:01:30,680 --> 00:01:36,080
+<i>[Go Go Squid!]</i>
+
+21
+00:01:36,080 --> 00:01:38,880
+<i>[Episode 1]</i>
+
+22
+00:01:38,880 --> 00:01:43,180
+<i>[China’s internet sector has reached the forefront. The world is paying attention. Cybersecurity Tournament allows experts in the field to hone their skills. The most prominent of which is CTF (Catch the Flag).]</i>
+
+23
+00:01:43,180 --> 00:01:47,080
+<i>[It is based on a problem-solving model, as well as the attack and defense model. The competitors will target a server’s security perimeter, probe for defense vulnerability, and compete based on numerous cybersecurity problems.]</i>
+
+24
+00:01:47,080 --> 00:01:50,380
+<i>[As cybersecurity becomes increasingly more important, the Cybersecurity Tournament is also a channel to discover new talents in the field. It’s also a manifestation of an online nation-building strategy.]</i>
+
+25
+00:01:50,380 --> 00:01:51,880
+<i>[Cybersecurity Tournament, Singapore Competition] </i>
+
+26
+00:01:51,880 --> 00:01:53,580
+<i> [KK Team Captain: Wu Bai, Position: Main Offense, Skill: Opposition Analysis, Vulnerability Probing, Decode Algorithms]</i>
+<i> - Team SP has been the first to attack the enemy team's server.</i>
+
+27
+00:01:53,580 --> 00:01:55,310
+<i>[KK Team Member: Dai Feng, Position: Secondary Offense, Skill: Use of Vulnerability, Offense Implementation, Server Saboteur]
+ - Team SP has been the first to attack the enemy team's server.</i>
+
+28
+00:01:55,310 --> 00:01:56,580
+<i> [KK Team Member: Ling Shan, Position: Main Defense, Skill: Security Reinforcement, System Operations, Server Structure, Flow]
+ - Team SP has been the first to attack the enemy team's server.</i>
+
+29
+00:01:56,580 --> 00:01:58,880
+<i>At the beginning of the game, Team SP chose to put a virus into the other team's server.</i>
+
+30
+00:01:58,880 --> 00:01:59,680
+<i> [KK Team Member: Zhou Yi, Position: Side Defense, Skill: Use of Vulnerability, Replenishment Developer, Block Vulnerability]
+ - At the beginning of the game, Team SP chose to put a virus into the other team's server. </i>
+
+31
+00:01:59,680 --> 00:02:00,380
+<i> [KK Team Member: Shen Zhe, Position: Strategy Coordinator, Skill: Data Flow Seizure, Analysis, Trace & Seize Opposition Data Flow]
+ - At the beginning of the game, Team SP chose to put a virus into the other team's server.</i>
+
+32
+00:02:00,380 --> 00:02:03,280
+<i>K&K blocked this wave of attacks, fixed the vulnerabilities, and enhanced security!</i>
+
+33
+00:02:03,280 --> 00:02:06,080
+<i>Oh my god! SP has found K&K's defense vulnerability once again,</i>
+
+34
+00:02:06,080 --> 00:02:08,480
+<i>causing K&K's server to go into sleep mode.</i>
+
+35
+00:02:08,480 --> 00:02:10,380
+Team Leader, let's give up. Our base has been lost.
+
+36
+00:02:10,380 --> 00:02:12,980
+Shut up, 97! Is it up to you to teach the Team Leader?
+
+37
+00:02:12,980 --> 00:02:16,580
+Grunt, what are you saying enigmatically?
+ <i>[Han Shangyan: K&K's Boss]</i>
+
+38
+00:02:16,580 --> 00:02:22,680
+<i>Congratulations to Team SP for winning the CTF tour's Singapore competition this year!</i>
+
+39
+00:02:22,680 --> 00:02:26,280
+<i>- Yes, even though K&K is a newly formed team,
+ - Yes.</i>
+
+40
+00:02:26,280 --> 00:02:30,380
+<i>I did not think that they would lose this competition with Gun God as their leader.</i>
+
+41
+00:02:30,380 --> 00:02:34,180
+<i>Now over here is the person responsible for the Chinese region, also known as Solo.</i>
+
+42
+00:02:34,180 --> 00:02:38,380
+<i>I believe that everyone still remembers Solo, the creator from 10 years ago.</i>
+
+43
+00:02:38,380 --> 00:02:41,380
+<i>- Solo is the most legendary leader in everyone's heart.
+ - Yes.</i>
+
+44
+00:02:41,380 --> 00:02:44,680
+<i>Lately, he invited many legendary attackers from previous Cybersecurity competitions.</i>
+
+45
+00:02:44,680 --> 00:02:47,080
+Old Han.
+
+46
+00:02:47,080 --> 00:02:49,180
+<i>Their competition style is also very steady.</i>
+
+47
+00:02:49,180 --> 00:02:52,080
+<i>The cooperation between teammates was seamlessly and tacitly understood.</i>
+
+48
+00:02:52,080 --> 00:02:55,980
+<i>It appears as if we could see from them, a shadow of Team Solo from back then.</i>
+
+49
+00:02:55,980 --> 00:02:57,680
+<i>Solo really is Solo.</i>
+
+50
+00:02:57,680 --> 00:03:01,580
+<i>Today, SP, under his lead, displayed his style from a few years ago.</i>
+
+51
+00:03:01,580 --> 00:03:05,480
+<i>We once again congratulate Team SP for winning the competition this year!</i>
+
+52
+00:03:05,480 --> 00:03:07,780
+<i>I believe from now on,</i>
+
+53
+00:03:07,780 --> 00:03:12,180
+<i>CTF in China will be SP and K&K's territory!</i>
+
+54
+00:03:12,180 --> 00:03:14,680
+<i> [Team SP] </i>
+
+55
+00:03:17,880 --> 00:03:20,180
+<i> [Appledog]
+[SP Team Manager] </i>
+
+56
+00:03:25,780 --> 00:03:27,560
+<i>[Wu Bai]
+[K&K Team Captain] </i>
+
+57
+00:03:33,580 --> 00:03:35,680
+SP!
+
+58
+00:03:46,880 --> 00:03:49,680
+♫ <i>Among the lights of a city’s dawn</i> ♫
+
+59
+00:03:49,680 --> 00:03:52,480
+♫ <i>There’s always splendor falling</i> ♫
+
+60
+00:03:52,480 --> 00:03:55,880
+♫ <i>Imitators one after another</i> ♫
+
+61
+00:03:55,880 --> 00:03:58,280
+Demo, what was wrong with you today?
+
+62
+00:03:58,280 --> 00:04:01,880
+I told you to spread a virus. Why didn't you do it?
+
+63
+00:04:01,880 --> 00:04:03,280
+97 told me to wait a bit.
+
+64
+00:04:03,280 --> 00:04:06,580
+What's wrong? The server wasn't even set up yet. How would we spread a virus?
+
+65
+00:04:06,580 --> 00:04:08,480
+What do you mean what's wrong?
+
+66
+00:04:08,480 --> 00:04:09,780
+And you!
+
+67
+00:04:09,780 --> 00:04:12,580
+You're the side defense. How were you being a side defense?
+
+68
+00:04:12,580 --> 00:04:16,380
+You went your own way, alone. You messed up everyone's strategy.
+
+69
+00:04:16,380 --> 00:04:20,080
+Shut up! What did I do wrong?
+
+70
+00:04:20,080 --> 00:04:23,080
+Grunt, I didn't want to talk about you today. You were playing too aggressively today.
+
+71
+00:04:23,080 --> 00:04:25,580
+- You were fighting too aggressively and leaving lots of loopholes.
+ - How was I aggressive?
+
+72
+00:04:25,580 --> 00:04:27,180
+<i>You want to talk about loopholes?! Isn't patching the loopholes all of your jobs!</i>
+
+73
+00:04:27,180 --> 00:04:30,380
+<i>You should learn from Wu Bai, what it means to be the real god. You're just the King of the Strongest Mouth.</i>
+
+74
+00:04:30,380 --> 00:04:34,280
+<i>Of course, he's the captain. Of course, he's the real god. The three of you are noobs!</i>
+
+75
+00:04:37,280 --> 00:04:40,180
+- I'm a noob? How am I a noob?!
+ - Enough!
+
+76
+00:04:48,120 --> 00:04:50,570
+You lost the competition and you are here arguing!
+
+77
+00:04:53,980 --> 00:04:56,580
+Don't think that getting second means duty accomplished!
+
+78
+00:04:56,580 --> 00:04:58,880
+In a competition, there are only two rankings!
+
+79
+00:04:58,880 --> 00:05:01,480
+Champions and trash!
+
+80
+00:05:01,480 --> 00:05:03,380
+Understood?
+
+81
+00:05:06,480 --> 00:05:08,380
+- Boss, where are you going?
+ - We know we were wrong!
+
+82
+00:05:08,380 --> 00:05:10,380
+- Boss, are you okay?
+ - Don't leave, Boss!
+
+83
+00:05:10,380 --> 00:05:13,080
+- Boss!
+ - Boss! / - Boss!
+
+84
+00:05:25,980 --> 00:05:27,680
+<i> [NetEase Music] </i>
+
+85
+00:05:33,780 --> 00:05:36,080
+<i>This man is Han Shangyan.</i>
+
+86
+00:05:36,080 --> 00:05:39,280
+<i> KK Club's investor and boss. </i>
+
+87
+00:05:39,280 --> 00:05:41,580
+<i> The team likes to call him "Boss".</i>
+
+88
+00:05:41,580 --> 00:05:46,880
+<i> About two days ago, his club just lost a CTF competition. </i>
+
+89
+00:05:46,880 --> 00:05:50,480
+<i> At this moment, he still doesn't know who I am. </i>
+
+90
+00:05:50,480 --> 00:05:52,780
+<i> My name is Tong Nian. </i>
+
+91
+00:05:52,780 --> 00:05:55,980
+<i>I'm a computer science major in my second year of grad school.</i>
+
+92
+00:05:55,980 --> 00:05:59,880
+<i> Coincidentally, my major is also related to cybersecurity.</i>
+
+93
+00:05:59,880 --> 00:06:01,880
+<i>It seems like fate.</i>
+
+94
+00:06:01,880 --> 00:06:05,640
+<i> He and I will run into each other.</i>
+
+95
+00:06:05,640 --> 00:06:08,730
+♫ <i>In the storm and fog, I can’t tell the shadows apart</i> ♫
+
+96
+00:06:08,730 --> 00:06:13,490
+♫ <i>You and I in the vast sky</i> ♫
+
+97
+00:06:22,680 --> 00:06:25,680
+Hello, I want to know if there are still any strawberries.
+
+98
+00:06:25,680 --> 00:06:27,680
+<i>Oh, there's no more.</i>
+
+99
+00:06:28,580 --> 00:06:31,080
+I'm sorry, are there any other styles of red envelopes?
+
+100
+00:06:31,080 --> 00:06:33,480
+<i>Everything is there.</i>
+
+101
+00:07:04,180 --> 00:07:09,580
+<i> Who would have thought, fate would always turn around in a moment. </i>
+
+102
+00:07:12,280 --> 00:07:14,580
+<i>If that day he didn't turn back,</i>
+
+103
+00:07:14,580 --> 00:07:18,680
+<i>maybe... it wouldn't be this kind of result.</i>
+
+104
+00:07:42,580 --> 00:07:44,280
+Overnight stay.
+
+105
+00:08:02,000 --> 00:08:03,680
+Overnight stay.
+
+106
+00:08:04,280 --> 00:08:08,180
+Please give me your ID card for a second.
+
+107
+00:08:14,080 --> 00:08:15,480
+Thank you.
+
+108
+00:08:25,580 --> 00:08:31,780
+Our overnight stay here starts from 11:00 p.m. to 6:00 a.m tomorrow morning.
+
+109
+00:08:31,780 --> 00:08:34,480
+We generally close the store around 7:00.
+
+110
+00:08:34,480 --> 00:08:38,080
+It's okay if you want to leave at 7:00, too.
+
+111
+00:08:38,080 --> 00:08:40,860
+<i>Han Shangyan?</i>
+
+112
+00:08:40,860 --> 00:08:44,880
+At night, we have instant noodles. If you're hungry, you can tell me.
+
+113
+00:08:44,880 --> 00:08:47,880
+I can cook instant noodles for you at any time.
+
+114
+00:08:51,280 --> 00:08:52,880
+ID card.
+
+115
+00:08:53,780 --> 00:08:55,480
+Returning it back to you.
+
+116
+00:09:17,780 --> 00:09:19,680
+<i>What are you looking at?</i>
+
+117
+00:09:47,320 --> 00:09:56,590
+<i> Timing and Subtitles Brought To You By The 🍯 Honey Stewed 🐙 Squid Team @ Viki 
+Ripped & Resync By HiDeYuKi KaKaShI</i>
+
+118
+00:10:11,680 --> 00:10:13,580
+What are you doing?
+
+119
+00:10:13,580 --> 00:10:17,480
+I've seen people sneak food but never without class.
+
+120
+00:10:17,480 --> 00:10:19,380
+My drawer has chocolate.
+
+121
+00:10:19,380 --> 00:10:20,980
+Where is it?
+
+122
+00:10:22,380 --> 00:10:23,780
+You should've taken it out sooner.
+
+123
+00:10:23,780 --> 00:10:27,780
+I just told you to watch my store; instead, you steal food to eat.
+
+124
+00:10:31,780 --> 00:10:33,680
+It looks so ugly.
+
+125
+00:10:36,480 --> 00:10:38,680
+If you're hungry, you can just eat mine.
+
+126
+00:10:38,680 --> 00:10:40,880
+Be quiet and go eat your food.
+
+127
+00:11:03,600 --> 00:11:05,300
+<i>Hello.</i>
+
+128
+00:11:07,580 --> 00:11:08,780
+<i>Hello.</i>
+
+129
+00:11:08,780 --> 00:11:11,680
+<i>This is our internet cafe's late-night snack combo.</i>
+
+130
+00:11:14,590 --> 00:11:16,490
+<i>Did you make this?</i>
+
+131
+00:11:21,710 --> 00:11:23,520
+<i>Smells good.</i>
+
+132
+00:11:25,000 --> 00:11:27,820
+<i>You are very cute.</i>
+
+133
+00:11:28,400 --> 00:11:29,790
+<i>Thank you.</i>
+
+134
+00:11:29,790 --> 00:11:33,260
+<i>Can I ask for your name?</i>
+
+135
+00:11:33,260 --> 00:11:35,750
+<i>I'm Tong Nian.</i>
+
+136
+00:11:36,800 --> 00:11:40,840
+<i>Then... can I be friends with you?</i>
+
+137
+00:11:50,950 --> 00:11:52,760
+Hello.
+
+138
+00:11:59,330 --> 00:12:01,220
+Hello?
+
+139
+00:12:06,460 --> 00:12:08,230
+Hello.
+
+140
+00:12:11,490 --> 00:12:15,070
+This is our internet cafe's late-night snack combo.
+
+141
+00:12:16,640 --> 00:12:19,250
+How much is it?
+
+142
+00:12:19,250 --> 00:12:20,760
+This combo is f–
+
+143
+00:12:20,760 --> 00:12:22,840
+40!
+<i>(¥40 ≈ $6)</i>
+
+144
+00:12:25,710 --> 00:12:28,050
+Co-Combo cost 30.
+<i>(¥30 ≈ $4)</i>
+
+145
+00:12:28,050 --> 00:12:32,430
+- What 30? No cost, okay?
+ - No way.
+
+146
+00:12:32,430 --> 00:12:34,660
+- Yes.
+ - No.
+
+147
+00:12:36,460 --> 00:12:39,110
+Then, can I trouble you to get me a juice?
+
+148
+00:12:39,110 --> 00:12:41,580
+- No problem.
+ - Thank you.
+
+149
+00:12:52,890 --> 00:12:54,750
+Your juice.
+
+150
+00:13:02,350 --> 00:13:04,280
+Bet you charged extra.
+
+151
+00:13:04,280 --> 00:13:06,450
+I have to calculate carefully.
+
+152
+00:13:06,450 --> 00:13:08,440
+I was just scared you were going to get scammed.
+
+153
+00:13:08,440 --> 00:13:11,110
+So I tested to see if he was a poor uncle.
+
+154
+00:13:11,110 --> 00:13:12,850
+My family runs internet cafes.
+
+155
+00:13:12,850 --> 00:13:17,090
+To men who solely reserve overnight stays, I understand this so well.
+
+156
+00:13:17,090 --> 00:13:20,430
+Mostly, life tends to disappoint.
+
+157
+00:13:20,430 --> 00:13:23,950
+At most, this uncle's appearance looks a bit better.
+
+158
+00:13:26,350 --> 00:13:28,840
+Just a little better.
+
+159
+00:13:29,510 --> 00:13:33,030
+Don't ignore me, Her Highness Squid.
+
+160
+00:13:33,030 --> 00:13:36,950
+Little Squid. Sis...!
+<i>(T/N: They are cousins, but in Asian culture, they still call each other by "brother" and "sister.")</i>
+
+161
+00:13:36,950 --> 00:13:39,750
+Okay, okay. I'll help you. Is that enough?
+
+162
+00:13:39,750 --> 00:13:44,110
+- How are you going to help me?
+ - Give him one week of free overnight rentals?
+
+163
+00:13:44,110 --> 00:13:47,260
+Just say that he won from a raffle.
+
+164
+00:13:47,260 --> 00:13:49,130
+Overnight rentals for a week?
+
+165
+00:13:49,130 --> 00:13:51,020
+No, no.
+
+166
+00:13:51,020 --> 00:13:53,130
+How about we give him a free week of an all-inclusive?
+
+167
+00:13:53,130 --> 00:13:57,370
+So then whenever he wants to come, he can come.
+
+168
+00:13:57,370 --> 00:14:00,160
+- Good idea. You go.
+ - I have to go again?
+
+169
+00:14:00,160 --> 00:14:01,430
+Of course, it is you going.
+
+170
+00:14:01,430 --> 00:14:04,710
+You go and tell him, our internet cafe has a raffle game today.
+
+171
+00:14:04,710 --> 00:14:09,390
+But he must use WeChat to scan our QR code in order to get the prize.
+
+172
+00:14:09,390 --> 00:14:12,260
+Our store... doesn't have a public WeChat ID.
+<i>(WeChat is a Chinese messaging, social media and mobile payment app)</i>
+
+173
+00:14:12,260 --> 00:14:14,380
+You opened an internet cafe and you don't have a public WeChat?
+
+174
+00:14:14,380 --> 00:14:19,480
+It's not really mine. I am only here to watch the store and collect the payments.
+
+175
+00:14:28,130 --> 00:14:32,000
+<i> "Predestined Tonight Cafe?"</i>
+
+176
+00:14:33,360 --> 00:14:35,780
+Use mine. Take it.
+
+177
+00:14:50,110 --> 00:14:51,970
+Let me speak a little bit.
+
+178
+00:14:54,020 --> 00:14:57,140
+Our internet cafe is having an activity: Christmas Raffle.
+
+179
+00:14:57,140 --> 00:15:00,890
+You won a big prize. One week for free. Everything for free!
+
+180
+00:15:00,890 --> 00:15:02,780
+No thanks.
+
+181
+00:15:02,780 --> 00:15:07,180
+This is a rare opportunity. Free internet access for one week. It's free.
+
+182
+00:15:11,480 --> 00:15:12,900
+Brother.
+
+183
+00:15:16,770 --> 00:15:20,460
+Our internet cafe really can't make the change for you.
+
+184
+00:15:20,460 --> 00:15:24,440
+Is there another payment method?
+
+185
+00:15:24,440 --> 00:15:25,850
+Keep the change.
+
+186
+00:15:25,850 --> 00:15:29,610
+I can't do that. My mom said one must be honest in conducting business.
+
+187
+00:15:29,610 --> 00:15:31,700
+I must give you your change back.
+
+188
+00:15:33,780 --> 00:15:36,310
+Then let's use WeChat Pay.
+
+189
+00:15:36,310 --> 00:15:37,820
+Sorry about that.
+
+190
+00:15:37,820 --> 00:15:41,820
+Our WeChat Pay suddenly broke.
+
+191
+00:15:45,480 --> 00:15:47,340
+Then how can I pay?
+
+192
+00:15:47,340 --> 00:15:48,940
+Make a transfer.
+
+193
+00:15:48,940 --> 00:15:53,010
+But I need to friend you on WeChat.
+
+194
+00:15:55,800 --> 00:15:58,250
+I'll add you.
+
+195
+00:16:02,150 --> 00:16:04,520
+Oh right, Brother! Don't forget.
+
+196
+00:16:04,520 --> 00:16:08,220
+One free week of internet. It's all free, bro!
+
+197
+00:16:11,490 --> 00:16:14,900
+This is his WeChat. I got it for you.
+
+198
+00:16:18,120 --> 00:16:20,280
+- Let's look.
+ - This GN is him.
+
+199
+00:16:20,280 --> 00:16:24,430
+- Let me see.
+ - Hurry and look at his Moments. See what he does.
+
+200
+00:16:27,640 --> 00:16:31,040
+Besides sharing cybersecurity news, there's nothing else.
+
+201
+00:16:31,040 --> 00:16:33,370
+Do you understand this?
+
+202
+00:16:33,370 --> 00:16:35,860
+Forget it. It's a waste of effort to ask you. You are a computer idiot.
+
+203
+00:16:35,860 --> 00:16:39,820
+True, true, true! I am the number one dummy! So what?
+
+204
+00:16:39,820 --> 00:16:42,890
+I'd better ask someone who knows tomorrow.
+
+205
+00:16:48,140 --> 00:16:57,070
+<i> Timing and Subtitles Brought To You By The 🍯 Honey Stewed 🐙 Squid Team @ Viki 
+Ripped & Resync By HiDeYuKi KaKaShI</i>
+
+206
+00:17:11,000 --> 00:17:12,510
+Check, please.
+
+207
+00:17:20,320 --> 00:17:25,430
+Didn't you book for the entire night? It is only... 2:00 a.m.
+
+208
+00:17:26,300 --> 00:17:28,110
+It's 2:00 a.m.
+
+209
+00:17:28,960 --> 00:17:31,000
+Is it not late?
+
+210
+00:17:31,000 --> 00:17:35,260
+For the underaged, then it is too late.
+
+211
+00:17:35,260 --> 00:17:39,850
+They shouldn't hang around here. But you are already an adult so...
+
+212
+00:17:49,950 --> 00:17:51,900
+Please wait.
+
+213
+00:17:54,450 --> 00:17:57,870
+<i> What should I say to him?</i>
+
+214
+00:18:00,760 --> 00:18:03,830
+Thanks for your patronage at our store.
+
+215
+00:18:05,420 --> 00:18:09,080
+And congratulations to you for winning the big prize.
+
+216
+00:18:09,080 --> 00:18:11,310
+We welcome you to come again next time.
+
+217
+00:18:11,310 --> 00:18:12,750
+Next time?
+
+218
+00:18:16,510 --> 00:18:18,960
+Are you here every night?
+
+219
+00:18:24,280 --> 00:18:28,700
+No, I am on school break, so I am helping my relative to watch the store.
+
+220
+00:18:28,700 --> 00:18:31,510
+I'm not here every night.
+
+221
+00:18:32,900 --> 00:18:36,730
+Don't misunderstand. I don't have other meanings.
+
+222
+00:18:36,730 --> 00:18:41,560
+I just thought a little girl here at the internet cafe is not safe.
+
+223
+00:19:02,420 --> 00:19:04,040
+Sis. Sis!
+
+224
+00:19:04,040 --> 00:19:05,760
+- What?
+ - This.
+
+225
+00:19:07,820 --> 00:19:09,550
+Hurry and go.
+
+226
+00:19:30,980 --> 00:19:32,820
+Han Shangyan!
+
+227
+00:19:39,180 --> 00:19:41,940
+You left your ID card in the store.
+
+228
+00:19:47,450 --> 00:19:48,740
+Thank you.
+
+229
+00:19:48,740 --> 00:19:50,740
+You're welcome.
+
+230
+00:19:50,740 --> 00:19:53,500
+Next time, if you want to book something ahead of time,
+
+231
+00:19:53,500 --> 00:19:57,410
+you can text directly to the Predestined Tonight Cafe.
+
+232
+00:20:01,950 --> 00:20:03,490
+Bye-bye.
+
+233
+00:20:39,900 --> 00:20:42,670
+<i>However big the dream is,</i>
+
+234
+00:20:42,670 --> 00:20:45,860
+<i> the same price needs to be paid out.</i>
+
+235
+00:20:47,050 --> 00:20:49,590
+<i> I came back,</i>
+
+236
+00:20:49,590 --> 00:20:52,910
+<i> established the Team K&K in China.</i>
+
+237
+00:20:52,910 --> 00:20:55,820
+<i> I want to help these young people.</i>
+
+238
+00:20:55,820 --> 00:20:58,550
+<i> They have great talent.</i>
+
+239
+00:20:58,550 --> 00:21:01,900
+<i> They have a dream of helping China get the championship.</i>
+
+240
+00:21:02,710 --> 00:21:09,320
+<i> Their parents gave an important segment of their children's life to me.</i>
+
+241
+00:21:09,320 --> 00:21:12,920
+<i> That's a kind of payment for their future.</i>
+
+242
+00:21:13,490 --> 00:21:16,540
+<i> Facing such a big responsibility,</i>
+
+243
+00:21:16,540 --> 00:21:20,580
+<i> how can I train these young people even more strictly?</i>
+
+244
+00:21:24,000 --> 00:21:27,250
+<i> When love is deep, the harsher the responsibility is.</i>
+
+245
+00:21:27,250 --> 00:21:30,800
+<i> But they are only young people around twenty.</i>
+
+246
+00:21:30,800 --> 00:21:33,720
+<i> Their personality is not yet set; still focused on playing.</i>
+
+247
+00:21:33,720 --> 00:21:35,980
+<i> Sometimes they are scattered minded and careless.</i>
+
+248
+00:21:35,980 --> 00:21:40,170
+<i> In this way, when will they be able to realize their dream.</i>
+
+249
+00:21:42,300 --> 00:21:45,170
+<i> This group of K&K youngsters,</i>
+
+250
+00:21:45,170 --> 00:21:48,590
+<i> do you know the responsibility that landed on my shoulders?</i>
+
+251
+00:21:48,590 --> 00:21:51,430
+<i> It is beyond what you can imagine.</i>
+
+252
+00:21:52,370 --> 00:21:56,090
+<i>But... believe me.</i>
+
+253
+00:21:57,030 --> 00:21:59,610
+<i>I must make it.</i>
+
+254
+00:23:34,180 --> 00:23:37,180
+Did you guys... see Boss last night?
+
+255
+00:23:37,180 --> 00:23:38,770
+- I didn't see him.
+ - No, I didn't.
+
+256
+00:23:38,770 --> 00:23:40,740
+None of you saw him?
+
+257
+00:23:40,740 --> 00:23:43,280
+Did he come back or not?
+
+258
+00:23:43,280 --> 00:23:44,570
+It's hard to say.
+
+259
+00:23:44,570 --> 00:23:49,790
+An adult male spent his whole night out without coming home. This kind of stuff, don't ask so directly.
+
+260
+00:23:49,790 --> 00:23:52,250
+- Then...
+ - Then, you go!
+
+261
+00:23:52,250 --> 00:23:54,370
+Go. Hurry.
+
+262
+00:23:54,370 --> 00:23:56,620
+Go!
+
+263
+00:24:02,480 --> 00:24:04,540
+You go!
+
+264
+00:24:04,540 --> 00:24:06,370
+No, you go. Listen to me.
+
+265
+00:24:06,370 --> 00:24:09,540
+You are young. Boss won't be mad at you. You go, really.
+
+266
+00:24:09,540 --> 00:24:12,910
+But I am the one who gets yelled at every time?
+
+267
+00:24:27,750 --> 00:24:30,150
+Boss, where did you go last night?
+
+268
+00:24:30,150 --> 00:24:31,610
+Did you need me?
+
+269
+00:24:31,610 --> 00:24:34,220
+No, I just wanted to ask.
+
+270
+00:24:34,220 --> 00:24:36,220
+Are you in a better mood?
+
+271
+00:24:36,220 --> 00:24:38,450
+What if I am not?
+
+272
+00:24:43,470 --> 00:24:45,590
+Speak, if you have something to say.
+
+273
+00:24:46,860 --> 00:24:49,640
+It's not like I'll eat you.
+
+274
+00:24:49,640 --> 00:24:53,760
+There's really nothing! I was just concerned for you.
+
+275
+00:24:53,760 --> 00:24:56,350
+I don't need your concern.
+
+276
+00:25:02,750 --> 00:25:05,010
+<i>Respected VIP members, hello!</i>
+
+277
+00:25:05,010 --> 00:25:07,030
+<i>There is going to be rain in the forecast.</i>
+
+278
+00:25:07,030 --> 00:25:09,650
+<i>If going outdoors, bring your umbrella!</i>
+
+279
+00:25:09,650 --> 00:25:11,230
+<i> "Predestined Tonight Cafe."</i>
+
+280
+00:25:11,230 --> 00:25:13,450
+Boss...
+
+281
+00:25:13,450 --> 00:25:16,800
+- You're using WeChat!
+ - Not bad!
+
+282
+00:25:19,000 --> 00:25:20,300
+What are you guys doing?
+
+283
+00:25:20,300 --> 00:25:22,470
+Wash your face if needed! Brush your teeth if needed!
+
+284
+00:25:22,470 --> 00:25:24,330
+The car is waiting for you guys downstairs!
+
+285
+00:25:24,330 --> 00:25:26,740
+How much longer do they to have to wait for you guys?
+
+286
+00:25:30,180 --> 00:25:33,350
+<i>If you would like to reserve the internet cafe for tonight, you can reserve in advance.</i>
+
+287
+00:25:33,350 --> 00:25:36,300
+<i> I will save a spot for you.</i>
+
+288
+00:25:44,150 --> 00:25:46,550
+How is it? Did he reply?
+
+289
+00:25:48,210 --> 00:25:50,300
+Didn't you send him a lot of messages?
+
+290
+00:25:50,300 --> 00:25:52,450
+He didn't reply to any of them.
+
+291
+00:26:00,580 --> 00:26:03,190
+<i> [Team K&K] </i>
+
+292
+00:26:04,790 --> 00:26:07,170
+Get off the bus!
+
+293
+00:26:07,170 --> 00:26:10,460
+Getting off the bus.
+
+294
+00:26:10,460 --> 00:26:13,170
+Wow, it's raining so hard.
+
+295
+00:26:13,960 --> 00:26:17,290
+- What are we doing?
+ - How would I know?
+
+296
+00:26:19,330 --> 00:26:21,560
+Wow, what are we doing?
+
+297
+00:26:21,560 --> 00:26:24,940
+Boss, what are we doing in such heavy rain?
+
+298
+00:26:24,940 --> 00:26:28,850
+Boss, are we here for a picnic or to look at flowers?
+
+299
+00:26:28,850 --> 00:26:31,090
+But... it's raining.
+
+300
+00:26:31,090 --> 00:26:34,290
+Aren't rainy days pretty nice? We can admire the flowers. How romantic!
+
+301
+00:26:34,290 --> 00:26:36,780
+Bro, who admires flowers in the rain?
+
+302
+00:26:36,780 --> 00:26:38,810
+What picnic? What flowers?
+
+303
+00:26:38,810 --> 00:26:40,780
+Did the guys forget the daily 5K run?
+<i>(5 km distance)</i>
+
+304
+00:26:40,780 --> 00:26:44,690
+- But it's raining.
+ - Since it's raining, let's just forget it, Boss.
+
+305
+00:26:44,690 --> 00:26:48,360
+- Team Leader, say something to the boss.
+ - Let's not run. / - How can we possibly run?
+
+306
+00:26:48,360 --> 00:26:50,010
+Really!
+
+307
+00:26:54,750 --> 00:26:56,440
+Where are we running?
+
+308
+00:26:56,440 --> 00:26:57,790
+- Team Leader!
+ - Team Leader!
+
+309
+00:26:57,790 --> 00:27:00,310
+<i>No way!</i>
+
+310
+00:27:02,300 --> 00:27:06,170
+One, two, one! One, two, one!
+
+311
+00:27:06,170 --> 00:27:08,330
+Faster!
+
+312
+00:27:08,330 --> 00:27:10,090
+Keep running!
+
+313
+00:27:17,200 --> 00:27:19,440
+I can't run anymore.
+
+314
+00:27:19,440 --> 00:27:21,970
+Thirty more reps! No slacking off!
+
+315
+00:27:21,970 --> 00:27:26,510
+Running so slow! Are you guys waiting until 3:00 p.m. for lunch?
+
+316
+00:27:26,510 --> 00:27:28,210
+Faster!
+
+317
+00:27:32,120 --> 00:27:36,900
+One, two, three! The first three will be exempt from a penalty!
+
+318
+00:27:36,900 --> 00:27:39,740
+-  I can't anymore, Boss!
+ - What are you guys doing?
+
+319
+00:27:39,740 --> 00:27:41,210
+Fourth Place?
+
+320
+00:27:41,210 --> 00:27:43,460
+Deduct one day from Chinese New Year vacation!
+
+321
+00:27:43,460 --> 00:27:46,230
+No way!
+
+322
+00:27:46,230 --> 00:27:50,130
+Hurry or else he will deduct two days! Let's run!
+
+323
+00:27:50,130 --> 00:27:53,680
+Boss, that's our Chinese New Year!
+
+324
+00:28:06,230 --> 00:28:08,750
+<i> Predestined Tonight Cafe has a new activity, to celebrate the owner couple's wedding anniversary,</i>
+
+325
+00:28:08,750 --> 00:28:11,540
+<i> from today on, if you reply "Happily together for one hundred years,"</i>
+
+326
+00:28:11,540 --> 00:28:14,790
+<i> you will receive a gift!</i>
+
+327
+00:28:26,370 --> 00:28:27,850
+- I can't.
+ - Boss...
+
+328
+00:28:30,460 --> 00:28:32,630
+Get up! Get up!
+
+329
+00:28:32,630 --> 00:28:35,300
+Looks like punishment is more effective than rewards!
+
+330
+00:28:35,300 --> 00:28:38,560
+Boss, with your punishments, who wouldn't use all their effort?
+
+331
+00:28:38,560 --> 00:28:42,290
+- Our Chinese New Year vacation!
+ - What's wrong with your New Year vacation?
+
+332
+00:28:42,290 --> 00:28:44,840
+How many years do you think you can stay active in competitions?
+
+333
+00:28:44,840 --> 00:28:46,380
+A CTF player,
+
+334
+00:28:46,380 --> 00:28:49,850
+the best golden age only lasts for 6 years.
+
+335
+00:28:49,850 --> 00:28:53,440
+These few years are when you are in your prime condition.
+
+336
+00:28:53,440 --> 00:28:55,790
+After this time has passed,
+
+337
+00:28:55,790 --> 00:28:59,250
+even if you no longer want to have a New Year's Eve dinner reunion and want to train instead,
+
+338
+00:28:59,250 --> 00:29:02,060
+see if there is anyone who would want to train you.
+
+339
+00:29:03,510 --> 00:29:07,530
+From yesterday to today, you were all pretty happy!
+
+340
+00:29:07,530 --> 00:29:10,250
+Did you forget about losing?
+
+341
+00:29:10,250 --> 00:29:13,300
+Boss, we did get 2nd Place after all.
+
+342
+00:29:13,300 --> 00:29:16,000
+Plus, losing to SP isn't embarrassing.
+
+343
+00:29:16,000 --> 00:29:18,220
+Their team's leader for many years...
+
+344
+00:29:18,220 --> 00:29:21,660
+Boss, Demo is young, he is just saying nonsense. Don't take it seriously. What are you saying?
+
+345
+00:29:21,660 --> 00:29:24,960
+Losing to SP isn't embarrassing?
+
+346
+00:29:24,960 --> 00:29:29,250
+Wrong! The most embarrassing thing is losing to SP!
+
+347
+00:29:29,250 --> 00:29:31,820
+It's just that you don't want to lose to Solo, right?
+
+348
+00:29:31,820 --> 00:29:36,170
+- Are you crazy? What are you saying?
+ - What? Am I wrong?
+
+349
+00:29:36,170 --> 00:29:38,630
+Boss, he's just saying random things.
+
+350
+00:29:38,630 --> 00:29:43,560
+Let me tell you. In my dictionary, the word "lose" doesn't exist.
+
+351
+00:29:43,560 --> 00:29:45,420
+Understood?
+
+352
+00:29:49,290 --> 00:29:53,100
+Let me ask you. You are all educated people.
+
+353
+00:29:53,100 --> 00:29:56,740
+After so many years, do you still remember 1st Place in your class?
+
+354
+00:29:56,740 --> 00:29:59,980
+I remember. I remember clearly. Homeroom teacher praised him every day.
+
+355
+00:29:59,980 --> 00:30:02,350
+Then, who remembers 2nd Place?
+
+356
+00:30:09,240 --> 00:30:13,510
+For something like CTF, it's best you don't get into it.
+ <i>(T/N: CTF - "Capture the flag (base)" competition between two companies.)</i>
+
+357
+00:30:13,510 --> 00:30:17,260
+If you are in it, then you must show some results! Do you hear me?
+
+358
+00:30:17,260 --> 00:30:18,480
+Understood...
+
+359
+00:30:18,480 --> 00:30:22,000
+- Louder!
+ - We understand, Boss!
+
+360
+00:30:24,060 --> 00:30:25,760
+Go eat.
+
+361
+00:30:26,300 --> 00:30:28,550
+Didn't I speak the truth?
+
+362
+00:30:31,940 --> 00:30:41,810
+<i> Timing and Subtitles Brought To You By The 🍯 Honey Stewed 🐙 Squid Team @ Viki 
+Ripped & Resync By HiDeYuKi KaKaShI</i>
+
+363
+00:30:51,850 --> 00:30:55,160
+Little Bai, come out for a second.
+
+364
+00:31:06,470 --> 00:31:09,220
+With you like this, they are under lots of pressure.
+
+365
+00:31:09,220 --> 00:31:12,860
+If they can't withstand this bit of pressure, how can they compete professionally?
+
+366
+00:31:12,860 --> 00:31:15,180
+What a joke!
+
+367
+00:31:15,180 --> 00:31:17,670
+Help me... withdraw some money.
+
+368
+00:31:17,670 --> 00:31:20,430
+The password is 214214.
+
+369
+00:31:21,210 --> 00:31:22,270
+Withdraw how much?
+
+370
+00:31:22,270 --> 00:31:24,770
+You decide. It's a New Year's red envelope.
+<i>(T/N: Traditional New Year's gift containing money)</i>
+
+371
+00:31:24,770 --> 00:31:27,250
+Didn't you already distribute the year-end rewards?
+
+372
+00:31:27,250 --> 00:31:29,060
+These are separate matters.
+
+373
+00:31:29,060 --> 00:31:33,220
+Year-end rewards are a must. This red envelope is just a little something from me.
+
+374
+00:31:33,220 --> 00:31:36,710
+Then... ‎¥500 per person?
+<i>(‎around $70)</i>
+
+375
+00:31:38,970 --> 00:31:42,520
+Make it ‎¥5,000 <i>(around $700)</i>. Let everyone have a good New Year's.
+
+376
+00:31:43,060 --> 00:31:47,230
+As your younger cousin, I get one, too. Right?
+
+377
+00:31:47,230 --> 00:31:51,020
+You get one. It's by the number of people, just take your share.
+
+378
+00:31:51,020 --> 00:31:52,800
+Oh right.
+
+379
+00:31:53,460 --> 00:31:56,080
+Do you know how to block someone on WeChat?
+
+380
+00:31:57,590 --> 00:32:00,870
+"Predestined Tonight Cafe?"
+
+381
+00:32:02,780 --> 00:32:04,770
+Did you go on a blind date?
+
+382
+00:32:05,470 --> 00:32:07,170
+This is an internet bar.
+
+383
+00:32:07,170 --> 00:32:10,650
+- They were hard-selling me food and even added my WeChat.
+ - Then block them or delete them.
+
+384
+00:32:10,650 --> 00:32:12,910
+It's very easy. Let me help you.
+
+385
+00:32:12,910 --> 00:32:15,800
+Forget it. It's too troublesome. Just leave it.
+
+386
+00:32:16,520 --> 00:32:18,850
+You, go get them some good food.
+
+387
+00:32:18,850 --> 00:32:21,680
+If anything isn't enough, just add it.
+
+388
+00:32:21,680 --> 00:32:24,110
+I am going out of town.
+
+389
+00:32:24,110 --> 00:32:27,130
+Understood. How many days?
+
+390
+00:32:27,130 --> 00:32:28,610
+Two days.
+
+391
+00:32:35,040 --> 00:32:36,930
+Boss has left?
+
+392
+00:32:42,170 --> 00:32:44,340
+Why did Boss leave?
+
+393
+00:32:44,790 --> 00:32:47,750
+- He went out of town.
+ - Went out of town for what?
+
+394
+00:32:48,380 --> 00:32:50,690
+No one ever knows what he wants to do.
+
+395
+00:32:50,690 --> 00:32:53,410
+Then... does that mean... we can eat?
+
+396
+00:32:53,410 --> 00:32:55,020
+That's right. I am hungry.
+
+397
+00:32:58,660 --> 00:33:00,050
+I'm starving!
+
+398
+00:33:00,050 --> 00:33:02,060
+I waited so long!
+
+399
+00:33:21,150 --> 00:33:23,240
+You're so annoying. You scared me.
+
+400
+00:33:23,240 --> 00:33:26,820
+Why are you always here by yourself, looking at your phone in a daze?
+
+401
+00:33:26,820 --> 00:33:30,070
+It's almost Winter Break and you are acting ill at ease...
+
+402
+00:33:30,070 --> 00:33:32,700
+Are you secretly planning a trip somewhere?
+
+403
+00:33:32,700 --> 00:33:34,290
+No, I didn't.
+
+404
+00:33:34,290 --> 00:33:37,380
+Didn't my younger cousin open an internet cafe? No one is watching it right now.
+
+405
+00:33:37,380 --> 00:33:41,900
+Whenever I have time during the Winter Break, I will go and help him out. I don't have time for a trip at all.
+
+406
+00:33:41,900 --> 00:33:47,780
+Let me tell you. You can't only think about studying, researching every day.
+
+407
+00:33:47,780 --> 00:33:50,020
+Winter break is finally here, and you're still helping others to look after their internet cafe?
+
+408
+00:33:50,020 --> 00:33:54,120
+Look over there. Who lives such a boring life?
+
+409
+00:33:54,120 --> 00:33:58,510
+You should start a romantic adventure.
+
+410
+00:34:00,860 --> 00:34:04,660
+Yaya, what does it feel like when you like a person?
+
+411
+00:34:06,730 --> 00:34:08,360
+Do you have someone that you like already?
+
+412
+00:34:08,360 --> 00:34:10,600
+What are you talking about? I don't.
+
+413
+00:34:10,600 --> 00:34:12,880
+You— How dare you.
+
+414
+00:34:18,290 --> 00:34:20,270
+You like Zheng Hui? It's Zheng Hui!
+
+415
+00:34:20,270 --> 00:34:22,950
+What nonsense are you saying? He is my senior.
+
+416
+00:34:22,950 --> 00:34:26,130
+Senior Zheng Hui is a very honest person. Don't make a joke like that.
+
+417
+00:34:30,430 --> 00:34:31,790
+Here you go.
+
+418
+00:34:31,790 --> 00:34:33,230
+- Thank you.
+ - Thank you.
+
+419
+00:34:33,230 --> 00:34:36,450
+Drink a cup of juice every day to supplement vitamin C.
+
+420
+00:34:39,990 --> 00:34:41,910
+Yaya,
+
+421
+00:34:41,910 --> 00:34:44,820
+I have something to tell you privately.
+
+422
+00:34:44,820 --> 00:34:47,910
+- Can I?
+ - Me?
+
+423
+00:34:47,910 --> 00:34:50,690
+Is it not Nian Nian?
+
+424
+00:34:52,400 --> 00:34:54,060
+You.
+
+425
+00:34:56,470 --> 00:34:58,290
+Just for a while. Just for a while.
+
+426
+00:34:58,290 --> 00:34:59,430
+Okay.
+
+427
+00:34:59,430 --> 00:35:02,610
+Just a little while. Go. Just a little while.
+
+428
+00:35:02,610 --> 00:35:05,560
+Tong Nian, I'll come back to find you later.
+
+429
+00:35:05,560 --> 00:35:07,960
+Okay.
+
+430
+00:35:08,620 --> 00:35:11,360
+You must wait for me!
+
+431
+00:35:18,250 --> 00:35:20,940
+<i> [Shanghai Jiaodong University] </i>
+
+432
+00:35:20,940 --> 00:35:23,760
+Yaya, come here. Yaya.
+
+433
+00:35:25,960 --> 00:35:30,110
+I want to tell you that...
+
+434
+00:35:33,950 --> 00:35:37,120
+Yaya, I always thought you were a good person.
+
+435
+00:35:37,120 --> 00:35:39,500
+We've known each other for a long time.
+
+436
+00:35:39,500 --> 00:35:44,030
+You're really pretty and you have good grades. Right?
+
+437
+00:35:44,030 --> 00:35:45,570
+Yes.
+
+438
+00:35:46,540 --> 00:35:50,440
+Tong Nian... She's a very good person, too.
+
+439
+00:35:50,440 --> 00:35:52,670
+Her grades are good, too.
+
+440
+00:35:52,670 --> 00:35:55,900
+I think she looks very pretty, too.
+
+441
+00:35:55,900 --> 00:35:57,740
+So, I...
+
+442
+00:35:58,340 --> 00:35:59,320
+You...
+
+443
+00:35:59,320 --> 00:36:02,040
+So I... I want...
+
+444
+00:36:02,040 --> 00:36:03,530
+You want to...?
+
+445
+00:36:03,530 --> 00:36:05,360
+I want... I—
+
+446
+00:36:06,080 --> 00:36:07,620
+You...
+
+447
+00:36:09,530 --> 00:36:13,780
+I know it now! You like Nian Nian. Isn’t that it?
+
+448
+00:36:14,290 --> 00:36:16,170
+I should've known earlier!
+
+449
+00:36:16,170 --> 00:36:19,430
+One cup of juice every day. So it’s like this.
+
+450
+00:36:19,430 --> 00:36:22,890
+Senior, you held it in for so long.
+
+451
+00:36:22,890 --> 00:36:25,680
+Yes, I held it in for so long.
+
+452
+00:36:25,680 --> 00:36:28,550
+N-No... I just think that Nian Nian is too amazing.
+
+453
+00:36:28,550 --> 00:36:31,160
+I'm scared that she will reject me. I had no other choice, so I—
+
+454
+00:36:31,160 --> 00:36:35,020
+You don't have to worry. You're amazing, too. You both are top students.
+
+455
+00:36:35,020 --> 00:36:38,390
+Top student plus top student is 100%.
+
+456
+00:36:38,390 --> 00:36:42,460
+Since I also get juice every morning, I'll definitely help you.
+
+457
+00:36:42,460 --> 00:36:44,530
+Really?
+
+458
+00:36:44,530 --> 00:36:48,100
+- Then... you must help me. Thank you!
+ - You’re welcome.
+
+459
+00:36:48,100 --> 00:36:50,050
+- Thank you!
+ - No problem!
+ - Thank you!
+
+460
+00:36:50,050 --> 00:36:51,580
+- Senior, senior. You're too polite.
+ - Thank you, Yaya.
+
+461
+00:36:51,580 --> 00:36:54,190
+- Really you don't have to.
+ - Really, thank you very much.
+
+462
+00:36:59,670 --> 00:37:04,230
+<i>[Convenience Store]</i>
+
+463
+00:37:19,910 --> 00:37:25,090
+Whatever you want to buy, take it yourself. Pay as indicated and put the money on the table.
+
+464
+00:37:25,090 --> 00:37:27,700
+If you want change, take it from the box.
+
+465
+00:37:27,700 --> 00:37:31,530
+We don't support Alipay or Apple Pay.
+
+466
+00:37:34,050 --> 00:37:37,520
+How much will it cost to buy you?
+
+467
+00:37:37,520 --> 00:37:40,220
+<i>[Mi Shaofei]</i>
+
+468
+00:37:52,250 --> 00:37:54,160
+Han Shangyan.
+
+469
+00:37:58,670 --> 00:38:01,750
+♫ <i>Today I saw snow drifting through the cold night</i> ♫
+
+470
+00:38:01,750 --> 00:38:05,110
+♫ <i>With the cold heart, I drift off to faraway places</i> ♫
+
+471
+00:38:05,110 --> 00:38:06,900
+I thought you wouldn't come back.
+
+472
+00:38:06,900 --> 00:38:08,900
+How is that possible?
+
+473
+00:38:08,900 --> 00:38:10,980
+I came back to find you.
+
+474
+00:38:13,010 --> 00:38:17,530
+I... I thought I would never see you again.
+
+475
+00:38:19,410 --> 00:38:23,590
+- Why are you like a little girl? Still crying?
+ - Get out!
+
+476
+00:38:25,990 --> 00:38:29,630
+Are you staying here today? Let's go get a drink.
+
+477
+00:38:29,630 --> 00:38:30,880
+You’re not looking after the store anymore?
+
+478
+00:38:30,880 --> 00:38:34,170
+Boss is not opening today. Let’s go!
+
+479
+00:38:34,170 --> 00:38:38,480
+I still have to go and see a competition. I can only stay here for a day.
+
+480
+00:38:39,810 --> 00:38:44,720
+Genius Old Han is back in the game.
+
+481
+00:38:44,720 --> 00:38:47,330
+Where is the competition? I will for sure go and support you.
+
+482
+00:38:47,330 --> 00:38:51,680
+I told you that you shouldn't have retired.
+
+483
+00:38:51,680 --> 00:38:54,710
+I'm already thirty years old. How could I still play?
+
+484
+00:38:54,710 --> 00:38:58,210
+Listen to me. You were born for CTF.
+
+485
+00:38:58,210 --> 00:39:02,190
+Every time you enter a competition, you are always the champion.
+
+486
+00:39:05,650 --> 00:39:08,180
+Let's not talk about me. I’m talking about you.
+
+487
+00:39:11,000 --> 00:39:13,920
+Say what about me?
+
+488
+00:39:14,950 --> 00:39:16,680
+Sit.
+
+489
+00:39:16,680 --> 00:39:18,530
+Talk slowly.
+
+490
+00:39:23,990 --> 00:39:27,660
+Five years ago, I started a CTF club.
+
+491
+00:39:27,660 --> 00:39:31,650
+The headquarters is in Norway. After a few years, we've received decent results.
+
+492
+00:39:31,650 --> 00:39:36,770
+So, I came back with some investment money to build a Chinese branch.
+
+493
+00:39:36,770 --> 00:39:40,760
+Even though it's not huge, our results have been pretty good.
+
+494
+00:39:42,910 --> 00:39:45,860
+This group of kids are pretty good.
+
+495
+00:39:45,860 --> 00:39:49,880
+That's mind-blowing news, Han Shangyan.
+
+496
+00:39:51,710 --> 00:39:53,540
+Wait.
+
+497
+00:39:56,150 --> 00:40:00,460
+K&K Club's headquarters is in Norway?
+
+498
+00:40:02,060 --> 00:40:02,900
+Yes.
+
+499
+00:40:02,900 --> 00:40:06,340
+You're the boss of K&K Club?
+
+500
+00:40:06,340 --> 00:40:08,000
+Yes.
+
+501
+00:40:08,730 --> 00:40:13,800
+Whoa, Han Shangyan. You’re so not easy.
+
+502
+00:40:13,800 --> 00:40:16,460
+You're still following this circle?
+
+503
+00:40:18,110 --> 00:40:22,450
+I don't really have any hobbies, so I occasionally look at the news for this circle.
+
+504
+00:40:22,450 --> 00:40:26,980
+Sometimes I feel sad after seeing the news, so I'd rather not follow it.
+
+505
+00:40:28,020 --> 00:40:29,730
+You can’t let go?
+
+506
+00:40:30,310 --> 00:40:33,940
+I can't really say. I don't know.
+
+507
+00:40:35,120 --> 00:40:38,610
+If you can't let go, then come and help me.
+
+508
+00:40:42,220 --> 00:40:44,230
+Stop kidding.
+
+509
+00:40:44,800 --> 00:40:47,750
+Do you think I’m kidding, Little Mi?
+
+510
+00:40:47,750 --> 00:40:50,700
+Come to my team. Help me fight in the competition.
+
+511
+00:40:50,700 --> 00:40:52,480
+Old arms, old legs. Can't play.
+
+512
+00:40:52,480 --> 00:40:56,500
+You're younger than me. How could you say you're old?
+
+513
+00:40:56,500 --> 00:41:00,890
+I came all the way from Shanghai just to look for you.
+
+514
+00:41:01,510 --> 00:41:06,520
+I don't have the energy, endurance, and technique anymore.
+
+515
+00:41:06,520 --> 00:41:09,580
+Alright, let’s not talk anymore. Let’s go drink some wine.
+
+516
+00:41:09,580 --> 00:41:12,700
+Today, I invited someone that you will want to see.
+
+517
+00:41:12,700 --> 00:41:16,130
+- Who is it?
+ - You’ll know when we get there. Let's go.
+
+518
+00:41:19,970 --> 00:41:21,770
+Let’s go.
+
+519
+00:41:28,670 --> 00:41:32,100
+You're being so mysterious. Am I meeting your girlfriend?
+
+520
+00:41:32,100 --> 00:41:35,980
+What girlfriend? Who will be interested in me?
+
+521
+00:41:40,080 --> 00:41:41,860
+He’s here!
+
+522
+00:41:42,820 --> 00:41:45,380
+This place is pretty nice.
+
+523
+00:41:46,270 --> 00:41:48,320
+<i>[Ou Qiang / All: SP Team Member] </i>
+
+524
+00:41:49,060 --> 00:41:50,960
+Old Han?
+
+525
+00:41:53,820 --> 00:41:55,050
+When did you come back?
+
+526
+00:41:55,050 --> 00:41:58,270
+You get dumb once you see me. What's the problem?
+
+527
+00:41:58,270 --> 00:42:01,770
+What's there to be dumb about? Who have I ever been scared of?
+
+528
+00:42:01,770 --> 00:42:04,360
+I just didn't think you would come back.
+
+529
+00:42:06,000 --> 00:42:09,030
+- Today, I brought you guys someone.
+ - Who?
+
+530
+00:42:14,190 --> 00:42:20,670
+<i> Timing and Subtitles Brought To You By The 🍯 Honey Stewed 🐙 Squid Team @ Viki 
+Ripped & Resync By HiDeYuKi KaKaShI</i>
+
+531
+00:42:20,670 --> 00:42:22,920
+<i>Milk Bread by Yang Zi</i>
+
+532
+00:42:22,920 --> 00:42:27,140
+♫ <i>How was my heartbeat rattled by you?</i> ♫
+
+533
+00:42:27,140 --> 00:42:31,340
+♫ <i>I want to immediately move into your eyes as a dock</i> ♫
+
+534
+00:42:31,340 --> 00:42:33,400
+♫ <i>A strange love raises a storm</i> ♫
+
+535
+00:42:33,400 --> 00:42:38,810
+♫ <i>In the blink of an eye, our restraints were forgotten</i> ♫
+
+536
+00:42:39,630 --> 00:42:43,880
+♫ <i>Longing is a type of poison, it is difficult to give up</i> ♫
+
+537
+00:42:43,880 --> 00:42:47,980
+♫ <i>Once my mind is set that you are my only coordinate</i> ♫
+
+538
+00:42:47,980 --> 00:42:51,150
+♫ <i>How much more thoughts do I need</i> ♫
+
+539
+00:42:51,150 --> 00:42:56,910
+♫ <i>So I can monopolize your embrace?</i> ♫
+
+540
+00:42:56,910 --> 00:43:01,080
+♫ <i>Loving you is like milk loving bread</i> ♫
+
+541
+00:43:01,080 --> 00:43:05,230
+♫ <i>A couple made for each other. Once met, you’ll never be flung away</i> ♫
+
+542
+00:43:05,230 --> 00:43:09,970
+♫ <i>This kind of match has not too much, not too little, just sweet enough</i> ♫
+
+543
+00:43:09,970 --> 00:43:13,640
+♫ <i>Your smile is the exclusive recipe for happiness</i> ♫
+
+544
+00:43:13,640 --> 00:43:17,800
+♫ <i>Loving you is like milk loving bread</i> ♫
+
+545
+00:43:17,800 --> 00:43:21,960
+♫ <i>Sour-sweet and bitter-spicy are all love’s ingredients</i> ♫
+
+546
+00:43:21,960 --> 00:43:26,180
+♫ <i>Memories fermenting to bake a distinct flavor</i> ♫
+
+547
+00:43:26,180 --> 00:43:32,860
+♫ <i>Can you please be my support forever?</i> ♫
+
+548
+00:43:34,430 --> 00:43:38,640
+♫ <i>Loving you is like milk loving bread</i> ♫
+
+549
+00:43:38,640 --> 00:43:42,790
+♫ <i>A couple made for each other. Once met, you’ll never be flung away</i> ♫
+
+550
+00:43:42,790 --> 00:43:47,570
+♫ <i>This kind of match has not too much, not too little, just sweet enough</i> ♫
+
+551
+00:43:47,570 --> 00:43:51,210
+♫ <i>Your smile is the exclusive recipe for happiness</i> ♫
+
+552
+00:43:51,210 --> 00:43:55,340
+♫ <i>Loving you is like milk loving bread</i> ♫
+
+553
+00:43:55,340 --> 00:43:59,520
+♫ <i>Sour-sweet and bitter-spicy are all love’s ingredients</i> ♫
+
+554
+00:43:59,520 --> 00:44:03,730
+♫ <i>Memories fermenting to bake a distinct flavor</i> ♫
+
+555
+00:44:03,730 --> 00:44:10,080
+♫ <i>Can you please be my support forever?</i> ♫
+
