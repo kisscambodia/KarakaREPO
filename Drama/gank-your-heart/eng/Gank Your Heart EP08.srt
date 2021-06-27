@@ -1,2408 +1,2252 @@
-1
-00:01:30,900 --> 00:01:35,000
-GANK YOUR HEART
+﻿1
+00:01:39,780 --> 00:01:41,340
+You want me to transfer to Chuan Qi.
 
 2
-00:01:35,775 --> 00:01:38,200
-Episode Eight
+00:01:44,740 --> 00:01:46,540
+Your contract with Wei Teng is about to be up.
 
 3
-00:01:38,950 --> 00:01:40,625
-You want me to transfer to Legends?
+00:01:47,020 --> 00:01:48,780
+If you could come to Chuan Qi,
 
 4
-00:01:43,800 --> 00:01:44,824
-Your contract with VNG
+00:01:48,780 --> 00:01:52,450
+I will give all the best resources to you,
 
 5
-00:01:44,824 --> 00:01:45,857
-is about to expire.
+00:01:52,690 --> 00:01:56,170
+and turn you into a Dian Feng king who’s stronger than Gu Fang.
 
 6
-00:01:46,225 --> 00:01:48,075
-If you come to Legends,
+00:02:00,330 --> 00:02:03,470
+Today, I come with 100% sincerity to discuss with you.
 
 7
-00:01:48,425 --> 00:01:51,625
-I will give the best resources all on you.
+00:02:04,070 --> 00:02:07,030
+As long as you’re willing, I will accept anything. Really.
 
 8
-00:01:51,625 --> 00:01:55,100
-Make you the king of the IConquer, better than Gu Fang.
+00:02:09,350 --> 00:02:10,510
+Who will be Team Lead?
 
 9
-00:01:59,400 --> 00:02:02,645
-Today, I come with one hundred percent of sincerity.
+00:02:12,550 --> 00:02:13,630
+Will it be Ji Xiang Kong?
 
 10
-00:02:02,950 --> 00:02:04,025
-As long as you like，
+00:02:13,630 --> 00:02:17,070
+According to you,we can go ahead and sign Pei Xi.
 
 11
-00:02:04,300 --> 00:02:06,100
-I can accept everything. Really.
+00:02:17,350 --> 00:02:19,430
+Of course. I closed it myself.
 
 12
-00:02:08,275 --> 00:02:09,500
-Who will be the captain?
+00:02:19,830 --> 00:02:23,590
+Plus your reputation and power in the field, it won’t be a problem.
 
 13
-00:02:11,300 --> 00:02:12,850
-Ji Xiangkong?
-
-14
-00:02:13,875 --> 00:02:14,750
-As you say,
-
-15
-00:02:14,800 --> 00:02:16,225
-we can sign Pei Xi for sure?
-
-16
-00:02:16,300 --> 00:02:18,550
-Of Course. I handle this personally，
-
-17
-00:02:18,875 --> 00:02:21,250
-with your strength and prestige in the field.
-
-18
-00:02:21,350 --> 00:02:22,575
-That’s certainly not a problem.
-
-19
-00:02:24,025 --> 00:02:24,875
+00:02:25,190 --> 00:02:25,910
 Indeed.
 
+14
+00:02:26,510 --> 00:02:27,790
+Candidates who can replace a star
+
+15
+00:02:28,110 --> 00:02:29,830
+player like Gu Fang are few and far between.
+
+16
+00:02:29,950 --> 00:02:30,830
+Yeah.
+
+17
+00:02:31,940 --> 00:02:32,940
+Quickly get on it.
+
+18
+00:02:34,420 --> 00:02:39,260
+There’s one problem. He wants to be Team Lead.
+
+19
+00:02:40,660 --> 00:02:42,840
+This was his only condition for signing with us.
+
 20
-00:02:25,325 --> 00:02:28,900
-Now, the star players who can replace Gu Fang is very limited.
+00:02:45,800 --> 00:02:46,480
+President Jin.
 
 21
-00:02:29,075 --> 00:02:29,800
-True.
+00:02:47,280 --> 00:02:49,800
+I think that this Pei Xi,
 
 22
-00:02:30,625 --> 00:02:31,700
-Then harry up.
+00:02:50,080 --> 00:02:52,880
+regardless of ability or reputation or future potential,
 
 23
-00:02:33,150 --> 00:02:34,250
-There is one problem.
+00:02:53,600 --> 00:02:55,720
+is a hundred times stronger than Ji Xiang Kong.
 
 24
-00:02:37,000 --> 00:02:38,078
-He wants to be the captain.
+00:02:57,960 --> 00:02:58,920
+You said it yourself.
 
 25
-00:02:39,350 --> 00:02:41,550
-It’s the only condition for him to get signed.
+00:02:59,440 --> 00:03:01,750
+Pei Xi may very well be the next Gu Fang.
 
 26
-00:02:44,575 --> 00:02:45,175
-Chairman Jing.
+00:03:03,470 --> 00:03:04,230
+You don’t know this,
 
 27
-00:02:46,000 --> 00:02:47,100
-I think，
+00:03:04,430 --> 00:03:05,390
+but once the news
 
 28
-00:02:47,675 --> 00:02:48,850
-this Pei Xi，
+00:03:06,590 --> 00:03:09,350
+of Ji Xiang Kong taking up the deputy Team Lead
 
 29
-00:02:48,975 --> 00:02:51,975
-no matter from ability, reputation, to development prospect，
+00:03:09,470 --> 00:03:10,270
+role spreads,
 
 30
-00:02:52,275 --> 00:02:54,500
-is a hundred times stronger than Ji Xiangkong.
+00:03:10,390 --> 00:03:15,180
+the others will talk and think badly of us.
 
 31
-00:02:56,500 --> 00:02:57,825
-As you just said,
+00:03:18,180 --> 00:03:20,060
+But the matter of Team Lead has been discussed
 
 32
-00:02:57,950 --> 00:03:00,300
-Pei Xi might be the next Gu Fang.
+00:03:20,180 --> 00:03:21,140
+and agreed with Gu Fang.
 
 33
-00:03:01,975 --> 00:03:03,025
-You don’t know.
+00:03:22,050 --> 00:03:22,850
+If Ji Xiang Kong
 
 34
-00:03:03,025 --> 00:03:04,151
-This…
+00:03:23,210 --> 00:03:25,410
+wins the new inner competition, he will join us.
 
 35
-00:03:05,275 --> 00:03:06,275
-Ji Xiangkong.
+00:03:27,330 --> 00:03:28,610
+We can’t go back on our word.
 
 36
-00:03:06,775 --> 00:03:09,275
-When the news of him being the acting captain came out,
+00:03:31,650 --> 00:03:35,210
+President Jin.Gu Fang has left.
 
 37
-00:03:09,300 --> 00:03:11,275
-the crowd was booing.
+00:03:35,610 --> 00:03:37,850
+We can’t keep on protecting his feelings
 
 38
-00:03:11,900 --> 00:03:13,825
-People doubted us.
+00:03:38,170 --> 00:03:40,170
+if it affects our team’s growth and future.
 
 39
-00:03:16,881 --> 00:03:17,850
-But, this thing about captain,
-
-40
-00:03:17,900 --> 00:03:19,800
-we already promised to Gu Fang.
-
-41
-00:03:20,450 --> 00:03:21,450
-As long as Ji Xiangkong
-
-42
-00:03:21,525 --> 00:03:22,900
-wins the new close beta test,
-
-43
-00:03:23,100 --> 00:03:24,075
-he will become the formal captain.
-
-44
-00:03:25,675 --> 00:03:27,050
-We can’t take our words back，right？
-
-45
-00:03:30,175 --> 00:03:30,725
-Chairman Jing.
-
-46
-00:03:31,700 --> 00:03:33,750
-Gu Fang has gone.
-
-47
-00:03:33,800 --> 00:03:36,250
-We can’t take care of his feelings all the time,
-
-48
-00:03:36,475 --> 00:03:39,699
-influencing our team’s development and future. Right?
-
-49
-00:03:41,300 --> 00:03:45,267
-Instead of having Pei Xi as such a strong competitor,
-
-50
-00:03:46,425 --> 00:03:49,000
-it’s better to turn him into our man.
-
-51
-00:03:49,650 --> 00:03:50,650
-What do you think？
-
-52
-00:03:54,125 --> 00:03:55,100
-OK. OK.
-
-53
-00:03:55,575 --> 00:03:56,300
-Ok. President Zhao.
-
-54
-00:03:56,425 --> 00:03:57,750
-Just leave this thing to me.
-
-55
-00:03:58,150 --> 00:03:58,675
-Bye.
-
-56
-00:03:58,775 --> 00:03:59,450
-Sister Xin.
-
-57
-00:04:01,075 --> 00:04:02,198
-Your coffee.
-
-58
-00:04:02,925 --> 00:04:03,775
-Thanks!
-
-59
-00:04:04,775 --> 00:04:06,150
-Today's temperature is quite comfortable.
-
-60
-00:04:11,075 --> 00:04:12,125
-It also tastes good!
-
-61
-00:04:12,325 --> 00:04:14,950
-If you like, I can buy you coffee everyday.
-
-62
-00:04:16,125 --> 00:04:19,425
-I just got a call from my friend in an advertising company.
-
-63
-00:04:19,425 --> 00:04:22,075
-They need to find a model to shoot underwear ads.
-
-64
-00:04:22,700 --> 00:04:24,650
-I remember you’ve done commercials before, right?
-
-65
-00:04:25,200 --> 00:04:26,400
-You should be quite suitable.
-
-66
-00:04:27,400 --> 00:04:28,400
-Underwear ads?
-
-67
-00:04:29,675 --> 00:04:31,325
-Pay this much.
-
-68
-00:04:33,775 --> 00:04:35,075
-Three thousands yuan?
-
-69
-00:04:35,950 --> 00:04:36,975
-With only three thousand yuan,
-
-70
-00:04:37,050 --> 00:04:38,275
-how could I introduce it to you?
-
-71
-00:04:40,400 --> 00:04:42,500
-Right now, all the host in the company,
-
-72
-00:04:43,250 --> 00:04:44,900
-are about to transit to the IConcquer version.
-
-73
-00:04:46,000 --> 00:04:47,900
-You should know the situation of Qiu Ying.
-
-74
-00:04:49,142 --> 00:04:51,125
-The ranking of her show has plummeted.
-
-75
-00:04:51,450 --> 00:04:53,175
-It is a rough road.
-
-76
-00:04:53,925 --> 00:04:56,450
-Your situation will only be worser, right?
-
-77
-00:04:57,200 --> 00:05:01,275
-I heard that your bonus has been deducted till next year.
-
-78
-00:05:03,950 --> 00:05:05,600
-I truly need money in urgent.
-
-79
-00:05:08,375 --> 00:05:10,625
-As the saying goes, no matter how close a friends is,
-
-80
-00:05:10,875 --> 00:05:13,500
-if she can't help you when you are in need,
-
-81
-00:05:13,625 --> 00:05:15,170
-then that's not a real friend.
-
-82
-00:05:18,500 --> 00:05:19,350
-Yanyan.
-
-83
-00:05:19,600 --> 00:05:22,225
-I am just a straightforward person.
-
-84
-00:05:22,800 --> 00:05:23,875
-People who don’t know me
-
-85
-00:05:24,175 --> 00:05:25,550
-think I have a bad temper.
-
-86
-00:05:26,000 --> 00:05:28,431
-But, actually, I'm very, very chivalric.
-
-87
-00:05:29,525 --> 00:05:32,975
-Well, you call me sister Xin, right?
-
-88
-00:05:33,350 --> 00:05:34,475
-If you have any trouble in the future,
-
-89
-00:05:34,575 --> 00:05:37,025
-tell me, I will definitely help you.
-
-90
-00:05:38,050 --> 00:05:39,050
-Thanks, sister Xin!
-
-91
-00:05:39,550 --> 00:05:41,775
-Not a problem. Don’t mention it.
-
-92
-00:05:42,375 --> 00:05:43,200
-Let’s go!
-
-93
-00:06:25,375 --> 00:06:26,350
-Using creator,
-
-94
-00:06:26,525 --> 00:06:27,675
-without extremely fast APM,
-
-95
-00:06:27,850 --> 00:06:29,500
-it’s almost impossible to complete this series of moves.
-
-96
-00:06:30,725 --> 00:06:31,950
-It seems like Summer’s cousin
-
-97
-00:06:32,725 --> 00:06:33,975
-is even better than Summer.
-
-98
-00:06:35,200 --> 00:06:36,600
-I am Pei Xi.
-
-99
-00:06:37,125 --> 00:06:37,800
-What do you think?
-
-100
-00:06:38,975 --> 00:06:40,400
-Are you interested in joining VNG？
-
-101
-00:06:41,225 --> 00:06:42,350
-Why should I join？
-
-102
-00:06:42,725 --> 00:06:45,600
-Because you need a real strong team
-
-103
-00:06:45,775 --> 00:06:47,475
-to help you win the world champion.
-
-104
-00:06:49,800 --> 00:06:50,925
-If it’s because of Summer,
-
-105
-00:06:52,050 --> 00:06:53,325
-I don’t need.
-
-106
-00:06:54,625 --> 00:06:57,325
-I always let my work speak for itself.
-
-107
-00:06:57,975 --> 00:07:03,200
-I am not going to ruin VNG out of my respect for Summer.
-
-108
-00:07:22,450 --> 00:07:25,325
-True strength is not just individual ability.
-
-109
-00:07:25,675 --> 00:07:28,175
-After all, this is a team game.
-
-110
-00:07:28,200 --> 00:07:29,400
-So these years,
-
-111
-00:07:29,400 --> 00:07:33,125
-VNG always missed the champion, right?
-
-112
-00:07:59,725 --> 00:08:00,600
-So late？
-
-113
-00:08:01,400 --> 00:08:02,525
-Who is it？
-
-114
-00:08:03,325 --> 00:08:05,075
-It’s me. Yanyan.
-
-115
-00:08:05,400 --> 00:08:06,275
-Coming.
-
-116
-00:08:10,700 --> 00:08:12,325
-Yanyan？Coming. Coming.
-
-117
-00:08:12,750 --> 00:08:14,000
-Come. Coming. 
-
-118
-00:08:15,100 --> 00:08:16,775
-Why do you come so late?
-
-119
-00:08:16,950 --> 00:08:17,625
-What’s going on?
-
-120
-00:08:17,750 --> 00:08:19,125
-No need to change shoes. Coming. Coming.
-
-121
-00:08:21,475 --> 00:08:24,725
-I… I had a fight with my boyfriend.
-
-122
-00:08:25,000 --> 00:08:26,175
-Nowhere to go,
-
-123
-00:08:26,800 --> 00:08:27,650
-so I come here to see you.
-
-124
-00:08:27,650 --> 00:08:28,625
-He bullied you？
-
-125
-00:08:29,350 --> 00:08:31,875
-Why don‘t you call me？I can pick you up.
-
-126
-00:08:31,875 --> 00:08:33,200
-No worry, just stay with me tonight.
-
-127
-00:08:33,575 --> 00:08:34,525
-Sit. Sit. Sit.
-
-128
-00:08:35,750 --> 00:08:37,050
-Do you feel cold wearing so little?
-
-129
-00:08:38,325 --> 00:08:39,125
-Are you hungry?
-
-130
-00:08:39,525 --> 00:08:40,375
-Haven't you eaten yet?
-
-131
-00:08:40,500 --> 00:08:41,775
-Do you want me to cook something for you?
-
-132
-00:08:45,834 --> 00:08:46,986
-Fine. Just sit there.
-
-133
-00:08:46,986 --> 00:08:48,111
-I will cook noodles for you.
-
-134
-00:08:58,350 --> 00:08:59,225
-Qiu Ying.
-
-135
-00:09:00,425 --> 00:09:01,300
-I am sorry.
-
-136
-00:09:02,500 --> 00:09:04,325
-I have no alternative.
-
-137
-00:09:18,400 --> 00:09:19,400
-Yanyan！
-
-138
-00:09:19,950 --> 00:09:21,325
-Do you eat spicy？
-
-139
-00:09:23,175 --> 00:09:24,375
-Sure.
-
-140
-00:09:25,025 --> 00:09:26,200
-I remember that.
-
-141
-00:09:26,200 --> 00:09:27,650
-Then, I will put more chilli in.
-
-142
-00:09:31,125 --> 00:09:32,400
-OK.
-
-143
-00:10:17,600 --> 00:10:18,325
-Yiyi.
-
-144
-00:10:18,775 --> 00:10:20,925
-You've been here for a while.
-
-145
-00:10:21,450 --> 00:10:23,800
-Your heart is still not calming down.
-
-146
-00:10:25,806 --> 00:10:26,850
-Director.
-
-147
-00:10:27,075 --> 00:10:29,950
-I, I really want to follow the news.
-
-148
-00:10:30,625 --> 00:10:31,750
-I have told you,
-
-149
-00:10:32,100 --> 00:10:33,625
-gathering information about competitors,
-
-150
-00:10:33,750 --> 00:10:36,075
-finding an unique view is enough.
-
-151
-00:10:36,775 --> 00:10:38,100
-This is also a skill.
-
-152
-00:10:39,650 --> 00:10:40,275
-But…
-
-153
-00:10:41,800 --> 00:10:43,150
-Besides, how can those breaking news
-
-154
-00:10:43,450 --> 00:10:45,600
-be reported by a small magazine like ours?
-
-155
-00:10:54,025 --> 00:10:55,050
-Oh my God!
-
-156
-00:10:55,870 --> 00:10:56,475
-Director!
-
-157
-00:10:57,000 --> 00:10:58,350
-There is a breaking news!
-
-158
-00:10:59,125 --> 00:11:00,775
-Pei xi’s main champion, Creator,
-
-159
-00:11:00,925 --> 00:11:03,225
-can pentakill three times at most in one game.
-
-160
-00:11:04,175 --> 00:11:05,675
-I have tried this champion’s abilities before.
-
-161
-00:11:06,000 --> 00:11:07,225
-It can release enormous power instantly,
-
-162
-00:11:07,575 --> 00:11:09,050
-sunstrike on the whole map，
-
-163
-00:11:09,425 --> 00:11:10,700
-and kill low HP heroes anywhere anytime.
-
-164
-00:11:11,500 --> 00:11:12,975
-Such a powerful champion！
-
-165
-00:11:13,475 --> 00:11:14,750
-Or let me practice this champion.
-
-166
-00:11:15,000 --> 00:11:15,875
-Come on you！
-
-167
-00:11:16,300 --> 00:11:17,525
-You are not Pei Xi.
-
-168
-00:11:18,125 --> 00:11:20,500
-I think I and Pei Xi will go fifty-fifty.
-
-169
-00:11:22,300 --> 00:11:23,425
-In terms of personal strength,
-
-170
-00:11:23,550 --> 00:11:25,425
-none of us is his opponent.
-
-171
-00:11:25,500 --> 00:11:26,975
-That’s right. So guys,
-
-172
-00:11:27,200 --> 00:11:29,075
-no matter who meet him,
-
-173
-00:11:29,925 --> 00:11:31,150
-don't think about anything.
-
-174
-00:11:31,375 --> 00:11:32,525
-Run quickly!
-
-175
-00:11:33,375 --> 00:11:34,525
-The best Mid.
-
-176
-00:11:35,100 --> 00:11:37,175
-I don’t believe there is no way we can get him.
-
-177
-00:11:38,475 --> 00:11:39,525
-There is a way.
-
-178
-00:11:40,350 --> 00:11:41,500
-As the best Mid,
-
-179
-00:11:41,650 --> 00:11:43,675
-a team with him is truly hard to beat.
-
-180
-00:11:44,100 --> 00:11:45,675
-But there is also one weakness.
-
-181
-00:11:45,775 --> 00:11:46,525
-You know what that is?
-
-182
-00:11:48,100 --> 00:11:48,525
-Brother Kong.
-
-183
-00:11:49,325 --> 00:11:49,925
-You know?
-
-184
-00:11:49,925 --> 00:11:51,100
-I don’t know. Come here see this.
-
-185
-00:11:51,125 --> 00:11:52,125
-Come. Come.
-
-186
-00:11:54,525 --> 00:11:56,800
-The second half of this video is fake!
-
-187
-00:11:56,875 --> 00:11:58,175
-Who made this?
-
-188
-00:11:58,400 --> 00:11:59,500
-What is this?
-
-189
-00:11:59,675 --> 00:12:00,775
-Isn’t this me?
-
-190
-00:12:00,950 --> 00:12:02,025
-Is me besides！
-
-191
-00:12:02,175 --> 00:12:03,900
-You were not there. This is not the actual case.
-
-192
-00:12:04,175 --> 00:12:05,500
-At that time, we…
-
-193
-00:12:06,125 --> 00:12:07,050
-Stop laughing!
-
-194
-00:12:07,400 --> 00:12:08,450
-The close beta test is about to start.
-
-195
-00:12:09,075 --> 00:12:10,100
-Uploading this kind of video at this time,
-
-196
-00:12:10,400 --> 00:12:11,150
-I'm afraid it's not that simple!
-
-197
-00:12:14,750 --> 00:12:15,575
-It makes sense.
-
-198
-00:12:42,500 --> 00:12:43,700
-Hey, Yiyi.
-
-199
-00:12:44,000 --> 00:12:46,550
-Big sis, did you just wake up? Do you know what time it is?
-
-200
-00:12:47,200 --> 00:12:48,900
-I stayed up all night yesterday.
-
-201
-00:12:49,250 --> 00:12:51,350
-So you must don't know what's going on right now！
-
-202
-00:12:51,850 --> 00:12:52,775
-What happened？
-
-203
-00:12:53,425 --> 00:12:55,175
-Now, you search the keywords，
-
-204
-00:12:55,175 --> 00:12:57,200
-Ji Xiangkong, quickly!
-
-205
-00:13:16,300 --> 00:13:17,400
-This full version!
-
-206
-00:13:17,600 --> 00:13:18,425
-Who sent this?
-
-207
-00:13:18,725 --> 00:13:21,625
-Right now, people online say that you uploaded this video.
-
-208
-00:13:22,550 --> 00:13:24,100
-How could this be possible?
-
-209
-00:13:24,100 --> 00:13:26,475
-I was there at the hotel parking lots.
-
-210
-00:13:26,925 --> 00:13:28,600
-This is totally different from what I saw.
-
-211
-00:13:28,725 --> 00:13:29,550
-Different?
-
-212
-00:13:31,925 --> 00:13:33,000
-What do you mean?
-
-213
-00:13:33,150 --> 00:13:36,175
-I didn’t see Ji Xiangkong beating anyone.
-
-214
-00:13:37,075 --> 00:13:38,350
-How could this video…
-
-215
-00:13:38,800 --> 00:13:39,700
-Are you sure?
-
-216
-00:13:40,175 --> 00:13:41,275
-Think it over!
-
-217
-00:13:41,750 --> 00:13:42,875
-I am pretty sure.
-
-218
-00:13:42,975 --> 00:13:45,825
-At that time, Ji Xiangkong just grabbed Jeffrey's collar.
-
-219
-00:13:47,900 --> 00:13:50,825
-Then, it seems like someone tries to frame Ji Xiangkong.
-
-220
-00:13:51,550 --> 00:13:52,683
-It may not be a bad idea.
-
-221
-00:13:52,700 --> 00:13:54,750
-This fraud. He picked on you so hard before.
-
-222
-00:13:55,100 --> 00:13:56,050
-This is a self-inflicted result.
-
-223
-00:13:56,475 --> 00:13:58,300
-Evil people are trapped in their own sins.
-
-224
-00:14:04,150 --> 00:14:05,650
-What’s going on?
-
-225
-00:14:06,125 --> 00:14:08,675
-These netizens really goes too far.
-
-226
-00:14:08,975 --> 00:14:09,850
-See this one.
-
-227
-00:14:10,125 --> 00:14:11,725
-Qiu Ying, get out of e-sports community!
-
-228
-00:14:11,725 --> 00:14:13,725
-Don't come out and harm people again！
-
-229
-00:14:14,600 --> 00:14:15,600
-God!
-
-230
-00:14:15,625 --> 00:14:16,325
-It’s so mean！
-
-231
-00:14:16,850 --> 00:14:17,925
-What do you think of this one？
-
-232
-00:14:18,200 --> 00:14:19,375
-This one is vicious！
-
-233
-00:14:20,725 --> 00:14:21,100
-As expected,
-
-234
-00:14:21,750 --> 00:14:24,025
-director Zhao's action has such an extraordinary impact.
-
-235
-00:14:24,725 --> 00:14:27,150
-It seems like we’ve all reached ours minor goals.
-
-236
-00:14:30,200 --> 00:14:33,325
-It's mainly about working with beauty Qiao seamlessly.
-
-237
-00:14:36,250 --> 00:14:37,775
-But then again,
-
-238
-00:14:38,150 --> 00:14:41,800
-these netizens believe that Qiu Ying is the one to blame right now.
-
-239
-00:14:41,950 --> 00:14:42,750
-Director Zhao,
-
-240
-00:14:43,050 --> 00:14:45,283
-don’t you think this lesson
-
-241
-00:14:45,923 --> 00:14:47,575
-is too light for her?
-
-242
-00:14:52,579 --> 00:14:54,479
-Great minds think alike.
-
-243
-00:14:57,300 --> 00:14:58,650
-The attorney letter for her
-
-244
-00:14:58,925 --> 00:15:00,575
-has been prepared long ago.
-
-245
-00:15:01,225 --> 00:15:03,450
-Director Zhao, impressive!
-
-246
-00:15:07,150 --> 00:15:10,125
-Well, later on,
-
-247
-00:15:10,675 --> 00:15:13,025
-how about going out for dinner?
-
-248
-00:15:14,900 --> 00:15:17,125
-Right. We must celebrate for this!
-
-249
-00:15:17,350 --> 00:15:17,900
-Yeah!
-
-250
-00:15:18,125 --> 00:15:19,050
-But, today, director Zhao.
-
-251
-00:15:19,375 --> 00:15:20,375
-Aren’t you supposed to go back first
-
-252
-00:15:20,400 --> 00:15:22,275
-to master the situation?
-
-253
-00:15:23,950 --> 00:15:24,875
-Should I?
-
-254
-00:15:26,450 --> 00:15:28,175
-Yeah. Sure.
-
-255
-00:15:29,825 --> 00:15:31,200
-Come on. Let me send you there!
-
-256
-00:15:31,950 --> 00:15:33,612
-You are very welcome! Come on!
-
-257
-00:15:40,800 --> 00:15:43,500
-Director Zhao. Just say what's going on.
-
-258
-00:15:50,125 --> 00:15:51,025
-Chairman Jing.
-
-259
-00:15:53,150 --> 00:15:54,600
-What？What’s the matter?
-
-260
-00:15:55,000 --> 00:15:56,100
-Well.
-
-261
-00:15:56,525 --> 00:15:57,450
-Here we go.
-
-262
-00:15:58,475 --> 00:16:01,375
-The source of that video has been found.
-
-263
-00:16:02,025 --> 00:16:03,700
-It’s the hostess of UXStar
-
-264
-00:16:04,775 --> 00:16:08,425
-who had conflict with Xi Xaingkong and Jeffery
-
-265
-00:16:08,525 --> 00:16:10,300
-in the last live streaming, Qiu Ying.
-
-266
-00:16:11,525 --> 00:16:12,375
-Director Zhao.
-
-267
-00:16:13,025 --> 00:16:15,275
-Is this your guess or there is real evidence?
-
-268
-00:16:18,975 --> 00:16:20,400
-Chairman Jing. Take a look.
-
-269
-00:16:23,700 --> 00:16:25,950
-The IP address of this video
-
-270
-00:16:26,325 --> 00:16:28,225
-and the IP of Qiu Ying's online streaming
-
-271
-00:16:28,725 --> 00:16:30,250
-come from the same place.
-
-272
-00:16:31,175 --> 00:16:34,119
-I already confirmed this. It’s the same.
-
-273
-00:16:35,050 --> 00:16:36,375
-What does she want?
-
-274
-00:16:38,200 --> 00:16:39,325
-What's wrong with this person?
-
-275
-00:16:42,875 --> 00:16:44,125
-Does she has hatred against us?
-
-276
-00:16:52,725 --> 00:16:55,500
-My phone was blessed up at noon today.
-
-277
-00:16:55,500 --> 00:16:56,925
-Everyone came to me and asked
-
-278
-00:16:57,675 --> 00:17:01,183
-what’s the relationship between commander Ji and Qiu Ying?
-
-279
-00:17:02,375 --> 00:17:04,800
-Besides, it’s spreading outside
-
-280
-00:17:05,950 --> 00:17:08,850
-that… our commander Ji
-
-281
-00:17:09,425 --> 00:17:11,100
-played with the girls’s feelings.
-
-282
-00:17:11,325 --> 00:17:12,300
-Stop it!
-
-283
-00:17:12,425 --> 00:17:14,375
-Right, I don’t believe it either!
-
-284
-00:17:15,200 --> 00:17:16,375
-I remember that
-
-285
-00:17:16,875 --> 00:17:18,875
-you and that Qiu… Qiu What?
-
-286
-00:17:19,025 --> 00:17:19,750
-Qiu Ying.
-
-287
-00:17:19,825 --> 00:17:20,375
-Right.
-
-288
-00:17:21,175 --> 00:17:22,825
-Didn’t you play duo together before？
-
-289
-00:17:24,175 --> 00:17:26,100
-Yes. I trapped her.
-
-290
-00:17:26,275 --> 00:17:27,200
-That’s why!
-
-291
-00:17:28,850 --> 00:17:29,750
-You trapped her.
-
-292
-00:17:29,925 --> 00:17:32,548
-She definitely will revenge, right?
-
-293
-00:17:33,350 --> 00:17:34,625
-Maybe.
-
-294
-00:17:35,125 --> 00:17:36,050
-Well then,
-
-295
-00:17:38,200 --> 00:17:39,950
-let’s arrange a media conference immediately.
-
-296
-00:17:41,475 --> 00:17:43,900
-You apologize for the conflict in person.
-
-297
-00:17:44,025 --> 00:17:44,675
-And
-
-298
-00:17:44,750 --> 00:17:46,525
-clarify your relationship with Qiu Ying.
-
-299
-00:17:47,675 --> 00:17:48,450
-Xiangkong,
-
-300
-00:17:48,900 --> 00:17:50,725
-you have to protect your image
-
-301
-00:17:51,300 --> 00:17:52,575
-in case of rumor spreading.
-
-302
-00:17:52,650 --> 00:17:53,575
-Do you understand？
-
-303
-00:17:54,500 --> 00:17:56,150
-Everyone was there at the scene.
-
-304
-00:17:56,200 --> 00:17:57,475
-Why should I apologize for something I didn’t do?
-
-305
-00:17:58,525 --> 00:18:00,400
-And that video is obviously fake.
-
-306
-00:18:00,925 --> 00:18:01,700
-Director Zhao,
-
-307
-00:18:01,975 --> 00:18:03,025
-if you have evidence,
-
-308
-00:18:03,175 --> 00:18:04,150
-sue Qiuying directly.
-
-309
-00:18:04,150 --> 00:18:05,525
-Let her prove my innocence.
-
-310
-00:18:06,875 --> 00:18:08,550
-I think Xiangkong is right.
-
-311
-00:18:08,850 --> 00:18:11,500
-This thing should be resolved by legal means.
-
-312
-00:18:11,900 --> 00:18:12,800
-Otherwise,
-
-313
-00:18:13,225 --> 00:18:14,475
-it will only dig a deeper hole.
-
-314
-00:18:15,875 --> 00:18:16,525
-Chairman Jing.
-
-315
-00:18:16,700 --> 00:18:17,700
-I have training.
-
-316
-00:18:17,900 --> 00:18:19,400
-If there is nothing else, I'm leaving.
-
-317
-00:18:22,650 --> 00:18:23,500
-Brother Xuan.
-
-318
-00:18:27,175 --> 00:18:28,850
-How is it? Is Qiu Ying?
-
-319
-00:18:29,200 --> 00:18:29,825
-It’s her.
-
-320
-00:18:30,200 --> 00:18:32,075
-I heard that the legal department has sent her the attorney letter.
-
-321
-00:18:33,450 --> 00:18:34,250
-Yixuan.
-
-322
-00:18:34,650 --> 00:18:36,475
-Do you think captain Ji and Qiu Ying have something…
-
-323
-00:18:37,850 --> 00:18:40,400
-I don’t know.
-
-324
-00:18:44,775 --> 00:18:45,800
-I'm going out for a while.
-
-325
-00:18:45,875 --> 00:18:47,075
-I know who to ask for.
-
-326
-00:18:47,375 --> 00:18:48,800
-Brother Xuan! There are full of fans at the door!
-
-327
-00:18:48,825 --> 00:18:49,800
-It’s fine! I have a way!
-
-328
-00:18:53,275 --> 00:18:54,375
-Gosh!
-
-329
-00:18:59,325 --> 00:19:02,125
-What's the situation? So many people！
-
-330
-00:19:05,525 --> 00:19:07,800
-Whatever. Let me take a shot first.
-
-331
-00:19:13,275 --> 00:19:14,475
-Or I can trick Lin Yixuan that fool out
-
-332
-00:19:14,550 --> 00:19:16,675
-for some inside information
-
-333
-00:19:18,025 --> 00:19:18,750
-Brilliant!
-
-334
-00:19:21,650 --> 00:19:23,200
-Lin Yixuan.
-
-335
-00:19:26,225 --> 00:19:27,125
-I
-
-336
-00:19:27,200 --> 00:19:29,100
-Quick! Go! What are you doing?
-
-337
-00:19:32,350 --> 00:19:33,425
-Release! Release!
-
-338
-00:19:33,475 --> 00:19:34,650
-Are you crazy?
-
-339
-00:19:40,250 --> 00:19:40,725
-What?
-
-340
-00:19:41,875 --> 00:19:42,800
-What’s wrong with you?
-
-341
-00:19:42,925 --> 00:19:43,825
-What’s that look?
-
-342
-00:19:43,875 --> 00:19:45,925
-I tell you. I can’t bear this!
-
-343
-00:19:48,125 --> 00:19:48,775
-Yes.
-
-344
-00:19:49,350 --> 00:19:49,900
-The duo play before,
-
-345
-00:19:50,050 --> 00:19:51,575
-it’s Brother Kong’s fault trapping her in game.
-
-346
-00:19:51,800 --> 00:19:53,475
-But Qiu Ying’s revenge is unacceptable!
-
-347
-00:19:55,625 --> 00:19:56,400
-Wait a second！
-
-348
-00:19:58,000 --> 00:19:59,075
-Why are you yelling？Hands off!
-
-349
-00:19:59,225 --> 00:20:00,625
-What are you shouting for? Don’t fight!
-
-350
-00:20:01,075 --> 00:20:01,700
-What revenge?
-
-351
-00:20:02,050 --> 00:20:03,525
-My Qiu Ying did nothing!
-
-352
-00:20:04,500 --> 00:20:05,350
-Ji Xiangkong bullied people
-
-353
-00:20:05,375 --> 00:20:07,250
-and discredit Qiu Ying!
-
-354
-00:20:08,200 --> 00:20:08,975
-You tell me.
-
-355
-00:20:09,400 --> 00:20:11,225
-What revenge? Revenge for what?
-
-356
-00:20:11,850 --> 00:20:13,175
-Let me tell you what is revenge.
-
-357
-00:20:13,500 --> 00:20:14,050
-Speak!
-
-358
-00:20:14,300 --> 00:20:14,925
-I say…
-
-359
-00:20:16,000 --> 00:20:17,225
-Qiu Ying
-
-360
-00:20:17,550 --> 00:20:18,925
-want to ride Brother Kong’s coattails, right?
-
-361
-00:20:18,950 --> 00:20:20,000
-Not succeed, so she bites back.
-
-362
-00:20:20,300 --> 00:20:21,275
-This is revenge.
-
-363
-00:20:22,525 --> 00:20:23,775
-Dare you say another word!
-
-364
-00:20:23,850 --> 00:20:24,925
-You! You hit me again!
-
-365
-00:20:25,450 --> 00:20:26,650
-Today you! You ask for it!
-
-366
-00:20:26,700 --> 00:20:27,900
-Hands off!
-
-367
-00:20:27,900 --> 00:20:29,150
-Hide from me? Leave me alone!
-
-368
-00:20:29,375 --> 00:20:30,025
-Step on you!
-
-369
-00:20:30,125 --> 00:20:30,875
-Hurt, hurt, hurt!
-
-370
-00:20:31,100 --> 00:20:32,475
-You hide! Hide!
-
-371
-00:20:32,650 --> 00:20:33,875
-Trample on you!
-
-372
-00:20:34,850 --> 00:20:36,075
-Listen carefully!
-
-373
-00:20:36,650 --> 00:20:37,500
-My Qiu Ying
-
-374
-00:20:37,925 --> 00:20:39,975
-doesn’t give a damn about your liar brother Kong’s free ride.
-
-375
-00:20:40,050 --> 00:20:42,075
-She will never revenge with such an underhanded trick.
-
-376
-00:20:43,425 --> 00:20:45,700
-She's the kindest girl I've ever seen in the world.
-
-377
-00:20:46,925 --> 00:20:48,250
-If you dare to slander her again.
-
-378
-00:20:48,825 --> 00:20:49,250
-careful!
-
-379
-00:20:49,925 --> 00:20:50,675
-Be more careful or I will kill you!
-
-380
-00:20:52,200 --> 00:20:53,375
-Wait! You stop…
-
-381
-00:20:55,450 --> 00:20:57,025
-You! What do you want to do?
-
-382
-00:20:57,325 --> 00:20:57,775
-You even…
-
-383
-00:20:57,850 --> 00:20:58,600
-No! No! No!
-
-384
-00:20:58,625 --> 00:20:59,250
-I don’t mean it!
-
-385
-00:20:59,300 --> 00:21:00,025
-No! No! Don’t fight!
-
-386
-00:21:01,100 --> 00:21:02,525
-No! I have evidence, OK?
-
-387
-00:21:03,600 --> 00:21:06,075
-The IP of the video is the same as Qiu Ying’s online streaming.
-
-388
-00:21:06,650 --> 00:21:07,450
-What?
-
-389
-00:21:12,325 --> 00:21:13,650
-The lawyer of Legends just left.
-
-390
-00:21:14,200 --> 00:21:14,875
-Take a look for yourself.
-
-391
-00:21:20,350 --> 00:21:24,025
-The IP of the video is the same IP of your live streaming at home.
-
-392
-00:21:27,150 --> 00:21:29,125
-They provide irrefutable evidence.
-
-393
-00:21:34,375 --> 00:21:36,050
-President Liu. This is impossible!
-
-394
-00:21:36,550 --> 00:21:37,900
-This is definitely a setup!
-
-395
-00:21:38,450 --> 00:21:40,075
-And even if I want to,
-
-396
-00:21:40,100 --> 00:21:42,350
-I know better than to use my own computer.
-
-397
-00:21:42,675 --> 00:21:44,750
-But your explanation can’t solve any problem.
-
-398
-00:21:45,975 --> 00:21:46,925
-No. President Liu.
-
-399
-00:21:47,550 --> 00:21:48,775
-Please give me some time,
-
-400
-00:21:48,775 --> 00:21:50,325
-I will definitely get to the bottom of this.
-
-401
-00:21:50,775 --> 00:21:51,775
-To investigate what?
-
-402
-00:21:52,300 --> 00:21:53,900
-Right now, all the evidence points to you.
-
-403
-00:21:54,175 --> 00:21:55,200
-This had a very bad impact
-
-404
-00:21:55,275 --> 00:21:56,500
-on company’s public image.
-
-405
-00:21:56,525 --> 00:21:57,275
-You know what.
-
-406
-00:21:57,625 --> 00:21:58,650
-I really have no choice.
-
-407
-00:22:00,250 --> 00:22:00,875
-President Liu.
-
-408
-00:22:02,275 --> 00:22:04,750
-You… are going to fire me?
-
-409
-00:22:05,950 --> 00:22:07,475
-If we can’t solve this,
-
-410
-00:22:08,025 --> 00:22:09,900
-Legends will never cooperate with us anymore.
-
-411
-00:22:11,400 --> 00:22:12,450
-We are in transition.
-
-412
-00:22:12,800 --> 00:22:14,550
-Offending the best team in the country at this time.
-
-413
-00:22:14,800 --> 00:22:16,425
-If you are me,
-
-414
-00:22:16,925 --> 00:22:17,600
-what will you do?
-
-415
-00:22:18,875 --> 00:22:20,825
-I am so sorry, Qiu Ying.
-
-416
-00:22:21,625 --> 00:22:24,475
-I will ask the finance to pay your salary this month.
-
-417
-00:22:25,500 --> 00:22:27,200
-We pay an extra month for compensation.
-
-418
-00:22:31,275 --> 00:22:32,800
-Sorry, President Liu.
-
-419
-00:22:33,700 --> 00:22:35,425
-I’m sorry to trouble the company.
-
-420
-00:23:02,900 --> 00:23:03,700
-Sister Xin.
-
-421
-00:23:08,200 --> 00:23:09,600
-Revenge after breakup.
-
-422
-00:23:10,675 --> 00:23:12,725
-She doesn’t know what kind of person herself is,
-
-423
-00:23:13,925 --> 00:23:15,050
-and whether or not she has the advantage.
-
-424
-00:23:15,525 --> 00:23:18,425
-I heard that Ji Xiangkong is not a good person either.
-
-425
-00:23:19,450 --> 00:23:21,100
-Birds of a feather flock together.
-
-426
-00:23:21,925 --> 00:23:22,850
-Perfect match!
-
-427
-00:23:24,850 --> 00:23:25,425
-Let’s go!
-
-428
-00:24:05,575 --> 00:24:06,301
-Captain.
-
-429
-00:24:06,301 --> 00:24:07,676
-You've come! Brother Yao.
-
-430
-00:24:09,975 --> 00:24:10,800
-Still practicing?
-
-431
-00:24:14,950 --> 00:24:15,950
-I am really getting old.
-
-432
-00:24:16,200 --> 00:24:17,250
-After only two hours,
-
-433
-00:24:17,325 --> 00:24:18,250
-I can't bear it.
-
-434
-00:24:19,675 --> 00:24:21,200
-You are the most hardworking person among us.
-
-435
-00:24:21,450 --> 00:24:22,650
-We should all learn from you.
-
-436
-00:24:25,575 --> 00:24:26,225
-Right.
-
-437
-00:24:26,900 --> 00:24:28,400
-How do you deal with that matter?
-
-438
-00:24:28,975 --> 00:24:30,825
-Don’t let it affect your performance in the close beta test.
-
-439
-00:24:33,500 --> 00:24:34,325
-Sorry.
-
-440
-00:24:34,725 --> 00:24:37,125
-Causing such trouble before the close beta test.
-
-441
-00:24:41,500 --> 00:24:42,875
-After Gu Fang retiring,
-
-442
-00:24:43,425 --> 00:24:44,850
-I am the oldest member of the team.
-
-443
-00:24:45,275 --> 00:24:46,175
-You know,
-
-444
-00:24:46,625 --> 00:24:48,750
-the golden age of professional e-sports players like us
-
-445
-00:24:49,175 --> 00:24:50,150
-is very limited.
-
-446
-00:24:51,875 --> 00:24:53,125
-To me, the chance of competition
-
-447
-00:24:54,075 --> 00:24:55,600
-is counting down.
-
-448
-00:25:00,700 --> 00:25:01,450
-Captain Ji.
-
-449
-00:25:03,600 --> 00:25:04,850
-The last hope of 
-
-450
-00:25:06,350 --> 00:25:07,575
-winning the championship in this life
-
-451
-00:25:08,700 --> 00:25:10,225
-rests on you.
-
-452
-00:25:15,200 --> 00:25:18,100
-You and that Qiu Ying…
-
-453
-00:25:18,650 --> 00:25:19,375
-Brother Yao,
-
-454
-00:25:19,850 --> 00:25:21,425
-there is nothing between us.
-
-455
-00:25:24,475 --> 00:25:25,575
-I promise to you.
-
-456
-00:25:25,875 --> 00:25:27,875
-I won’t let anything influence the competition.
-
-457
-00:25:34,225 --> 00:25:35,475
-Let me practice with you for a while.
-
-458
-00:25:36,500 --> 00:25:37,325
-Come on.
-
-459
-00:25:51,575 --> 00:25:54,375
-Now, the news about Ji Xiangkong is all over the place.
-
-460
-00:25:54,925 --> 00:25:56,900
-These netizens are really mean.
-
-461
-00:25:57,175 --> 00:25:58,325
-But it's quite right.
-
-462
-00:26:00,125 --> 00:26:01,775
-Ji Xiangkong has such a bad luck.
-
-463
-00:26:02,125 --> 00:26:03,225
-What bad luck?
-
-464
-00:26:03,325 --> 00:26:04,825
-Never trouble trouble till trouble troubles you.
-
-465
-00:26:04,900 --> 00:26:05,875
-He deserves it!
-
-466
-00:26:06,750 --> 00:26:09,100
-The day has eyes, the night has ears.
-
-467
-00:26:09,800 --> 00:26:11,125
-Look at this netizen. He said,
-
-468
-00:26:11,375 --> 00:26:13,775
-you've disgraced the whole China IConquer.
-
-469
-00:26:14,600 --> 00:26:16,975
-The legendary team is in a mess now.
-
-470
-00:26:18,200 --> 00:26:19,350
-This thing is getting bigger and bigger.
-
-471
-00:26:19,575 --> 00:26:21,000
-I guess it's hard to end.
-
-472
-00:26:22,225 --> 00:26:23,200
-Hard to believe that
-
-473
-00:26:23,675 --> 00:26:26,300
-this Ji Xiangkong will fall into the hands of a woman.
-
-474
-00:26:27,250 --> 00:26:28,275
-Isn’t that perfect?
-
-475
-00:26:28,875 --> 00:26:30,275
-The game is coming in two days.
-
-476
-00:26:30,425 --> 00:26:31,800
-The worser their situation is, the better.
-
-477
-00:26:32,090 --> 00:26:33,075
-We can win in a breeze.
-
-478
-00:26:33,800 --> 00:26:34,600
-Look at this man.
-
-479
-00:26:35,125 --> 00:26:37,162
-He said he is disabled during the game
-
-480
-00:26:37,162 --> 00:26:38,712
-and makeup by playing dirty afterwards.
-
-481
-00:26:41,375 --> 00:26:42,700
-And this one. This.
-
-482
-00:26:43,225 --> 00:26:45,400
-I was speechless after watching.
-
-483
-00:26:45,500 --> 00:26:47,325
-These netizens are amazing!
-
-484
-00:26:49,650 --> 00:26:51,650
-We're interrupting captain Pei's training.
-
-485
-00:26:52,500 --> 00:26:54,550
-The training room is not a place for gossip.
-
-486
-00:26:56,925 --> 00:26:58,650
-It's six o'clock. It's time.
-
-487
-00:26:59,600 --> 00:27:00,375
-Let's go!
-
-488
-00:27:00,375 --> 00:27:02,050
-Hot pot is my treat.
-
-489
-00:27:03,125 --> 00:27:04,275
-Bros!
-
-490
-00:27:05,475 --> 00:27:07,025
-We have training game at nine.
-
-491
-00:27:07,550 --> 00:27:08,300
-Four guarantee one.
-
-492
-00:27:08,500 --> 00:27:09,800
-We already familiar with the procedure, captain.
-
-493
-00:27:10,100 --> 00:27:12,025
-You just solo the whole game. Isn’t that enough?
-
-494
-00:27:12,725 --> 00:27:13,400
-Thanks brother Qi!
-
-495
-00:27:13,500 --> 00:27:15,625
-We haven’t eaten hot pot for a while.
-
-496
-00:27:15,700 --> 00:27:17,100
-Let’s go, Lu Sheng!
-
-497
-00:27:22,525 --> 00:27:25,125
-Captain, we will be back before the training game.
-
-498
-00:27:25,775 --> 00:27:26,875
-Let’s go, Tong Wu!
-
-499
-00:27:27,050 --> 00:27:28,875
-Don’t disrupt captain Pei’s training!
-
-500
-00:27:35,650 --> 00:27:36,975
-Drink. Drink. Drink.
-
-501
-00:27:36,975 --> 00:27:37,850
-No need. No need.
-
-502
-00:27:40,925 --> 00:27:42,350
-The video has been exposed for so many days.
-
-503
-00:27:42,550 --> 00:27:43,450
-The person concerned is still hiding.
-
-504
-00:27:43,775 --> 00:27:45,375
-We are the biggest sponsor of Legends.
-
-505
-00:27:45,800 --> 00:27:47,400
-We invest so much money. Who do you think we are?
-
-506
-00:27:47,600 --> 00:27:48,350
-Right. Right. Right.
-
-507
-00:27:48,475 --> 00:27:50,700
-President Bai. Xiangkong is playing the training game.
-
-508
-00:27:50,800 --> 00:27:52,850
-What training games are they playing at this time? Training game?
-
-509
-00:27:53,400 --> 00:27:54,375
-Not like that president Bai. This…
-
-510
-00:27:54,950 --> 00:27:56,775
-We are preparing for the close beta test.
-
-511
-00:27:57,200 --> 00:27:58,650
-Ji Xiangkong is the acting captain.
-
-512
-00:27:58,750 --> 00:28:00,025
-Who made him the acting captain?
-
-513
-00:28:00,500 --> 00:28:02,550
-I want a captain with an optimistic and healthy image.
-
-514
-00:28:11,025 --> 00:28:12,375
-This is Ji Xiangkong.
-
-515
-00:28:12,775 --> 00:28:13,950
-Trying to put on airs?
-
-516
-00:28:15,425 --> 00:28:17,075
-What’s your relationship with Qui Ying?
-
-517
-00:28:17,350 --> 00:28:18,350
-People online say that you
-
-518
-00:28:18,375 --> 00:28:19,425
-played with her feelings,
-
-519
-00:28:19,500 --> 00:28:20,300
-so she revenges on you.
-
-520
-00:28:22,850 --> 00:28:23,675
-President Bai.
-
-521
-00:28:24,075 --> 00:28:26,125
-I don’t have any improper relationship with Qiu Ying.
-
-522
-00:28:28,075 --> 00:28:28,825
-Sorry.
-
-523
-00:28:29,250 --> 00:28:30,275
-Due to my careless,
-
-524
-00:28:30,775 --> 00:28:32,125
-the team and everyone suffered great trouble.
-
-525
-00:28:32,575 --> 00:28:33,550
-I am sincerely sorry!
-
-526
-00:28:36,575 --> 00:28:37,625
-Today, I come here,
-
-527
-00:28:37,775 --> 00:28:39,750
-hoping to solve the problem.
-
-528
-00:28:42,875 --> 00:28:44,058
-How are you going to solve this?
-
-529
-00:28:45,425 --> 00:28:47,600
-What I want is to settle this down as soon as possible.
-
-530
-00:28:48,800 --> 00:28:50,675
-The video of me beating people is clearly fake!
-
-531
-00:28:51,000 --> 00:28:52,400
-We can ask the person concerned to clarify this.
-
-532
-00:28:53,050 --> 00:28:55,575
-I am afraid Qiu Ying will not…
-
-533
-00:28:56,225 --> 00:28:57,425
-I am not talking about Qiu Ying
-
-534
-00:28:57,675 --> 00:28:58,575
-but Jeffery.
-
-535
-00:29:00,075 --> 00:29:00,875
-Jeffery?
-
-536
-00:29:00,900 --> 00:29:01,575
-Right!
-
-537
-00:29:01,700 --> 00:29:04,400
-If we explain this, people might not believe.
-
-538
-00:29:05,125 --> 00:29:07,775
-If Jeffery is willing to explain this in person.
-
-539
-00:29:08,350 --> 00:29:10,100
-The video collapses of itself.
-
-540
-00:29:10,975 --> 00:29:12,850
-Yes. Beating him is fake，
-
-541
-00:29:13,350 --> 00:29:15,575
-but having conflict with him is real.
-
-542
-00:29:16,400 --> 00:29:18,500
-We already offended him.
-
-543
-00:29:18,650 --> 00:29:20,875
-Why should he clarify the rumour for us.
-
-544
-00:29:21,025 --> 00:29:21,525
+00:03:40,490 --> 00:03:41,290
 Am I right?
 
-545
-00:29:21,675 --> 00:29:22,775
-Jefferey is proud and arrogant.
+40
+00:03:43,320 --> 00:03:46,800
+Instead of keeping Pei Xi as a mighty opponent,
 
-546
-00:29:22,850 --> 00:29:25,125
-If he knows that the public think he was bullied by me,
+41
+00:03:48,160 --> 00:03:50,400
+we should turn him into one of us.
 
-547
-00:29:25,250 --> 00:29:26,325
-he will deny it.
+42
+00:03:51,240 --> 00:03:52,230
+What do you think?
 
-548
-00:29:26,700 --> 00:29:28,400
-And he's just coming to China these two days.
+43
+00:03:55,790 --> 00:03:56,710
+Okay.
 
-549
-00:29:29,125 --> 00:29:30,000
-Is it?
+44
+00:03:57,350 --> 00:03:57,910
+Alright, President Zhao.
 
-550
-00:29:33,150 --> 00:29:34,775
-Wonderful! Right?
+45
+00:03:58,190 --> 00:04:00,350
+Leave this matter to me. Bye.
 
-551
-00:29:40,800 --> 00:29:42,700
-President Bai. You may rest assured.
+46
+00:04:00,510 --> 00:04:03,820
+Sister Xin! Your coffee.
 
-552
-00:29:43,275 --> 00:29:46,450
-I'm sure to take the most sincere apology from our company
+47
+00:04:04,860 --> 00:04:05,460
+Thank you.
 
-553
-00:29:46,550 --> 00:29:48,950
-to Jefferey and ask him to clarify.
+48
+00:04:06,580 --> 00:04:07,900
+Today’s temperature is perfect.
 
-554
-00:29:49,600 --> 00:29:51,975
-Don’t be angry. Easy. Easy. Don’t worry.
+49
+00:04:13,060 --> 00:04:13,860
+It tastes pretty good too.
 
-555
-00:29:53,775 --> 00:29:54,875
-Will please you！
+50
+00:04:14,220 --> 00:04:15,340
+If you like it,
 
-556
-00:29:55,350 --> 00:29:56,200
-It is my duty.
+51
+00:04:15,420 --> 00:04:16,740
+I’ll buy coffee for you every day.
 
-557
-00:29:56,500 --> 00:29:57,225
-Director Zhao.
+52
+00:04:18,060 --> 00:04:18,820
+Earlier on, a
 
-558
-00:29:57,825 --> 00:29:58,900
-My pleasure. You are welcome.
+53
+00:04:18,860 --> 00:04:21,020
+friend from an advertising company gave me a call
 
-559
-00:30:07,600 --> 00:30:08,850
-Close the door! Close. Close.
+54
+00:04:21,580 --> 00:04:23,890
+to ask for a model for a lingerie shoot.
 
-560
-00:30:14,575 --> 00:30:15,500
-When will Jeffrey arrive?
+55
+00:04:24,650 --> 00:04:26,330
+You’ve shot commercials before, right?
 
-561
-00:30:15,575 --> 00:30:16,150
-Check it.
+56
+00:04:27,130 --> 00:04:28,410
+You could be suitable.
 
-562
-00:30:16,275 --> 00:30:17,900
-I already checked. Tomorrow.
+57
+00:04:29,330 --> 00:04:30,370
+A lingerie shoot?
 
-563
-00:30:18,050 --> 00:30:18,900
-Tomorrow?
+58
+00:04:31,650 --> 00:04:33,280
+This is your remuneration.
 
-564
-00:30:23,150 --> 00:30:25,200
-This ghost in the machine!
+59
+00:04:35,920 --> 00:04:36,920
+Three thousand?
 
-565
-00:30:26,300 --> 00:30:28,475
-Director Zhao. Do you think Jeffrey
+60
+00:04:37,960 --> 00:04:39,000
+I wouldn’t introduce you to a job
 
-566
-00:30:28,500 --> 00:30:29,925
-will come out to clarify?
+61
+00:04:39,120 --> 00:04:40,320
+that pays a measly three thousand.
 
-567
-00:30:31,625 --> 00:30:32,400
+62
+00:04:42,620 --> 00:04:44,580
+Now, all of the hosts in the company
+
+63
+00:04:45,300 --> 00:04:46,980
+are gearing up to the Dian Feng version.
+
+64
+00:04:48,060 --> 00:04:48,860
+You should know
+
+65
+00:04:48,940 --> 00:04:49,820
+about the Qiu Ying situation.
+
+66
+00:04:51,300 --> 00:04:53,220
+The show’s ratings have fallen through.
+
+67
+00:04:53,620 --> 00:04:55,260
+It’s a tough road ahead.
+
+68
+00:04:56,140 --> 00:04:58,460
+Your situation would only be worse than hers.
+
+69
+00:04:59,340 --> 00:05:01,380
+I heard that your prize money
+
+70
+00:05:01,460 --> 00:05:03,300
+has been deducted till next year.
+
+71
+00:05:06,220 --> 00:05:07,780
+I do urgently need money.
+
+72
+00:05:10,620 --> 00:05:12,690
+We always say that even the best of friends
+
+73
+00:05:13,250 --> 00:05:15,450
+are useless when you need help the most.
+
+74
+00:05:15,970 --> 00:05:17,330
+Those aren’t your real friends.
+
+75
+00:05:20,810 --> 00:05:21,530
+Yan Yan.
+
+76
+00:05:21,890 --> 00:05:24,310
+I am someone who tends to speak her mind.
+
+77
+00:05:25,110 --> 00:05:25,950
+People who don’t know me
+
+78
+00:05:26,510 --> 00:05:27,590
+think I have a bad temper.
+
+79
+00:05:28,150 --> 00:05:30,590
+Actually, I have a huge sense of justice.
+
+80
+00:05:31,990 --> 00:05:35,270
+I mean, you even call me Sister Xin. Right?
+
+81
+00:05:35,750 --> 00:05:36,670
+If you face any trouble in the future,
+
+82
+00:05:37,030 --> 00:05:39,430
+let me know. I’ll definitely help you out.
+
+83
+00:05:40,390 --> 00:05:41,310
+Thank you, Sister Xin.
+
+84
+00:05:42,030 --> 00:05:42,910
+You’re welcome.
+
+85
+00:05:43,110 --> 00:05:44,110
+Don’t be so polite with me.
+
+86
+00:05:45,030 --> 00:05:46,070
+Let’s go.
+
+87
+00:06:28,230 --> 00:06:30,390
+The Creator, without lightning speed,
+
+88
+00:06:30,470 --> 00:06:32,150
+will not be able to complete this combo attack.
+
+89
+00:06:33,500 --> 00:06:34,700
+Looks like Xia Tian’s cousin
+
+90
+00:06:35,460 --> 00:06:36,700
+is even stronger than Xia Tian.
+
+91
+00:06:38,180 --> 00:06:39,260
+I’m Pei Xi.
+
+92
+00:06:40,140 --> 00:06:40,700
+So?
+
+93
+00:06:41,900 --> 00:06:42,500
+Are you interested to join Wei Teng?
+
+94
+00:06:44,210 --> 00:06:45,210
+Why do I have to go?
+
+95
+00:06:45,810 --> 00:06:48,210
+You need a truly strong team
+
+96
+00:06:48,730 --> 00:06:49,930
+to help you win the world championships.
+
+97
+00:06:52,730 --> 00:06:56,130
+If this is because of Xia Tian, I don’t need it.
+
+98
+00:06:57,770 --> 00:07:00,330
+I’ve always spoken with my abilities.
+
+99
+00:07:01,050 --> 00:07:02,930
+I won’t risk the entirety of
+
+100
+00:07:04,320 --> 00:07:06,280
+Wei Teng because of Xia Tian.
+
+101
+00:07:25,700 --> 00:07:28,460
+Being strong alone isn’t strength.
+
+102
+00:07:28,900 --> 00:07:31,420
+After all, this is a team game.
+
+103
+00:07:31,460 --> 00:07:34,620
+All these years,Wei Teng has brushed the
+
+104
+00:07:34,700 --> 00:07:36,300
+shoulders of the winners.
+
+105
+00:08:03,280 --> 00:08:05,780
+So late? Who’s there?
+
+106
+00:08:06,740 --> 00:08:08,340
+It’s me. Yan Yan.
+
+107
+00:08:09,060 --> 00:08:09,740
+Coming.
+
+108
+00:08:14,300 --> 00:08:14,780
+Yan Yan!
+
+109
+00:08:15,100 --> 00:08:15,860
+Come in.
+
+110
+00:08:16,380 --> 00:08:17,740
+Come.
+
+111
+00:08:18,620 --> 00:08:19,420
+Why are you here
+
+112
+00:08:19,500 --> 00:08:21,020
+so late? What’s wrong?
+
+113
+00:08:21,380 --> 00:08:21,900
+Don’t change your shoes.
+
+114
+00:08:21,940 --> 00:08:22,580
+Come.
+
+115
+00:08:25,100 --> 00:08:25,700
+I -
+
+116
+00:08:26,300 --> 00:08:28,140
+I fought with my boyfriend.
+
+117
+00:08:28,740 --> 00:08:31,220
+I had nowhere to go, so I came to find you.
+
+118
+00:08:31,300 --> 00:08:34,450
+Did he bully you? Why didn’t you ring me?
+
+119
+00:08:34,570 --> 00:08:35,450
+I could have picked you up.
+
+120
+00:08:35,610 --> 00:08:36,850
+You could stay here tonight.
+
+121
+00:08:37,330 --> 00:08:38,370
+Sit. Sit.
+
+122
+00:08:39,570 --> 00:08:40,650
+Aren’t you cold dressed so thinly?
+
+123
+00:08:42,170 --> 00:08:42,770
+Are you hungry?
+
+124
+00:08:43,130 --> 00:08:43,990
+You haven’t eaten, right?
+
+125
+00:08:44,270 --> 00:08:45,310
+Shall I make you something to eat?
+
+126
+00:08:49,590 --> 00:08:50,430
+Alright, just sit there.
+
+127
+00:08:50,590 --> 00:08:51,550
+I’ll make you some noodles.
+
+128
+00:09:02,030 --> 00:09:02,950
+Qiu Ying.
+
+129
+00:09:04,350 --> 00:09:05,270
+I’m sorry.
+
+130
+00:09:06,510 --> 00:09:08,230
+I really had no choice.
+
+131
+00:09:22,420 --> 00:09:25,000
+Yan Yan. Do you eat chilli?
+
+132
+00:09:27,520 --> 00:09:28,360
+Sure.
+
+133
+00:09:29,160 --> 00:09:30,080
+I remembered that you did.
+
+134
+00:09:30,360 --> 00:09:31,480
+I’ll put in more for you!
+
+135
+00:09:35,320 --> 00:09:36,440
+Sure.
+
+136
+00:10:22,130 --> 00:10:22,970
+Yi Yi.
+
+137
+00:10:23,250 --> 00:10:25,400
+You’ve been with us for some time.
+
+138
+00:10:26,000 --> 00:10:28,560
+You still can’t quiet your heart.
+
+139
+00:10:30,360 --> 00:10:30,960
+Director.
+
+140
+00:10:31,680 --> 00:10:34,240
+I really, really want to do news.
+
+141
+00:10:35,270 --> 00:10:36,230
+Haven’t I told you?
+
+142
+00:10:36,870 --> 00:10:38,150
+Reorganise the other
+
+143
+00:10:38,430 --> 00:10:40,550
+news and find a unique angle.
+
+144
+00:10:41,270 --> 00:10:42,750
+This is a skill, too.
+
+145
+00:10:44,270 --> 00:10:44,980
+But -
+
+146
+00:10:46,500 --> 00:10:47,740
+Plus, the headliners won’t fall to small
+
+147
+00:10:48,060 --> 00:10:50,300
+magazine firms like ours.
+
+148
+00:10:58,860 --> 00:10:59,740
+My goodness.
+
+149
+00:11:00,460 --> 00:11:01,100
+Director.
+
+150
+00:11:01,540 --> 00:11:02,660
+There’s a headliner!
+
+151
+00:11:03,860 --> 00:11:04,770
+Pei Xi’s Live Hero -
+
+152
+00:11:04,970 --> 00:11:06,370
+Creator can achieve at least
+
+153
+00:11:06,650 --> 00:11:08,090
+three 5-kills in one game.
+
+154
+00:11:09,050 --> 00:11:10,490
+I’ve tested this hero’s abilities.
+
+155
+00:11:10,770 --> 00:11:11,890
+Its sudden explosions are powerful.
+
+156
+00:11:12,410 --> 00:11:13,730
+It can release heaven fire on the whole map
+
+157
+00:11:14,170 --> 00:11:15,520
+and harvest blood heroes.
+
+158
+00:11:16,360 --> 00:11:17,800
+This hero is really so powerful.
+
+159
+00:11:18,320 --> 00:11:19,720
+Why don’t I train on this hero?
+
+160
+00:11:20,000 --> 00:11:22,280
+Enough. You’re not Pei Xi.
+
+161
+00:11:23,120 --> 00:11:25,180
+I think Pei Xi and I are 50-50.
+
+162
+00:11:27,300 --> 00:11:30,340
+None of our individual capabilities are a match for him.
+
+163
+00:11:30,460 --> 00:11:31,740
+Yeah. That’s why,
+
+164
+00:11:31,980 --> 00:11:32,620
+no matter
+
+165
+00:11:32,700 --> 00:11:33,940
+which of us will meet him,
+
+166
+00:11:34,620 --> 00:11:36,260
+we shouldn’t think of anything.
+
+167
+00:11:36,380 --> 00:11:37,500
+Just run.
+
+168
+00:11:38,420 --> 00:11:39,460
+The strongest single?
+
+169
+00:11:40,020 --> 00:11:42,100
+I don’t believe we have nothing against him.
+
+170
+00:11:43,540 --> 00:11:44,500
+We do have something.
+
+171
+00:11:45,540 --> 00:11:47,620
+As the strongest single, teams against him
+
+172
+00:11:47,740 --> 00:11:48,580
+have a hard time winning.
+
+173
+00:11:49,380 --> 00:11:50,580
+But there’s a weakness too.
+
+174
+00:11:50,940 --> 00:11:51,860
+Do you know what it is?
+
+175
+00:11:53,220 --> 00:11:53,860
+Brother Kong.
+
+176
+00:11:54,500 --> 00:11:55,020
+You know?
+
+177
+00:11:55,210 --> 00:11:56,170
+I don’t, but come see this.
+
+178
+00:11:56,210 --> 00:11:57,290
+Come.
+
+179
+00:11:59,650 --> 00:12:01,930
+The later half of this video is fake.
+
+180
+00:12:02,010 --> 00:12:03,330
+Who made this?
+
+181
+00:12:03,690 --> 00:12:04,650
+What’s that?
+
+182
+00:12:04,850 --> 00:12:05,990
+Isn’t that me?
+
+183
+00:12:06,230 --> 00:12:07,230
+That’s me next to you!
+
+184
+00:12:07,390 --> 00:12:08,030
+You weren’t there.
+
+185
+00:12:08,110 --> 00:12:09,230
+It wasn’t like this at the time.
+
+186
+00:12:09,590 --> 00:12:10,550
+At that time, we were -
+
+187
+00:12:11,270 --> 00:12:12,230
+Stop laughing.
+
+188
+00:12:12,470 --> 00:12:13,630
+The inner competition is about to begin.
+
+189
+00:12:14,190 --> 00:12:15,430
+A video like this being released now
+
+190
+00:12:15,710 --> 00:12:16,630
+isn’t as simple as you think.
+
+191
+00:12:20,150 --> 00:12:21,270
+That makes sense.
+
+192
+00:12:48,120 --> 00:12:49,080
+Hello, Yi Yi?
+
+193
+00:12:49,520 --> 00:12:52,000
+Have you only just woken up?
+
+194
+00:12:52,960 --> 00:12:54,480
+I stayed up all night last night.
+
+195
+00:12:54,800 --> 00:12:55,640
+So you definitely don’t know
+
+196
+00:12:55,720 --> 00:12:56,880
+what’s happening right now.
+
+197
+00:12:57,360 --> 00:12:58,120
+What’s happening?
+
+198
+00:12:58,800 --> 00:13:00,720
+Quick, search for the keyword
+
+199
+00:13:01,000 --> 00:13:02,560
+Ji Xiang Kong. Hurry.
+
+200
+00:13:22,020 --> 00:13:24,020
+Who sent this complete version?
+
+201
+00:13:24,500 --> 00:13:25,340
+So many netizens are
+
+202
+00:13:25,460 --> 00:13:27,290
+saying that you uploaded the video.
+
+203
+00:13:28,570 --> 00:13:29,970
+How is this possible?
+
+204
+00:13:30,090 --> 00:13:32,210
+I was at the hotel parking lot.
+
+205
+00:13:32,810 --> 00:13:34,330
+This is different from what I saw.
+
+206
+00:13:34,610 --> 00:13:38,610
+Different?What do you mean?
+
+207
+00:13:39,090 --> 00:13:41,970
+I didn’t see Ji Xiang Kong hitting anyone at all.
+
+208
+00:13:42,890 --> 00:13:44,130
+Why would this video -
+
+209
+00:13:44,650 --> 00:13:47,040
+Are you sure? Think carefully.
+
+210
+00:13:47,640 --> 00:13:48,840
+I’m very sure.
+
+211
+00:13:48,960 --> 00:13:51,640
+Ji Xiang Kong only grabbed the collar of Jeffrey.
+
+212
+00:13:53,880 --> 00:13:55,840
+Looks like someone intentionally
+
+213
+00:13:55,920 --> 00:13:57,030
+framed Ji Xiang Kong.
+
+214
+00:13:57,630 --> 00:14:00,550
+That’s fine. This liar bullied you before.
+
+215
+00:14:01,190 --> 00:14:02,070
+He’s asking for it.
+
+216
+00:14:02,470 --> 00:14:04,230
+There’s karma for bad people.
+
+217
+00:14:10,260 --> 00:14:11,620
+What’s happening?
+
+218
+00:14:12,300 --> 00:14:14,700
+These netizens are so mean.
+
+219
+00:14:15,140 --> 00:14:15,820
+Look at this.
+
+220
+00:14:16,260 --> 00:14:17,940
+Qiu Ying, get out of the e-sports industry.
+
+221
+00:14:18,500 --> 00:14:19,780
+Don’t harm anyone anymore.
+
+222
+00:14:20,820 --> 00:14:22,220
+That’s harsh.
+
+223
+00:14:23,060 --> 00:14:23,860
+What about this?
+
+224
+00:14:24,460 --> 00:14:25,540
+He’s completely over the line.
+
+225
+00:14:26,810 --> 00:14:27,410
+Indeed,
+
+226
+00:14:27,970 --> 00:14:30,130
+once Manager Zhao attacks, the results are amazing.
+
+227
+00:14:31,170 --> 00:14:33,410
+Looks like we’ve achieved each other’s small goal.
+
+228
+00:14:36,520 --> 00:14:39,760
+Most importantly, it was seamless working with you, beautiful Qiao.
+
+229
+00:14:42,600 --> 00:14:45,760
+Then again, these netizens
+
+230
+00:14:45,960 --> 00:14:48,060
+think that the culprit is Qiu Ying.
+
+231
+00:14:48,540 --> 00:14:49,100
+Manager Zhao.
+
+232
+00:14:49,460 --> 00:14:53,100
+Don’t you think that her punishment is too light?
+
+233
+00:14:58,940 --> 00:15:00,740
+Great minds think alike.
+
+234
+00:15:03,700 --> 00:15:06,700
+I’ve already prepared her lawyer’s letter for her.
+
+235
+00:15:07,860 --> 00:15:09,740
+You’re brilliant, Manager Zhao.
+
+236
+00:15:13,740 --> 00:15:16,460
+Ah, yes. If you’re free,
+
+237
+00:15:17,250 --> 00:15:19,690
+shall we go for a meal later?
+
+238
+00:15:21,410 --> 00:15:23,570
+Of course. This is a cause for celebration.
+
+239
+00:15:23,930 --> 00:15:24,570
+Yeah.
+
+240
+00:15:24,690 --> 00:15:25,810
+But, Manager Zhao,
+
+241
+00:15:26,130 --> 00:15:28,910
+shouldn’t you head back to control the situation today?
+
+242
+00:15:30,630 --> 00:15:31,390
+Should I?
+
+243
+00:15:33,190 --> 00:15:34,710
+Yeah, you’re right.
+
+244
+00:15:36,470 --> 00:15:37,630
+I’ll send you back.
+
+245
+00:15:38,430 --> 00:15:40,110
+Don’t be so polite. Let’s go.
+
+246
+00:15:47,590 --> 00:15:48,230
+Manager Zhao.
+
+247
+00:15:48,510 --> 00:15:50,190
+What is it? Spit it out.
+
+248
+00:15:57,100 --> 00:15:57,820
+President Jin.
+
+249
+00:16:00,060 --> 00:16:01,500
+What happened?
+
+250
+00:16:01,980 --> 00:16:02,700
+Well -
+
+251
+00:16:03,380 --> 00:16:04,340
+It’s like this.
+
+252
+00:16:05,340 --> 00:16:08,360
+I’ve found the source of that internet video.
+
+253
+00:16:09,080 --> 00:16:10,520
+It’s the female host of You Xing,
+
+254
+00:16:11,640 --> 00:16:13,520
+the one who live streamed
+
+255
+00:16:14,160 --> 00:16:17,200
+Ji Xiang Kong and Jeffrey’s fight. Qiu Ying.
+
+256
+00:16:18,440 --> 00:16:19,200
+Manager Zhao.
+
+257
+00:16:20,000 --> 00:16:22,400
+Is this your guess, or is it backed by evidence?
+
+258
+00:16:26,000 --> 00:16:27,430
+Take a look, President Jin.
+
+259
+00:16:30,670 --> 00:16:33,070
+The video’s IP address
+
+260
+00:16:33,390 --> 00:16:37,340
+and Qiu Ying’s live stream IP address are the same.
+
+261
+00:16:38,380 --> 00:16:41,140
+I’ve confirmed it. They’re the same.
+
+262
+00:16:42,340 --> 00:16:46,300
+What does she want? What’s wrong with her?
+
+263
+00:16:50,170 --> 00:16:51,290
+Does she have something against us?
+
+264
+00:17:00,090 --> 00:17:02,570
+My phone has been exploding with calls today.
+
+265
+00:17:02,810 --> 00:17:03,810
+Everyone’s asking me
+
+266
+00:17:05,010 --> 00:17:08,400
+what relationship Mr Ji and Qiu Ying have.
+
+267
+00:17:09,880 --> 00:17:14,280
+Plus, it’s heavily rumored outside that our Mr Ji
+
+268
+00:17:14,960 --> 00:17:18,430
+has played with her feelings.
+
+269
+00:17:18,870 --> 00:17:19,750
+Stop.
+
+270
+00:17:20,030 --> 00:17:21,670
+I didn’t believe it.
+
+271
+00:17:22,710 --> 00:17:25,150
+I remember you and Qiu -
+
+272
+00:17:25,510 --> 00:17:26,070
+Qiu what?
+
+273
+00:17:26,430 --> 00:17:27,030
+Qiu Ying.
+
+274
+00:17:27,230 --> 00:17:27,940
+Yeah.
+
+275
+00:17:28,660 --> 00:17:30,380
+Haven’t you played doubles with her?
+
+276
+00:17:31,580 --> 00:17:33,500
+Yeah. I brought her down.
+
+277
+00:17:33,700 --> 00:17:34,500
+No wonder.
+
+278
+00:17:36,420 --> 00:17:37,260
+You brought her down.
+
+279
+00:17:37,380 --> 00:17:40,100
+She would take revenge, right?
+
+280
+00:17:41,020 --> 00:17:41,780
+Perhaps
+
+281
+00:17:42,620 --> 00:17:47,650
+Look. We’ll arrange for a press conference.
+
+282
+00:17:49,010 --> 00:17:51,370
+Apologise for the scuffle.
+
+283
+00:17:51,530 --> 00:17:54,130
+Also, clarify your relationship with Qiu Ying.
+
+284
+00:17:55,290 --> 00:18:00,080
+Xiang Kong, you have to protect your image against rumors.
+
+285
+00:18:00,280 --> 00:18:01,120
+Understood?
+
+286
+00:18:02,240 --> 00:18:03,680
+Everyone was present.
+
+287
+00:18:03,920 --> 00:18:05,280
+I didn’t hit anyone. Why apologise?
+
+288
+00:18:06,360 --> 00:18:08,060
+Plus, the video was clearly falsified.
+
+289
+00:18:08,660 --> 00:18:10,540
+If you have proof, Manager Zhao,
+
+290
+00:18:10,940 --> 00:18:11,740
+then sue Qiu Ying.
+
+291
+00:18:11,860 --> 00:18:13,140
+Let her prove my innocence.
+
+292
+00:18:14,700 --> 00:18:16,180
+I think Xiang Kong is right.
+
+293
+00:18:16,620 --> 00:18:17,780
+These issues should be solved by the law.
+
+294
+00:18:19,820 --> 00:18:22,420
+Otherwise, it’ll get more complicated.
+
+295
+00:18:23,660 --> 00:18:24,300
+President Jin.
+
+296
+00:18:24,620 --> 00:18:25,420
+I still need to go practice.
+
+297
+00:18:25,540 --> 00:18:26,940
+If there’s nothing else, I’ll take my leave.
+
+298
+00:18:30,660 --> 00:18:31,300
+Brother Xuan.
+
+299
+00:18:35,180 --> 00:18:35,820
+How was it?
+
+300
+00:18:36,020 --> 00:18:36,780
+Was it Qiu Ying?
+
+301
+00:18:37,140 --> 00:18:37,740
+Yeah.
+
+302
+00:18:38,170 --> 00:18:39,930
+I heard that Legal has sent her a lawyer’s letter.
+
+303
+00:18:41,530 --> 00:18:42,170
+Yi Xuan.
+
+304
+00:18:42,690 --> 00:18:43,650
+Don’t you think that Ji and Qiu Ying
+
+305
+00:18:43,690 --> 00:18:44,330
+are a little -
+
+306
+00:18:46,010 --> 00:18:48,350
 I don’t know.
 
-568
-00:30:32,700 --> 00:30:33,775
-What should we do?
+307
+00:18:52,830 --> 00:18:54,830
+I’m going outside. I know who to ask.
 
-569
-00:30:33,900 --> 00:30:34,675
-Director Zhao.
+308
+00:18:55,550 --> 00:18:56,750
+Brother Xuan. It’s full of fans outside.
 
-570
-00:30:39,975 --> 00:30:40,950
-Listen to me.
+309
+00:18:56,950 --> 00:18:57,910
+I have a plan.
 
-571
-00:30:42,000 --> 00:30:44,575
-You arrange more training games for them.
+310
+00:19:01,550 --> 00:19:02,830
+My goodness.
 
-572
-00:30:45,350 --> 00:30:47,350
-If Ji Xiangkong goes to Jeffery,
+311
+00:19:07,430 --> 00:19:10,310
+What’s happening?So many people.
 
-573
-00:30:48,075 --> 00:30:50,075
-do whatever you can to stop him!
+312
+00:19:13,910 --> 00:19:15,790
+No matter what, let me take a shot first.
 
-574
-00:30:50,100 --> 00:30:50,800
-Do you hear me?
+313
+00:19:21,620 --> 00:19:23,260
+I should somehow get Lin Yi Xuan
 
-575
-00:30:51,475 --> 00:30:52,175
+314
+00:19:23,580 --> 00:19:24,740
+outside for some insider news.
+
+315
+00:19:26,180 --> 00:19:27,180
+Clever.
+
+316
+00:19:29,800 --> 00:19:31,520
+Lin Yi Xuan.
+
+317
+00:19:34,800 --> 00:19:35,440
+I -
+
+318
+00:19:35,600 --> 00:19:37,280
+-Let’s go. -What?
+
+319
+00:19:40,600 --> 00:19:41,600
+Let go!
+
+320
+00:19:42,040 --> 00:19:43,000
+Are you crazy?
+
+321
+00:19:48,590 --> 00:19:49,150
+No.
+
+322
+00:19:50,230 --> 00:19:52,270
+Are you crazy? What expression is that?
+
+323
+00:19:52,790 --> 00:19:54,350
+Let me tell you. I can’t take this anymore.
+
+324
+00:19:56,550 --> 00:19:57,230
 Yes.
 
-576
-00:30:59,025 --> 00:31:01,275
-Let me escalated this online first.
+325
+00:19:57,830 --> 00:19:58,390
+Before, during the doubles,
 
-577
-00:31:03,425 --> 00:31:04,875
-After a month,
+326
+00:19:58,470 --> 00:20:00,020
+it was Brother Kong’s fault for disconnecting.
 
-578
-00:31:05,675 --> 00:31:07,475
-even if Jeffery comes out to clarify,
+327
+00:20:00,460 --> 00:20:02,020
+But why would Qiu Ying take revenge like this?
 
-579
-00:31:08,125 --> 00:31:09,150
-there is no way to settle it down.
+328
+00:20:04,180 --> 00:20:07,580
+Wait. -Why are you yelling? -Don’t push.
 
-580
-00:31:11,850 --> 00:31:12,850
-Brilliant!
+329
+00:20:07,740 --> 00:20:09,010
+-Why are you yelling? -Don’t touch me.
 
-581
-00:31:13,025 --> 00:31:14,900
-Director Zhao, try this new tea.
+330
+00:20:09,610 --> 00:20:12,170
+What revenge? Our Qiu Ying did nothing of the sort.
 
-582
-00:31:15,600 --> 00:31:16,700
-No. No. No.
+331
+00:20:13,250 --> 00:20:14,170
+Ji Xiang Kong bullied her,
 
-583
-00:31:26,125 --> 00:31:26,800
-It will be OK.
+332
+00:20:14,250 --> 00:20:15,850
+and now he wants to frame her too?
 
-584
-00:31:27,200 --> 00:31:27,975
-I am here for you.
+333
+00:20:16,810 --> 00:20:19,730
+Tell me. What revenge? What revenge?
 
-585
-00:31:28,725 --> 00:31:29,925
-Let’s wait for lawyer Chen.
+334
+00:20:20,690 --> 00:20:21,850
+Let me tell you what revenge is.
 
-586
-00:31:30,125 --> 00:31:31,500
-There must be a way to solve this.
+335
+00:20:21,930 --> 00:20:22,570
+Tell me.
 
-587
-00:31:46,092 --> 00:31:47,884
-Who is that? Why don’t you check it?
+336
+00:20:22,810 --> 00:20:27,530
+I’ll tell you. Qiu Ying wanted to use Brother Kong.
 
-588
-00:31:48,500 --> 00:31:49,050
+337
+00:20:27,650 --> 00:20:29,880
+When she failed, she took revenge. That’s revenge.
+
+338
+00:20:31,360 --> 00:20:32,520
+Try saying it one more time.
+
+339
+00:20:32,560 --> 00:20:33,800
+Stop hitting me!
+
+340
+00:20:34,080 --> 00:20:35,880
+Today, you’re asking for it.
+
+341
+00:20:36,160 --> 00:20:36,760
+Don’t hit me.
+
+342
+00:20:36,840 --> 00:20:37,760
+-Stop hiding! -Stop hitting me!
+
+343
+00:20:38,120 --> 00:20:38,760
+-Stomp! -Ouch!
+
+344
+00:20:38,950 --> 00:20:39,750
+Ouch!
+
+345
+00:20:39,990 --> 00:20:41,270
+Stop hiding!
+
+346
+00:20:41,550 --> 00:20:42,590
+I’ll stomp on you!
+
+347
+00:20:43,910 --> 00:20:47,390
+Listen up. Our Qiu Ying doesn’t want to rely
+
+348
+00:20:47,470 --> 00:20:48,470
+on your liar Brother Kong!
+
+349
+00:20:48,790 --> 00:20:49,620
+She definitely won’t use these
+
+350
+00:20:49,700 --> 00:20:50,980
+stupid methods to take revenge.
+
+351
+00:20:52,300 --> 00:20:54,620
+She’s the kindest girl I’ve ever seen in this whole world.
+
+352
+00:20:55,900 --> 00:20:58,060
+If you dare to slander her again, watch out.
+
+353
+00:20:58,620 --> 00:20:59,820
+I might kill you!
+
+354
+00:21:01,580 --> 00:21:02,340
+Stand there!
+
+355
+00:21:04,540 --> 00:21:05,980
+What are you doing?
+
+356
+00:21:06,100 --> 00:21:06,540
+You -
+
+357
+00:21:06,860 --> 00:21:07,420
+No -
+
+358
+00:21:07,500 --> 00:21:08,220
+I didn’t mean that.
+
+359
+00:21:08,300 --> 00:21:09,250
+Don’t hit me.
+
+360
+00:21:10,330 --> 00:21:11,530
+No. I have proof, okay?
+
+361
+00:21:12,410 --> 00:21:13,650
+The IP address of the video uploader
+
+362
+00:21:13,970 --> 00:21:15,130
+is Qiu Ying’s live stream IP address.
+
+363
+00:21:15,530 --> 00:21:16,290
+What?
+
+364
+00:21:21,520 --> 00:21:22,760
+Chuan Qi’s lawyer has just left.
+
+365
+00:21:23,280 --> 00:21:24,200
+Look at it yourself.
+
+366
+00:21:29,420 --> 00:21:30,700
+The video uploading IP address
+
+367
+00:21:31,500 --> 00:21:33,460
+is the live stream IP address at your place.
+
+368
+00:21:36,260 --> 00:21:38,060
+They’ve got iron-clad proof.
+
+369
+00:21:43,660 --> 00:21:45,540
+That’s impossible, President Liu.
+
+370
+00:21:45,700 --> 00:21:46,980
+This is a setup.
+
+371
+00:21:47,740 --> 00:21:49,500
+Plus, even if I wanted to,
+
+372
+00:21:49,540 --> 00:21:51,660
+I wouldn’t be stupid enough to use my own computer.
+
+373
+00:21:51,900 --> 00:21:54,220
+You saying this doesn’t help solve the issue.
+
+374
+00:21:54,980 --> 00:21:57,780
+No, President Liu. Give me some time.
+
+375
+00:21:57,860 --> 00:21:59,650
+I’ll get to the bottom of this.
+
+376
+00:22:00,130 --> 00:22:03,170
+What’s there to check? All evidence points to you.
+
+377
+00:22:03,450 --> 00:22:06,050
+This is creating a very bad image of our company.
+
+378
+00:22:06,090 --> 00:22:08,530
+Do you understand? I am at my wit’s end.
+
+379
+00:22:09,630 --> 00:22:10,430
+President Liu.
+
+380
+00:22:11,590 --> 00:22:12,510
+You’re -
+
+381
+00:22:12,990 --> 00:22:14,070
+firing me?
+
+382
+00:22:15,430 --> 00:22:17,030
+If we don’t resolve this issue,
+
+383
+00:22:17,430 --> 00:22:19,390
+Chuan Qi will never work with us again.
+
+384
+00:22:21,030 --> 00:22:21,910
+We’re restructuring,
+
+385
+00:22:22,150 --> 00:22:24,110
+and we offend the strongest team in the mainland?
+
+386
+00:22:24,390 --> 00:22:27,590
+If you were me, what would you do?
+
+387
+00:22:28,550 --> 00:22:30,510
+I’m sorry, Qiu Ying.
+
+388
+00:22:31,270 --> 00:22:34,150
+I’ll ask Finance to send you this month’s salary.
+
+389
+00:22:35,110 --> 00:22:36,710
+We’ll throw in a month of severance.
+
+390
+00:22:40,980 --> 00:22:42,100
+I’m sorry, President Liu.
+
+391
+00:22:43,620 --> 00:22:44,900
+I’ve caused trouble for the company.
+
+392
+00:23:12,790 --> 00:23:13,430
+Sister Xin.
+
+393
+00:23:18,150 --> 00:23:19,430
+Taking revenge when dumped.
+
+394
+00:23:20,540 --> 00:23:22,740
+She doesn’t know what she looks like,
+
+395
+00:23:23,940 --> 00:23:25,020
+or if she has the capital.
+
+396
+00:23:25,500 --> 00:23:28,380
+I heard that Ji Xiang Kong isn’t a good person.
+
+397
+00:23:29,500 --> 00:23:32,890
+Birds of a feather. A perfect match.
+
+398
+00:23:34,970 --> 00:23:35,770
+Let’s go.
+
+399
+00:24:15,980 --> 00:24:16,660
+Captain.
+
+400
+00:24:17,020 --> 00:24:17,900
+You’re here, Brother Kui.
+
+401
+00:24:20,300 --> 00:24:21,100
+You’re practising.
+
+402
+00:24:25,340 --> 00:24:26,260
+I’m getting old.
+
+403
+00:24:26,580 --> 00:24:28,580
+I couldn’t take it after only two hours.
+
+404
+00:24:30,100 --> 00:24:31,690
+You’re the hardest worker amongst all of us.
+
+405
+00:24:31,970 --> 00:24:33,170
+We should all learn from you.
+
+406
+00:24:36,130 --> 00:24:36,730
+Oh, yes.
+
+407
+00:24:37,410 --> 00:24:38,810
+How did your problem go?
+
+408
+00:24:39,450 --> 00:24:40,090
+Don’t let it affect
+
+409
+00:24:40,170 --> 00:24:41,360
+your inner competition participation.
+
+410
+00:24:44,040 --> 00:24:44,680
+Sorry.
+
+411
+00:24:45,280 --> 00:24:47,560
+I’m causing trouble before the competition.
+
+412
+00:24:52,100 --> 00:24:53,140
+Ever since Gu Fang left,
+
+413
+00:24:53,900 --> 00:24:55,380
+I’m the oldest in the team.
+
+414
+00:24:55,940 --> 00:24:57,620
+You know, people like us
+
+415
+00:24:57,740 --> 00:24:59,140
+are in the golden age of professional e-sports players.
+
+416
+00:24:59,820 --> 00:25:00,900
+It only lasts a few years.
+
+417
+00:25:02,500 --> 00:25:03,580
+For me, it’s one fewer
+
+418
+00:25:04,580 --> 00:25:06,260
+competition every time I join one.
+
+419
+00:25:11,500 --> 00:25:12,180
+Ji.
+
+420
+00:25:14,460 --> 00:25:18,380
+I’m putting my life’s final hope to win
+
+421
+00:25:19,380 --> 00:25:21,010
+entirely upon you.
+
+422
+00:25:26,290 --> 00:25:28,770
+You and Qiu Ying -
+
+423
+00:25:29,490 --> 00:25:30,290
+Brother Kui.
+
+424
+00:25:30,730 --> 00:25:32,310
+There’s nothing between us.
+
+425
+00:25:35,430 --> 00:25:36,230
+I promise you
+
+426
+00:25:36,710 --> 00:25:38,830
+that I won’t let anything affect the competition.
+
+427
+00:25:45,470 --> 00:25:46,430
+Let me train with you.
+
+428
+00:25:47,430 --> 00:25:48,190
+Let's do it.
+
+429
+00:26:02,660 --> 00:26:05,420
+Ji Xiang Kong’s news are everywhere.
+
+430
+00:26:06,140 --> 00:26:07,780
+These netizens are so vicious.
+
+431
+00:26:08,380 --> 00:26:09,300
+But they’re right.
+
+432
+00:26:11,320 --> 00:26:12,800
+Ji Xiang Kong is so unlucky.
+
+433
+00:26:13,320 --> 00:26:14,200
+Unlucky?
+
+434
+00:26:14,440 --> 00:26:16,040
+If he didn’t ask for it, this wouldn’t have happened.
+
+435
+00:26:16,160 --> 00:26:17,160
+He asked for it.
+
+436
+00:26:18,000 --> 00:26:19,880
+If you don’t want people to know, don’t do it.
+
+437
+00:26:21,080 --> 00:26:22,000
+Look at what this netizen said.
+
+438
+00:26:22,520 --> 00:26:24,880
+China Dian Feng’s face is completely lost by you.
+
+439
+00:26:25,880 --> 00:26:28,120
+The Chuan Qi team is a complete mess.
+
+440
+00:26:29,440 --> 00:26:30,640
+It’s getting complicated.
+
+441
+00:26:30,880 --> 00:26:32,230
+Looks like resolution is tough.
+
+442
+00:26:33,510 --> 00:26:36,110
+I didn’t think that Ji Xiang Kong
+
+443
+00:26:36,190 --> 00:26:37,630
+would be fallen by a woman.
+
+444
+00:26:38,630 --> 00:26:39,470
+Isn’t that good?
+
+445
+00:26:40,190 --> 00:26:41,700
+The competition is in two days.
+
+446
+00:26:41,940 --> 00:26:43,060
+The fiercer the fight, the better.
+
+447
+00:26:43,380 --> 00:26:44,340
+We’ll win silently.
+
+448
+00:26:45,220 --> 00:26:45,940
+Look at this person
+
+449
+00:26:46,580 --> 00:26:49,740
+Handicapped in the competition, punching someone after.
+
+450
+00:26:53,050 --> 00:26:53,850
+And this -
+
+451
+00:26:54,690 --> 00:26:56,890
+I was speechless after reading it.
+
+452
+00:26:57,050 --> 00:26:58,410
+These netizens are heartless.
+
+453
+00:27:01,210 --> 00:27:03,130
+We’re interrupting Captain Pei’s training.
+
+454
+00:27:04,090 --> 00:27:05,970
+The training room isn’t a place for you to gossip.
+
+455
+00:27:08,490 --> 00:27:10,210
+It’s 6PM. Time’s up.
+
+456
+00:27:11,170 --> 00:27:11,800
+Let’s go.
+
+457
+00:27:12,080 --> 00:27:13,400
+Steamboat is on me.
+
+458
+00:27:14,720 --> 00:27:15,600
+Brothers.
+
+459
+00:27:17,120 --> 00:27:18,400
+There’s a training match at 9PM.
+
+460
+00:27:19,120 --> 00:27:19,800
+Four protect one.
+
+461
+00:27:20,120 --> 00:27:21,320
+We’re familiar, Captain.
+
+462
+00:27:21,640 --> 00:27:23,630
+You can win all by yourself, can’t you?
+
+463
+00:27:24,350 --> 00:27:25,030
+Thanks, Brother Qi.
+
+464
+00:27:25,150 --> 00:27:27,190
+We really haven’t had steamboat in a long time.
+
+465
+00:27:27,430 --> 00:27:28,670
+Let’s go, Lu Sheng.
+
+466
+00:27:34,220 --> 00:27:36,700
+Captain, we’ll be back before the training match.
+
+467
+00:27:37,420 --> 00:27:38,340
+Let’s go, Tong Wu.
+
+468
+00:27:38,780 --> 00:27:40,540
+Don’t disturb Captain Pei’s training.
+
+469
+00:27:47,620 --> 00:27:48,540
+Drink up.
+
+470
+00:27:48,620 --> 00:27:49,540
+No.
+
+471
+00:27:52,810 --> 00:27:54,130
+The video has been online for days.
+
+472
+00:27:54,370 --> 00:27:55,210
+He’s still hiding.
+
+473
+00:27:55,610 --> 00:27:57,250
+We’re Chuan Qi’s biggest sponsor.
+
+474
+00:27:57,610 --> 00:27:58,210
+We’ve put in so much money.
+
+475
+00:27:58,290 --> 00:27:59,410
+What do you take me for?
+
+476
+00:27:59,530 --> 00:28:00,290
+Yes.
+
+477
+00:28:00,570 --> 00:28:01,130
+President Bai,
+
+478
+00:28:01,210 --> 00:28:02,760
+Xiang Kong is in a training match.
+
+479
+00:28:02,800 --> 00:28:04,840
+At this hour, what training match is there?
+
+480
+00:28:05,440 --> 00:28:06,400
+No, President Bai.
+
+481
+00:28:06,920 --> 00:28:08,560
+They’re preparing for the inner competition.
+
+482
+00:28:08,960 --> 00:28:10,680
+Ji Xiang Kong is deputy captain.
+
+483
+00:28:10,800 --> 00:28:12,110
+Who let him be deputy captain?
+
+484
+00:28:12,580 --> 00:28:14,500
+I wanted a captain with a healthy image!
+
+485
+00:28:23,100 --> 00:28:24,380
+Isn’t this Ji Xiang Kong?
+
+486
+00:28:24,860 --> 00:28:25,900
+You’re really something.
+
+487
+00:28:27,540 --> 00:28:29,020
+What’s your relationship with Qiu Ying?
+
+488
+00:28:29,580 --> 00:28:31,540
+The net says you toyed with her feelings
+
+489
+00:28:31,620 --> 00:28:32,580
+and caused this revenge.
+
+490
+00:28:35,260 --> 00:28:35,780
+President Bai.
+
+491
+00:28:36,260 --> 00:28:38,460
+There’s nothing untoward between Qiu Ying and me.
+
+492
+00:28:40,340 --> 00:28:40,900
+Sorry.
+
+493
+00:28:41,500 --> 00:28:43,570
+Due to my carelessness, I’ve brought trouble to
+
+494
+00:28:43,610 --> 00:28:44,450
+the team and the company.
+
+495
+00:28:44,970 --> 00:28:45,730
+I’m deeply sorry.
+
+496
+00:28:48,890 --> 00:28:49,690
+I’m here today
+
+497
+00:28:50,130 --> 00:28:52,010
+in the hopes of resolving the problem.
+
+498
+00:28:55,150 --> 00:28:56,350
+How do we resolve the problem?
+
+499
+00:28:57,630 --> 00:28:59,910
+I want this issue to die down quickly!
+
+500
+00:29:01,190 --> 00:29:03,110
+The assault video on the net is clearly fake.
+
+501
+00:29:03,470 --> 00:29:04,710
+We can clarify it with the involved party.
+
+502
+00:29:05,310 --> 00:29:07,950
+I’m afraid Qiu Ying won’t -
+
+503
+00:29:08,750 --> 00:29:11,110
+I don’t mean Qiu Ying, but Jeffrey.
+
+504
+00:29:12,310 --> 00:29:13,830
+Jeffrey. That’s right.
+
+505
+00:29:14,230 --> 00:29:15,750
+If we tried to explain this ourselves,
+
+506
+00:29:15,790 --> 00:29:16,790
+the rest won’t believe it.
+
+507
+00:29:17,630 --> 00:29:20,070
+If Jeffrey can step up to explain it himself,
+
+508
+00:29:20,830 --> 00:29:22,390
+the video has nothing to stand on.
+
+509
+00:29:23,620 --> 00:29:25,260
+Yes, the assault was fake.
+
+510
+00:29:25,860 --> 00:29:28,380
+The conflict, however, was real.
+
+511
+00:29:28,940 --> 00:29:30,980
+We’ve already offended them.
+
+512
+00:29:31,180 --> 00:29:33,440
+Why would they step up to clarify matters with us?
+
+513
+00:29:33,600 --> 00:29:34,240
+Right?
+
+514
+00:29:34,360 --> 00:29:35,200
+Jeffrey is a very proud person
+
+515
+00:29:35,520 --> 00:29:37,640
+If he knew that everyone thought I could bully him,
+
+516
+00:29:37,960 --> 00:29:38,880
+he would step up to deny it.
+
+517
+00:29:39,400 --> 00:29:41,080
+Plus, he’s coming to China in a few days.
+
+518
+00:29:41,800 --> 00:29:42,560
+Really?
+
+519
+00:29:45,880 --> 00:29:47,480
+That’s great! Isn’t it?
+
+520
+00:29:53,550 --> 00:29:55,390
+Don’t worry, President Bai.
+
+521
+00:29:56,110 --> 00:29:59,150
+I’ll bring along my company’s most sincere apologies
+
+522
+00:29:59,430 --> 00:30:01,790
+to invite Jeffrey out to clarify it for us.
+
+523
+00:30:02,750 --> 00:30:04,980
+Calm down. Relax. Don’t worry.
+
+524
+00:30:06,820 --> 00:30:07,700
+We’ll have to trouble you then.
+
+525
+00:30:08,340 --> 00:30:10,180
+Of course, Manager Zhao.
+
+526
+00:30:10,700 --> 00:30:11,740
+Don’t mention it.
+
+527
+00:30:20,530 --> 00:30:21,770
+Shut the door.
+
+528
+00:30:27,490 --> 00:30:29,210
+When is Jeffrey coming? Check it out.
+
+529
+00:30:29,370 --> 00:30:30,570
+I’ve checked. Tomorrow.
+
+530
+00:30:30,930 --> 00:30:32,010
+Tomorrow?
+
+531
+00:30:36,200 --> 00:30:37,560
+Another obstacle suddenly surfaces.
+
+532
+00:30:37,640 --> 00:30:38,280
+This -
+
+533
+00:30:39,320 --> 00:30:42,960
+Manager Zhao, do you think Jeffrey will really step up?
+
+534
+00:30:44,710 --> 00:30:45,430
+I can’t say.
+
+535
+00:30:45,990 --> 00:30:47,750
+What should we do? Manager Zhao.
+
+536
+00:30:53,110 --> 00:30:53,900
+Let’s do this.
+
+537
+00:30:55,340 --> 00:30:57,660
+Go arrange more training matches for them.
+
+538
+00:30:58,700 --> 00:31:00,540
+If Ji Xiang Kong looks for Jeffrey,
+
+539
+00:31:01,340 --> 00:31:03,220
+no matter what you do, you have to stop it.
+
+540
+00:31:03,420 --> 00:31:04,020
+Got it?
+
+541
+00:31:04,580 --> 00:31:05,460
+Got it.
+
+542
+00:31:12,220 --> 00:31:14,570
+I’ll blow up the news on the internet.
+
+543
+00:31:16,930 --> 00:31:18,130
+A month later,
+
+544
+00:31:19,010 --> 00:31:22,490
+even if Jeffrey steps up to clarify things, it’ll be too late.
+
+545
+00:31:25,280 --> 00:31:26,200
+Clever.
+
+546
+00:31:26,480 --> 00:31:28,160
+Try this new tea, Manager Zhao.
+
+547
+00:31:29,120 --> 00:31:30,280
+No.
+
+548
+00:31:39,660 --> 00:31:40,300
+It’ll be okay.
+
+549
+00:31:40,580 --> 00:31:41,500
+I’m here.
+
+550
+00:31:42,180 --> 00:31:43,420
+We’ll wait for Lawyer Chen.
+
+551
+00:31:43,700 --> 00:31:45,100
+We’ll find a way to solve this.
+
+552
+00:31:59,820 --> 00:32:01,300
+Who is it? Why didn’t you read it?
+
+553
+00:32:02,140 --> 00:32:02,940
 Xia Ling.
 
-589
-00:31:50,800 --> 00:31:51,825
-Your little brother?
+554
+00:32:04,610 --> 00:32:05,410
+Your brother?
 
-590
-00:31:52,875 --> 00:31:53,975
-He is not my brother.
+555
+00:32:06,610 --> 00:32:07,690
+He’s not my brother.
 
-591
-00:31:56,525 --> 00:31:58,525
-Even you're not genetically related,
+556
+00:32:10,290 --> 00:32:14,550
+Even without blood relations, he’s still legally your brother.
 
-592
-00:31:58,975 --> 00:32:00,900
-he's still your legal brother.
+557
+00:32:15,070 --> 00:32:17,310
+Look at it. Maybe it’s urgent.
 
-593
-00:32:01,250 --> 00:32:03,650
-Just check it. Maybe there is something emergent.
+558
+00:32:29,070 --> 00:32:31,550
+Sister. I saw the threads on the internet.
 
-594
-00:32:15,300 --> 00:32:16,100
-Sister,
+559
+00:32:32,150 --> 00:32:33,150
+How are you doing?
 
-595
-00:32:16,300 --> 00:32:17,625
-I saw the blogs online.
+560
+00:32:33,630 --> 00:32:36,350
+I’m worried, and Dad is worried too.
 
-596
-00:32:18,325 --> 00:32:19,425
-Are you doing alright?
+561
+00:32:38,230 --> 00:32:40,830
+See. Your brother cares about you.
 
-597
-00:32:19,750 --> 00:32:20,775
-I am worried about you.
+562
+00:32:41,750 --> 00:32:45,260
+Yeah. He does. If not for them,
 
-598
-00:32:21,025 --> 00:32:22,500
-Dad is also worried about you.
-
-599
-00:32:24,325 --> 00:32:27,000
-See, your brother cares a lot about you.
-
-600
-00:32:27,825 --> 00:32:29,550
-Right, really care about me.
-
-601
-00:32:29,875 --> 00:32:31,425
-If it wasn't them,
-
-602
-00:32:32,050 --> 00:32:33,775
-I wouldn't be like this right now.
+563
+00:32:45,820 --> 00:32:47,700
+I wouldn’t have become like this.
 

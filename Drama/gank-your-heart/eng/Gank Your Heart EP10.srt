@@ -1,3144 +1,2216 @@
-1
-00:01:31,117 --> 00:01:35,085
-GANK YOUR HEART
+﻿1
+00:01:40,500 --> 00:01:42,340
+Where are you going? Slow down!
 
 2
-00:01:35,853 --> 00:01:37,325
-Episode 10
+00:01:46,020 --> 00:01:46,700
+Can you please slow down?
 
 3
-00:01:39,450 --> 00:01:41,525
-Where are you going?Slow down.
+00:01:46,780 --> 00:01:48,140
+I can’t grab hold of everything.
 
 4
-00:01:45,275 --> 00:01:45,925
-Take care,OK?
+00:01:48,820 --> 00:01:50,890
+Come. Get up. I’ll send you home, okay?
 
 5
-00:01:45,925 --> 00:01:47,675
-I can't hold it well.
+00:01:50,970 --> 00:01:54,010
+Don’t touch me. It hurts. It really hurts, you know?
 
 6
-00:01:48,269 --> 00:01:49,293
-Come on.Stand up.
+00:01:56,170 --> 00:01:57,010
+It wasn’t me.
 
 7
-00:01:49,293 --> 00:01:50,151
-Let me take you to your home,OK?
+00:01:57,850 --> 00:01:58,410
+It was you.
 
 8
-00:01:50,151 --> 00:01:51,469
-Don't touch me.I am hurt.
+00:01:58,970 --> 00:02:00,880
+Sorry. Come. Get up.
 
 9
-00:01:51,469 --> 00:01:53,300
-Do you know I am very hurt?
+00:02:00,950 --> 00:02:02,030
+-Get up. -No!
 
 10
-00:01:55,250 --> 00:01:56,103
-It's not me.
+00:02:02,150 --> 00:02:03,030
+Let’s go home.
 
 11
-00:01:57,050 --> 00:01:57,675
-It's you.
+00:02:03,070 --> 00:02:06,070
+I won’t get up. I have no home. What home is there?
 
 12
-00:01:58,322 --> 00:01:58,850
-Sorry,sorry.
+00:02:09,230 --> 00:02:09,710
+I’ll -
 
 13
-00:01:58,850 --> 00:01:59,425
-Come on,come on.
+00:02:09,910 --> 00:02:11,590
+I’ll go home myself!
 
 14
-00:01:59,426 --> 00:02:00,263
-Stand up,stand up.
+00:02:11,870 --> 00:02:13,750
+Can you do it? Let’s go.
 
 15
-00:02:00,263 --> 00:02:01,076
-No,i won't stand up.
+00:02:14,230 --> 00:02:19,750
+Don’t touch me. I’m sad. Put me down. Put me down.
 
 16
-00:02:01,076 --> 00:02:02,025
-Come on.Let's go home.
+00:02:20,230 --> 00:02:21,990
+You’ve drunk too much. How could I put you down?
 
 17
-00:02:02,025 --> 00:02:03,271
-No,I don't have home.
+00:02:22,310 --> 00:02:25,390
+Scum. Why are you carrying me? Let me down!
 
 18
-00:02:03,497 --> 00:02:05,063
-How can i go back home?
+00:02:25,870 --> 00:02:29,190
+Let you down? Shouldn’t you get down by yourself?
 
 19
-00:02:08,361 --> 00:02:09,524
-I,I,I.
+00:02:29,390 --> 00:02:31,580
+If you don’t put me down, I’m going to bite you.
 
 20
-00:02:09,524 --> 00:02:10,985
-I can go home by myself.
+00:02:31,700 --> 00:02:34,580
+Don’t bite. Ouch!
 
 21
-00:02:10,985 --> 00:02:12,532
-Are you ok? Come on.Let's go.
+00:02:53,640 --> 00:02:54,880
+Slowly.
 
 22
-00:02:13,325 --> 00:02:15,885
-Don't touch me.I am so poor.
+00:03:10,950 --> 00:03:15,900
+Mom. I’ve really tried my best.
 
 23
-00:02:16,903 --> 00:02:18,759
-Let me down.
+00:03:18,660 --> 00:03:19,660
+Why -
 
 24
-00:02:19,399 --> 00:02:20,935
-You are so drunk.How can I put you down?
+00:03:21,340 --> 00:03:23,250
+Why did it turn out this way?
 
 25
-00:02:21,423 --> 00:02:22,825
-You asshole.Why are you carrying me?
+00:03:24,850 --> 00:03:27,970
+Be good and go to sleep.
 
 26
-00:02:23,081 --> 00:02:24,297
-Get down.
+00:03:28,170 --> 00:03:30,050
+I didn’t want to let you down.
 
 27
-00:02:24,967 --> 00:02:26,055
-You want me get down?
+00:03:31,090 --> 00:03:32,570
+I know.
 
 28
-00:02:26,375 --> 00:02:28,359
-It's you.
+00:03:33,610 --> 00:03:35,370
+Can you see it, Mom?
 
 29
-00:02:29,063 --> 00:02:29,559
-I will bite you 
+00:05:19,410 --> 00:05:21,370
+Who’s making noise in the morning?
 
 30
-00:02:29,559 --> 00:02:30,263
-if you don't let me down.
+00:05:26,550 --> 00:05:28,070
+You two -
 
 31
-00:02:30,903 --> 00:02:31,479
-Don't do it.
+00:05:28,230 --> 00:05:29,230
+So soon?
 
 32
-00:02:31,479 --> 00:02:32,800
-Hurt,hurt,hurt.
+00:05:30,670 --> 00:05:31,350
+You’re awake.
 
 33
-00:02:52,875 --> 00:02:53,835
-Come on.Slow it down.
+00:05:32,190 --> 00:05:33,070
+I -
 
 34
-00:03:09,662 --> 00:03:10,430
-Mom.
+00:05:34,630 --> 00:05:36,070
+Why am I here?
 
 35
-00:03:12,395 --> 00:03:14,462
-I've been trying so hard.
+00:05:37,630 --> 00:05:38,430
+What do you think?
 
 36
-00:03:17,323 --> 00:03:18,174
-Why?
+00:05:46,470 --> 00:05:47,150
+I -
 
 37
-00:03:19,800 --> 00:03:21,175
-Why is it still the same?
+00:05:47,470 --> 00:05:48,470
+drank too much?
 
 38
-00:03:23,550 --> 00:03:25,862
-Well,OK,good night.
+00:05:50,030 --> 00:05:51,070
+Good that you remember.
 
 39
-00:03:26,750 --> 00:03:28,542
-I really don't wanna let you down.
+00:05:57,420 --> 00:05:58,460
+How did you get back?
 
 40
-00:03:29,928 --> 00:03:30,600
-I know it.
-
-41
-00:03:32,104 --> 00:03:34,408
-Mom,can you see that?
-
-42
-00:05:17,365 --> 00:05:19,285
-Why are you so noisy in the morning?
-
-43
-00:05:24,405 --> 00:05:25,775
-You,you,you.
-
-44
-00:05:25,775 --> 00:05:26,773
-So fast?
-
-45
-00:05:28,309 --> 00:05:29,013
-You wake up?
-
-46
-00:05:29,909 --> 00:05:30,421
-I,
-
-47
-00:05:32,213 --> 00:05:33,365
-Why I am here?
-
-48
-00:05:34,625 --> 00:05:36,053
-What do you say?
-
-49
-00:05:43,989 --> 00:05:44,501
-Did I
-
-50
-00:05:45,013 --> 00:05:46,165
-get drunk?
-
-51
-00:05:46,959 --> 00:05:48,494
-Thanks god that you can remember this.
-
-52
-00:05:54,997 --> 00:05:55,957
-How did you come back?
-
-53
-00:05:56,661 --> 00:05:57,749
+00:05:59,220 --> 00:06:00,140
 I carried her back.
 
+41
+00:06:00,660 --> 00:06:01,340
+What about your motorcycle?
+
+42
+00:06:01,580 --> 00:06:03,720
+It’s on the street. I’ll ride it back here later.
+
+43
+00:06:06,160 --> 00:06:09,040
+You abandoned your ride just to carry her back.
+
+44
+00:06:10,200 --> 00:06:11,080
+Great.
+
+45
+00:06:11,280 --> 00:06:12,160
+Go back to sleep in your room.
+
+46
+00:06:12,800 --> 00:06:19,240
+Understood. I won’t disturb you. I won’t disturb you. Hi, sister-in-law.
+
+47
+00:06:24,750 --> 00:06:29,110
+Relax. I’m not interested in drunkards.
+
+48
+00:06:30,430 --> 00:06:32,980
+Your battery went flat. I couldn’t contact your friend.
+
+49
+00:06:33,300 --> 00:06:34,060
+Thank you.
+
+50
+00:06:36,380 --> 00:06:39,300
+I’m really very sorry to have caused you trouble.
+
+51
+00:06:41,180 --> 00:06:41,860
+Do -
+
+52
+00:06:43,810 --> 00:06:45,130
+I go down from there?
+
+53
+00:06:47,010 --> 00:06:48,010
+I’m leaving.
+
 54
-00:05:58,197 --> 00:05:58,709
-Where is your motorcycle？
+00:06:50,050 --> 00:06:56,570
+Wait. We’re meeting your lawyer at 10AM.
 
 55
-00:05:59,157 --> 00:06:00,245
-I parked it on the street.
+00:07:02,210 --> 00:07:04,600
+Okay. I’ll see you there.
 
 56
-00:06:00,245 --> 00:06:01,653
-I will ride it back.
+00:07:21,910 --> 00:07:22,990
+Brother Kong!
 
 57
-00:06:03,573 --> 00:06:06,325
-You carried her
+00:07:23,300 --> 00:07:24,540
+What are you doing in here? Get out!
 
 58
-00:06:07,669 --> 00:06:07,989
-Cool.
+00:07:24,660 --> 00:07:25,420
+I heard everything last night.
 
 59
-00:06:08,693 --> 00:06:09,781
-Get back to your room to sleep.
+00:07:25,540 --> 00:07:27,060
+-Don’t tell me - -Heard what? Get out!
 
 60
-00:06:10,350 --> 00:06:12,142
-Do not bother you.
+00:07:27,100 --> 00:07:28,300
+-No - -Get out!
 
 61
-00:06:13,173 --> 00:06:13,749
-Do not bother you.
+00:07:39,820 --> 00:07:41,820
+It’s been a while. It’s been a while. Have a seat.
 
 62
-00:06:15,733 --> 00:06:16,373
-Morning,sister-in-law.
+00:07:45,250 --> 00:07:46,450
+Have you thought it through?
 
 63
-00:06:22,133 --> 00:06:22,773
-Don't worry.
+00:07:47,570 --> 00:07:48,250
+Of course.
 
 64
-00:06:24,825 --> 00:06:26,873
-I am not interested with a drunkard.
+00:07:49,890 --> 00:07:51,250
+I will fully represent the involved parties,
 
 65
-00:06:27,765 --> 00:06:28,821
-Your phone was powered off yesterday.
+00:07:51,450 --> 00:07:55,000
+regarding Ms Qiu Ying’s violation of Mr Ji Xiang Kong’s personal privacy
 
 66
-00:06:28,821 --> 00:06:30,197
-So I cannot contact your friends.
+00:07:55,200 --> 00:07:57,640
+and personal reputation, to facilitate discussion.
 
 67
-00:06:30,645 --> 00:06:31,413
-Thank you.
+00:07:59,720 --> 00:08:02,200
+My client is willing to accept reasonable compensation terms.
 
 68
-00:06:33,557 --> 00:06:34,901
-It's so sorry
+00:08:05,260 --> 00:08:06,700
+How much do you think is acceptable?
 
 69
-00:06:34,901 --> 00:06:36,629
-to borther you.
+00:08:11,380 --> 00:08:12,220
+Name it.
 
 70
-00:06:38,293 --> 00:06:38,837
-Then
+00:08:13,980 --> 00:08:15,860
+One million. Not too much, right?
 
 71
-00:06:41,077 --> 00:06:42,165
-can I go downstair in that way?
+00:08:16,580 --> 00:08:18,300
+One million?
 
 72
-00:06:44,277 --> 00:06:44,853
-I gonna go.
+00:08:20,660 --> 00:08:25,100
+Is my reputation not worth a million dollars?
 
 73
-00:06:47,221 --> 00:06:47,669
-Wait.
+00:08:25,740 --> 00:08:28,980
+A million dollars? This is called a scam.
 
 74
-00:06:51,957 --> 00:06:53,557
-Tell you lawyer.Let's meet at 10:00 AM.
+00:08:30,620 --> 00:08:32,540
+Watch what you say in front of the two lawyers.
 
 75
-00:06:59,189 --> 00:06:59,829
-OK.
+00:08:32,860 --> 00:08:34,290
+Calm down. It’s okay.
 
 76
-00:07:00,661 --> 00:07:01,685
-See you later.
+00:08:39,170 --> 00:08:42,010
+Is there any room for negotiation?
 
 77
-00:07:18,775 --> 00:07:20,119
-Kong,kong,kong.
+00:08:47,750 --> 00:08:49,670
+Considering Ms Qiu Ying’s financial situation,
 
 78
-00:07:20,119 --> 00:07:20,887
-Why do you come in?
+00:08:50,070 --> 00:08:52,750
+my client is willing to take the biggest step back.
 
 79
-00:07:20,887 --> 00:07:21,350
-Get out of here.
+00:09:10,670 --> 00:09:11,550
+Ji Xiang Kong.
 
 80
-00:07:21,350 --> 00:07:22,296
-I heard it last night.
+00:09:20,820 --> 00:09:21,460
+Thank you.
 
 81
-00:07:22,296 --> 00:07:23,256
-What did you hear?
+00:09:23,300 --> 00:09:28,720
+How will you thank me? Please don’t say you’ll marry me.
 
 82
-00:07:23,256 --> 00:07:25,109
-Go,go,go.
+00:09:28,920 --> 00:09:30,360
+I might really agree to it.
 
 83
-00:07:36,821 --> 00:07:37,326
- Long time no see.
+00:09:31,120 --> 00:09:33,800
+Excuse me. Lawyer Chen has barely left.
 
 84
-00:07:37,326 --> 00:07:38,741
- Long time no see.Sit down,please.
+00:09:33,840 --> 00:09:35,600
+This is called teasing. Understood?
 
 85
-00:07:41,806 --> 00:07:42,766
-Are you ok?
+00:09:37,000 --> 00:09:40,320
+Regardless of your motive, thank you.
 
 86
-00:07:44,309 --> 00:07:44,693
-Yes.
+00:09:42,240 --> 00:09:45,750
+You’re welcome. I’m just saving myself some trouble.
 
 87
-00:07:46,613 --> 00:07:47,788
-I shall represent the parties in full power
+00:09:46,630 --> 00:09:47,870
+Oh yes.
 
 88
-00:07:47,788 --> 00:07:48,900
-about the issue that
+00:09:49,070 --> 00:09:52,310
+Let me give you some advice. Drink less in the future.
 
 89
-00:07:48,900 --> 00:07:51,413
-QiuYing invaded JiXiangkong's privacy
+00:09:52,670 --> 00:09:55,820
+You’re so scary when you’re drunk. You talk too much.
 
 90
-00:07:51,797 --> 00:07:53,077
-and personal reputation
-
-91
-00:07:53,397 --> 00:07:54,101
-to negotiate.
-
-92
-00:07:56,341 --> 00:07:57,321
-We are willing to
-
-93
-00:07:57,321 --> 00:07:58,581
- accept reasonable compensation.
-
-94
-00:08:01,781 --> 00:08:02,997
-How much money do you think is appropriate?
-
-95
-00:08:07,989 --> 00:08:08,565
-Just say it.
-
-96
-00:08:10,485 --> 00:08:12,085
-Not too much,just 1 million.
-
-97
-00:08:13,109 --> 00:08:14,197
-One million?
-
-98
-00:08:17,269 --> 00:08:19,893
-Isn't my reputation 
-
-99
-00:08:19,893 --> 00:08:21,250
-worth a million yuan?
-
-100
-00:08:22,261 --> 00:08:22,965
-One million?
-
-101
-00:08:23,450 --> 00:08:25,370
-You are totally blackmailing.
-
-102
-00:08:26,997 --> 00:08:28,223
-Watch your words.
-
-103
-00:08:28,223 --> 00:08:29,173
-Here are two lawyers.
-
-104
-00:08:29,429 --> 00:08:30,901
-It's OK.Calm down.
-
-105
-00:08:35,445 --> 00:08:36,021
-Well,
-
-106
-00:08:36,853 --> 00:08:37,813
-Could we negotiate it again?
-
-107
-00:08:44,021 --> 00:08:45,685
-Considering QiuYing's financial situation,
-
-108
-00:08:46,261 --> 00:08:47,221
-We've already made 
-
-109
-00:08:47,541 --> 00:08:48,693
-the utmost concession.
-
-110
-00:08:52,595 --> 00:08:54,600
-The compensation fee is reduced to 0 yuan.
-
-111
-00:09:06,800 --> 00:09:07,400
-JiXiangkong.
-
-112
-00:09:17,171 --> 00:09:18,067
-Thank you.
-
-113
-00:09:19,667 --> 00:09:20,499
-How do you want to thank me?
-
-114
-00:09:23,379 --> 00:09:24,632
-Never say be my girlfriend.
-
-115
-00:09:24,632 --> 00:09:26,323
-Otherwise I'd really say yes.
-
-116
-00:09:27,150 --> 00:09:28,051
-Hey,hey,hey.
-
-117
-00:09:28,300 --> 00:09:29,368
-The lawyer Chen is still nearby.
-
-118
-00:09:29,368 --> 00:09:31,507
-You're flirting.Do you know that?
-
-119
-00:09:33,171 --> 00:09:34,579
-No matter why,
-
-120
-00:09:35,050 --> 00:09:36,138
-I still want to thank you.
-
-121
-00:09:38,163 --> 00:09:39,187
-It's ok.
-
-122
-00:09:39,955 --> 00:09:41,619
-I'm just making life easier for myself.
-
-123
-00:09:42,771 --> 00:09:43,219
-Well,
-
-124
-00:09:45,139 --> 00:09:46,675
-I want to give you a piece of advice.
-
-125
-00:09:47,059 --> 00:09:48,143
-Drink less in the future.
-
-126
-00:09:48,851 --> 00:09:50,131
-It's really scary when you drink too much.
-
-127
-00:09:50,899 --> 00:09:51,795
-You are such a chatterbox.
-
-128
-00:09:54,099 --> 00:09:55,315
+00:09:58,100 --> 00:09:59,820
 What did I say?
 
+91
+00:10:01,220 --> 00:10:02,340
+Things that should’ve been said, things that shouldn’t have -
+
+92
+00:10:02,740 --> 00:10:05,690
+you said them all. Think about it. I’m leaving.
+
+93
+00:10:12,410 --> 00:10:14,850
+Things that should’ve been said, things that shouldn’t have -
+
+94
+00:10:15,290 --> 00:10:16,610
+What did I say?
+
+95
+00:10:17,970 --> 00:10:19,610
+I don’t care about what you said.
+
+96
+00:10:20,770 --> 00:10:22,890
+Have you forgotten to tell me something?
+
+97
+00:10:24,250 --> 00:10:25,800
+Don’t pretend to be innocent or stupid.
+
+98
+00:10:26,960 --> 00:10:29,080
+You were drinking with Ji Xiang Kong last night?!
+
+99
+00:10:29,280 --> 00:10:31,080
+You lied to me and said you were with your friend!
+
+100
+00:10:31,920 --> 00:10:33,600
+Isn’t he one of my friends?
+
+101
+00:10:33,920 --> 00:10:34,750
+You -
+
+102
+00:10:35,110 --> 00:10:35,790
+Right?
+
+103
+00:10:38,030 --> 00:10:41,230
+You played me! Stand there, Qiu Ying! I’m not done with you!
+
+104
+00:10:41,550 --> 00:10:44,390
+Yi Yi. The snacks here are the best. Let’s go.
+
+105
+00:10:44,510 --> 00:10:46,700
+Let me get you some delicious food. Don’t be angry.
+
+106
+00:10:49,980 --> 00:10:51,500
+Welcome to Premium Snacks Liang Pin.
+
+107
+00:10:52,980 --> 00:10:55,180
+We won’t have to worry about snacks ever again.
+
+108
+00:10:56,660 --> 00:10:59,500
+Tell me the truth. What did you do yesterday?
+
+109
+00:11:00,180 --> 00:11:01,940
+Be honest or be punished!
+
+110
+00:11:02,660 --> 00:11:05,130
+Relax. We really didn’t do anything.
+
+111
+00:11:05,490 --> 00:11:06,370
+You didn’t do anything?
+
+112
+00:11:06,610 --> 00:11:08,850
+If you didn’t, why was he so willing to do the settlement today?
+
+113
+00:11:08,970 --> 00:11:09,650
+Who are you lying to?
+
+114
+00:11:10,490 --> 00:11:13,370
+I thought it strange too. Why was he suddenly willing to help me?
+
+115
+00:11:13,770 --> 00:11:16,520
+But nothing happened between us.
+
+116
+00:11:16,800 --> 00:11:17,920
+I had too much to drink.
+
+117
+00:11:18,800 --> 00:11:20,440
+You dared to drink too much?
+
+118
+00:11:21,920 --> 00:11:22,800
+You -
+
+119
+00:11:23,560 --> 00:11:25,980
+Yi Yi, this shrimp cracker is delicious.
+
+120
+00:11:26,100 --> 00:11:28,460
+Don’t change the subject. Tell me.
+
+121
+00:11:28,500 --> 00:11:30,140
+Did Ji Xiang Kong force you to drink?
+
+122
+00:11:30,500 --> 00:11:31,980
+No. He really didn’t.
+
+123
+00:11:32,220 --> 00:11:33,380
+Why did you drink so much then?
+
+124
+00:11:33,580 --> 00:11:35,060
+Don’t you know your own limit?
+
+125
+00:11:35,340 --> 00:11:38,660
+What if you drank too much and something had happened to you?
+
+126
+00:11:40,340 --> 00:11:43,420
+I was in a bad mood, so I drank a little.
+
+127
+00:11:44,180 --> 00:11:45,780
+I accidentally drank too much.
+
+128
+00:11:46,420 --> 00:11:48,420
+Even if you were in a bad mood, you shouldn’t have looked
+
 129
-00:09:57,050 --> 00:09:58,175
-You've said all the things
+00:11:48,500 --> 00:11:49,540
+for Ji Xiang Kong for a drink.
 
 130
-00:09:58,175 --> 00:09:59,603
- you shouldn't have said.
+00:11:49,860 --> 00:11:53,140
+You could’ve had drinks with me! I’m so angry.
 
 131
-00:10:00,243 --> 00:10:02,163
-Take your time.I gonna go.
+00:11:55,330 --> 00:11:58,090
+Alright. I’ll buy you more snacks. Don’t be angry.
 
 132
-00:10:09,075 --> 00:10:10,675
-All the things I've said.
+00:11:59,490 --> 00:12:02,330
+I swallowed my pride to ask Jeffrey to step up.
 
 133
-00:10:11,059 --> 00:10:12,531
-What oon earth did I say?
+00:12:03,690 --> 00:12:04,690
+What about him?
 
 134
-00:10:13,875 --> 00:10:15,411
-I don't care what you say.
+00:12:05,430 --> 00:12:08,670
+He turned around and reconciled with the female hosts.
 
 135
-00:10:16,563 --> 00:10:17,150
-But have you forgotten
+00:12:10,030 --> 00:12:11,190
+The sponsors are asking for an explanation.
 
 136
-00:10:17,150 --> 00:10:18,611
- what you told me?
+00:12:11,310 --> 00:12:13,670
+What explanation do I have? What explanation could I give?
 
 137
-00:10:19,950 --> 00:10:21,619
-Don't play dumb with me.
+00:12:14,270 --> 00:12:16,350
+I can’t be the manager anymore. I really can’t do it.
 
 138
-00:10:22,387 --> 00:10:24,819
-You were drinking with him last night.
+00:12:16,710 --> 00:12:17,470
+What happened, President Jin?
 
 139
-00:10:25,075 --> 00:10:26,867
-And you lied about drinking with your friends.
+00:12:18,630 --> 00:12:20,590
+Did you know about the settlement between Ji Xiang Kong and Qiu Ying?
 
 140
-00:10:27,825 --> 00:10:29,297
-Isn't he my friend?
+00:12:20,630 --> 00:12:22,830
+Settlement? When did this happen?
 
 141
-00:10:29,811 --> 00:10:30,195
-You.
+00:12:22,870 --> 00:12:24,750
+What do you mean when? It was yesterday!
 
 142
-00:10:30,963 --> 00:10:31,603
-Right?
+00:12:24,870 --> 00:12:26,670
+Ask Lawyer Zhou about it.
 
 143
-00:10:33,779 --> 00:10:34,710
-You tricked me.
+00:12:27,150 --> 00:12:28,350
+Where is Ji Xiang Kong? Call him over.
 
 144
-00:10:34,710 --> 00:10:36,525
-Stop.QiuYing.Don;t go.
+00:12:28,550 --> 00:12:29,350
+I’m cancelling his contract.
 
 145
-00:10:36,975 --> 00:10:37,487
-Yiyi,
+00:12:29,670 --> 00:12:32,190
+President Jin. Calm down.
 
 146
-00:10:37,487 --> 00:10:39,062
-I know the snacks in this shop are really good.
+00:12:32,670 --> 00:12:34,430
+Ji Xiang Kong must have had his reasons for doing this.
 
 147
-00:10:39,062 --> 00:10:39,700
-Let's go.
+00:12:34,710 --> 00:12:36,500
+Let me tell you. Don’t speak up for him.
 
 148
-00:10:39,900 --> 00:10:41,160
-Let me take you to buy some snacks.
+00:12:37,780 --> 00:12:39,620
+President Bai is angry beyond belief.
 
 149
-00:10:41,352 --> 00:10:42,120
-Don't be angry.
+00:12:40,540 --> 00:12:41,780
+If you don’t cancel Ji Xiang Kong’s
 
 150
-00:10:45,325 --> 00:10:46,900
-Welcome.
+00:12:41,980 --> 00:12:43,540
+contract, this matter won’t blow over.
 
 151
-00:10:48,535 --> 00:10:50,327
-We can buy all our snacks here in the future.
+00:12:43,860 --> 00:12:45,020
+If this matter doesn’t blow over,
 
 152
-00:10:51,850 --> 00:10:53,066
-You tell me the truth.
+00:12:45,220 --> 00:12:47,160
+our team’s reputation cannot be salvaged.
 
 153
-00:10:53,619 --> 00:10:55,347
-What on earth did you do yesterday?
+00:12:47,440 --> 00:12:49,280
+Is pushing your teammate out once something bad happens
 
 154
-00:10:55,731 --> 00:10:57,267
-Don't lie to me.
+00:12:49,560 --> 00:12:51,160
+the working style of our team?
 
 155
-00:10:58,291 --> 00:10:59,084
-Don't worry.
+00:12:51,840 --> 00:12:54,320
+This matter was clearly orchestrated by someone
 
 156
-00:10:59,084 --> 00:11:00,723
-We really didn't do anything.
+00:12:54,560 --> 00:12:56,920
+to harm Ji Xiang Kong and Chuan Qi.
 
 157
-00:11:01,107 --> 00:11:02,067
-You didn't do anything.
+00:12:58,280 --> 00:12:59,120
+Cancelling Ji Xiang Kong’s
 
 158
-00:11:02,259 --> 00:11:02,948
-Then why did he 
+00:12:59,240 --> 00:13:00,280
+contract without rhyme or reason -
 
 159
-00:11:02,948 --> 00:11:04,371
-bury the hatchet so easily today?
+00:13:00,920 --> 00:13:02,880
+aren’t you afraid the other teammates would feel let down?
 
 160
-00:11:04,627 --> 00:11:05,011
-You lie to me.
+00:13:04,800 --> 00:13:08,070
+President Jin. If we don’t cancel the contract,
 
 161
-00:11:05,825 --> 00:11:06,995
-I don't understand,too.
+00:13:08,750 --> 00:13:12,590
+how do we explain ourselves to our sponsors? Which is more important?
 
 162
-00:11:07,315 --> 00:11:08,787
-Why is he suddenly helping me like this?
+00:13:13,750 --> 00:13:16,300
+Zhao Yang. Have you managed to contact Jeffrey?
 
 163
-00:11:09,118 --> 00:11:09,700
-But,
+00:13:17,780 --> 00:13:18,660
+How have I not contacted him?
 
 164
-00:11:10,323 --> 00:11:11,987
-we really didn't do anything.
+00:13:19,020 --> 00:13:22,180
+I have,but Jeffrey is ignoring me. What should I do?
 
 165
-00:11:12,307 --> 00:11:13,587
-I was just drunk.
+00:13:23,020 --> 00:13:25,660
+What’s most important right now is to contact Jeffrey.
 
 166
-00:11:14,100 --> 00:11:15,827
-How dare you drink so much?
+00:13:26,130 --> 00:13:27,570
+If Jeffrey could step up to clarify in person,
 
 167
-00:11:17,363 --> 00:11:18,323
-You,you,you.
+00:13:27,610 --> 00:13:28,970
+the problem will resolve itself.
 
 168
-00:11:18,725 --> 00:11:19,603
-Yiyi.
+00:13:29,370 --> 00:13:31,850
+Zhao Yang. If you truly have the team’s well-being at heart,
 
 169
-00:11:19,603 --> 00:11:21,296
-This scallop looks delicious.
+00:13:32,090 --> 00:13:33,490
+you will contact Jeffrey right away,
 
 170
-00:11:21,296 --> 00:11:22,064
-Don't change the subject.
+00:13:34,130 --> 00:13:37,290
+instead of sitting here and sowing discord between us.
 
 171
-00:11:22,931 --> 00:11:23,379
-Tell me.
+00:13:37,570 --> 00:13:38,410
+What are you talking about?
 
 172
-00:11:23,955 --> 00:11:25,619
-Did he force you to drink?
+00:13:38,690 --> 00:13:39,330
+You!
 
 173
-00:11:25,619 --> 00:11:27,603
-No, that's not true.
+00:13:39,650 --> 00:13:40,450
+Who’s sowing discord?
 
 174
-00:11:27,859 --> 00:11:29,139
- So why do you drink so much？
+00:13:40,570 --> 00:13:41,730
+-You! -Enough!
 
 175
-00:11:29,267 --> 00:11:30,250
-Don't you know how much you can drink?
+00:13:46,240 --> 00:13:47,280
+We’ll have a press conference on Monday.
 
 176
-00:11:30,250 --> 00:11:31,705
-In case you get drunk,
+00:13:48,160 --> 00:13:49,360
+If the problem isn’t solved by then,
 
 177
-00:11:31,705 --> 00:11:34,067
-What do you do when something happens?
+00:13:49,640 --> 00:13:52,000
+we’ll cancel Ji Xiang Kong’s contract during the conference.
 
 178
-00:11:35,500 --> 00:11:36,627
-I was just not in a good mood.
+00:13:58,710 --> 00:13:59,430
+Has it gone through?
 
 179
-00:11:37,203 --> 00:11:38,227
-That's why I drank.
-
-180
-00:11:39,250 --> 00:11:40,787
-I didn't expect to drink too much.
-
-181
-00:11:41,683 --> 00:11:42,579
-Even if you're in a bad mood,
-
-182
-00:11:42,963 --> 00:11:44,622
-you can't ask him to drink with you.
-
-183
-00:11:44,950 --> 00:11:46,291
-You can ask me to drink with you.
-
-184
-00:11:46,611 --> 00:11:48,019
-You really pissed me off.
-
-185
-00:11:49,775 --> 00:11:50,845
-OK.
-
-186
-00:11:51,109 --> 00:11:52,359
-I'll buy you some more delicious food.
-
-187
-00:11:52,359 --> 00:11:53,459
-Don't be mad.
-
-188
-00:11:54,764 --> 00:11:56,357
-I begged Jeffery 
-
-189
-00:11:56,357 --> 00:11:57,735
-to set the record straight
-
-190
-00:11:58,750 --> 00:11:59,443
-But he
-
-191
-00:11:59,443 --> 00:12:03,950
- immediately made up with the hostess.
-
-192
-00:12:04,900 --> 00:12:06,116
-The sponsor asked me for an explanation.
-
-193
-00:12:06,116 --> 00:12:07,500
-How do I explain that?
-
-194
-00:12:07,500 --> 00:12:08,716
-How can I explain that?
-
-195
-00:12:09,175 --> 00:12:10,363
-I can't be a manager anymore.
-
-196
-00:12:10,363 --> 00:12:11,532
-I really don't want to be.
-
-197
-00:12:11,532 --> 00:12:12,256
-What's the matter,Boss Jin?
-
-198
-00:12:13,425 --> 00:12:15,010
-Do you know
-
-199
-00:12:15,010 --> 00:12:15,600
-have JiXiangkong and QiuYing reconciled?
-
-200
-00:12:15,600 --> 00:12:16,304
-What?
-
-201
-00:12:17,072 --> 00:12:17,425
-When did it happen?
-
-202
-00:12:17,425 --> 00:12:18,124
-What do you say?
-
-203
-00:12:18,252 --> 00:12:19,663
-It happened yesterday.
-
-204
-00:12:19,663 --> 00:12:21,199
-If you don't believe me, you can ask lawyer Zhou.
-
-205
-00:12:21,925 --> 00:12:22,565
-Where is JiXiangkong?
-
-206
-00:12:22,565 --> 00:12:23,077
-Call him over.
-
-207
-00:12:23,077 --> 00:12:24,165
-I'm breaking up with him.
-
-208
-00:12:24,165 --> 00:12:24,716
-Boss Jin.
-
-209
-00:12:25,425 --> 00:12:27,025
-Calm down first.
-
-210
-00:12:27,375 --> 00:12:28,133
-He had his reasons 
-
-211
-00:12:28,133 --> 00:12:29,150
-for doing so.
-
-212
-00:12:29,525 --> 00:12:29,925
-I told you
-
-213
-00:12:29,925 --> 00:12:31,116
- to stop defending him.
-
-214
-00:12:32,716 --> 00:12:34,380
- Boss Bai was already very angry.
-
-215
-00:12:35,225 --> 00:12:36,338
-There's no way out of this 
-
-216
-00:12:36,338 --> 00:12:38,259
-if we don't get rid of Ji.
-
-217
-00:12:38,500 --> 00:12:39,820
-If this thing doesn't work out,
-
-218
-00:12:40,140 --> 00:12:41,740
-the image of our team is irreparable.
-
-219
-00:12:42,125 --> 00:12:42,898
-Push the team members out
-
-220
-00:12:42,898 --> 00:12:43,895
- when something goes wrong.
-
-221
-00:12:43,895 --> 00:12:45,708
-That's not how we do things.
-
-222
-00:12:46,500 --> 00:12:47,325
-It was clear that
-
-223
-00:12:47,780 --> 00:12:49,164
-there was a cover-up.
-
-224
-00:12:49,484 --> 00:12:51,404
-Someone's trying to hurt the Legends and Ji.
-
-225
-00:12:52,991 --> 00:12:54,860
-Break the contract without evidence.
-
-226
-00:12:55,628 --> 00:12:57,164
-Aren't you afraid of the other players?
-
-227
-00:12:59,300 --> 00:13:00,031
-Boss Jin.
-
-228
-00:13:00,748 --> 00:13:02,348
-If we don't break up with Ji,
-
-229
-00:13:03,350 --> 00:13:05,334
-what do we tell the sponsors?
-
-230
-00:13:06,025 --> 00:13:06,572
-Which side is more important?
-
-231
-00:13:08,250 --> 00:13:08,866
-Zhao Yang.
-
-232
-00:13:09,175 --> 00:13:10,988
-Did you get in touch with Jeffery or not?
-
-233
-00:13:12,100 --> 00:13:13,740
-Of course I did.
-
-234
-00:13:13,740 --> 00:13:14,444
-But Jeffery
-
-235
-00:13:14,444 --> 00:13:15,669
-ignored me.
-
-236
-00:13:15,669 --> 00:13:16,425
-What should I do?
-
-237
-00:13:17,538 --> 00:13:18,370
-The most important thing now
-
-238
-00:13:18,370 --> 00:13:19,778
-is to contact Jeffery immediately.
-
-239
-00:13:20,375 --> 00:13:22,025
-If he's willing to clarify,
-
-240
-00:13:22,025 --> 00:13:23,404
-then the problem will be solved.
-
-241
-00:13:23,916 --> 00:13:24,492
-ZhaoYang.
-
-242
-00:13:24,905 --> 00:13:26,412
-If you really care about the team,
-
-243
-00:13:26,668 --> 00:13:28,012
-you should contact him right away.
-
-244
-00:13:28,361 --> 00:13:29,550
-Rather than sit in the office
-
-245
-00:13:30,636 --> 00:13:31,650
-and sow discord.
-
-246
-00:13:31,900 --> 00:13:32,924
-What do you say?
-
-247
-00:13:32,924 --> 00:13:33,815
-Just told you.
-
-248
-00:13:33,815 --> 00:13:34,800
-Who is sowing discord here?
-
-249
-00:13:34,800 --> 00:13:35,440
-Enough.
-
-250
-00:13:40,350 --> 00:13:41,425
-A press conference will be held on Monday.
-
-251
-00:13:42,540 --> 00:13:43,820
-If the problem is not solved,
-
-252
-00:13:44,012 --> 00:13:46,060
-we will break off with Ji at the press conference.
-
-253
-00:13:52,812 --> 00:13:53,375
-Did you get through to him?
-
-254
-00:13:53,772 --> 00:13:54,325
-No,no,no.
-
-255
-00:14:02,675 --> 00:14:03,212
-Hello.
-
-256
-00:14:03,788 --> 00:14:05,324
-Kong.You.
-
-257
-00:14:05,324 --> 00:14:06,284
-Have you seen Jeffery?
-
-258
-00:14:08,150 --> 00:14:08,725
-Not yet.
-
-259
-00:14:09,200 --> 00:14:09,804
-The message may be wrong.
-
-260
-00:14:10,550 --> 00:14:11,724
-He may not stay at this hotel.
-
-261
-00:14:14,451 --> 00:14:16,300
-ZhaoYang complained in front of Boss Jin.
-
-262
-00:14:16,600 --> 00:14:17,228
-Give it to me.
-
-263
-00:14:18,425 --> 00:14:19,600
-Coach Luo wants to talk to you.
-
-264
-00:14:21,900 --> 00:14:23,366
-Why don't you discuss such a big thing with me?
-
-265
-00:14:23,366 --> 00:14:25,122
-You should have made up with her by yourself.
-
-266
-00:14:26,182 --> 00:14:26,750
-Coach.
-
-267
-00:14:27,150 --> 00:14:28,425
-QiuYing didn't post that video.
-
-268
-00:14:29,446 --> 00:14:30,220
-Do you have any proof?
-
-269
-00:14:31,820 --> 00:14:32,575
-I don't have proof yet.
-
-270
-00:14:32,908 --> 00:14:33,420
-But,
-
-271
-00:14:33,734 --> 00:14:34,218
-Since there is no evidence,
-
-272
-00:14:34,600 --> 00:14:36,742
-Why take it upon yourself to make peace with her?
-
-273
-00:14:37,575 --> 00:14:39,367
-You are acquiescing in your affair with her.
-
-274
-00:14:40,000 --> 00:14:40,908
-ZhaoYang can get you off the team 
-
-275
-00:14:41,228 --> 00:14:42,075
-for that one reason.
-
-276
-00:14:42,075 --> 00:14:42,956
-Do you know that?
-
-277
-00:14:44,000 --> 00:14:44,492
-Coach,
-
-278
-00:14:44,876 --> 00:14:46,156
-QiuYing is innocent.
-
-279
-00:14:46,427 --> 00:14:48,140
-She has lost her job and sold her house.
-
-280
-00:14:49,950 --> 00:14:52,428
-She will be ruined by his means.
-
-281
-00:14:53,787 --> 00:14:55,131
-I can't sacrifice innocent people 
-
-282
-00:14:55,131 --> 00:14:56,460
-for my own good.
-
-283
-00:14:58,011 --> 00:14:58,801
-Looks like you've figured it all out
-
-284
-00:14:58,801 --> 00:14:59,788
- before you settle.
-
-285
-00:15:00,525 --> 00:15:01,649
-So nothing else I say is going to work.
-
-286
-00:15:01,841 --> 00:15:02,350
-No,no,no.
-
-287
-00:15:03,225 --> 00:15:04,000
-Kong,
-
-288
-00:15:04,972 --> 00:15:07,212
-Boss Jin was going to fire you today.
-
-289
-00:15:07,916 --> 00:15:08,364
-Coach Luo
-
-290
-00:15:08,364 --> 00:15:09,708
-had a big quarrel with Boss Jin.
-
-291
-00:15:09,836 --> 00:15:11,628
-Boss Jin  just promised you two days more.
-
-292
-00:15:11,948 --> 00:15:12,972
-Don't you talk like that.
-
-293
-00:15:16,400 --> 00:15:17,388
-Sorry, coach.
-
-294
-00:15:17,825 --> 00:15:18,924
-I've caused you so much trouble.
-
-295
-00:15:20,125 --> 00:15:21,036
-If he can clarify 
-
-296
-00:15:21,420 --> 00:15:23,276
-at the press conference on Monday
-
-297
-00:15:23,916 --> 00:15:24,850
-things may change.
-
-298
-00:15:26,200 --> 00:15:27,200
-Coach, I hung up first.
-
-299
-00:15:27,978 --> 00:15:28,750
-Jeffery.
-
-300
-00:15:38,124 --> 00:15:39,252
-Can I have a word with you?
-
-301
-00:15:42,028 --> 00:15:43,820
-I know why you're here.
-
-302
-00:15:44,972 --> 00:15:46,380
-I saw the video on the Internet.
-
-303
-00:15:46,380 --> 00:15:47,084
-That is fake.
-
-304
-00:15:48,428 --> 00:15:49,324
-I hope that you could clarify that.
-
-305
-00:15:50,000 --> 00:15:53,069
-I heard if it's taken as true
-
-306
-00:15:53,725 --> 00:15:56,108
-you are likely to be expelled from the club.
-
-307
-00:16:02,380 --> 00:16:04,044
-Your attitude to me the other day
-
-308
-00:16:04,364 --> 00:16:05,452
-really pissed me off.
-
-309
-00:16:06,220 --> 00:16:09,300
-So you should pay a price.
-
-310
-00:16:11,800 --> 00:16:12,876
-In this case,
-
-311
-00:16:13,150 --> 00:16:16,798
-I don't want to help one of my underlings.
-
-312
-00:16:19,625 --> 00:16:20,812
-If you don't clarify,
-
-313
-00:16:21,388 --> 00:16:23,244
-do you want people to think I beat you up?
-
-314
-00:16:38,348 --> 00:16:40,012
-QiuYing,stop looking at the computer.
-
-315
-00:16:40,012 --> 00:16:41,292
-Close it up.Ready for dinner.
-
-316
-00:16:41,292 --> 00:16:42,316
-Right away immediately.
-
-317
-00:16:42,700 --> 00:16:43,468
-Come on.
-
-318
-00:16:44,108 --> 00:16:46,604
-Here is a hot and spicy hot pot.
-
-319
-00:16:47,180 --> 00:16:47,756
-Put your computer away.
-
-320
-00:16:48,076 --> 00:16:48,908
-Come on.
-
-321
-00:16:53,772 --> 00:16:55,628
-You're in front of the computer every day,
-
-322
-00:16:56,125 --> 00:16:57,804
-When will you be ready for dinner?
-
-323
-00:17:00,748 --> 00:17:02,476
-Thanks to  I'm here.
-
-324
-00:17:03,300 --> 00:17:03,884
-Here you are.
-
-325
-00:17:04,150 --> 00:17:05,356
-Thank you,sweetheart.
-
-326
-00:17:05,875 --> 00:17:08,044
-Whoever marries you in the future
-
-327
-00:17:08,300 --> 00:17:09,900
-will be the luckiest person in the world.
-
-328
-00:17:11,125 --> 00:17:11,884
-You are so sweet.
-
-329
-00:17:13,109 --> 00:17:13,804
-Don't eat alone.
-
-330
-00:17:14,050 --> 00:17:15,349
-I also want to eat.
-
-331
-00:17:17,004 --> 00:17:17,836
-You are so selfish.
-
-332
-00:17:21,175 --> 00:17:22,316
-Look at this,Yiyi.
-
-333
-00:17:22,837 --> 00:17:23,468
-What is this?
-
-334
-00:17:27,180 --> 00:17:29,629
-A poll that
-
-335
-00:17:29,629 --> 00:17:30,892
- agrees Ji gets out of the Legend.
-
-336
-00:17:33,324 --> 00:17:35,244
-That's 70 percent in agreement.
-
-337
-00:17:36,250 --> 00:17:37,722
-We just made up yesterday.
-
-338
-00:17:38,444 --> 00:17:39,276
-It was posted online today.
-
-339
-00:17:42,325 --> 00:17:43,244
-And you know what
-
-340
-00:17:43,600 --> 00:17:44,880
-The key is
-
-341
-00:17:45,250 --> 00:17:47,426
-everyone  has heard our gossip.
-
-342
-00:17:49,068 --> 00:17:50,668
-You two are having an affair.
-
-343
-00:17:50,860 --> 00:17:51,948
-You're still smiling.
-
-344
-00:17:52,652 --> 00:17:53,484
-I am not laugh.
-
-345
-00:17:53,740 --> 00:17:54,252
-You are laughing.
-
-346
-00:17:54,572 --> 00:17:55,212
-I am not.
-
-347
-00:17:58,800 --> 00:17:59,628
-I think
-
-348
-00:18:00,012 --> 00:18:01,932
-JiXiangkong couldn't turn over this time.
-
-349
-00:18:02,380 --> 00:18:03,975
-I heard that their sponsors
-
-350
-00:18:03,975 --> 00:18:06,156
-was very angry when they knew this thing.
-
-351
-00:18:06,732 --> 00:18:08,076
-They are clamouring to terminate the sponsorship.
-
-352
-00:18:09,740 --> 00:18:11,340
-The Legends and Ji
-
-353
-00:18:12,100 --> 00:18:12,804
-are likely to break off
-
-354
-00:18:13,625 --> 00:18:15,673
-at tomorrow's press conference.
-
-355
-00:18:18,572 --> 00:18:19,340
-So what do we do?
-
-356
-00:18:20,364 --> 00:18:21,900
-How about we help him?
-
-357
-00:18:22,550 --> 00:18:23,180
-Help him.
-
-358
-00:18:24,012 --> 00:18:24,780
-That's easy for you to say.
-
-359
-00:18:26,380 --> 00:18:26,892
-We are nobody.
-
-360
-00:18:27,532 --> 00:18:28,556
-Noone knows us.
-
-361
-00:18:29,324 --> 00:18:30,284
-You tell me how to help.
-
-362
-00:18:31,775 --> 00:18:32,725
-I don't know.
-
-363
-00:18:33,996 --> 00:18:35,212
-Ji helped me before.
-
-364
-00:18:35,724 --> 00:18:36,812
-I can't sit here and do nothing.
-
-365
-00:18:37,644 --> 00:18:38,924
-The point is
-
-366
-00:18:39,244 --> 00:18:40,204
-that this happened because of me.
-
-367
-00:18:40,716 --> 00:18:41,292
-Girl,
-
-368
-00:18:41,932 --> 00:18:43,596
-You're having an affair.
-
-369
-00:18:44,876 --> 00:18:46,028
-You speak out in public
-
-370
-00:18:46,476 --> 00:18:47,948
-he is innocent.
-
-371
-00:18:48,396 --> 00:18:49,548
-Do you think anyone believes it?
-
-372
-00:18:49,804 --> 00:18:51,020
-This will only deepen the misunderstanding.
-
-373
-00:18:52,876 --> 00:18:54,275
-What if I just send 
-
-374
-00:18:54,275 --> 00:18:55,738
-the full video that I shot?
-
-375
-00:18:56,250 --> 00:18:57,356
-How dare you say that?
-
-376
-00:18:58,316 --> 00:18:59,532
-Look at the video you shot.
-
-377
-00:19:00,044 --> 00:19:01,188
-You only got a picture
-
-378
-00:19:01,188 --> 00:19:03,052
-of two people fighting.
-
-379
-00:19:03,500 --> 00:19:05,804
-Then the process of  coach separated them.
-
-380
-00:19:06,060 --> 00:19:07,532
-Did you shot that?
-
-381
-00:19:08,425 --> 00:19:09,324
-You upload this video  
-
-382
-00:19:09,324 --> 00:19:10,156
-in the Internet now.
-
-383
-00:19:10,156 --> 00:19:11,628
-You don't have any persuasion.
-
-384
-00:19:13,548 --> 00:19:14,252
-So what do we do?
-
-385
-00:19:14,425 --> 00:19:15,200
-You say.
-
-386
-00:19:20,140 --> 00:19:20,524
-FIne.
-
-387
-00:19:20,972 --> 00:19:21,612
-You eat first.
-
-388
-00:19:22,525 --> 00:19:23,293
-Let me think.
-
-389
-00:19:33,975 --> 00:19:34,988
-Wait,QiuYing.
-
-390
-00:19:34,988 --> 00:19:36,939
-Look,look at this person.
-
-391
-00:19:39,627 --> 00:19:40,172
-What's wrong with this guy?
-
-392
-00:19:40,620 --> 00:19:42,092
-She's on set, too.
-
-393
-00:19:43,116 --> 00:19:43,500
-Maybe
-
-394
-00:19:43,884 --> 00:19:45,356
-she filmed the whole thing.
-
-395
-00:19:45,932 --> 00:19:47,148
-We just have to find this guy.
-
-396
-00:19:47,400 --> 00:19:49,900
-Then get a full video of the scene.
-
-397
-00:19:50,825 --> 00:19:52,965
-This will prove his innocence.
-
-398
-00:19:55,660 --> 00:19:56,050
-The guy is abroad.
-
-399
-00:19:56,050 --> 00:19:57,644
-Where are you going to find her?
-
-400
-00:19:57,644 --> 00:19:58,732
-Go to Canada?
-
-401
-00:20:00,012 --> 00:20:00,780
-You are so stupid.
-
-402
-00:20:01,356 --> 00:20:01,932
-Look.
-
-403
-00:20:03,150 --> 00:20:04,494
-Is it a tour group?
-
-404
-00:20:05,260 --> 00:20:07,436
-Surely they will return to China.
-
-405
-00:20:08,675 --> 00:20:11,404
-All we have to do is
-
-406
-00:20:11,596 --> 00:20:12,748
-to find the tour group to find this guy.
-
-407
-00:20:14,156 --> 00:20:15,220
-When we find this guy
-
-408
-00:20:15,220 --> 00:20:17,292
-and we get this video
-
-409
-00:20:18,124 --> 00:20:20,236
-Then we can find evidence.
-
-410
-00:20:21,540 --> 00:20:22,860
-Even if she comes back.
-
-411
-00:20:22,860 --> 00:20:24,046
-There are so many tour groups in China.
-
-412
-00:20:24,046 --> 00:20:25,164
-Where are you going to find her?
-
-413
-00:20:26,892 --> 00:20:27,340
-Don't forget it.
-
-414
-00:20:27,700 --> 00:20:29,989
-I'm a journalist.
-
-415
-00:20:30,028 --> 00:20:31,205
-This little thing
-
-416
-00:20:31,205 --> 00:20:31,244
- 
-
-417
-00:20:31,475 --> 00:20:33,676
-won't daunt a big reporter like me.
-
-418
-00:20:33,996 --> 00:20:36,044
-Don't worry.Leave it to me.
-
-419
-00:20:36,155 --> 00:20:38,469
-I'll take care of it.You eat.
-
-420
-00:20:40,775 --> 00:20:43,276
-Seek truth.Seek justice.
-
-421
-00:20:43,276 --> 00:20:45,004
-That's my mission.
-
-422
-00:20:45,300 --> 00:20:46,196
-Funny.
-
-423
-00:21:01,025 --> 00:21:01,825
-Hello,Yiyi.
-
-424
-00:21:02,796 --> 00:21:04,012
-I found the travel agency.
-
-425
-00:21:05,292 --> 00:21:06,956
-But their leader took the group out.
-
-426
-00:21:07,275 --> 00:21:08,555
-They'll be back on an afternoon flight.
-
-427
-00:21:08,900 --> 00:21:09,860
-I'm glad you found it.
-
-428
-00:21:10,924 --> 00:21:12,725
-Just pray for flight
-
-429
-00:21:12,725 --> 00:21:14,124
- is not late right now.
-
-430
-00:21:16,492 --> 00:21:18,156
-You're right.
-
-431
-00:21:18,988 --> 00:21:20,332
-Widespread flights have delayed.
-
-432
-00:21:24,300 --> 00:21:25,964
-JiXIangkong is so unlucky.
-
-433
-00:21:26,924 --> 00:21:27,829
-God wouldn't even help him.
-
-434
-00:21:27,829 --> 00:21:28,597
-Then there's nothing we can do about it.
-
-435
-00:21:29,804 --> 00:21:30,380
-The Legends
-
-436
-00:21:30,828 --> 00:21:32,300
-have sent a notice to the media.
-
-437
-00:21:32,620 --> 00:21:33,452
-There will be a press conference 
-
-438
-00:21:33,644 --> 00:21:34,604
-tomorrow morning
-
-439
-00:21:34,860 --> 00:21:36,332
-to break up with Ji.
-
-440
-00:21:44,012 --> 00:21:45,100
-I'll wait.
-
-441
-00:21:45,548 --> 00:21:46,124
-Bye.
-
-442
-00:22:01,175 --> 00:22:01,740
-Kong.
-
-443
-00:22:04,700 --> 00:22:06,289
-Why didn't you see the WeChat I sent you?
-
-444
-00:22:07,564 --> 00:22:08,652
-Coach Luo just told me
-
-445
-00:22:09,250 --> 00:22:10,425
-Jeffery is flying off
-
-446
-00:22:10,430 --> 00:22:11,852
-and won't be coming to the press conference.
-
-447
-00:22:14,092 --> 00:22:14,476
-I know it.
-
-448
-00:22:14,796 --> 00:22:15,500
-You can go back first.
-
-449
-00:22:16,908 --> 00:22:17,292
+00:13:59,670 --> 00:14:00,550
 No.
 
-450
-00:22:17,548 --> 00:22:18,316
-Jeffery is flying off.
+180
+00:14:08,620 --> 00:14:09,180
+Hello?
 
-451
-00:22:18,444 --> 00:22:19,148
-He's getting on the plane.
+181
+00:14:09,300 --> 00:14:12,660
+Brother Kong, have you met Jeffrey?
 
-452
-00:22:19,340 --> 00:22:19,852
-I know it.
+182
+00:14:14,020 --> 00:14:16,020
+Not yet. The information might be wrong.
 
-453
-00:22:20,364 --> 00:22:20,748
-Don't worry about me.
+183
+00:14:16,620 --> 00:14:17,940
+He might not be staying in this hotel.
 
-454
-00:22:21,708 --> 00:22:22,604
-You go back to training first.
+184
+00:14:20,460 --> 00:14:22,500
+Zhao Yang tattled on you in front of President Jin.
 
-455
-00:22:23,450 --> 00:22:24,524
-Whether I solve or not,
+185
+00:14:22,700 --> 00:14:23,380
+Hand it over.
 
-456
-00:22:24,972 --> 00:22:25,959
-we are going to win the game.
+186
+00:14:24,500 --> 00:14:25,980
+Wait. Coach Luo will speak to you.
 
-457
-00:22:27,020 --> 00:22:28,302
-Are you ok?
+187
+00:14:27,810 --> 00:14:29,570
+How could you not have discussed such a big thing with me,
 
-458
-00:22:30,156 --> 00:22:30,860
-Then I'm leaving.
+188
+00:14:29,690 --> 00:14:31,450
+and gone ahead secretly to settle with that lady?
 
-459
-00:22:32,012 --> 00:22:32,780
-Jeffery is leaving,too.
+189
+00:14:32,290 --> 00:14:34,690
+Coach. Qiu Ying didn’t upload that video.
 
-460
-00:22:47,116 --> 00:22:48,524
-Why hasn't the plane arrived yet?
+190
+00:14:35,530 --> 00:14:36,480
+Do you have proof?
 
-461
-00:22:51,212 --> 00:22:52,044
-Haven't fly yet.
+191
+00:14:37,840 --> 00:14:39,480
+Not yet, but -
 
-462
-00:22:55,756 --> 00:22:56,076
-It's OK.
+192
+00:14:39,720 --> 00:14:41,400
+If you don’t have proof, why did you decide
 
-463
-00:22:57,164 --> 00:22:58,444
-As long as the plane is not cancelled,
+193
+00:14:41,400 --> 00:14:43,240
+to settle with Qiu Ying on your own?
 
-464
-00:22:58,828 --> 00:22:59,916
-we still have a glimmer of hope.
+194
+00:14:43,760 --> 00:14:45,760
+You’re silently admitting to the rumors of your relationship.
 
-465
-00:23:03,436 --> 00:23:03,756
-Fine.
+195
+00:14:46,240 --> 00:14:47,180
+If Zhao Yang bites on this point,
 
-466
-00:23:04,332 --> 00:23:05,420
-Then I'll keep waiting with you.
+196
+00:14:47,300 --> 00:14:49,300
+he can force the cancellation of your contract. Did you know that?
 
-467
-00:23:06,380 --> 00:23:07,596
-You are the best,Yiyi.
+197
+00:14:50,180 --> 00:14:52,340
+Coach, Qiu Ying is innocent.
 
-468
-00:23:12,725 --> 00:23:13,228
-Well,
+198
+00:14:52,540 --> 00:14:54,180
+She’s lost her job and sold her house.
 
-469
-00:23:14,636 --> 00:23:16,044
-Have a drink to refresh yourself.
+199
+00:14:56,180 --> 00:14:59,020
+With Zhao Yang’s methods, she would go bankrupt.
 
-470
-00:23:16,275 --> 00:23:17,000
-It may be a long wait.
+200
+00:15:00,220 --> 00:15:02,860
+I cannot sacrifice innocent people to protect my own interests.
 
-471
-00:23:17,644 --> 00:23:18,092
+201
+00:15:04,260 --> 00:15:06,020
+Looks like you’ve thought it through before the settlement.
+
+202
+00:15:06,820 --> 00:15:07,980
+Nothing I say will matter now.
+
+203
+00:15:08,100 --> 00:15:10,220
+No. No. Brother Kong.
+
+204
+00:15:11,460 --> 00:15:13,740
+President Jin wanted to cancel your contract today.
+
+205
+00:15:14,100 --> 00:15:15,740
+Coach Luo had a big fight with President Jin
+
+206
+00:15:15,860 --> 00:15:18,050
+before he compromised and gave you two more days.
+
+207
+00:15:18,250 --> 00:15:19,890
+Don’t talk like this.
+
+208
+00:15:22,930 --> 00:15:23,810
+Sorry, Coach.
+
+209
+00:15:24,170 --> 00:15:25,250
+I’ve caused you so much trouble.
+
+210
+00:15:26,450 --> 00:15:27,630
+The press conference is on Monday.
+
+211
+00:15:28,230 --> 00:15:31,710
+If Jeffrey could clarify things in person, things might just turn around.
+
+212
+00:15:32,630 --> 00:15:33,310
+I’m hanging up, Coach.
+
+213
+00:15:34,590 --> 00:15:46,070
+Jeffrey. Can I have a word with you alone?
+
+214
+00:15:48,590 --> 00:15:50,470
+I know why you’re looking for me.
+
+215
+00:15:51,470 --> 00:15:53,910
+I’ve seen the video online. It’s fake.
+
+216
+00:15:54,950 --> 00:15:56,150
+I hope you could step out to clarify that.
+
+217
+00:15:56,590 --> 00:16:00,020
+I heard that if this matter was seen as real,
+
+218
+00:16:00,660 --> 00:16:03,300
+you may be fired by your company.
+
+219
+00:16:08,880 --> 00:16:12,120
+Your attitude towards me that day made me very upset.
+
+220
+00:16:12,880 --> 00:16:16,440
+You paying a small price is acceptable.
+
+221
+00:16:18,800 --> 00:16:23,760
+If this is what it is, I don’t want to help a loser.
+
+222
+00:16:26,440 --> 00:16:28,990
+If you don’t clarify, do you want everyone to think
+
+223
+00:16:29,030 --> 00:16:30,350
+that you got beaten up by me?
+
+224
+00:16:45,020 --> 00:16:46,780
+Stop looking at the computer, Qiu Ying.
+
+225
+00:16:46,820 --> 00:16:48,170
+Put it away. Let’s eat.
+
+226
+00:16:48,490 --> 00:16:50,130
+Soon. Five minutes.
+
+227
+00:16:50,890 --> 00:16:54,570
+Our homemade spicy hotpot is here! Put away your laptop.
+
+228
+00:16:54,610 --> 00:16:55,450
+Come.
+
+229
+00:17:00,810 --> 00:17:02,650
+If you stare at the screen every day,
+
+230
+00:17:03,290 --> 00:17:04,850
+when will you eat on time?
+
+231
+00:17:07,640 --> 00:17:11,120
+Thank goodness for me. I’m an angel. Here.
+
+232
+00:17:11,360 --> 00:17:12,360
+Thank you, angel.
+
+233
+00:17:13,120 --> 00:17:17,040
+The man who marries you in the future will be so incredibly lucky.
+
+234
+00:17:18,310 --> 00:17:19,430
+Your tongue is so sweet.
+
+235
+00:17:20,310 --> 00:17:21,670
+Don’t eat it all by yourself.
+
+236
+00:17:21,710 --> 00:17:23,590
+-I want some too. -Mine fell.
+
+237
+00:17:24,070 --> 00:17:25,070
+You’re so selfish.
+
+238
+00:17:28,780 --> 00:17:29,660
+Look here, Yi Yi.
+
+239
+00:17:30,260 --> 00:17:30,980
+What’s that?
+
+240
+00:17:34,380 --> 00:17:38,620
+Ji Xiang Kong has released an audience survey on the Chuan Qi team.
+
+241
+00:17:40,460 --> 00:17:42,700
+A 70% support rate!
+
+242
+00:17:43,820 --> 00:17:45,220
+We’ve only made our settlement yesterday.
+
+243
+00:17:45,740 --> 00:17:47,100
+This went online today.
+
+244
+00:17:49,810 --> 00:17:50,690
+Did you know?
+
+245
+00:17:51,050 --> 00:17:55,050
+The key thing is our relationship rumors are being spread far and wide.
+
+246
+00:17:56,410 --> 00:17:59,480
+You have tabloids and you’re still laughing?
+
+247
+00:18:00,000 --> 00:18:01,480
+I’m not laughing.
+
+248
+00:18:01,600 --> 00:18:03,240
+-You are! -I’m not.
+
+249
+00:18:06,480 --> 00:18:08,300
+I don’t think Ji Xiang Kong
+
+250
+00:18:08,420 --> 00:18:09,540
+will be able to turn things around this time.
+
+251
+00:18:09,940 --> 00:18:11,820
+I heard that Chuan Qi’s sponsors
+
+252
+00:18:12,020 --> 00:18:13,940
+were beyond angry when they heard about this,
+
+253
+00:18:14,260 --> 00:18:16,020
+and threatened to kill the sponsorships.
+
+254
+00:18:17,060 --> 00:18:18,980
+At tomorrow’s press conference,
+
+255
+00:18:19,980 --> 00:18:23,620
+Chuan Qi may cancel Ji Xiang Kong’s contract.
+
+256
+00:18:26,020 --> 00:18:29,220
+What should we do? Can we help him?
+
+257
+00:18:30,300 --> 00:18:32,700
+It’s easier said than done.
+
+258
+00:18:33,980 --> 00:18:36,500
+Who are we? Who would listen to us?
+
+259
+00:18:36,940 --> 00:18:38,290
+How could we help him?
+
+260
+00:18:39,650 --> 00:18:40,690
+I don’t know.
+
+261
+00:18:41,690 --> 00:18:44,690
+Ji Xiang Kong helped me. I can’t stay out of this.
+
+262
+00:18:45,290 --> 00:18:47,810
+Most importantly, this started because of me.
+
+263
+00:18:48,470 --> 00:18:51,750
+Sister. You two have tabloids going on.
+
+264
+00:18:52,590 --> 00:18:53,950
+If you stepped up to say that
+
+265
+00:18:54,550 --> 00:18:56,990
+Ji Xiang Kong was innocent, who would believe you?
+
+266
+00:18:57,470 --> 00:18:59,190
+It’ll only get more complicated.
+
+267
+00:19:00,670 --> 00:19:03,070
+I could just put up the original video that I took.
+
+268
+00:19:03,150 --> 00:19:03,790
+Won’t that work?
+
+269
+00:19:04,310 --> 00:19:07,510
+How could you think of that? Look at the video you recorded.
+
+270
+00:19:07,790 --> 00:19:10,750
+You only managed to record the scuffle between the two of them.
+
+271
+00:19:11,390 --> 00:19:13,630
+Did you capture the
+
+272
+00:19:13,990 --> 00:19:14,870
+process in which Coach broke them apart?
+
+273
+00:19:14,990 --> 00:19:15,990
+Was it in there?
+
+274
+00:19:16,630 --> 00:19:19,660
+If you upload this video now, it will have no persuasiveness.
+
+275
+00:19:21,460 --> 00:19:23,580
+What should I do? Tell me.
+
+276
+00:19:27,940 --> 00:19:31,600
+Forget it. Eat up and we’ll think of something.
+
+277
+00:19:42,680 --> 00:19:44,000
+Hang on, Qiu Ying.
+
+278
+00:19:44,080 --> 00:19:48,440
+Look at that person. What about her?
+
+279
+00:19:48,670 --> 00:19:50,150
+She was filming this live too.
+
+280
+00:19:51,190 --> 00:19:53,270
+Maybe she captured the whole process.
+
+281
+00:19:54,030 --> 00:19:55,390
+If we could find this person,
+
+282
+00:19:55,870 --> 00:19:58,150
+and retrieve the complete video footage,
+
+283
+00:19:59,100 --> 00:20:01,620
+we can then prove Ji Xiang Kong’s innocence.
+
+284
+00:20:03,740 --> 00:20:05,820
+This person is overseas. How will we find her?
+
+285
+00:20:05,860 --> 00:20:06,740
+Are you going to Canada?
+
+286
+00:20:08,060 --> 00:20:12,770
+You’re so silly. Look. Isn’t this a tour group?
+
+287
+00:20:13,650 --> 00:20:15,930
+If it’s a tour group, they’ll have to come back.
+
+288
+00:20:17,170 --> 00:20:20,890
+If we find the tour group, we’ll be able to find this person.
+
+289
+00:20:22,530 --> 00:20:25,890
+If we find this person, and recover this footage,
+
+290
+00:20:26,970 --> 00:20:29,200
+we’ll have concrete proof!
+
+291
+00:20:30,280 --> 00:20:31,440
+Even if she came back,
+
+292
+00:20:31,720 --> 00:20:33,840
+there are so many tour groups in China. How will you find her?
+
+293
+00:20:35,280 --> 00:20:38,600
+Don’t forget that I’m a professional news reporter.
+
+294
+00:20:38,880 --> 00:20:42,390
+How could this little task confuddle me as Ms Reporter?
+
+295
+00:20:43,390 --> 00:20:46,270
+Don’t worry. Leave this to me. Hurry and eat up.
+
+296
+00:20:49,620 --> 00:20:51,580
+Look for the truth. Seek justice.
+
+297
+00:20:51,700 --> 00:20:53,580
+This is my true calling.
+
+298
+00:20:53,940 --> 00:20:55,100
+Silly girl.
+
+299
+00:21:09,970 --> 00:21:13,010
+Hello, Yi Yi. I found the tour company.
+
+300
+00:21:14,130 --> 00:21:15,890
+Their tour leader has brought a tour overseas
+
+301
+00:21:16,330 --> 00:21:17,610
+and will come back on an afternoon flight.
+
+302
+00:21:18,250 --> 00:21:19,010
+As long as you’ve found them.
+
+303
+00:21:19,920 --> 00:21:23,320
+Let’s pray that the flight isn’t delayed.
+
+304
+00:21:25,640 --> 00:21:29,620
+You predicted it. The flights are widely delayed.
+
+305
+00:21:33,380 --> 00:21:36,900
+Ji Xiang Kong is really unlucky. Even god isn’t helping him out.
+
+306
+00:21:37,020 --> 00:21:38,100
+There isn’t anything we can do.
+
+307
+00:21:38,860 --> 00:21:41,180
+Chuan Qi has notified the media.
+
+308
+00:21:41,780 --> 00:21:43,580
+The press conference will take place tomorrow morning
+
+309
+00:21:43,820 --> 00:21:45,660
+to announce Ji Xiang Kong’s contract cancellation.
+
+310
+00:21:53,060 --> 00:21:55,500
+I’ll wait a little more. Bye.
+
+311
+00:22:10,550 --> 00:22:15,910
+Brother Kong! You didn’t see my text messages?
+
+312
+00:22:16,910 --> 00:22:19,430
+Coach Luo just told me that Jeffrey has replied
+
+313
+00:22:19,590 --> 00:22:21,510
+and isn’t going to the conference. He’s leaving on a flight now.
+
+314
+00:22:23,510 --> 00:22:25,110
+Got it. Go back first.
+
+315
+00:22:26,350 --> 00:22:28,230
+No. Jeffrey is leaving. He’s on a plane.
+
+316
+00:22:28,630 --> 00:22:32,150
+Got it. Don’t worry. Head back to train first.
+
+317
+00:22:33,030 --> 00:22:35,830
+Whether my contract gets cancelled, we have to win this competition.
+
+318
+00:22:36,470 --> 00:22:38,030
+Are you okay?
+
+319
+00:22:39,670 --> 00:22:42,660
+I’m leaving. Jeffrey is leaving too.
+
+320
+00:22:56,560 --> 00:22:58,560
+Why isn’t the plane here yet?
+
+321
+00:23:00,920 --> 00:23:01,920
+It hasn’t departed.
+
+322
+00:23:05,440 --> 00:23:06,240
+It’s okay.
+
+323
+00:23:06,880 --> 00:23:09,640
+As long as the flight isn’t cancelled, we’ll still have hope.
+
+324
+00:23:13,190 --> 00:23:15,470
+Alright. I’ll wait here with you.
+
+325
+00:23:16,230 --> 00:23:17,590
+My Yi Yi is the best.
+
+326
+00:23:24,540 --> 00:23:27,140
+Come. Have some Jian Jiao to boost your energy.
+
+327
+00:23:27,500 --> 00:23:28,380
 Thank you.
 
-472
-00:23:29,100 --> 00:23:30,188
-I'm sleepy.
+328
+00:23:38,970 --> 00:23:39,890
+I’m so sleepy.
 
-473
-00:24:04,108 --> 00:24:05,132
-Get up,get up,get up.
+329
+00:24:13,660 --> 00:24:14,900
+Get up.
 
-474
-00:24:07,052 --> 00:24:07,564
-Slow down.
+330
+00:24:17,140 --> 00:24:17,860
+Take it easy.
 
-475
-00:24:11,660 --> 00:24:12,556
-What time is it now?
+331
+00:24:21,860 --> 00:24:29,140
+What time is it? Look at your complexion.
 
-476
-00:24:17,250 --> 00:24:18,338
-Look at your face.
+332
+00:24:29,380 --> 00:24:32,010
+If you keep waiting, you’ll look like raw ginger.
 
-477
-00:24:19,148 --> 00:24:20,300
-If you still wait like this,
+333
+00:24:34,570 --> 00:24:37,410
+Go back first, Yi Yi. I’ll wait a little more.
 
-478
-00:24:20,300 --> 00:24:21,324
-you'll soon be ginger.
+334
+00:24:38,010 --> 00:24:40,840
+Don’t wait anymore. It’s 3AM.
 
-479
-00:24:24,204 --> 00:24:25,625
-Yiyi,you can go back first.
+335
+00:24:41,000 --> 00:24:42,760
+The press conference will start in a few hours.
 
-480
-00:24:26,375 --> 00:24:27,207
-I'll wait a little longer.
+336
+00:24:43,160 --> 00:24:47,360
+Besides, even if you found the tour leader, it’s been so long.
 
-481
-00:24:27,788 --> 00:24:28,620
-Don't wait.
+337
+00:24:47,760 --> 00:24:50,160
+She might have deleted the video.
 
-482
-00:24:29,068 --> 00:24:30,284
-It's three o 'clock in the morning.
+338
+00:24:53,300 --> 00:24:57,020
+As long as there’s a ray  of hope, I’ll wait.
 
-483
-00:24:30,668 --> 00:24:32,460
-The press conference starts in a few hours.
+339
+00:24:59,060 --> 00:25:02,900
+Are you running a fever or did Ji Xiang Kong drug you?
 
-484
-00:24:32,716 --> 00:24:33,420
-What's more?
+340
+00:25:03,220 --> 00:25:05,020
+Is he worth it?
 
-485
-00:24:33,804 --> 00:24:35,404
-Even if you find the leader,
+341
+00:25:05,540 --> 00:25:06,500
+It’s neither.
 
-486
-00:24:35,660 --> 00:24:37,260
- it's been a long time.
+342
+00:25:07,740 --> 00:25:12,100
+I feel like I should do something, or my heart will feel guilty.
 
-487
-00:24:37,516 --> 00:24:38,412
-They might 
+343
+00:25:14,580 --> 00:25:15,740
+Go back first, Yi Yi.
 
-488
-00:24:38,604 --> 00:24:39,372
- have deleted the video.
+344
+00:25:16,340 --> 00:25:17,740
+You still have to attend the conference.
 
-489
-00:24:42,764 --> 00:24:43,980
-Even there is only a glimmer of hope,
+345
+00:25:19,980 --> 00:25:22,530
+Alright. I’ll head back first to prepare ahead of time.
 
-490
-00:24:45,260 --> 00:24:46,476
-I'll wait.
+346
+00:25:23,570 --> 00:25:24,530
+I’ll be contactable anytime.
 
-491
-00:24:49,612 --> 00:24:50,764
-Have you got a fever?
+347
+00:25:25,770 --> 00:25:28,250
+Take care of yourself. Bye.
 
-492
-00:24:50,956 --> 00:24:52,172
-Or fall in love with Ji?
+348
+00:25:32,070 --> 00:25:33,990
+Take care on the road. Bye.
 
-493
-00:24:52,684 --> 00:24:53,324
-Is it worth it for him to do this?
+349
+00:25:55,470 --> 00:25:56,270
+Hello to everyone in front of their screens.
 
-494
-00:24:53,644 --> 00:24:54,412
-Neither.
+350
+00:25:56,390 --> 00:25:58,910
+I am Lu Yi Yi, a reporter from Dong Gan E-Sports Magazine.
 
-495
-00:24:56,790 --> 00:24:58,380
-I always thought I should do something for him.
+351
+00:25:59,150 --> 00:26:02,660
+Now, we’re at Chuan Qi’s press conference venue.
 
-496
-00:24:59,276 --> 00:25:01,175
-Or I'll be sorry in my heart.
+352
+00:26:02,980 --> 00:26:04,580
+Manager Zhao has said that today,
 
-497
-00:25:03,820 --> 00:25:04,268
-Yiyi,
+353
+00:26:04,700 --> 00:26:06,460
+everyone will have an answer.
 
-498
-00:25:04,524 --> 00:25:05,228
-You can go back first.
+354
+00:26:06,580 --> 00:26:09,700
+Now, please follow me to the live venue
 
-499
-00:25:05,676 --> 00:25:06,828
-You have toattend the press conference tomorrow.
+355
+00:26:09,740 --> 00:26:12,120
+to understand the latest happenings. Thank you.
 
-500
-00:25:09,324 --> 00:25:09,708
-Well,
+356
+00:26:14,280 --> 00:26:15,760
+Come in.
 
-501
-00:25:09,964 --> 00:25:10,924
-Then I'll go back
-
-502
-00:25:11,052 --> 00:25:11,820
-and prepare.
-
-503
-00:25:12,844 --> 00:25:13,740
-I'll be in touch with you any time.
-
-504
-00:25:15,148 --> 00:25:16,492
-Then keep safe by yourself.
-
-505
-00:25:16,940 --> 00:25:17,260
-Bye.
-
-506
-00:25:21,350 --> 00:25:22,252
-Be safe on the road.
-
-507
-00:25:22,444 --> 00:25:22,956
-Bye.
-
-508
-00:25:42,850 --> 00:25:45,356
-Hello everyone in front of the screen.
-
-509
-00:25:45,548 --> 00:25:47,148
-I am Lu Yiyi,
-
-510
-00:25:47,276 --> 00:25:48,050
- a reporter from the dynamic e-sports magazine.
-
-511
-00:25:48,300 --> 00:25:49,388
-We're here
-
-512
-00:25:49,388 --> 00:25:50,412
-at the press conference
-
-513
-00:25:50,668 --> 00:25:51,820
-of Legends team.
-
-514
-00:25:52,140 --> 00:25:53,100
-Manager Zhao said
-
-515
-00:25:53,292 --> 00:25:53,932
-today
-
-516
-00:25:54,060 --> 00:25:55,404
-he will give us a result.
-
-517
-00:25:55,596 --> 00:25:56,620
-Now
-
-518
-00:25:56,812 --> 00:25:57,900
-please follow my steps
-
-519
-00:25:58,028 --> 00:25:59,052
-to the scene 
-
-520
-00:25:59,180 --> 00:26:00,012
-for the latest situation.
-
-521
-00:26:00,396 --> 00:26:00,844
-Thank you.
-
-522
-00:26:03,276 --> 00:26:04,616
-Welcome,please.
-
-523
-00:26:10,124 --> 00:26:10,700
-Welcome.
-
-524
-00:26:10,892 --> 00:26:11,587
+357
+00:26:21,040 --> 00:26:21,720
 Manager Zhao.
 
-525
-00:26:12,739 --> 00:26:13,580
-Here.What's going on?
+358
+00:26:21,840 --> 00:26:23,240
+-Come in. -Manager Zhao.
 
-526
-00:26:15,425 --> 00:26:17,075
-How are things today?
+359
+00:26:23,840 --> 00:26:25,000
+Here. How is it?
 
-527
-00:26:17,454 --> 00:26:18,350
-Good,good.
+360
+00:26:26,840 --> 00:26:28,360
+Here are the people today.
 
-528
-00:26:18,925 --> 00:26:19,916
-You really did a good job.
+361
+00:26:28,840 --> 00:26:29,960
+Not bad.
 
-529
-00:26:21,964 --> 00:26:23,372
-Thanks to your leadership.
+362
+00:26:30,320 --> 00:26:31,240
+Not too shabby.
 
-530
-00:26:24,460 --> 00:26:25,676
-I've spread the word today
+363
+00:26:31,510 --> 00:26:32,510
+You’re more capable than I am.
 
-531
-00:26:25,932 --> 00:26:27,485
-that the Legends and JiXiangkong 
+364
+00:26:33,190 --> 00:26:34,750
+Manager Zhao has led well.
 
-532
-00:26:27,485 --> 00:26:28,748
-will formally break off the contract.
+365
+00:26:35,430 --> 00:26:36,670
+I’ve spread some rumors that
 
-533
-00:26:29,708 --> 00:26:30,156
-That's right.
+366
+00:26:37,070 --> 00:26:40,390
+Chuan Qi and Ji Xiang Kong are cancelling the contract.
 
-534
-00:26:30,988 --> 00:26:31,825
-We need to make this
+367
+00:26:40,910 --> 00:26:41,940
+That’s how it should be.
 
-535
-00:26:31,825 --> 00:26:33,036
- as big a deal as possible.
+368
+00:26:42,340 --> 00:26:44,580
+We have to really blow this matter up.
 
-536
-00:26:34,380 --> 00:26:35,788
-Do you know what boss Jin likes?
+369
+00:26:45,700 --> 00:26:47,220
+Do you know what President Jin likes?
 
-537
-00:26:36,684 --> 00:26:37,388
-His face.
+370
+00:26:48,100 --> 00:26:49,140
+Face!
 
-538
-00:26:39,756 --> 00:26:40,844
-When the termination is successful,
+371
+00:26:51,020 --> 00:26:52,290
+After the contract cancellation,
 
-539
-00:26:41,700 --> 00:26:44,260
-even if Ji is innocent,
+372
+00:26:53,170 --> 00:26:56,050
+even if Ji Xiang Kong was innocent,
 
-540
-00:26:45,132 --> 00:26:46,540
-he can't come back, can he?
+373
+00:26:56,570 --> 00:26:58,210
+he wouldn’t be able to come back. Right?
 
-541
-00:26:50,380 --> 00:26:51,404
-To tell you the truth,
+374
+00:27:01,890 --> 00:27:02,650
+To be honest, Manager Zhao,
 
-542
-00:26:51,404 --> 00:26:53,964
-I've got the denunciation ready today.
+375
+00:27:02,890 --> 00:27:05,490
+I’ve already prepared the contract cancellation letters.
 
-543
-00:26:57,612 --> 00:26:58,636
-Then what are you still doing here?
+376
+00:27:09,170 --> 00:27:11,800
+Why are you still standing here? Ask him to sign them!
 
-544
-00:26:59,276 --> 00:27:00,236
-Get him to sign it.
+377
+00:27:12,760 --> 00:27:14,480
+Got it! I’ll do that right now.
 
-545
-00:27:01,068 --> 00:27:02,988
-All right, I'll go right now.
+378
+00:27:15,920 --> 00:27:17,040
+Please come in.
 
-546
-00:27:03,975 --> 00:27:04,908
-Welcome.
+379
+00:27:30,150 --> 00:27:31,590
+-Brother Kong. -Ji.
 
-547
-00:27:18,604 --> 00:27:19,564
-Hey,Kong.
-
-548
-00:27:26,796 --> 00:27:27,308
-The press conference
-
-549
-00:27:27,884 --> 00:27:28,844
-is about to begin.
-
-550
-00:27:30,252 --> 00:27:31,404
-There are a lot of reporters outside now.
-
-551
-00:27:32,172 --> 00:27:32,620
-What should we do?
-
-552
-00:27:33,196 --> 00:27:33,751
-I don't know
-
-553
-00:27:33,751 --> 00:27:34,732
-why this press conference is being held?
-
-554
-00:27:36,972 --> 00:27:37,676
-Fine,
-
-555
-00:27:37,868 --> 00:27:38,700
-here comes another annoying guy.
-
-556
-00:27:42,412 --> 00:27:42,988
-Everyone is here.
-
-557
-00:27:43,820 --> 00:27:44,140
-This is
-
-558
-00:27:44,716 --> 00:27:45,996
-our termination contract.
-
-559
-00:27:46,444 --> 00:27:47,788
-You could sign it ,
-
-560
-00:27:48,172 --> 00:27:48,876
-if there's no problem.
-
-561
-00:27:49,500 --> 00:27:50,425
-Sign what?
-
-562
-00:27:50,425 --> 00:27:51,513
-The press conference hasn't even started yet.
-
-563
-00:27:51,948 --> 00:27:53,228
-Why are you in such a hurry?
-
-564
-00:27:55,148 --> 00:27:55,660
-Well,
-
-565
-00:27:56,044 --> 00:27:57,644
-If nothing's wrong, I'm gonna go.
-
-566
-00:28:01,804 --> 00:28:02,956
-Tell ZhaoYang,
-
-567
-00:28:03,275 --> 00:28:04,107
-I'll sign it.
-
-568
-00:28:05,196 --> 00:28:05,925
-But anyway,
-
-569
-00:28:06,668 --> 00:28:07,628
-I'll wait for him to finish the scene.
-
-570
-00:28:08,972 --> 00:28:09,868
-Sign in his presence.
-
-571
-00:28:40,140 --> 00:28:40,908
-Hello,Yiyi.
-
-572
-00:28:41,275 --> 00:28:41,932
-QiuYing,
-
-573
-00:28:42,188 --> 00:28:43,404
-what's going on?
-
-574
-00:28:44,236 --> 00:28:44,620
-Look,
-
-575
-00:28:45,132 --> 00:28:46,156
-Nearly everyone is here.
-
-576
-00:28:46,775 --> 00:28:48,204
+380
+00:27:39,580 --> 00:27:40,900
 The press conference is about to begin.
 
-577
-00:28:49,292 --> 00:28:50,750
-The flight has landed.
+381
+00:27:41,980 --> 00:27:44,660
+There are many reporters outside. What should we do?
 
-578
-00:28:52,108 --> 00:28:53,900
-No one I'm waiting for is coming out yet.
+382
+00:27:44,980 --> 00:27:46,740
+I don’t know why this press conference is necessary.
 
-579
-00:28:55,628 --> 00:28:57,036
-It can't be too late.
+383
+00:27:48,740 --> 00:27:50,500
+Great. Another pest.
 
-580
-00:28:58,572 --> 00:28:59,916
-So what do we do?
+384
+00:27:54,210 --> 00:27:57,610
+You’re all here. This is the contract cancellation document.
 
-581
-00:29:00,940 --> 00:29:01,260
-Well,
+385
+00:27:58,250 --> 00:28:00,810
+If there are no issues, please sign here.
 
-582
-00:29:01,772 --> 00:29:02,860
-I'll wait for your news.
+386
+00:28:02,120 --> 00:28:05,280
+We’re not signing. Has the conference begun? What’s the rush?
 
-583
-00:29:11,628 --> 00:29:12,844
-The bus is coming at the gate.Come on.
+387
+00:28:06,920 --> 00:28:09,360
+That -   If there’s nothing else, I’ll take my leave.
 
-584
-00:29:19,308 --> 00:29:21,164
-Everybody gets on the bus.
+388
+00:28:09,840 --> 00:28:11,920
+Please go ahead.
 
-585
-00:29:21,400 --> 00:29:21,868
-Follow me.
+389
+00:28:13,780 --> 00:28:19,740
+Tell Zhao Yang that I’ll sign, but it will have to be after his entire act.
 
-586
-00:29:41,324 --> 00:29:41,772
-Wait.
+390
+00:28:21,020 --> 00:28:22,420
+I’ll sign it right in front of him.
 
-587
-00:29:47,212 --> 00:29:48,108
-Manager Zhao is coming.
+391
+00:28:52,210 --> 00:28:53,310
+Hello, Yi Yi.
 
-588
-00:30:03,724 --> 00:30:06,284
-Welcome to our press conference
+392
+00:28:53,630 --> 00:28:55,550
+Qiu Ying. How is it going over there?
 
-589
-00:30:06,540 --> 00:30:08,325
-in your convenience.
+393
+00:28:56,510 --> 00:29:00,470
+Look. Everyone is nearly here. The conference is about to start.
 
-590
-00:30:09,676 --> 00:30:10,572
-There are six items 
+394
+00:29:01,630 --> 00:29:06,710
+The plane has landed, but she hasn’t come out yet.
 
-591
-00:30:11,020 --> 00:30:11,916
-in our conference today.
+395
+00:29:08,070 --> 00:29:09,830
+Will it really be too late?
 
-592
-00:30:12,172 --> 00:30:12,876
- 
+396
+00:29:10,910 --> 00:29:12,430
+What should we do?
 
-593
-00:30:13,260 --> 00:30:14,796
-Manager Zhao,it's said that
+397
+00:29:13,310 --> 00:29:15,310
+Alright. I’ll wait for your news.
 
-594
-00:30:14,796 --> 00:30:15,375
-JiXiangkong and QiuYing
+398
+00:29:24,140 --> 00:29:25,460
+The bus is outside. Come.
 
-595
-00:30:15,375 --> 00:30:17,100
- reached a settlement yesterday
+399
+00:29:31,700 --> 00:29:34,240
+Get up the bus here.. Follow me.
 
-596
-00:30:17,100 --> 00:30:18,060
-Is that true?
+400
+00:29:53,670 --> 00:29:54,630
+Wait!
 
-597
-00:30:18,316 --> 00:30:19,084
-Yes,manager Zhao.
+401
+00:29:59,870 --> 00:30:00,910
+Manager Zhao is here.
 
-598
-00:30:19,084 --> 00:30:20,492
-Whether we can understand it this way,
+402
+00:30:16,610 --> 00:30:18,850
+Welcome, everyone, and thank you for taking time
 
-599
-00:30:20,748 --> 00:30:21,644
-the video QiuYing posted 
+403
+00:30:19,330 --> 00:30:21,290
+out of your busy schedules to come for the conference.
 
-600
-00:30:21,900 --> 00:30:22,924
-is real or not.
+404
+00:30:22,530 --> 00:30:24,890
+Our conference today will have -
 
-601
-00:30:23,116 --> 00:30:23,948
-Ji did beat Jeffery up
+405
+00:30:25,130 --> 00:30:27,410
+Manager Zhao. According to reliable sources,
 
-602
-00:30:24,076 --> 00:30:25,200
-in Vancouver.
+406
+00:30:27,690 --> 00:30:29,890
+Ji Xiang Kong settled with Qiu Ying of his free will yesterday.
 
-603
-00:30:25,932 --> 00:30:26,700
-Here.
+407
+00:30:30,050 --> 00:30:31,850
+Is this true? Yes, Manager Zhao.
 
-604
-00:30:26,892 --> 00:30:27,468
+408
+00:30:32,090 --> 00:30:33,520
+Can we say with certainty that the video
+
+409
+00:30:33,800 --> 00:30:35,760
+Qiu Ying had uploaded is completely real?
+
+410
+00:30:36,120 --> 00:30:38,360
+Ji Xiang Kong did indeed attack Jeffrey in Vancouver?
+
+411
+00:30:38,920 --> 00:30:40,720
+Also, Manager Zhao.
+
+412
+00:30:40,760 --> 00:30:42,000
+If Ji Xiang Kong’s contract is cancelled,
+
+413
+00:30:42,000 --> 00:30:44,230
+I mean if, will there be a new
+
+414
+00:30:44,270 --> 00:30:45,790
+team member joining Chuan Qi?
+
+415
+00:30:45,830 --> 00:30:48,070
+We’re concerned about this as well. Right, everyone?
+
+416
+00:30:48,110 --> 00:30:51,550
+Yes, Manager Zhao. Please answer, Manager Zhao.
+
+417
+00:30:51,870 --> 00:30:54,860
+Please remain quiet. Please have a seat.
+
+418
+00:30:59,900 --> 00:31:03,980
+Firstly, I hereby represent the company and
+
+419
+00:31:04,100 --> 00:31:06,940
+Ji Xiang Kong to give everyone an apology.
+
+420
+00:31:18,010 --> 00:31:20,770
+Wait! Wait!
+
+421
+00:31:22,050 --> 00:31:23,840
+May I know where your tour leader is?
+
+422
+00:31:24,560 --> 00:31:25,640
+In that car.
+
+423
+00:31:26,840 --> 00:31:27,840
+Thank you!
+
+424
+00:31:37,620 --> 00:31:39,340
+Excuse me, wait!
+
+425
+00:31:39,700 --> 00:31:40,700
+Watch out!
+
+426
+00:31:49,860 --> 00:31:50,980
+Are you alright?
+
+427
+00:31:55,620 --> 00:31:57,060
+I finally found you!
+
+428
+00:31:59,140 --> 00:32:02,780
+We’re deeply apologetic about this messy situation.
+
+429
+00:32:02,940 --> 00:32:03,850
+Hurry.
+
+430
+00:32:03,890 --> 00:32:05,850
+Therefore, the company will announce
+
+431
+00:32:06,530 --> 00:32:08,610
+the cancellation of Ji Xiang Kong’s -
+
+432
+00:32:08,890 --> 00:32:10,090
 Manager Zhao.
 
-605
-00:30:27,788 --> 00:30:28,691
-If he's terminated,
+433
+00:32:16,230 --> 00:32:19,990
+I have a video in my hands that can prove Ji Xiang Kong’s innocence.
 
-606
-00:30:28,691 --> 00:30:29,523
-I mean if
-
-607
-00:30:30,220 --> 00:30:31,244
-So whether the team
-
-608
-00:30:31,436 --> 00:30:32,524
-will have new members to join?
-
-609
-00:30:32,908 --> 00:30:34,124
-This is something we are very concerned about.
-
-610
-00:30:34,316 --> 00:30:35,020
-Right?
-
-611
-00:30:35,020 --> 00:30:36,364
-Yes,yes,manager Zhao.
-
-612
-00:30:37,196 --> 00:30:38,412
-Please answer,manager Zhao.
-
-613
-00:30:38,732 --> 00:30:39,692
-Calm down, everyone.
-
-614
-00:30:40,652 --> 00:30:41,484
-Please sit down.
-
-615
-00:30:46,732 --> 00:30:49,164
-First of all, 
-
-616
-00:30:49,164 --> 00:30:51,500
-on behalf of the company and Ji, 
-
-617
-00:30:51,500 --> 00:30:53,624
-I would like to apologize.
-
-618
-00:31:04,844 --> 00:31:06,316
-Wait,wait.
-
-619
-00:31:08,428 --> 00:31:10,156
-Where is your tour leader, please?
-
-620
-00:31:11,116 --> 00:31:12,524
-She's in that car.
-
-621
-00:31:13,100 --> 00:31:14,188
-Thanks.
-
-622
-00:31:24,492 --> 00:31:26,092
-Excuse me.
-
-623
-00:31:26,092 --> 00:31:27,372
-Be careful.
-
-624
-00:31:36,460 --> 00:31:37,100
-Are you ok?
-
-625
-00:31:42,075 --> 00:31:43,564
-I finally found you.
-
-626
-00:31:45,758 --> 00:31:47,166
-We apologize
-
-627
-00:31:47,870 --> 00:31:49,086
-for this mistake.
-
-628
-00:31:49,470 --> 00:31:50,366
-Hurry up.
-
-629
-00:31:50,366 --> 00:31:52,158
-So the company solemnly announced
-
-630
-00:31:52,990 --> 00:31:54,206
-We will terminate the contract with
-
-631
-00:31:55,294 --> 00:31:56,126
-Manager Zhao.
-
-632
-00:32:02,654 --> 00:32:03,742
-I have a video here.
-
-633
-00:32:04,510 --> 00:32:06,302
-It can prove Ji's innocence.
-
-634
-00:32:06,686 --> 00:32:07,838
+434
+00:32:20,270 --> 00:32:21,710
 Do you want to see it?
 
-635
-00:32:09,566 --> 00:32:10,206
-Is it?
+435
+00:32:23,190 --> 00:32:23,910
+Really?
 
-636
-00:32:10,526 --> 00:32:11,870
-Would you like to see it?
+436
+00:32:24,150 --> 00:32:25,110
+Do you want to see it?
 
-637
-00:32:11,870 --> 00:32:13,022
-What video?
+437
+00:32:25,270 --> 00:32:28,270
+What video? Let me see!
 
-638
-00:32:13,025 --> 00:32:14,177
-Let me have a look.
+438
+00:32:28,950 --> 00:32:29,510
+Hurry, look!
 
-639
-00:32:15,646 --> 00:32:16,094
-Come on.
+439
+00:32:31,230 --> 00:32:33,510
+Who is that? Who’s that in the video?
 
-640
-00:32:17,502 --> 00:32:18,398
-Who is this?
+440
+00:32:34,350 --> 00:32:37,230
+That’s all? Hurry. Take a look.
 
-641
-00:32:18,846 --> 00:32:19,870
-Who?
+441
+00:32:38,030 --> 00:32:38,670
+Ji Xiang Kong -
 
-642
-00:32:20,638 --> 00:32:21,726
-What?
+442
+00:32:39,230 --> 00:32:40,350
+didn’t assault anyone.
 
-643
-00:32:22,110 --> 00:32:23,454
-Yes.Look.
+443
+00:32:41,590 --> 00:32:42,590
+He didn’t assault anyone.
 
-644
-00:32:24,286 --> 00:32:24,915
-JiXiangkong.
+444
+00:32:43,230 --> 00:32:45,900
+What’s happening here? Please explain, Manager Zhao.
 
-645
-00:32:25,502 --> 00:32:26,462
-Ji didn't hit anyone.
+445
+00:32:46,140 --> 00:32:47,900
+Despite the blurriness of this video,
 
-646
-00:32:27,870 --> 00:32:29,342
-He didn't hit anyone.
+446
+00:32:47,980 --> 00:32:50,140
+you can clearly see that Ji Xiang Kong did not assault anyone.
 
-647
-00:32:29,598 --> 00:32:30,174
-Yes.
+447
+00:32:50,420 --> 00:32:52,540
+Manager Zhao. Have you seen this video before?
 
-648
-00:32:30,302 --> 00:32:31,070
-What's gping on?
+448
+00:32:53,580 --> 00:32:56,160
+Have you seen it before? Have you seen this video before?
 
-649
-00:32:31,262 --> 00:32:32,414
-Manager Zhao, please explain.
+449
+00:32:56,440 --> 00:32:57,400
+Please answer, Manager Zhao.
 
-650
-00:32:32,670 --> 00:32:34,142
-This video is a little unclear,
+450
+00:32:57,480 --> 00:32:58,400
+What is it, Manager Zhao?
 
-651
-00:32:34,334 --> 00:32:35,998
-but you can see Ji didn't hit anyone.
+451
+00:32:58,720 --> 00:33:01,400
+Take a look. Ji Xiang Kong didn’t assault anyone.
 
-652
-00:32:36,446 --> 00:32:37,150
-Manager Zhao.
+452
+00:33:01,960 --> 00:33:04,800
+Yeah. Have you seen this video before?
 
-653
-00:32:37,342 --> 00:32:38,942
-Have you seen this video before?
+453
+00:33:05,040 --> 00:33:05,800
+Please answer, Manager Zhao.
 
-654
-00:32:39,525 --> 00:32:40,670
-DId you see it?
+454
+00:33:06,040 --> 00:33:08,240
+What about it, Manager Zhao? Tell us more.
 
-655
-00:32:40,670 --> 00:32:42,142
-Have you seen this video before?
+455
+00:33:11,480 --> 00:33:14,350
+Neither I nor the company had seen this video before.
 
-656
-00:32:42,334 --> 00:32:43,271
-Please answer.
+456
+00:33:14,670 --> 00:33:17,950
+However, this piece of unofficial content
 
-657
-00:32:43,271 --> 00:32:44,575
-How's that?Manager Zhao.
+457
+00:33:18,630 --> 00:33:22,310
+with extreme blurriness and without official confirmation
 
-658
-00:32:44,575 --> 00:32:45,471
-Have a look.
+458
+00:33:22,630 --> 00:33:26,140
+cannot be taken to be 100% real information.
 
-659
-00:32:46,430 --> 00:32:47,710
-Ji didn't hit anyone.
+459
+00:33:26,700 --> 00:33:30,420
+Also, we will not negate the decisions
 
-660
-00:32:48,158 --> 00:32:48,606
-Yes.
+460
+00:33:30,980 --> 00:33:33,660
+taken by the company because of this strange video,
 
-661
-00:32:48,926 --> 00:32:50,654
-Have you seen this video before?
+461
+00:33:33,940 --> 00:33:35,730
+or to needlessly protect our own team members.
 
-662
-00:32:50,974 --> 00:32:51,422
-Please answer.
+462
+00:33:36,250 --> 00:33:40,930
+Manager Zhao. Do your words represent the views of your entire team?
 
-663
-00:32:51,725 --> 00:32:52,775
-Manager Zhao.
+463
+00:33:41,410 --> 00:33:44,570
+Now that we have evidence that could prove Ji Xiang Kong’s innocence,
 
-664
-00:32:52,775 --> 00:32:53,965
-Talk about it.
+464
+00:33:44,850 --> 00:33:47,130
+you’ve denied it without confirmation.
 
-665
-00:32:57,502 --> 00:32:58,462
-The company and I
-
-666
-00:32:58,462 --> 00:33:00,126
-really haven't seen the video.
-
-667
-00:33:00,574 --> 00:33:03,825
-But this kind of unofficial content
-
-668
-00:33:04,542 --> 00:33:05,822
-clarity is so poor.
-
-669
-00:33:06,846 --> 00:33:08,190
-We haven't confirmed it.
-
-670
-00:33:08,550 --> 00:33:10,086
-So the authenticity of this video
-
-671
-00:33:10,686 --> 00:33:11,902
-is uncertain.
-
-672
-00:33:12,542 --> 00:33:13,054
-And
-
-673
-00:33:13,438 --> 00:33:14,450
-We're not going to take this bizarre video
-
-674
-00:33:14,450 --> 00:33:15,742
-as a reason
-
-675
-00:33:16,766 --> 00:33:19,500
-to deny our company's decisions
-
-676
-00:33:19,500 --> 00:33:21,374
-and defend our players.
-
-677
-00:33:22,014 --> 00:33:22,590
-Manager Zhao.
-
-678
-00:33:23,550 --> 00:33:26,741
-Do you represent your team's opinion?
-
-679
-00:33:27,198 --> 00:33:30,014
-Now there is proof that Ji is innocent.
-
-680
-00:33:30,275 --> 00:33:32,675
-You don't check it, you just let it go.
-
-681
-00:33:33,425 --> 00:33:35,838
+465
+00:33:47,810 --> 00:33:50,050
 Is it you or your team
 
-682
-00:33:36,350 --> 00:33:38,750
-that doesn't care about its player's innocence.
+466
+00:33:50,570 --> 00:33:52,330
+that couldn't care less about the innocence
 
-683
-00:33:39,614 --> 00:33:41,470
-Yes,yes,Right?
+467
+00:33:52,370 --> 00:33:53,250
+of your own team member?
 
-684
-00:33:42,942 --> 00:33:43,815
-What I say and do 
+468
+00:33:53,930 --> 00:33:56,440
+Yeah!
 
-685
-00:33:43,815 --> 00:33:44,839
-fully represent our company.
+469
+00:33:57,320 --> 00:33:59,320
+Every word from me represents the entire company.
 
-686
-00:33:45,374 --> 00:33:46,590
-We cherish our players.
+470
+00:33:59,840 --> 00:34:01,120
+We treasure our team members,
 
-687
-00:33:47,100 --> 00:33:50,558
-But we will not condone such violent event.
+471
+00:34:01,480 --> 00:34:05,190
+but we will not forgive or accept these terrible acts of assault.
 
-688
-00:33:51,198 --> 00:33:52,798
-Our company bases its decisions
+472
+00:34:05,710 --> 00:34:09,910
+The decisions taken by our company were built on solid evidence.
 
-689
-00:33:53,438 --> 00:33:55,230
-on hard facts.
+473
+00:34:14,310 --> 00:34:17,220
+To our dear reporter friend here -
 
-690
-00:33:59,966 --> 00:34:00,606
-This
+474
+00:34:17,740 --> 00:34:18,980
+if you really had
 
-691
-00:34:01,246 --> 00:34:02,654
-cute little journalist
+475
+00:34:19,300 --> 00:34:21,060
+the powerful evidence of the involved parties,
 
-692
-00:34:03,230 --> 00:34:06,200
-If you really have the evidence,
+476
+00:34:21,620 --> 00:34:22,700
+and didn’t simply take out this
 
-693
-00:34:07,006 --> 00:34:09,500
-Instead of this blurry video.
+477
+00:34:23,140 --> 00:34:26,340
+blurry video footage, we would consider it. Really.
 
-694
-00:34:10,014 --> 00:34:10,846
-We can consider about it.
+478
+00:34:26,620 --> 00:34:28,180
+-You - -Furthermore,
 
-695
-00:34:11,038 --> 00:34:11,550
-Really.
+479
+00:34:28,460 --> 00:34:31,140
+Jeffrey himself is no longer in the country, right?
 
-696
-00:34:12,062 --> 00:34:13,470
-Even more,
-
-697
-00:34:13,854 --> 00:34:15,582
-Jeffery is no longer in the country.
-
-698
-00:34:16,393 --> 00:34:17,694
+480
+00:34:31,140 --> 00:34:32,700
 Manager Zhao is right.
 
-699
-00:34:19,550 --> 00:34:21,790
-Ji Xiangkong.
-
-700
-00:34:22,814 --> 00:34:24,158
-Ji Xiangkong.
-
-701
-00:34:24,350 --> 00:34:25,750
-The video is said to be synthetic.
-
-702
-00:34:25,750 --> 00:34:27,806
-Did you hit Jeffery or not?
-
-703
-00:34:28,446 --> 00:34:29,726
-Please anwser,Ji.
-
-704
-00:34:29,726 --> 00:34:30,750
-Did you hit Jeffery or not?
-
-705
-00:34:31,070 --> 00:34:32,158
-Ji Xiangkong.
-
-706
-00:34:32,350 --> 00:34:33,822
-Please be quiet.
-
-707
-00:34:34,078 --> 00:34:35,422
-This video was suddenly sent out.
-
-708
-00:34:37,406 --> 00:34:38,814
-We can't be so quick to believe it.
-
-709
-00:34:40,478 --> 00:34:41,886
-Who sent you here?
-
-710
-00:34:42,910 --> 00:34:43,678
-Your presence
-
-711
-00:34:43,934 --> 00:34:45,726
- will only make it more and more difficult.
-
-712
-00:34:45,918 --> 00:34:47,500
-You will cause more problems for the team.
-
-713
-00:34:47,756 --> 00:34:48,524
-Do you know?
-
-714
-00:34:51,486 --> 00:34:52,830
-How it happened
-
-715
-00:34:53,726 --> 00:34:55,390
-Who knows better than I do?
-
-716
-00:34:56,286 --> 00:34:58,078
-I'm sure the press here
-
-717
-00:34:58,718 --> 00:34:59,806
-would like to hear from me
-
-718
-00:35:00,254 --> 00:35:01,470
- first hand information.
-
-719
-00:35:02,174 --> 00:35:02,814
-What happened that day?
-
-720
-00:35:02,942 --> 00:35:03,966
-Yes,yes.
-
-721
-00:35:04,158 --> 00:35:06,200
-What happened that day?
-
-722
-00:35:09,790 --> 00:35:10,750
-Please be quiet.
-
-723
-00:35:10,750 --> 00:35:11,582
-What I want to say
-
-724
-00:35:12,542 --> 00:35:14,270
-You just saw that in the video.
-
-725
-00:35:14,910 --> 00:35:16,254
-If you don't believe me.
-
-726
-00:35:16,446 --> 00:35:17,406
-just ask Jeffery.
-
-727
-00:35:19,262 --> 00:35:20,542
-Jeffery has returned to his country.
-
-728
-00:35:20,990 --> 00:35:22,270
-How can he confront you face to face?
-
-729
-00:35:22,775 --> 00:35:26,424
-What era is  in now,manager Zhao?
-
-730
-00:35:26,942 --> 00:35:28,158
-Communication is so advanced,
-
-731
-00:35:28,670 --> 00:35:31,975
-Must the party be in order to speak clearly?
-
-732
-00:35:32,382 --> 00:35:34,494
-What is this?
-
-733
-00:35:43,646 --> 00:35:44,670
-I have a video here.
-
-734
-00:35:45,054 --> 00:35:46,654
-You can watch.
-
-735
-00:35:52,990 --> 00:35:55,166
-The online video is fake.
-
-736
-00:35:55,742 --> 00:35:57,662
-How did I get hit by Ji?
-
-737
-00:35:58,918 --> 00:36:00,262
-This is ridiculous.
-
-738
-00:36:01,438 --> 00:36:02,206
-JiXIangkong.
-
-739
-00:36:03,486 --> 00:36:05,662
-I admit your tactics are strong.
-
-740
-00:36:07,070 --> 00:36:10,124
-Next season's global finals
-
-741
-00:36:11,614 --> 00:36:12,638
-I wait for you.
-
-742
-00:36:13,100 --> 00:36:14,622
-So the previous video was a composite.
-
-743
-00:36:14,814 --> 00:36:15,710
-Ji was wronged.
-
-744
-00:36:16,286 --> 00:36:17,374
-RIght.
-
-745
-00:36:17,630 --> 00:36:18,782
-Ji was wronged.
-
-746
-00:36:18,974 --> 00:36:19,678
-Ji.
-
-747
-00:36:19,934 --> 00:36:21,662
-What is the relationship between you and QiuYing?
-
-748
-00:36:21,982 --> 00:36:23,198
-What the hell is going on?
-
-749
-00:36:31,710 --> 00:36:34,910
-I'm sure you're all well aware of the incident.
-
-750
-00:36:35,678 --> 00:36:37,214
-As for concerns about 
-
-751
-00:36:37,470 --> 00:36:39,070
-my relationship with a female host.
-
-752
-00:36:39,774 --> 00:36:41,926
-There's no story between us.
-
-753
-00:36:42,654 --> 00:36:44,382
-She didn't post the composite video.
-
-754
-00:36:44,766 --> 00:36:46,200
-She and I are both victims.
-
-755
-00:36:47,518 --> 00:36:48,670
-As for the guy who made the fake video
-
-756
-00:36:48,990 --> 00:36:50,142
-that vilified me
-
-757
-00:36:51,678 --> 00:36:54,200
-Legends and I will definitely find him.
-
-758
-00:36:54,625 --> 00:36:55,777
-Turn him over to the law.
-
-759
-00:36:56,222 --> 00:36:56,670
-Manager Zhao.
-
-760
-00:36:56,926 --> 00:36:59,102
-Legends was due to announce his termination from Ji today
-
-761
-00:36:59,678 --> 00:37:01,470
-But now he is proved innocent.
-
-762
-00:37:06,526 --> 00:37:07,230
-Well.
-
-763
-00:37:09,022 --> 00:37:10,110
-I just said that.
-
-764
-00:37:10,686 --> 00:37:12,798
-If he is innocent,
-
-765
-00:37:14,206 --> 00:37:16,830
-our company will not terminate the contract with him.
-
-766
-00:37:17,918 --> 00:37:19,454
-Thank you for your understanding.
-
-767
-00:37:20,094 --> 00:37:20,606
-Meanwhile,
-
-768
-00:37:21,246 --> 00:37:23,358
-I hope all the media present here 
-
-769
-00:37:24,126 --> 00:37:25,342
-can help us find out who is behind
-
-770
-00:37:25,790 --> 00:37:27,710
-for our Legends.
-
-771
-00:37:28,525 --> 00:37:30,398
-Then there is the time for mass media interviews
-
-772
-00:37:30,654 --> 00:37:33,342
-There any questions you can directly ask manager Zhao.
-
-773
-00:37:33,918 --> 00:37:34,942
-I'll go first.
-
-774
-00:37:34,942 --> 00:37:35,750
-I can't explain anything.
-
-775
-00:37:35,750 --> 00:37:37,310
-Please answer.
-
-776
-00:37:45,663 --> 00:37:46,047
-Continue.
-
-777
-00:37:47,775 --> 00:37:49,119
-QiuYIng,
-
-778
-00:37:49,247 --> 00:37:50,399
-I told you it was over
-
-779
-00:37:53,727 --> 00:37:54,943
-It was over.
-
-780
-00:37:55,583 --> 00:37:57,311
-Ji has some conscience.
-
-781
-00:37:57,567 --> 00:37:59,500
-Didn't waste your night at the airport
-
-782
-00:38:01,151 --> 00:38:02,239
-I'm tired.
-
-783
-00:38:03,071 --> 00:38:04,200
-I have to get some sleep here.
-
-784
-00:38:04,900 --> 00:38:06,655
-You can't sleep at the airport if you want to.
-
-785
-00:38:06,655 --> 00:38:07,698
-Don't hang up.Wait for me.
-
-786
-00:38:07,900 --> 00:38:08,796
-I am coming.
+481
+00:34:34,020 --> 00:34:38,490
+Ji Xiang Kong.
+
+482
+00:34:38,650 --> 00:34:39,770
+Ji Xiang Kong. They’re saying that the video
+
+483
+00:34:39,850 --> 00:34:40,610
+just now was fake.
+
+484
+00:34:40,690 --> 00:34:41,690
+Did you hit anyone? Ji Xiang Kong.
+
+485
+00:34:41,930 --> 00:34:43,890
+Please answer, Ji Xiang Kong.
+
+486
+00:34:44,450 --> 00:34:46,080
+Did you assault anyone? Ji Xiang Kong.
+
+487
+00:34:47,080 --> 00:34:48,320
+Please stay quiet.
+
+488
+00:34:48,680 --> 00:34:50,280
+The sudden surfacing of this video cannot be taken
+
+489
+00:34:50,760 --> 00:34:53,680
+as concrete evidence, due to precautions.
+
+490
+00:34:55,340 --> 00:34:56,780
+Who told you to come?
+
+491
+00:34:57,660 --> 00:35:00,420
+Your appearance will only make matters worse,
+
+492
+00:35:00,780 --> 00:35:03,780
+and cause more trouble for the team. Did you know that?
+
+493
+00:35:06,340 --> 00:35:07,980
+No one knows the details of the incident
+
+494
+00:35:08,620 --> 00:35:10,580
+better than I, the involved party, do.
+
+495
+00:35:11,140 --> 00:35:13,180
+I believe that everyone here in this room today
+
+496
+00:35:13,620 --> 00:35:16,460
+will hope to get some direct information from me.
+
+497
+00:35:17,020 --> 00:35:18,940
+Ji Xiang Kong. What actually happened that day?
+
+498
+00:35:19,060 --> 00:35:22,380
+Yeah. What happened?
+
+499
+00:35:24,500 --> 00:35:25,530
+Please calm down.
+
+500
+00:35:25,570 --> 00:35:29,370
+What I want to say has been viewed by you in the video just now.
+
+501
+00:35:29,970 --> 00:35:32,130
+If you still don’t believe it, you can ask Jeffrey himself.
+
+502
+00:35:34,330 --> 00:35:35,630
+Jeffrey has gone back home.
+
+503
+00:35:36,030 --> 00:35:38,190
+How will he corroborate with your story? Right?
+
+504
+00:35:38,830 --> 00:35:41,550
+Manager Zhao. What era are we living in now?
+
+505
+00:35:42,030 --> 00:35:43,110
+With our evolved telecommunication,
+
+506
+00:35:43,710 --> 00:35:47,150
+do we have to have them present before we can clarify matters?
+
+507
+00:35:47,190 --> 00:35:49,990
+What’s that? What’s that?
+
+508
+00:35:58,790 --> 00:36:01,270
+I have a video footage. Please take a look.
+
+509
+00:36:08,380 --> 00:36:10,540
+The footage online is fake.
+
+510
+00:36:11,060 --> 00:36:13,100
+How could I have been assaulted by Ji Xiang Kong?
+
+511
+00:36:14,340 --> 00:36:15,570
+That’s incredulous.
+
+512
+00:36:16,840 --> 00:36:21,160
+Ji Xiang Kong. I’ll admit that your strategy is strong.
+
+513
+00:36:22,480 --> 00:36:27,960
+I’ll wait for you in the next season’s global finals competition.
+
+514
+00:36:28,000 --> 00:36:29,920
+That means that the assault video footage was falsified?
+
+515
+00:36:30,080 --> 00:36:31,200
+Ji Xiang Kong was wrongly accused!
+
+516
+00:36:31,760 --> 00:36:33,960
+That’s right! Ji Xiang Kong was wrongly accused!
+
+517
+00:36:34,240 --> 00:36:35,000
+Ji Xiang Kong!
+
+518
+00:36:35,240 --> 00:36:37,070
+What’s the relationship between you and Qiu Ying?
+
+519
+00:36:37,390 --> 00:36:38,590
+Why did she have to do this?
+
+520
+00:36:39,070 --> 00:36:40,030
+What happened?
+
+521
+00:36:47,700 --> 00:36:50,620
+I trust that you are all clear about the assault incident.
+
+522
+00:36:51,300 --> 00:36:53,420
+As for the relationship between me and a
+
+523
+00:36:53,540 --> 00:36:54,780
+certain female host that you all care about,
+
+524
+00:36:55,380 --> 00:36:57,530
+there isn’t really a story to tell here.
+
+525
+00:36:58,210 --> 00:36:59,970
+She didn’t upload the falsified video.
+
+526
+00:37:00,490 --> 00:37:02,130
+Qiu Ying and I are both victims.
+
+527
+00:37:03,170 --> 00:37:04,530
+As for the person who falsified
+
+528
+00:37:04,850 --> 00:37:06,010
+the video and tried to frame me,
+
+529
+00:37:07,330 --> 00:37:11,530
+Chuan Qi and I will definitely find him and punish him by law.
+
+530
+00:37:11,810 --> 00:37:13,930
+Manager Zhao. Chuan Qi was intending to announce
+
+531
+00:37:14,010 --> 00:37:15,170
+the cancellation of Ji Xiang Kong’s contract.
+
+532
+00:37:15,450 --> 00:37:17,280
+However, now that his innocence has been proven...
+
+533
+00:37:22,600 --> 00:37:23,360
+That -
+
+534
+00:37:24,920 --> 00:37:28,910
+As I’ve said just now, if Ji Xiang Kong was innocent,
+
+535
+00:37:30,430 --> 00:37:33,110
+our company would definitely not cancel his contract.
+
+536
+00:37:33,750 --> 00:37:35,190
+Thank you, Manager Zhao, for your understanding.
+
+537
+00:37:35,950 --> 00:37:39,380
+Also, I hope that everyone present will help our
+
+538
+00:37:39,900 --> 00:37:43,740
+Chuan Qi team to capture the mastermind.
+
+539
+00:37:44,740 --> 00:37:45,180
+Alright.
+
+540
+00:37:45,300 --> 00:37:47,300
+After this, it’ll be the media interviews.
+
+541
+00:37:47,540 --> 00:37:49,340
+If you have any questions, please ask Manager Zhao.
+
+542
+00:37:49,820 --> 00:37:50,340
+I’ll head off first.
+
+543
+00:37:50,340 --> 00:37:52,140
+What will I explain? I can’t explain anything.
+
+544
+00:37:52,620 --> 00:37:54,020
+Please answer, Manager Zhao.
+
+545
+00:37:58,890 --> 00:37:59,410
+Please explain.
+
+546
+00:37:59,890 --> 00:38:01,210
+Who is this mastermind?
+
+547
+00:38:01,650 --> 00:38:03,130
+Nothing. Please continue.
+
+548
+00:38:03,850 --> 00:38:06,520
+Let me tell you, Qiu Ying. It’s been resolved.
+
+549
+00:38:09,720 --> 00:38:11,160
+It’s been resolved.
+
+550
+00:38:11,720 --> 00:38:13,440
+Ji Xiang Kong had some conscience.
+
+551
+00:38:13,640 --> 00:38:15,200
+It was worth the overnight stay in the airport.
+
+552
+00:38:17,340 --> 00:38:20,580
+I can’t do it anymore. I’m going to take a nap here.
+
+553
+00:38:21,340 --> 00:38:22,700
+You can’t sleep in the airport!
+
+554
+00:38:22,820 --> 00:38:25,340
+Don’t hang up. Wait for me. I’ll look for you!
 

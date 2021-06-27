@@ -1,2872 +1,2656 @@
 ﻿1
-00:01:47,450 --> 00:01:52,100
-Your current district server ranking is 735
+00:01:31,340 --> 00:01:35,940
+[Gank Your Heart]
 
 2
-00:01:53,575 --> 00:01:54,796
-You don't have to remind me
+00:01:36,220 --> 00:01:39,060
+[Episode 12]
 
 3
-00:01:55,948 --> 00:01:57,141
-According to my current level
+00:01:48,140 --> 00:01:52,730
+Your current server ranking is 735.
 
 4
-00:01:57,712 --> 00:01:59,946
-let alone the champion of Tomorrow's Star
+00:01:54,250 --> 00:01:55,570
+Don't remind me about that.
 
 5
-00:02:00,444 --> 00:02:01,872
-I am not qualified to be a waiter 
+00:01:56,650 --> 00:01:57,770
+Judging from my standard,
 
 6
-00:02:01,872 --> 00:02:02,973
-in MengLvRen
+00:01:58,450 --> 00:01:59,010
+Don't talk about
 
 7
-00:02:06,766 --> 00:02:07,816
-I just want to say
+00:01:59,010 --> 00:02:00,450
+being the champion of the 'Next Rising star',
 
 8
-00:02:08,438 --> 00:02:09,723
- the ideal is full
+00:02:01,230 --> 00:02:02,790
+I'm not even qualified to be a waitress
 
 9
-00:02:09,733 --> 00:02:11,109
-the reality is very harsh
+00:02:02,790 --> 00:02:03,830
+at 'Dream Traveller' PC room.
 
 10
-00:02:12,200 --> 00:02:12,986
-Do you want to think twice about 
+00:02:07,630 --> 00:02:08,550
+All I can say is.
 
 11
-00:02:13,261 --> 00:02:14,342
-taking part in the competition?
+00:02:09,230 --> 00:02:10,510
+Good to be ambitious.
 
 12
-00:02:15,320 --> 00:02:15,871
-No, I don't
+00:02:10,590 --> 00:02:11,950
+But reality is harsh.
 
 13
-00:02:16,432 --> 00:02:17,533
-I can do it
+00:02:13,030 --> 00:02:15,310
+Do you want to reconsider your participation?
 
 14
-00:02:18,675 --> 00:02:20,643
-No, are you serious about this?
+00:02:16,270 --> 00:02:16,910
+Nope.
 
 15
-00:02:21,560 --> 00:02:23,008
-When have I ever made a joke?
+00:02:17,350 --> 00:02:18,390
+I can do it!
 
 16
-00:02:25,312 --> 00:02:26,271
-If I want to improve 
+00:02:19,630 --> 00:02:21,550
+Are you serious about it?
 
 17
-00:02:26,271 --> 00:02:27,729
-my professional knowledge quickly
+00:02:22,550 --> 00:02:23,950
+Since when was I joking?
 
 18
-00:02:27,994 --> 00:02:29,911
-I must acquire it in practice
+00:02:26,350 --> 00:02:28,630
+To faster gain gaming knowledge,
 
 19
-00:02:36,395 --> 00:02:37,119
-Start
+00:02:28,950 --> 00:02:30,950
+I must play the game hands-on.
 
 20
-00:02:38,292 --> 00:02:38,944
-What are you going to start?
+00:02:37,460 --> 00:02:38,260
+Start!
 
 21
-00:02:39,719 --> 00:02:40,494
-Practicing the hero
+00:02:39,300 --> 00:02:39,980
+Start what?
 
 22
-00:02:43,920 --> 00:02:46,530
-Sister, it's half past twelve
+00:02:40,740 --> 00:02:41,640
+Train my player!
 
 23
-00:02:48,753 --> 00:02:50,741
-Crazy, really crazy
+00:02:45,000 --> 00:02:47,600
+Hey, it's already 12:30.
 
 24
-00:02:52,546 --> 00:02:53,545
-All right, you do it
+00:02:49,800 --> 00:02:51,920
+Crazy! You're really crazy.
 
 25
-00:02:53,688 --> 00:02:54,463
-I'll put on a mask 
+00:02:53,840 --> 00:02:54,680
+Fine. Go on practicing.
 
 26
-00:02:54,483 --> 00:02:55,136
-and go to bed
+00:02:54,880 --> 00:02:55,600
+Time for my sleeping mask.
 
 27
-00:02:55,798 --> 00:02:56,777
-Sleep!
+00:02:55,640 --> 00:02:56,400
+I'm gonna sleep.
 
 28
-00:03:16,353 --> 00:03:17,006
-Here you are
+00:02:57,000 --> 00:02:58,000
+Goodnight.
 
 29
-00:03:17,149 --> 00:03:18,240
-Your natural delight
+00:03:17,620 --> 00:03:18,260
+For you.
 
 30
-00:03:18,902 --> 00:03:19,738
-Ok, thank you
+00:03:18,540 --> 00:03:19,780
+Your favourite pistachios.
 
 31
-00:03:45,942 --> 00:03:47,257
-You suck at video games
+00:03:20,260 --> 00:03:21,020
+Thanks.
 
 32
-00:03:50,918 --> 00:03:51,866
-Are you talking about me?
+00:03:47,440 --> 00:03:48,840
+Your skills are mediocre.
 
 33
-00:03:54,446 --> 00:03:55,475
-Try the mage
+00:03:52,590 --> 00:03:53,430
+Are you referring to me?
 
 34
-00:03:57,076 --> 00:03:58,055
-The mage? 
+00:03:56,030 --> 00:03:57,150
+Try switching your player to Wizard.
 
 35
-00:03:59,075 --> 00:03:59,951
-Why?
+00:03:58,750 --> 00:03:59,590
+Wizard?
 
 36
-00:04:01,725 --> 00:04:03,010
-Actually, I don't think 
+00:04:00,670 --> 00:04:01,590
+Why?
 
 37
-00:04:03,092 --> 00:04:04,672
-I'm good with shooters either
+00:04:03,420 --> 00:04:04,660
+Honestly, I think..
 
 38
-00:04:05,090 --> 00:04:05,936
-But if I use a wizard
+00:04:04,820 --> 00:04:06,420
+I'm not playing smoothly with the Sniper.
 
 39
-00:04:06,273 --> 00:04:07,170
-which one?
+00:04:06,820 --> 00:04:07,660
+But if I do as you suggest,
 
 40
-00:04:07,935 --> 00:04:09,566
-I know you're the first mage
+00:04:07,900 --> 00:04:08,900
+which Wizard should I select?
 
 41
-00:04:09,872 --> 00:04:12,492
-Or you can recommend some to me
+00:04:09,580 --> 00:04:11,220
+I know you're an expert in this.
 
 42
-00:04:12,839 --> 00:04:13,624
-The main thing is that 
+00:04:11,580 --> 00:04:13,420
+Can you give me a few recommendations?
 
 43
-00:04:13,787 --> 00:04:15,327
- if I practice the mage,I have to start from scratch
+00:04:13,460 --> 00:04:14,260
+The ones that are easier to control.
 
 44
-00:04:15,633 --> 00:04:17,733
-So how do I fit the early inscriptions?
+00:04:14,660 --> 00:04:15,420
+The main problem is
 
 45
-00:04:18,039 --> 00:04:18,661
-And you know what? 
+00:04:15,500 --> 00:04:17,020
+if I were to use Wizard,
 
 46
-00:04:18,661 --> 00:04:19,915
-To the early and late stages
+00:04:17,340 --> 00:04:18,460
+I'd have to start training it all over again.
 
 47
-00:04:20,068 --> 00:04:21,577
-you say this outfit...
+00:04:18,500 --> 00:04:19,420
+How should I arrange its profile statistics?
 
 48
-00:04:24,422 --> 00:04:25,339
-Is this for me?
+00:04:19,740 --> 00:04:21,780
+What about the gaming gears
 
 49
-00:04:27,491 --> 00:04:28,480
-Thank you
+00:04:21,970 --> 00:04:23,330
+from the early and late game?
 
 50
-00:04:30,743 --> 00:04:32,966
-Puppie is so cute
+00:04:26,290 --> 00:04:27,090
+For me?
 
 51
-00:04:33,955 --> 00:04:35,454
-Why did you give me a lollipop?
+00:04:29,370 --> 00:04:30,290
+Thanks.
 
 52
-00:04:37,870 --> 00:04:39,879
-You talk too much.Eat!
+00:04:32,680 --> 00:04:34,880
+Puppy? So cute.
 
 53
-00:04:42,927 --> 00:04:44,049
-Sort out the questions 
+00:04:35,920 --> 00:04:37,440
+Why did you give me a lollipop?
 
 54
-00:04:44,334 --> 00:04:45,130
-and send them to me
+00:04:39,800 --> 00:04:41,960
+You talked too much. Eat it.
 
 55
-00:04:50,758 --> 00:04:52,043
-The mage?
+00:04:44,940 --> 00:04:45,980
+Sort out your problems.
 
 56
-00:04:54,765 --> 00:04:55,448
-I think Xi Pei 
+00:04:46,340 --> 00:04:47,180
+Show me when you're done.
 
 57
-00:04:55,458 --> 00:04:56,977
-used Zaowuzhe
+00:04:52,780 --> 00:04:54,060
+Wizard?
 
 58
-00:04:58,181 --> 00:04:59,598
-Anyway, try it first
+00:04:56,740 --> 00:04:59,020
+I remember Pei Xi used Creator before.
 
 59
-00:05:02,677 --> 00:05:04,604
-Sister, what time is it?
+00:05:00,300 --> 00:05:01,740
+Whatever. I shall try first.
 
 60
-00:05:04,747 --> 00:05:05,491
-You haven't gone to sleep yet
+00:05:04,820 --> 00:05:06,700
+Look, what time is it now?
 
 61
-00:05:05,624 --> 00:05:07,071
-You want to be friends with the panda?
+00:05:06,860 --> 00:05:07,660
+Not turning in yet?
 
 62
-00:05:09,753 --> 00:05:10,457
-I don't have much time left
+00:05:07,820 --> 00:05:09,140
+Trying to be friends with panda?
 
 63
-00:05:10,538 --> 00:05:12,057
-before the game
+00:05:11,860 --> 00:05:14,170
+Not much time left to the competition.
 
 64
-00:05:12,496 --> 00:05:14,117
-I must hurry up
+00:05:14,690 --> 00:05:16,250
+I must make good use of the time left.
 
 65
-00:05:16,278 --> 00:05:17,053
-All right, all right
+00:05:18,490 --> 00:05:19,250
+Fine..
 
 66
-00:05:18,103 --> 00:05:19,174
-Then I'll go to bed first
+00:05:20,250 --> 00:05:21,210
+I'm turning in first.
 
 67
-00:05:19,235 --> 00:05:19,929
-Don't stay up too late
+00:05:21,370 --> 00:05:22,010
+Don't stay up too late.
 
 68
-00:05:20,744 --> 00:05:22,376
-Go to sleep. Good night
+00:05:22,990 --> 00:05:24,670
+Sleep first, good night.
 
 69
-00:05:58,510 --> 00:05:59,469
-You're amazing
+00:06:00,980 --> 00:06:01,980
+Impressive.
 
 70
-00:06:01,875 --> 00:06:02,517
-XiPei teacher
+00:06:04,440 --> 00:06:05,040
+Teacher Pei Xi.
 
 71
-00:06:02,813 --> 00:06:04,271
-These are all the questions 
+00:06:05,440 --> 00:06:06,800
+I have sorted out all my doubts
 
 72
-00:06:04,434 --> 00:06:07,707
-abot the Zaowuzhe that I'd like to ask you
+00:06:06,920 --> 00:06:07,800
+related to the 'Creator'.
 
 73
-00:06:31,117 --> 00:06:31,953
-Look at me
+00:06:07,800 --> 00:06:10,240
+Please kindly advice.
 
 74
-00:06:38,193 --> 00:06:39,457
-Look at the computer,not at me
+00:06:33,900 --> 00:06:34,780
+Watch me.
 
 75
-00:07:05,946 --> 00:07:06,742
-That's the difference 
+00:06:40,900 --> 00:06:42,300
+I mean watch how I play.
 
 76
-00:07:06,762 --> 00:07:08,026
-between a pro and a rookie
+00:07:08,920 --> 00:07:09,720
+Now I see the difference between
 
 77
-00:07:09,912 --> 00:07:10,759
-Do you understand?
+00:07:09,720 --> 00:07:11,040
+an expert and mediacore.
 
 78
-00:07:13,461 --> 00:07:14,123
-No, teacher XiPei
+00:07:12,960 --> 00:07:13,790
+Understand how this works?
 
 79
-00:07:14,766 --> 00:07:16,428
-You were moving your hands too fast,
+00:07:16,550 --> 00:07:17,110
+Teacher Pei Xi..
 
 80
-00:07:16,438 --> 00:07:17,570
-like playing the piano
+00:07:17,750 --> 00:07:19,550
+Your hands worked too fast.
 
 81
-00:07:17,876 --> 00:07:19,629
-and I was dazzled
+00:07:19,550 --> 00:07:20,510
+As if you're playing the piano.
 
 82
-00:07:20,108 --> 00:07:22,362
-Could you repeat it for me?
+00:07:20,990 --> 00:07:22,630
+I was confused just by looking at it.
 
 83
-00:07:23,626 --> 00:07:24,921
-Watch the replay for yourself
+00:07:23,340 --> 00:07:24,020
+Or..
 
 84
-00:07:28,714 --> 00:07:30,070
-XiPei, XiPei, XiPei
+00:07:24,420 --> 00:07:25,540
+Can you do it again?
 
 85
-00:07:30,100 --> 00:07:32,833
-Wait a minute, wait a minute, wait a minute
+00:07:26,700 --> 00:07:28,020
+Watch the playback.
 
 86
-00:07:34,036 --> 00:07:36,524
-In order to thank you for your guidance
+00:07:31,860 --> 00:07:33,380
+Pei Xi...
 
 87
-00:07:37,156 --> 00:07:38,298
-I would like to stay in MengLvRen 
+00:07:33,420 --> 00:07:36,100
+Hang on...
 
 88
-00:07:39,236 --> 00:07:41,234
-to help you make coffee,do chores
+00:07:37,260 --> 00:07:39,700
+To show my gratitude towards your coaching,
 
 89
-00:07:41,234 --> 00:07:42,111
- and do other chores
+00:07:40,420 --> 00:07:41,500
+I'm willing to stay here to help you
 
 90
-00:07:42,764 --> 00:07:44,303
-And I don't want a salary
+00:07:42,500 --> 00:07:45,330
+with the chores as a waitress.
 
 91
-00:07:44,579 --> 00:07:45,496
-I'm capable
+00:07:46,010 --> 00:07:47,450
+You don't have to pay me.
 
 92
-00:07:46,424 --> 00:07:47,413
-You are not the first in the district
+00:07:47,810 --> 00:07:48,770
+I can do many things.
 
 93
-00:07:47,943 --> 00:07:49,085
-You are not qualified to be
+00:07:49,770 --> 00:07:50,650
+You didn't rank first in the game server.
 
 94
-00:07:49,238 --> 00:07:50,085
- a waiter of MengLvRen
+00:07:51,290 --> 00:07:53,520
+You are not qualified to be the waitress here.
 
 95
-00:07:51,074 --> 00:07:52,481
-XiPei, XiPei, I really...
+00:07:54,480 --> 00:07:55,920
+Pei Xi.. I..
 
 96
-00:07:52,664 --> 00:07:53,643
-I can do anything
+00:07:56,040 --> 00:07:56,920
+I am really capable.
 
 97
-00:07:53,969 --> 00:07:55,070
-Move the table
+00:07:57,280 --> 00:07:58,520
+Shifting the tables,
 
 98
-00:07:55,468 --> 00:07:56,824
-clean the table, sweep the floor and so on
+00:07:58,800 --> 00:08:00,240
+cleaning the tables, sweeping the floor..
 
 99
-00:07:57,140 --> 00:07:58,119
- I really...
+00:08:00,480 --> 00:08:01,400
+I really..
 
 100
-00:08:02,340 --> 00:08:03,350
-Thank you 
+00:08:05,780 --> 00:08:06,780
+Thanks.
 
 101
-00:08:20,642 --> 00:08:21,294
-Here we come
+00:08:24,140 --> 00:08:24,780
+We're here.
 
 102
-00:08:21,447 --> 00:08:22,151
-Brother Kong
+00:08:24,980 --> 00:08:25,740
+Xiang Kong.
 
 103
-00:08:23,639 --> 00:08:24,272
-The Coach
+00:08:27,220 --> 00:08:27,820
+Coach.
 
 104
-00:08:24,527 --> 00:08:25,108
-Xiangkong
+00:08:28,100 --> 00:08:28,780
+Xiang Kong.
 
 105
-00:08:25,781 --> 00:08:26,698
-Are you prepared the materials?
+00:08:29,380 --> 00:08:30,300
+Done with the materials?
 
 106
-00:08:28,697 --> 00:08:29,859
-So let's get started
+00:08:32,340 --> 00:08:33,380
+Let's begin.
 
 107
-00:08:31,868 --> 00:08:32,836
-Where is the Yao Huo?
+00:08:35,570 --> 00:08:36,410
+Where is Huoyao?
 
 108
-00:08:33,499 --> 00:08:34,437
-I just had dinner with him 
+00:08:37,050 --> 00:08:38,050
+I was eating with him earlier.
 
 109
-00:08:34,773 --> 00:08:35,436
-and he said he needed to 
+00:08:38,330 --> 00:08:38,930
+He said he had something on.
 
 110
-00:08:35,446 --> 00:08:36,272
-go out on something
+00:08:39,090 --> 00:08:39,930
+He left awhile ago.
 
 111
-00:08:36,425 --> 00:08:37,210
-Where is he going?
+00:08:40,050 --> 00:08:40,930
+Where did he go?
 
 112
-00:08:38,179 --> 00:08:39,046
-He didn't tell me
+00:08:41,770 --> 00:08:42,610
+He didn't say.
 
 113
-00:08:40,065 --> 00:08:41,799
-Leave him alone. Let's start
+00:08:43,830 --> 00:08:45,470
+Let's begin first without him.
 
 114
-00:08:44,918 --> 00:08:45,816
-Everybody knows that
+00:08:48,590 --> 00:08:49,470
+Everyone is aware that
 
 115
-00:08:45,907 --> 00:08:46,754
-What Weiteng is best at 
+00:08:49,630 --> 00:08:51,710
+VNG is best at using 4-1 strategy.
 
 116
-00:08:46,846 --> 00:08:48,018
-is four guarantees one tactic
+00:08:51,910 --> 00:08:53,750
+If we can prevent Peixi from leveling up,
 
 117
-00:08:48,161 --> 00:08:48,773
-As long as we can
+00:08:54,150 --> 00:08:55,310
+there will be a chance for us to win this.
 
 118
-00:08:48,936 --> 00:08:50,129
-arrest the development of XiPei in the early stage
+00:08:57,190 --> 00:08:58,950
+I have compiled all Peixi's gaming videos.
 
 119
-00:08:50,312 --> 00:08:51,546
-we may win the game
+00:08:59,030 --> 00:08:59,990
+Let's take a look.
 
 120
-00:08:53,473 --> 00:08:55,104
-I've prepared all of XiPei's videos here
+00:09:11,230 --> 00:09:12,230
+Huoyao, you're here.
 
 121
-00:08:55,308 --> 00:08:56,287
-so let's take a look
+00:09:14,660 --> 00:09:15,220
+Sorry, guys.
 
 122
-00:09:07,421 --> 00:09:08,441
-Brother Yao, You have come
+00:09:15,420 --> 00:09:16,180
+I'm late.
 
 123
-00:09:10,755 --> 00:09:11,224
-Sorry, guys
+00:09:18,100 --> 00:09:19,140
+Let's watch the video.
 
 124
-00:09:11,510 --> 00:09:12,284
-I'm late
+00:09:34,520 --> 00:09:35,560
+Your condition looks good these days.
 
 125
-00:09:14,191 --> 00:09:15,114
-See the video
+00:09:37,360 --> 00:09:37,960
+Your..
 
 126
-00:09:30,442 --> 00:09:31,557
-You've been in great form lately
+00:09:38,200 --> 00:09:41,000
+Your contract is expiring in 2 months.
 
 127
-00:09:33,285 --> 00:09:35,640
-Your contract with the Ledends team 
+00:09:41,280 --> 00:09:42,720
+Here is the following year's contract.
 
 128
-00:09:35,798 --> 00:09:36,886
-is due to expire in two months
+00:09:57,180 --> 00:09:58,180
+Thanks, Manager Zhao.
 
 129
-00:09:37,196 --> 00:09:38,680
-This is a contract for next year
+00:09:58,780 --> 00:10:00,220
+Who thinks for the team,
 
 130
-00:09:52,986 --> 00:09:53,969
-Thank you,manager Z hao
+00:10:00,900 --> 00:10:01,700
+who is capable,
 
 131
-00:09:54,609 --> 00:09:55,954
-Who thinks for the team?
+00:10:02,380 --> 00:10:03,980
+who performs well,
 
 132
-00:09:56,752 --> 00:09:57,577
-who is capable?
+00:10:05,090 --> 00:10:07,810
+The board and I will definitely show recognition.
 
 133
-00:09:58,197 --> 00:09:59,575
-who is really good?
+00:10:09,410 --> 00:10:10,250
+Huoyao.
 
 134
-00:10:00,921 --> 00:10:02,207
-The board and I 
+00:10:10,970 --> 00:10:12,410
+What are your thoughts about
 
 135
-00:10:02,207 --> 00:10:03,453
-know that
+00:10:13,250 --> 00:10:14,090
+the appointment of the Captain?
 
 136
-00:10:05,076 --> 00:10:05,953
-YaoHuo
+00:10:15,930 --> 00:10:17,490
+After the competition,
 
 137
-00:10:06,764 --> 00:10:08,209
-What do you think of 
+00:10:18,090 --> 00:10:19,570
+isn't Xiang Kong going to be our new Captain?
 
 138
-00:10:09,007 --> 00:10:09,811
-the choice of captain?
+00:10:21,250 --> 00:10:23,250
+You, Ji Xiang Kong,
 
 139
-00:10:11,566 --> 00:10:13,182
-If the test match won
+00:10:23,490 --> 00:10:24,920
+Lin Yi Xuan, Lu Feng.
 
 140
-00:10:13,782 --> 00:10:15,108
-won't Xiangkong become the captain?
+00:10:25,480 --> 00:10:26,680
+Among the four of you,
 
 141
-00:10:16,922 --> 00:10:18,913
-You, Xiangkong Ji
+00:10:26,920 --> 00:10:28,480
+I think you have the most potential.
 
 142
-00:10:19,072 --> 00:10:20,477
-Yixuan Lin, Feng Lu
+00:10:29,320 --> 00:10:31,160
+If it wasn't Gu Fang's persistence
 
 143
-00:10:21,077 --> 00:10:22,191
-Of the four of you
+00:10:31,200 --> 00:10:32,800
+in recommending Ji Xiang Kong as the Captain,
 
 144
-00:10:22,521 --> 00:10:24,084
-you are the one I admire most
+00:10:33,120 --> 00:10:35,230
+I'd definitely appoint you to the Board.
 
 145
-00:10:24,902 --> 00:10:26,749
-If gu fang hadn't insisted on 
+00:10:42,510 --> 00:10:43,310
+Manager Zhao.
 
 146
-00:10:26,749 --> 00:10:28,391
-recommending Xiangkong Ji as the team leader
+00:10:44,030 --> 00:10:45,300
+Honestly, my skills are average.
 
 147
-00:10:28,668 --> 00:10:29,328
-I would definitely 
+00:10:47,620 --> 00:10:49,060
+It's not about the skills.
 
 148
-00:10:29,480 --> 00:10:30,693
-recommend you to the board of directors
+00:10:51,580 --> 00:10:52,540
+Huoyao,
 
 149
-00:10:37,968 --> 00:10:38,753
-Manager Zhao
+00:10:52,740 --> 00:10:54,340
+let me be honest with you.
 
 150
-00:10:39,551 --> 00:10:40,712
-My ability is also average
+00:10:55,660 --> 00:10:57,340
+Time doesn't wait.
 
 151
-00:10:43,119 --> 00:10:44,518
-It's not about ability
+00:10:59,780 --> 00:11:00,540
+You're clearly aware.
 
 152
-00:10:47,083 --> 00:10:48,033
-YaoHuo
+00:11:01,860 --> 00:11:05,170
+The prime period of a gamer is limited.
 
 153
-00:10:48,205 --> 00:10:49,814
-I'll tell you the truth
+00:11:06,850 --> 00:11:07,770
+President Jin has also been skeptical
 
 154
-00:10:51,028 --> 00:10:52,762
-Time and tide wait for no man
+00:11:08,250 --> 00:11:10,890
+about your existence in the team.
 
 155
-00:10:55,071 --> 00:10:55,968
-You know
+00:11:11,170 --> 00:11:12,010
+If...
 
 156
-00:10:57,227 --> 00:10:59,186
-the golden age of the professional
+00:11:12,170 --> 00:11:14,410
+If you were to stay with Ji Xiang Kong,
 
 157
-00:10:59,206 --> 00:11:00,519
- is just a few years
+00:11:15,000 --> 00:11:16,280
+I can't help you either.
 
 158
-00:11:02,115 --> 00:11:04,436
-Chairman Jin has been very thoughtful
+00:11:23,480 --> 00:11:24,600
+Let's be straightforward.
 
 159
-00:11:04,753 --> 00:11:06,112
- about your furture development orientation
+00:11:25,540 --> 00:11:26,660
+You're a smart person.
 
 160
-00:11:06,435 --> 00:11:07,365
-If you 
+00:11:28,580 --> 00:11:30,420
+If you get where am I coming from..
 
 161
-00:11:07,398 --> 00:11:08,677
-continue to follow Xiangkong Ji 
+00:11:31,340 --> 00:11:32,580
+Do you want to be the Captain
 
 162
-00:11:08,677 --> 00:11:09,634
-like this
+00:11:32,980 --> 00:11:34,340
+or do you want to be
 
 163
-00:11:10,115 --> 00:11:11,553
-I can't help you
+00:11:35,060 --> 00:11:36,620
+eliminated out of the team?
 
 164
-00:11:18,756 --> 00:11:19,890
-A straightforward person does not resort to insinuations
+00:11:39,340 --> 00:11:42,100
+It all depends on your performance at the competition.
 
 165
-00:11:20,681 --> 00:11:21,790
-You are a wise man, too
+00:11:43,460 --> 00:11:44,660
+Don't disappoint me.
 
 166
-00:11:23,676 --> 00:11:24,791
-If you can understand 
+00:11:46,180 --> 00:11:47,500
+I have something on. I'll make a move first.
 
 167
-00:11:24,791 --> 00:11:25,523
-what I mean
+00:12:00,130 --> 00:12:01,890
+Pei Xi likes to battle on his own.
 
 168
-00:11:26,446 --> 00:11:27,785
-Do you want to be the captain 
+00:12:02,130 --> 00:12:02,970
+Lack of team spirit.
 
 169
-00:11:28,115 --> 00:11:29,553
-or are you waiting so awkwardly 
+00:12:03,330 --> 00:12:04,810
+He doesn't go in group with his team in the game.
 
 170
-00:11:30,087 --> 00:11:31,716
-for the elimination?
+00:12:05,630 --> 00:12:07,390
+This is a loophole for us to attack them.
 
 171
-00:11:34,453 --> 00:11:35,311
-When it comes to the test match
+00:12:07,710 --> 00:12:09,350
+We have to divert Peixi's attention at the early game.
 
 172
-00:11:36,122 --> 00:11:37,223
- it's up to you
+00:12:10,190 --> 00:12:11,190
+Great.
 
 173
-00:11:38,562 --> 00:11:39,802
-Don't let me down
+00:12:12,550 --> 00:12:13,870
+Huoyao, any thoughts?
 
 174
-00:11:41,240 --> 00:11:42,520
-I have something else to do. I'm leaving
+00:12:16,190 --> 00:12:17,150
+Huoyao?
 
 175
-00:11:54,919 --> 00:11:55,678
-XiPei 
+00:12:18,670 --> 00:12:19,470
+Any thoughts?
 
 176
-00:11:55,830 --> 00:11:56,760
-likes to fight alone
+00:12:19,670 --> 00:12:21,670
+Sorry, Coach.
 
 177
-00:11:57,070 --> 00:11:57,854
-with a low participation rate 
+00:12:21,790 --> 00:12:22,790
+I'm feeling unwell today.
 
 178
-00:11:58,204 --> 00:11:59,794
-and little cooperation with his teammates
+00:12:23,750 --> 00:12:24,630
+Huoyao, are you running a fever?
 
 179
-00:12:00,453 --> 00:12:02,188
-so this is our breakthrough
+00:12:24,710 --> 00:12:25,870
+I'm fine.
 
 180
-00:12:02,524 --> 00:12:03,157
-We need to harass XiPei 
+00:12:28,430 --> 00:12:29,190
+If you're feeling unwell,
 
 181
-00:12:03,322 --> 00:12:04,279
-in the early stage
+00:12:29,270 --> 00:12:30,430
+head back and rest.
 
 182
-00:12:04,912 --> 00:12:06,106
-Very good
+00:12:31,510 --> 00:12:33,030
+Okay, I'll head back to rest.
 
 183
-00:12:07,405 --> 00:12:08,651
-YaoHuo, say it
+00:12:33,590 --> 00:12:35,230
+Let me know when the strategy has been formed.
 
 184
-00:12:11,006 --> 00:12:11,943
-YaoHuo
+00:12:35,500 --> 00:12:36,540
+I'll practice it tonight.
 
 185
-00:12:13,532 --> 00:12:14,086
-Tell me about it
+00:12:37,940 --> 00:12:38,780
+Sorry.
 
 186
-00:12:14,436 --> 00:12:16,428
-Sorry, coach
+00:12:39,060 --> 00:12:39,940
+Go ahead.
 
 187
-00:12:16,586 --> 00:12:17,569
-I'm a little off my head today
+00:13:04,200 --> 00:13:05,280
+This is so tough.
 
 188
-00:12:18,532 --> 00:12:19,468
-Brother Yao, do you have a fever?
+00:13:21,300 --> 00:13:23,380
+Why? Shocked to see a handsome guy?
 
 189
-00:12:19,468 --> 00:12:20,438
-No,I don't
+00:13:26,730 --> 00:13:28,210
+You.. Why are you here?
 
 190
-00:12:23,149 --> 00:12:23,960
-If you don't feel well
+00:13:28,610 --> 00:13:29,450
+Lin Yi Xuan told me
 
 191
-00:12:23,960 --> 00:12:25,075
-go back to have a rest
+00:13:29,450 --> 00:13:30,370
+you've been here recently.
 
 192
-00:12:26,288 --> 00:12:27,706
-Okay, I'll go home and rest
+00:13:30,490 --> 00:13:31,170
+I happened to pass by
 
 193
-00:12:28,359 --> 00:12:29,916
-You guys settle down
+00:13:31,450 --> 00:13:32,450
+so I came to take a look.
 
 194
-00:12:30,081 --> 00:12:31,222
- I'll do it tonight
+00:13:32,650 --> 00:13:33,890
+And you're here indeed.
 
 195
-00:12:32,514 --> 00:12:33,458
-I'm sorry
+00:13:35,210 --> 00:13:36,330
+Neglecting your sleep and skipping your meals?
 
 196
-00:12:33,636 --> 00:12:34,559
-Go for it
+00:13:37,810 --> 00:13:38,890
+I only neglected my sleep.
 
 197
-00:12:58,686 --> 00:12:59,814
-It's too difficult
+00:13:38,890 --> 00:13:41,090
+I didn't skip my meal.
 
 198
-00:13:15,650 --> 00:13:17,708
-What,did you see the handsome guy?
-
-199
-00:13:20,966 --> 00:13:22,496
-What are you doing here?
-
-200
-00:13:22,846 --> 00:13:23,789
-Yixuan Lin told me 
-
-201
-00:13:23,795 --> 00:13:24,600
-that you stay here a lot
-
-202
-00:13:24,752 --> 00:13:25,471
-I was just passing by 
-
-203
-00:13:25,781 --> 00:13:26,763
-and came up to have a look
-
-204
-00:13:26,915 --> 00:13:28,036
-I didn't realize you were actually here
-
-205
-00:13:29,481 --> 00:13:30,589
-So little food and sleep
-
-206
-00:13:32,040 --> 00:13:35,305
-Only forget to sleep, did not forget to eat
-
-207
-00:13:37,969 --> 00:13:38,728
+00:13:43,770 --> 00:13:44,530
 What are you looking at?
 
+199
+00:13:51,840 --> 00:13:53,360
+Peixi's strategy seems plausible.
+
+200
+00:13:55,360 --> 00:13:56,670
+How do you know it's done by Peixi?
+
+201
+00:13:57,390 --> 00:13:59,950
+It's easy to tell from these moves.
+
+202
+00:14:00,750 --> 00:14:01,670
+Why are you seeing this?
+
+203
+00:14:02,430 --> 00:14:04,110
+He is teaching me how to play Mid Lane.
+
+204
+00:14:06,740 --> 00:14:07,820
+That is out of your league.
+
+205
+00:14:08,500 --> 00:14:09,740
+He is obviously showing off his skills.
+
+206
+00:14:09,900 --> 00:14:10,660
+A mediocre like you
+
+207
+00:14:10,740 --> 00:14:11,660
+will not be able to learn it.
+
 208
-00:13:45,970 --> 00:13:47,553
-Xipei can do this wave operation
+00:14:14,820 --> 00:14:16,260
+I.. Maybe I might figure it out myself.
 
 209
-00:13:49,479 --> 00:13:50,798
-How do you know it's XiPei?
+00:14:17,740 --> 00:14:18,900
+Aren't you the one who say?
 
 210
-00:13:51,405 --> 00:13:52,849
- His operation can be seen 
+00:14:19,300 --> 00:14:21,540
+If I can do it, I will definitely make it.
 
 211
-00:13:52,988 --> 00:13:53,951
-at a glance
+00:14:23,380 --> 00:14:24,060
+So that's why
 
 212
-00:13:54,755 --> 00:13:55,784
-Why are you looking at this?
+00:14:24,060 --> 00:14:24,980
+you came here to practice?
 
 213
-00:13:56,431 --> 00:13:58,165
-He's teaching me how to use it
+00:14:28,570 --> 00:14:29,890
+I want to be a live narrator
 
 214
-00:14:00,771 --> 00:14:01,879
-That is too harsh
+00:14:30,450 --> 00:14:31,290
+and I want to take part in
 
 215
-00:14:02,505 --> 00:14:03,818
-He was obviously showing off his operations
+00:14:31,290 --> 00:14:32,370
+the 'Next Rising Star' competition.
 
 216
-00:14:03,956 --> 00:14:05,638
-How can someone like you learn?
+00:14:32,890 --> 00:14:34,130
+There are so many strong players here.
 
 217
-00:14:08,830 --> 00:14:10,077
-I, I have to start early because I am poor
+00:14:34,450 --> 00:14:36,130
+I can level up quickly here.
 
 218
-00:14:11,726 --> 00:14:12,834
-And you said
+00:14:44,040 --> 00:14:44,880
+Don't rub your eyes.
 
 219
-00:14:13,282 --> 00:14:15,472
-If you say I can, I will
+00:14:45,600 --> 00:14:46,500
+Have you been staring at the screen for a long time?
 
 220
-00:14:17,240 --> 00:14:18,031
-So you come to 
+00:14:49,020 --> 00:14:50,420
+Stop looking at his lousy strategy.
 
 221
-00:14:18,031 --> 00:14:18,836
-MengLvRen to study 
+00:14:50,500 --> 00:14:51,260
+You wouldn't get it.
 
 222
-00:14:22,358 --> 00:14:23,974
-I want to be a commentator
+00:14:51,540 --> 00:14:52,780
+Let's go. Let's go somewhere.
 
 223
-00:14:24,277 --> 00:14:24,911
-And I want to participate in
+00:14:53,540 --> 00:14:54,260
+Let's go.
 
 224
-00:14:25,069 --> 00:14:26,289
-the competition of Tomorrow Star
+00:15:06,300 --> 00:15:07,580
+Did someone speak bad about me?
 
 225
-00:14:26,711 --> 00:14:27,945
-so many masters here
+00:15:17,210 --> 00:15:18,090
+Thank you.
 
 226
-00:14:28,287 --> 00:14:29,923
-I just can improve myself quickly
+00:15:21,610 --> 00:15:23,530
+How great. To receive flowers.
 
 227
-00:14:37,878 --> 00:14:38,689
-Don't rub your eyes like that 
+00:15:26,370 --> 00:15:28,710
+Don't you think today is a perfect day?
 
 228
-00:14:39,322 --> 00:14:40,140
-Have you been looking too long?
+00:15:29,390 --> 00:15:30,310
+Why?
 
 229
-00:14:42,679 --> 00:14:44,143
-Don't look at it. He's hectoring upon you
+00:15:31,270 --> 00:15:32,710
+Because you're walking the streets
 
 230
-00:14:44,262 --> 00:14:44,928
-and you can't understand it
+00:15:32,710 --> 00:15:33,830
+with a handsome guy like me.
 
 231
-00:14:45,304 --> 00:14:46,425
-Come on, I'll show you around
+00:15:34,150 --> 00:15:35,350
+Why are you being such a narcissist?
 
 232
-00:14:47,296 --> 00:14:47,942
-Go
+00:15:38,790 --> 00:15:40,950
+Hey, I have a million fans, okay?
 
 233
-00:14:59,914 --> 00:15:01,068
-Is someone calling me names?
+00:15:44,150 --> 00:15:45,230
+Let me ask you seriously.
 
 234
-00:15:10,770 --> 00:15:11,561
-Thank you
+00:15:45,630 --> 00:15:46,430
+The final competition is nearing.
 
 235
-00:15:14,932 --> 00:15:17,069
-It's nice to have flowers
-
-236
-00:15:19,839 --> 00:15:22,194
-Do you think today is perfect?
-
-237
-00:15:22,853 --> 00:15:23,783
-Why?
-
-238
-00:15:24,746 --> 00:15:26,395
-Because I can go shopping 
-
-239
-00:15:26,395 --> 00:15:27,206
-with a handsome guy like me at night
-
-240
-00:15:27,510 --> 00:15:28,783
-Why are you so narcissistic?
-
-241
-00:15:32,193 --> 00:15:33,116
-I have a million fans
-
-242
-00:15:33,274 --> 00:15:34,336
-Ok?
-
-243
-00:15:37,489 --> 00:15:38,584
-Seriously
-
-244
-00:15:38,913 --> 00:15:39,850
-the finals are coming up
-
-245
-00:15:39,916 --> 00:15:40,589
+00:15:46,630 --> 00:15:47,350
 Are you nervous?
 
-246
-00:15:41,235 --> 00:15:42,027
+236
+00:15:47,910 --> 00:15:48,750
 Nervous?
 
+237
+00:15:49,030 --> 00:15:49,990
+Of course not!
+
+238
+00:15:50,830 --> 00:15:52,750
+Initially, I can get 90 points.
+
+239
+00:15:53,230 --> 00:15:54,390
+In addition of my million fangirls,
+
+240
+00:15:54,750 --> 00:15:56,110
+I'll be able to get 99 points.
+
+241
+00:15:56,390 --> 00:15:57,860
+You're still lacking 1 point.
+
+242
+00:15:59,500 --> 00:16:01,100
+You! If you were to come,
+
+243
+00:16:01,460 --> 00:16:02,580
+I'll get full marks.
+
+244
+00:16:04,620 --> 00:16:05,860
+Perfect.
+
+245
+00:16:08,640 --> 00:16:09,840
+Am I only worth 1 point?
+
+246
+00:16:10,720 --> 00:16:12,440
+1 point is considered alot.
+
 247
-00:15:42,350 --> 00:15:43,300
-How can you be nervous?
+00:16:12,680 --> 00:16:14,200
+You're considered my number 1 fan.
 
 248
-00:15:44,117 --> 00:15:46,070
-I could have gotten 90
+00:16:15,440 --> 00:16:16,600
+If that's the case, Teacher Ji..
 
 249
-00:15:46,558 --> 00:15:47,692
-If I add my thousands of fans
+00:16:17,320 --> 00:16:20,800
+Can you give your number 1 fan a free tutorial?
 
 250
-00:15:47,976 --> 00:15:49,348
- I can get 99 points
+00:16:21,600 --> 00:16:22,240
+No problem.
 
 251
-00:15:49,697 --> 00:15:51,056
-Where is the other one?
+00:16:22,480 --> 00:16:23,400
+A strictly confidential tutorial.
 
 252
-00:15:52,685 --> 00:15:54,308
-You, if you come
+00:16:23,720 --> 00:16:25,240
+You will become an elite player after this.
 
 253
-00:15:54,585 --> 00:15:55,805
-I'll get a full mark
+00:16:25,720 --> 00:16:26,480
+Come with me.
 
 254
-00:15:57,790 --> 00:15:59,057
-Perfect
+00:16:32,430 --> 00:16:33,710
+You.. Why did you bring me here?
 
 255
-00:16:01,807 --> 00:16:02,915
-Am I only worth one point?
+00:16:34,350 --> 00:16:35,630
+You will know later.
 
 256
-00:16:03,891 --> 00:16:05,639
-One point is pretty high, okay?
+00:16:38,580 --> 00:16:38,980
+Welcome.
 
 257
-00:16:05,791 --> 00:16:07,400
-You're already my number one of fan
+00:16:39,060 --> 00:16:40,100
+Welcome to BESTORE.
 
 258
-00:16:10,315 --> 00:16:11,245
-Can teacher Ji 
+00:16:40,300 --> 00:16:42,260
+We sell more than hundreds of high-end snacks.
 
 259
-00:16:11,410 --> 00:16:13,791
-tutor your number one fan?
+00:16:42,500 --> 00:16:43,220
+Thank you.
 
 260
-00:16:14,596 --> 00:16:15,308
-No problem
+00:16:45,020 --> 00:16:46,420
+Didn't you say you're going to coach me?
 
 261
-00:16:15,486 --> 00:16:16,436
-I'll give you top secret tutoring
+00:16:46,940 --> 00:16:48,410
+What elite player?
 
 262
-00:16:16,759 --> 00:16:18,349
-to ensure that you become a master
+00:16:48,770 --> 00:16:50,210
+I think you meant elite shopper.
 
 263
-00:16:18,837 --> 00:16:19,490
-Come with me
+00:16:51,370 --> 00:16:51,810
+Just now,
 
 264
-00:16:25,485 --> 00:16:26,745
-What are you bringing me here for?
+00:16:51,810 --> 00:16:52,850
+you've seen Pei Xi's gaming operation.
 
 265
-00:16:27,398 --> 00:16:28,677
-You'll find out later
+00:16:53,130 --> 00:16:53,970
+What's his motto?
 
 266
-00:16:31,560 --> 00:16:31,975
-Welcome to 
+00:16:55,330 --> 00:16:56,410
+Fast. Accurate. Ruthless.
 
 267
-00:16:32,035 --> 00:16:33,011
-the high-end snacks LiangPin shop
+00:16:56,650 --> 00:16:57,570
+Exactly.
 
 268
-00:16:33,149 --> 00:16:34,277
-we have hundreds of high-end snacks 
+00:16:58,170 --> 00:16:59,810
+Besides strategy, what makes professional gamers
 
 269
-00:16:34,435 --> 00:16:35,069
-for you to choose from
+00:16:59,890 --> 00:17:01,050
+different from usual gamers
 
 270
-00:16:35,471 --> 00:16:36,111
-thank you
+00:17:01,250 --> 00:17:02,410
+is the gaming operation.
 
 271
-00:16:37,878 --> 00:16:39,376
-Didn't you say you were going to teach me?
+00:17:02,690 --> 00:17:04,050
+That's basic.
 
 272
-00:16:39,804 --> 00:16:41,236
-What kind of expert are you?
+00:17:05,130 --> 00:17:06,570
+But I didn't learn this from scratch,
 
 273
-00:16:41,539 --> 00:16:43,109
-I think you're just lying to me
+00:17:06,730 --> 00:17:07,520
+can I do it?
 
 274
-00:16:44,256 --> 00:16:44,606
-Just now
-
-275
-00:16:44,705 --> 00:16:45,641
-XiPei's operation, as you can see
-
-276
-00:16:45,958 --> 00:16:46,796
-What is the core?
-
-277
-00:16:48,187 --> 00:16:49,243
-It's fast, accurateand tough
-
-278
-00:16:49,539 --> 00:16:50,272
-That's right
-
-279
-00:16:50,925 --> 00:16:52,501
-Professional players in addition to the tactics 
-
-280
-00:16:52,679 --> 00:16:53,926
-beyond the ordinary players
-
-281
-00:16:54,024 --> 00:16:55,146
-more important is the operation
-
-282
-00:16:55,482 --> 00:16:56,676
-that is the basic skills
-
-283
-00:16:57,883 --> 00:16:59,341
-But I play this game very late
-
-284
-00:16:59,472 --> 00:17:00,231
-Can I succeed?
-
-285
-00:17:00,468 --> 00:17:01,099
+00:17:07,840 --> 00:17:08,560
 Why not?
 
+275
+00:17:08,960 --> 00:17:09,560
+You didn't play ICONQUER
+
+276
+00:17:09,560 --> 00:17:10,560
+to join a game competition.
+
+277
+00:17:10,680 --> 00:17:11,760
+You're just trying to understanding gaming better.
+
+278
+00:17:12,160 --> 00:17:14,160
+You need to know how this works
+
+279
+00:17:14,440 --> 00:17:16,240
+by playing hands-on.
+
+280
+00:17:17,440 --> 00:17:19,030
+Teacher Ji, teach me the way
+
+281
+00:17:19,030 --> 00:17:21,630
+you trained other professional gamers.
+
+282
+00:17:22,470 --> 00:17:23,150
+Sure.
+
+283
+00:17:23,470 --> 00:17:24,550
+We'll begin our first lesson today.
+
+284
+00:17:25,270 --> 00:17:27,070
+Let's practice your speed and reaction.
+
+285
+00:17:29,100 --> 00:17:29,940
+Okay.
+
 286
-00:17:01,596 --> 00:17:02,190
-You're not playing IConquer 
+00:17:31,980 --> 00:17:32,940
+5 packets of dried mangoes.
 
 287
-00:17:02,196 --> 00:17:03,272
-for a competition
+00:17:35,500 --> 00:17:36,540
+4 boxes of pistachios.
 
 288
-00:17:03,430 --> 00:17:04,531
-You're playing IConquer to be professional
+00:17:38,140 --> 00:17:40,140
+Pistachio, strawberry jelly.
 
 289
-00:17:04,874 --> 00:17:05,804
-So you need to understand 
+00:17:41,180 --> 00:17:41,820
+Catch this.
 
 290
-00:17:05,936 --> 00:17:06,833
-the process
+00:17:42,860 --> 00:17:43,860
+Instant scallops.
 
 291
-00:17:07,077 --> 00:17:08,977
- not just say it
+00:17:46,180 --> 00:17:48,650
+5 boxes of dried mangoes. Quickly.
 
 292
-00:17:09,907 --> 00:17:11,575
-Teacher Ji
+00:17:48,770 --> 00:17:49,290
+Coming..
 
 293
-00:17:11,595 --> 00:17:14,075
-you train me the way you train the pros
+00:17:49,290 --> 00:17:52,850
+- Quick. - 1, 2, 3, 4.
 
 294
-00:17:14,913 --> 00:17:15,704
-Ok
+00:17:59,280 --> 00:18:00,040
+Every fighter
 
 295
-00:17:16,027 --> 00:17:17,234
-Today we have the first class
+00:18:00,240 --> 00:18:01,560
+has his strengths and weaknesses.
 
 296
-00:17:17,947 --> 00:17:19,662
-training hand speed and reaction ability
+00:18:02,000 --> 00:18:03,840
+When one meets a tough situation,
 
 297
-00:17:24,523 --> 00:17:25,453
-Five dried mangoes
+00:18:04,040 --> 00:18:06,040
+his team mates have to lend him a hand.
 
 298
-00:17:28,078 --> 00:17:29,159
-Four boxes of pistachios
+00:18:07,640 --> 00:18:10,980
+Why do I feel like you're fooling me around?
 
 299
-00:17:30,637 --> 00:17:32,596
-Pistachios, strawberry jelly
+00:18:13,020 --> 00:18:14,740
+Don't you think I made sense?
 
 300
-00:17:33,684 --> 00:17:34,278
-Hold it
+00:18:18,060 --> 00:18:19,620
+Fine. You're Ji Xiang Kong.
 
 301
-00:17:35,313 --> 00:17:36,329
-Xiayi scallops
+00:18:19,820 --> 00:18:20,940
+You're a gaming expert.
 
 302
-00:17:38,677 --> 00:17:40,992
-Five boxes of dried mangoes, quickly
+00:18:21,260 --> 00:18:22,300
+Whatever you've said is right.
 
 303
-00:17:41,157 --> 00:17:41,711
-I'm coming,I'm coming
+00:18:25,620 --> 00:18:26,860
+2 bottles of orange juice.
 
 304
-00:17:41,711 --> 00:17:45,279
-Come on.    -1,2,3,4
+00:18:32,660 --> 00:18:36,060
+Your speed and reaction today are pretty good.
 
 305
-00:17:51,664 --> 00:17:52,462
-Every hero 
+00:18:37,260 --> 00:18:38,130
+Practice more.
 
 306
-00:17:52,580 --> 00:17:54,025
-has his strengths and weaknesses
+00:18:38,330 --> 00:18:39,810
+Next time, let's play Whac-A-Mole.
 
 307
-00:17:54,276 --> 00:17:54,922
-in the face of own abilities 
+00:18:40,250 --> 00:18:41,010
+Is that effective?
 
 308
-00:17:55,087 --> 00:17:56,116
-beyond the scope
+00:18:42,450 --> 00:18:44,090
+I think it's effective for you.
 
 309
-00:17:56,439 --> 00:17:58,345
- of the need for the cooperation of teammates
+00:18:46,210 --> 00:18:47,250
+We've reached my place.
 
 310
-00:17:59,928 --> 00:18:00,654
-How do I feel like 
+00:18:49,550 --> 00:18:50,510
+Here will do. You may go.
 
 311
-00:18:00,799 --> 00:18:01,933
-you're not teaching me
+00:18:52,350 --> 00:18:53,550
+This is for you.
 
 312
-00:18:02,039 --> 00:18:03,305
-but playing me
+00:18:54,230 --> 00:18:55,110
+For me?
 
 313
-00:18:05,303 --> 00:18:07,064
-Doesn't what I just said make sense?
+00:18:55,910 --> 00:18:57,710
+Girls like these snacks, don't you?
 
 314
-00:18:10,283 --> 00:18:11,840
-Ok, you're Xiangkong ji
+00:18:58,470 --> 00:18:59,230
+Don't eat too much.
 
 315
-00:18:11,952 --> 00:18:13,139
-You are a battlefield swindler
+00:18:59,470 --> 00:19:00,430
+Fattening.
 
 316
-00:18:13,396 --> 00:18:14,511
-You're right about everything
+00:19:01,750 --> 00:19:02,470
+Thanks.
 
 317
-00:18:17,809 --> 00:18:18,989
-Two bottles of orange juice
-
-318
-00:18:24,846 --> 00:18:25,935
-Hand speed 
-
-319
-00:18:25,954 --> 00:18:28,157
-and reflexes were good today
-
-320
-00:18:29,391 --> 00:18:30,096
-Practice more
-
-321
-00:18:30,433 --> 00:18:31,877
-Next time I'll take you whack-a-mole
-
-322
-00:18:32,352 --> 00:18:33,005
-Is it useful?
-
-323
-00:18:34,436 --> 00:18:36,085
-It works for you
-
-324
-00:18:38,282 --> 00:18:39,278
-Well, here I am
-
-325
-00:18:41,573 --> 00:18:42,516
-Just walk me here
-
-326
-00:18:44,290 --> 00:18:45,477
-Here you are. Here you are
-
-327
-00:18:46,275 --> 00:18:47,074
-Is this for me?
-
-328
-00:18:47,891 --> 00:18:49,765
-Don't you girls like to eat these snacks?
-
-329
-00:18:50,404 --> 00:18:51,196
-Just don't eat too much 
-
-330
-00:18:51,354 --> 00:18:52,317
-and get fat easily
-
-331
-00:18:53,715 --> 00:18:54,349
-Thank you
-
-332
-00:18:54,672 --> 00:18:55,978
+00:19:02,750 --> 00:19:04,030
 What do you like to eat?
 
-333
-00:18:56,274 --> 00:18:57,231
-I'll treat you some other time
-
-334
-00:18:59,084 --> 00:18:59,876
-I...
-
-335
-00:19:01,241 --> 00:19:03,787
-I like strawberry tea with milk
-
-336
-00:19:04,770 --> 00:19:05,502
-Isn't it? 
-
-337
-00:19:05,957 --> 00:19:07,006
-As a big man
-
-338
-00:19:07,071 --> 00:19:08,516
-you like strawberry milk tea
-
-339
-00:19:08,997 --> 00:19:10,791
-Your style pf eating is too jumpy?
-
-340
-00:19:11,438 --> 00:19:12,183
-Believe it or not
-
-341
-00:19:14,122 --> 00:19:15,309
-Anyway, thank you today
-
-342
-00:19:15,646 --> 00:19:16,286
-You are welcome
-
-343
-00:19:16,602 --> 00:19:17,249
-Please feel free to ask me 
-
-344
-00:19:17,380 --> 00:19:18,277
-any questions in the future
-
-345
-00:19:18,370 --> 00:19:19,471
-I'm an encyclopedia
-
-346
-00:19:20,283 --> 00:19:20,982
-It's no use 
-
-347
-00:19:21,074 --> 00:19:22,360
-asking XiPei 
-
-348
-00:19:22,670 --> 00:19:23,356
-who can only fight alone
-
-349
-00:19:23,963 --> 00:19:24,748
-Are you sure?
-
-350
-00:19:26,034 --> 00:19:27,241
- I remember a thing
-
-351
-00:19:27,551 --> 00:19:29,009
-You answered wrong all six questions 
-
-352
-00:19:29,167 --> 00:19:31,944
-in the section where the name you ask me  to answer
-
-353
-00:19:32,768 --> 00:19:33,546
-XiPei...
-
-354
-00:19:33,718 --> 00:19:35,334
-That was a misunderstanding,okay?
-
-355
-00:19:37,405 --> 00:19:39,298
-Well, to make it up to you
-
-356
-00:19:39,918 --> 00:19:40,815
-I have prepared 
-
-357
-00:19:40,947 --> 00:19:42,048
-two invitations for the test match
-
-358
-00:19:42,200 --> 00:19:43,493
-and I hope you can come here
-
-359
-00:19:44,752 --> 00:19:45,788
-I will cheer you on
-
-360
-00:19:47,397 --> 00:19:48,057
-I told you that 
-
-361
-00:19:48,677 --> 00:19:49,495
-the millions of fans 
-
-362
-00:19:49,653 --> 00:19:51,071
-cheering me on was only 99 points
-
-363
-00:19:51,473 --> 00:19:53,683
- The last point is yours
-
-364
-00:19:54,903 --> 00:19:55,628
-Well, it's getting late
-
-365
-00:19:55,628 --> 00:19:56,598
-Quickly go upstairs
-
-366
-00:19:57,713 --> 00:19:58,669
-Be safe on the road, too
-
-367
-00:19:59,315 --> 00:20:00,417
-Bye    -Bye
-
-368
-00:20:10,924 --> 00:20:11,867
-Oh my god
-
-369
-00:20:12,190 --> 00:20:14,123
-Why is my heart beating so fast?
-
-370
-00:20:14,914 --> 00:20:16,392
-Face still hot
-
-371
-00:20:17,084 --> 00:20:18,027
-Don't think too much
-
-372
-00:20:18,047 --> 00:20:19,340
-Don't think about it
-
-373
-00:20:19,472 --> 00:20:21,417
-Ying Qiu, you need to calm down
-
-374
-00:20:21,714 --> 00:20:22,750
-Need to calm down
-
-375
-00:20:29,510 --> 00:20:31,548
-Yiyi, Yiyi
-
-376
-00:20:33,751 --> 00:20:34,892
-Where did she go?
-
-377
-00:20:38,606 --> 00:20:39,311
-Oh my god
-
-378
-00:20:41,409 --> 00:20:42,695
-You scared the shit out of me
-
-379
-00:20:44,759 --> 00:20:45,867
-What are you doing here?
-
-380
-00:20:47,470 --> 00:20:48,585
-I saw it all
-
-381
-00:20:49,719 --> 00:20:50,775
-What do you see?
-
-382
-00:20:51,243 --> 00:20:52,357
-What do you think I saw?
-
-383
-00:20:54,119 --> 00:20:55,049
-Sending flowers to each other also
-
-384
-00:20:57,482 --> 00:20:58,617
-He is only on his way
-
-385
-00:21:01,288 --> 00:21:02,376
-Only you can believe that
-
-386
-00:21:03,775 --> 00:21:04,902
-He meant well
-
-387
-00:21:05,641 --> 00:21:07,514
-A girl like me
-
-388
-00:21:08,002 --> 00:21:09,249
-and still grow so beautiful
-
-389
-00:21:09,506 --> 00:21:10,997
-What if I meet a sex maniac? 
-
-390
-00:21:11,168 --> 00:21:12,270
-Isn't it?
-
-391
-00:21:15,317 --> 00:21:16,122
-He looks like 
-
-392
-00:21:16,267 --> 00:21:18,160
-the biggest sex maniac to me
-
-393
-00:21:23,119 --> 00:21:23,951
-Xiangkong Ji gave me
-
-394
-00:21:24,155 --> 00:21:25,626
- two tickets for the test match
-
-395
-00:21:26,246 --> 00:21:27,044
-Would you like to come with me?
-
-396
-00:21:28,436 --> 00:21:30,414
-This little sugar-coated trick 
-
-397
-00:21:30,421 --> 00:21:31,601
-is just trying to impress me
-
-398
-00:21:32,188 --> 00:21:32,987
-I'm telling you
-
-399
-00:21:33,653 --> 00:21:34,741
-As long as I'm a firewall
-
-400
-00:21:35,071 --> 00:21:36,476
-he can't take you down
-
-401
-00:21:37,887 --> 00:21:38,824
-Firewall student
-
-402
-00:21:39,635 --> 00:21:41,950
-This is an industry event
-
-403
-00:21:42,359 --> 00:21:43,698
-Are you sure you're not going?
-
-404
-00:21:44,549 --> 00:21:45,802
-I don't go to there
-
-405
-00:21:47,385 --> 00:21:48,025
-To deal with 
-
-406
-00:21:48,038 --> 00:21:48,849
-a philanderer like him
-
-407
-00:21:49,172 --> 00:21:50,465
-we must adhere to the three cardinal principles
-
-408
-00:21:51,270 --> 00:21:51,903
-Don't take a reason
-
-409
-00:21:52,022 --> 00:21:52,536
-Don't take the bait
-
-410
-00:21:52,688 --> 00:21:53,842
-Don't accept
-
-411
-00:21:56,117 --> 00:21:56,770
-That's right
-
-412
-00:21:57,232 --> 00:21:58,096
-This ticket won't help
-
-413
-00:21:59,092 --> 00:22:00,299
-And you're in that nursing home
-
-414
-00:22:00,438 --> 00:22:01,711
- like this big news
-
-415
-00:22:02,047 --> 00:22:03,498
- you just copy and paste
-
-416
-00:22:04,909 --> 00:22:05,938
-Where's the trash can?
-
-417
-00:22:06,354 --> 00:22:07,139
-Throw away,throw away,throw away
-
-418
-00:22:07,633 --> 00:22:08,557
-Wait a minute
-
-419
-00:22:10,272 --> 00:22:11,531
-I just figure it out
-
-420
-00:22:12,118 --> 00:22:13,108
-If I don't go
-
-421
-00:22:13,411 --> 00:22:14,038
-Xiangkong ji 
-
-422
-00:22:14,189 --> 00:22:15,640
-will have more chance to close to you
-
-423
-00:22:17,085 --> 00:22:19,598
-No
-
-424
-00:22:20,079 --> 00:22:20,917
-I have to go there for you
-
-425
-00:22:21,550 --> 00:22:23,496
-Now, don't be angry
-
-426
-00:22:24,907 --> 00:22:25,323
-I tell you
-
-427
-00:22:25,481 --> 00:22:26,095
-I don't forgive you
-
-428
-00:22:26,589 --> 00:22:27,546
-Little angel
-
-429
-00:22:27,704 --> 00:22:28,495
-I'm not your little angel
-
-430
-00:22:30,329 --> 00:22:31,114
-I bought you 
-
-431
-00:22:31,266 --> 00:22:32,974
-your favorite dried mango
-
-432
-00:22:43,969 --> 00:22:45,341
-Count you have conscience
-
-433
-00:22:56,599 --> 00:22:57,575
-You said you didn't want to come
-
-434
-00:22:57,885 --> 00:22:59,165
-  You couldn't wait to get in here
-
-435
-00:22:59,653 --> 00:23:01,447
-Now that I'm here
-
-436
-00:23:01,599 --> 00:23:02,344
- just take some pictures 
-
-437
-00:23:02,522 --> 00:23:03,789
-to pass the time
-
-438
-00:23:05,926 --> 00:23:06,717
-I'll go over there and have a look.
-
-439
-00:23:07,957 --> 00:23:08,630
-Yiyi Lu
-
-440
-00:23:11,598 --> 00:23:12,679
-Yixuan Lin
-
-441
-00:23:14,084 --> 00:23:15,957
-What are you wearing?
-
-442
-00:23:17,085 --> 00:23:18,114
-You come to see me play
-
-443
-00:23:18,114 --> 00:23:19,539
-and you should dress up 
-
-444
-00:23:19,559 --> 00:23:20,601
-and put on a tuxedo or something
-
-445
-00:23:21,729 --> 00:23:22,197
-What I wear 
-
-446
-00:23:22,349 --> 00:23:23,147
-is none of your business
-
-447
-00:23:23,338 --> 00:23:24,057
-Besides, I'm here to watch the game
-
-448
-00:23:24,235 --> 00:23:24,941
- I'm not here to see you
-
-449
-00:23:25,079 --> 00:23:25,950
-Why are you so narcissistic?
-
-450
-00:23:26,596 --> 00:23:28,199
-You talk to me well. Be respectful
-
-451
-00:23:29,465 --> 00:23:30,633
-I want to hit you again
-
-452
-00:23:30,811 --> 00:23:32,018
-Don't do it. Stop
-
-453
-00:23:32,829 --> 00:23:33,654
-I tell you
-
-454
-00:23:33,799 --> 00:23:34,795
-These are my fans
-
-455
-00:23:34,900 --> 00:23:36,074
-I have many fans. Do you hear me?
-
-456
-00:23:36,714 --> 00:23:37,308
-I don't watch it
-
-457
-00:23:37,947 --> 00:23:38,917
-No, you have to watch it
-
-458
-00:23:38,917 --> 00:23:39,880
-I have a seat reserved for you
-
-459
-00:23:39,919 --> 00:23:40,704
-Yiyi Lu
-
-460
-00:23:41,357 --> 00:23:42,116
-Yiyi Lu    -Go away
-
-461
-00:23:42,287 --> 00:23:43,336
-So busy
-
-462
-00:23:44,279 --> 00:23:45,486
-They are quarrelsome lovers
-
-463
-00:23:46,106 --> 00:23:46,911
-They'll be back in a minute
-
-464
-00:23:48,368 --> 00:23:49,622
-By the way, don't forget
-
-465
-00:23:49,753 --> 00:23:50,650
- what you're here for today
-
-466
-00:23:53,434 --> 00:23:54,344
-LiMao chairman
-
-467
-00:23:54,832 --> 00:23:55,788
-jiGuang video company executive
-
-468
-00:23:56,118 --> 00:23:57,061
-and Tian Luo teacher
-
-469
-00:23:58,334 --> 00:23:58,994
-the big names 
-
-470
-00:23:58,994 --> 00:24:00,306
-in the industry are here
-
-471
-00:24:00,834 --> 00:24:02,114
-Won't you come up and get acquainted with them?
-
-472
-00:24:03,716 --> 00:24:04,923
-I don't know anything about this
-
-473
-00:24:05,801 --> 00:24:07,232
-How can I talk to them?
-
-474
-00:24:07,733 --> 00:24:08,828
-First time strangers,second time friends
-
-475
-00:24:09,000 --> 00:24:10,246
-Meet them more often and you'll get to know them
-
-476
-00:24:12,693 --> 00:24:13,999
-In this way
-
-477
-00:24:14,830 --> 00:24:17,547
- someone will label me as a vase again
-
-478
-00:24:18,200 --> 00:24:19,157
-I don't want to do this
-
-479
-00:24:21,083 --> 00:24:21,716
-In that case,are you worthy of
-
-480
-00:24:21,874 --> 00:24:22,791
- my invitation?
-
-481
-00:24:23,444 --> 00:24:24,803
-Thank you for the invitation
-
-482
-00:24:25,317 --> 00:24:25,957
-But
-
-483
-00:24:28,509 --> 00:24:29,479
-All right, I get it
-
-484
-00:24:29,901 --> 00:24:30,950
-Do it at your pace
-
-485
-00:24:31,609 --> 00:24:32,678
-I'm going to get ready for the game
-
-486
-00:24:33,008 --> 00:24:33,674
-Remember to cheer me on
-
-487
-00:24:33,944 --> 00:24:34,920
-Of sourse. Come on
-
-488
-00:24:35,072 --> 00:24:35,903
-Come on
-
-489
-00:24:44,273 --> 00:24:45,869
-Where did Yiyi go?
-
-490
-00:24:49,451 --> 00:24:50,869
-What's your relationship with Xiangkong Ji?
-
-491
-00:24:52,353 --> 00:24:53,151
+318
+00:19:04,310 --> 00:19:05,270
+I'll treat you some other time.
+
+319
+00:19:07,110 --> 00:19:07,910
+I..
+
+320
+00:19:09,470 --> 00:19:10,830
+I like to drink milk tea.
+
+321
+00:19:10,990 --> 00:19:12,030
+Strawberry milk tea.
+
+322
+00:19:12,910 --> 00:19:13,670
 What?
 
-492
-00:24:53,962 --> 00:24:54,753
-I ask you
+323
+00:19:14,110 --> 00:19:15,190
+A grown-up man like you
 
-493
-00:24:55,479 --> 00:24:58,487
-What's your relationship with Xiangkong Ji?
+324
+00:19:15,190 --> 00:19:16,630
+likes strawberry milk tea?
 
-494
-00:24:59,482 --> 00:25:00,327
-I...
+325
+00:19:17,190 --> 00:19:18,980
+That's so unexpected of you.
 
-495
-00:25:00,643 --> 00:25:02,807
-We're just friends
+326
+00:19:19,660 --> 00:19:20,500
+Up to you to believe.
 
-496
-00:25:05,484 --> 00:25:06,256
-Why do you ask?
+327
+00:19:22,420 --> 00:19:23,580
+Anyway, thank you.
 
-497
-00:25:06,771 --> 00:25:07,714
-Bacause I'm curious
+328
+00:19:23,900 --> 00:19:24,580
+Welcome.
 
-498
-00:25:28,629 --> 00:25:29,512
+329
+00:19:24,820 --> 00:19:26,460
+If you face any problems in future, ask me.
+
+330
+00:19:26,540 --> 00:19:27,660
+I'm a walking encyclopedia.
+
+331
+00:19:28,600 --> 00:19:29,360
+If you ask..
+
+332
+00:19:29,360 --> 00:19:30,720
+that self-centered Pei Xi,
+
+333
+00:19:31,040 --> 00:19:31,840
+it's useless.
+
+334
+00:19:32,240 --> 00:19:33,040
+Really?
+
+335
+00:19:34,440 --> 00:19:35,560
+But I remember..
+
+336
+00:19:35,920 --> 00:19:37,320
+during the Q&A game session,
+
+337
+00:19:37,520 --> 00:19:40,320
+you got all 6 questions wrong.
+
+338
+00:19:41,160 --> 00:19:43,760
+- Pei Xi... - That was a misunderstanding.
+
+339
+00:19:45,720 --> 00:19:46,440
+How about this?
+
+340
+00:19:46,440 --> 00:19:47,600
+To compensate you,
+
+341
+00:19:48,440 --> 00:19:50,430
+I've got 2 invitation tickets to the competition.
+
+342
+00:19:50,670 --> 00:19:51,990
+Hope you can make it.
+
+343
+00:19:53,270 --> 00:19:54,310
+I'll go and support you.
+
+344
+00:19:55,910 --> 00:19:56,550
+I've said before
+
+345
+00:19:57,110 --> 00:19:59,620
+All my fans support are worth 99 marks.
+
+346
+00:19:59,980 --> 00:20:02,180
+The last mark lies on you.
+
+347
+00:20:03,540 --> 00:20:04,140
+It's getting late.
+
+348
+00:20:04,220 --> 00:20:05,180
+Go home.
+
+349
+00:20:06,260 --> 00:20:07,260
+Return safely.
+
+350
+00:20:07,780 --> 00:20:09,050
+Bye.
+
+351
+00:20:19,610 --> 00:20:20,530
+Oh goodness.
+
+352
+00:20:20,930 --> 00:20:22,810
+Why is my heartbeat beating so quickly?
+
+353
+00:20:23,610 --> 00:20:25,090
+I can feel a burning sensation on my cheeks.
+
+354
+00:20:25,770 --> 00:20:26,650
+Don't overthink.
+
+355
+00:20:26,730 --> 00:20:27,930
+Don't think too much.
+
+356
+00:20:28,170 --> 00:20:30,120
+Qiuying, chill.
+
+357
+00:20:30,520 --> 00:20:31,600
+Calm down.
+
+358
+00:20:38,280 --> 00:20:40,430
+Yiyi..
+
+359
+00:20:42,630 --> 00:20:43,750
+Where is she?
+
+360
+00:20:47,350 --> 00:20:48,310
+My goodness.
+
+361
+00:20:50,300 --> 00:20:51,660
+You scared me.
+
+362
+00:20:53,700 --> 00:20:54,780
+Why are you sitting here?
+
+363
+00:20:56,380 --> 00:20:57,460
+I saw it.
+
+364
+00:20:58,660 --> 00:20:59,700
+What did you see?
+
+365
+00:21:00,220 --> 00:21:01,340
+What do you think?
+
+366
+00:21:03,140 --> 00:21:04,100
+He even gave you flowers?
+
+367
+00:21:06,420 --> 00:21:07,580
+He sent me home out of convenience.
+
+368
+00:21:10,370 --> 00:21:11,410
+You believe such crap?
+
+369
+00:21:12,810 --> 00:21:14,050
+He was just being nice.
+
+370
+00:21:14,610 --> 00:21:16,490
+It's dangerous to be alone at this hour.
+
+371
+00:21:17,090 --> 00:21:18,290
+Afterall, I'm too pretty.
+
+372
+00:21:18,610 --> 00:21:20,160
+What happens if I meet a pervert?
+
+373
+00:21:20,320 --> 00:21:21,320
+Right?
+
+374
+00:21:24,480 --> 00:21:27,200
+I think he is the biggest pervert.
+
+375
+00:21:32,300 --> 00:21:34,740
+Ji Xiang Kong gave 2 tickets to the competition.
+
+376
+00:21:35,460 --> 00:21:36,100
+Want to go together?
+
+377
+00:21:37,540 --> 00:21:40,780
+I don't buy this!
+
+378
+00:21:41,420 --> 00:21:42,220
+Let me tell you.
+
+379
+00:21:42,820 --> 00:21:44,020
+With me around,
+
+380
+00:21:44,420 --> 00:21:45,660
+I won't allow him to lay a finger on you.
+
+381
+00:21:47,180 --> 00:21:48,140
+Yiyi,
+
+382
+00:21:48,900 --> 00:21:51,220
+this is a reknown gaming event.
+
+383
+00:21:51,740 --> 00:21:53,020
+Are you sure you're not going?
+
+384
+00:21:53,940 --> 00:21:55,060
+No! Not going!
+
+385
+00:21:56,740 --> 00:21:58,220
+Dealing a playboy like him,
+
+386
+00:21:58,500 --> 00:21:59,930
+three dont's to take note of.
+
+387
+00:22:00,690 --> 00:22:01,210
+Don't react.
+
+388
+00:22:01,450 --> 00:22:01,930
+Don't get hooked on.
+
+389
+00:22:02,050 --> 00:22:03,370
+Don't accept.
+
+390
+00:22:05,570 --> 00:22:06,210
+Exactly.
+
+391
+00:22:06,650 --> 00:22:07,570
+The tickets are useless anyway.
+
+392
+00:22:08,410 --> 00:22:09,710
+In your company,
+
+393
+00:22:09,950 --> 00:22:11,110
+for such a huge event,
+
+394
+00:22:11,470 --> 00:22:12,910
+all you need to do is to copy and paste the updates.
+
+395
+00:22:14,550 --> 00:22:15,270
+Where's the dustbin?
+
+396
+00:22:15,750 --> 00:22:16,550
+Throw it..
+
+397
+00:22:17,070 --> 00:22:18,030
+Hang on.
+
+398
+00:22:19,870 --> 00:22:21,030
+Come to think of it.
+
+399
+00:22:21,630 --> 00:22:22,630
+If I don't go,
+
+400
+00:22:22,910 --> 00:22:23,790
+Ji Xiang Kong
+
+401
+00:22:23,790 --> 00:22:25,230
+will stand a better chance hooking you up.
+
+402
+00:22:26,670 --> 00:22:29,110
+No way! For your sake,
+
+403
+00:22:29,750 --> 00:22:30,550
+I have to go.
+
+404
+00:22:31,150 --> 00:22:33,030
+Don't be angry.
+
+405
+00:22:34,470 --> 00:22:34,950
+Let me tell you.
+
+406
+00:22:35,030 --> 00:22:35,790
+I've not forgiven you.
+
+407
+00:22:36,190 --> 00:22:37,110
+My dear angel.
+
+408
+00:22:37,390 --> 00:22:38,070
+I'm not your angel.
+
+409
+00:22:40,060 --> 00:22:42,820
+I've bought your favourite dried mangoes.
+
+410
+00:22:53,760 --> 00:22:55,040
+Fine, I'll forgive you.
+
+411
+00:23:06,360 --> 00:23:07,320
+Unwilling to come?
+
+412
+00:23:07,760 --> 00:23:08,960
+Look at how excited you are right now.
+
+413
+00:23:09,440 --> 00:23:11,390
+Since I'm already here,
+
+414
+00:23:11,510 --> 00:23:13,670
+I should conveniently take a few photos.
+
+415
+00:23:15,790 --> 00:23:16,670
+I'll go there and take a look.
+
+416
+00:23:17,830 --> 00:23:18,710
+Lu Yiyi!
+
+417
+00:23:21,620 --> 00:23:22,900
+Lin Yixuan?
+
+418
+00:23:24,100 --> 00:23:25,860
+What you're wearing?
+
+419
+00:23:26,980 --> 00:23:28,140
+Dress something nicer
+
+420
+00:23:28,140 --> 00:23:29,500
+since you're here to support me.
+
+421
+00:23:29,580 --> 00:23:30,650
+Like a night gown.
+
+422
+00:23:31,730 --> 00:23:33,170
+What does my attire has got to do with you?
+
+423
+00:23:33,290 --> 00:23:34,170
+I'm here to watch the competitioin
+
+424
+00:23:34,250 --> 00:23:35,050
+Not to see you.
+
+425
+00:23:35,170 --> 00:23:36,010
+Stop being a narcissist!
+
+426
+00:23:36,650 --> 00:23:38,250
+Talk properly. Show some respect.
+
+427
+00:23:39,490 --> 00:23:40,730
+I'm gonna bash you!
+
+428
+00:23:40,970 --> 00:23:42,170
+Don't! Stop!
+
+429
+00:23:43,010 --> 00:23:44,890
+My fans are all here.
+
+430
+00:23:45,010 --> 00:23:46,250
+There are many of them. Got it?
+
+431
+00:23:46,850 --> 00:23:47,490
+I'm not watching anymore.
+
+432
+00:23:48,050 --> 00:23:49,090
+Hey! You have to watch it!
+
+433
+00:23:49,090 --> 00:23:50,050
+I've reserved a seat for you.
+
+434
+00:23:50,090 --> 00:23:50,920
+Lu Yiyi!
+
+435
+00:23:51,520 --> 00:23:52,280
+- Lu Yiyi! - Go away!
+
+436
+00:23:52,440 --> 00:23:53,520
+How lively!
+
+437
+00:23:54,400 --> 00:23:55,680
+They are a bickering pair.
+
+438
+00:23:56,280 --> 00:23:57,120
+They'll be back later.
+
+439
+00:23:58,480 --> 00:24:01,030
+Don't forget your purpose here today.
+
+440
+00:24:03,670 --> 00:24:04,630
+That is FOX's board director.
+
+441
+00:24:05,030 --> 00:24:06,070
+Light Media's Senior Executive.
+
+442
+00:24:06,430 --> 00:24:07,310
+And Luo Tian.
+
+443
+00:24:08,590 --> 00:24:10,660
+The key figures of the industry are here.
+
+444
+00:24:11,220 --> 00:24:12,500
+Try socialising with them?
+
+445
+00:24:14,060 --> 00:24:15,300
+I don't know anything.
+
+446
+00:24:16,060 --> 00:24:17,620
+I don't have the guts to talk to them.
+
+447
+00:24:17,860 --> 00:24:18,500
+Strangers at first.
+
+448
+00:24:18,500 --> 00:24:19,300
+Accquaintances at the second.
+
+449
+00:24:19,300 --> 00:24:20,700
+You'll get used to it eventually.
+
+450
+00:24:23,140 --> 00:24:24,380
+If I were to do it this way,
+
+451
+00:24:25,260 --> 00:24:27,980
+people might label me as someone pretty but useless.
+
+452
+00:24:28,540 --> 00:24:29,500
+I don't want that to happen.
+
+453
+00:24:31,530 --> 00:24:33,290
+That might defeat the purpose of my invite.
+
+454
+00:24:33,890 --> 00:24:35,210
+Thanks for your invitation.
+
+455
+00:24:35,570 --> 00:24:36,410
+But..
+
+456
+00:24:38,930 --> 00:24:40,010
+Okay, I understand.
+
+457
+00:24:40,530 --> 00:24:41,560
+Do it your way.
+
+458
+00:24:42,200 --> 00:24:43,160
+I'm off to prepare for the competition.
+
+459
+00:24:43,560 --> 00:24:44,120
+Cheer for me!
+
+460
+00:24:44,560 --> 00:24:45,560
+Definitely! All the best!
+
+461
+00:24:45,680 --> 00:24:46,480
+I'll do my best!
+
+462
+00:24:54,820 --> 00:24:56,580
+Where did Yiyi go?
+
+463
+00:25:00,100 --> 00:25:01,620
+What is your relationship with Ji Xiang Kong?
+
+464
+00:25:02,980 --> 00:25:03,780
+What?
+
+465
+00:25:04,700 --> 00:25:05,460
+I'm asking you.
+
+466
+00:25:06,100 --> 00:25:09,180
+What is your relationship with Ji Xiang Kong?
+
+467
+00:25:10,220 --> 00:25:11,020
+I..
+
+468
+00:25:11,380 --> 00:25:13,580
+We are just friends.
+
+469
+00:25:16,180 --> 00:25:17,060
+Why are you asking this?
+
+470
+00:25:17,580 --> 00:25:18,500
+Just curious.
+
+471
+00:25:39,510 --> 00:25:40,390
 I'm a little nervous.
 
+472
+00:25:41,950 --> 00:25:42,550
+It's just a beta competition.
+
+473
+00:25:42,630 --> 00:25:43,670
+What are you nervous about?
+
+474
+00:25:44,510 --> 00:25:46,070
+How can I not be nervous?
+
+475
+00:25:47,190 --> 00:25:48,030
+This competition decides
+
+476
+00:25:48,110 --> 00:25:49,190
+your position as our Captain.
+
+477
+00:25:49,710 --> 00:25:50,510
+Seriously.
+
+478
+00:25:50,870 --> 00:25:52,270
+I'm more nervous than you.
+
+479
+00:25:53,030 --> 00:25:53,630
+Enough.
+
+480
+00:25:53,990 --> 00:25:55,590
+Just chill and play. Don't be nervous.
+
+481
+00:25:56,030 --> 00:25:57,070
+Easier said.
+
+482
+00:26:03,220 --> 00:26:05,620
+Huoyao, what are you thinking?
+
+483
+00:26:06,980 --> 00:26:08,940
+Are you as nervous as Lin Yixuan?
+
+484
+00:26:09,780 --> 00:26:10,300
+Nope.
+
+485
+00:26:10,380 --> 00:26:11,600
+I'm just feeling unwell.
+
+486
+00:26:15,040 --> 00:26:15,920
+Drink some water.
+
+487
+00:26:25,080 --> 00:26:25,920
+Why are you in a daze?
+
+488
+00:26:26,040 --> 00:26:26,880
+I'll help you with the cap.
+
+489
+00:26:27,040 --> 00:26:28,720
+I.. I can do it myself.
+
+490
+00:26:35,710 --> 00:26:36,670
+He seems thirsty.
+
+491
+00:26:39,270 --> 00:26:41,190
+Maybe because I didn't sleep well last night.
+
+492
+00:26:42,740 --> 00:26:44,140
+I..
+
+493
+00:26:44,260 --> 00:26:46,540
+I'll be okay after washing my face.
+
+494
+00:27:05,530 --> 00:27:07,450
+1st row Seat 11.
+
+495
+00:27:22,750 --> 00:27:24,430
+Such a good seat.
+
+496
+00:27:27,190 --> 00:27:27,790
+Did he..
+
+497
+00:27:28,630 --> 00:27:30,230
+specially arrange this for me?
+
+498
+00:27:50,500 --> 00:27:51,780
+The competition is starting soon.
+
 499
-00:25:30,950 --> 00:25:31,590
-A test match
+00:27:52,690 --> 00:27:53,570
+Perform well.
 
 500
-00:25:31,597 --> 00:25:32,672
-What are you nervous about?
+00:27:54,290 --> 00:27:55,850
+I'll make sure you get what you want.
 
 501
-00:25:33,582 --> 00:25:34,921
-Can I not be nervous?
+00:28:22,580 --> 00:28:23,580
+Good evening, everyone!
 
 502
-00:25:36,233 --> 00:25:37,045
-This game will decide 
+00:28:23,660 --> 00:28:28,100
+Welcome to "ICONQUER" new beta competition.
 
 503
-00:25:37,196 --> 00:25:38,232
-whether you stay as captain or not
+00:28:28,260 --> 00:28:29,660
+I'm the host tonight,
 
 504
-00:25:38,753 --> 00:25:39,551
-How terrible
+00:28:29,900 --> 00:28:30,420
+Luo Tian.
 
 505
-00:25:39,874 --> 00:25:41,233
-You're in no hurry. I'm in no hurry
+00:28:37,540 --> 00:28:38,380
+Hi, everyone.
 
 506
-00:25:42,031 --> 00:25:42,539
-It' ok
+00:28:38,540 --> 00:28:40,780
+I'm the host tonight, Qiuying.
 
 507
-00:25:42,908 --> 00:25:44,491
-Take it easy. Play hard. Take it easy
+00:28:42,690 --> 00:28:44,250
+Qiuying!
 
 508
-00:25:44,893 --> 00:25:45,942
-That's easy for you to easy
+00:28:48,050 --> 00:28:49,010
+One day,
 
 509
-00:25:52,036 --> 00:25:54,477
-Brother yao, what's on your mind?
+00:28:49,370 --> 00:28:51,570
+I'll definitely make it on stage.
 
 510
-00:25:55,809 --> 00:25:56,436
-You're not 
+00:28:52,470 --> 00:28:53,230
+I can do it!
 
 511
-00:25:56,442 --> 00:25:57,867
-as nervous as Yixuan Lin,are you?
+00:28:54,150 --> 00:28:54,750
+Firstly,
 
 512
-00:25:58,678 --> 00:25:59,173
-No
+00:28:54,870 --> 00:28:55,670
+let me introduce
 
 513
-00:25:59,364 --> 00:26:00,446
-I'm just not feeling well
+00:28:55,950 --> 00:28:58,270
+the newly released character of ICONQUER,
 
 514
-00:26:03,862 --> 00:26:04,799
-You have a drink of water
+00:28:58,430 --> 00:28:59,510
+Heavenly Warrior.
 
 515
-00:26:13,802 --> 00:26:14,560
-What are you staring?
+00:28:59,710 --> 00:29:01,150
+Look at the screen.
 
 516
-00:26:14,758 --> 00:26:15,688
-I'll unscrew it for you
+00:29:02,830 --> 00:29:07,270
+These are the 5 fighters newly created for all China players.
 
 517
-00:26:15,800 --> 00:26:17,489
-I , I'll do it myself
+00:29:07,590 --> 00:29:10,030
+They are namely Yu Bang,
 
 518
-00:26:24,441 --> 00:26:25,318
-You are very thirsty
+00:29:10,190 --> 00:29:13,070
+Ah Xin, Zhi Heng, Jin Can
 
 519
-00:26:27,884 --> 00:26:29,796
-Maybe I didn't sleep well last night
+00:29:13,350 --> 00:29:14,710
+Gongxi Changqing.
 
 520
-00:26:31,280 --> 00:26:32,778
-In this way, I...
+00:29:15,110 --> 00:29:17,670
+They belong to the following elements
 
 521
-00:26:32,804 --> 00:26:33,872
-I'm going to the bathroom to wash my face
+00:29:17,870 --> 00:29:19,790
+metal, wood, water, fire and earth.
 
 522
-00:26:33,872 --> 00:26:35,060
-I'll be fine
+00:29:19,910 --> 00:29:21,430
+They are all associated with each other.
 
 523
-00:26:53,996 --> 00:26:55,941
-Row 1,seat 11
+00:29:21,790 --> 00:29:22,740
+That's right.
 
 524
-00:27:10,999 --> 00:27:12,734
-Such a good location
+00:29:22,860 --> 00:29:24,940
+The design was inspired by China's art and design.
 
 525
-00:27:15,478 --> 00:27:18,386
-Did he arrange it specially for me?
+00:29:25,820 --> 00:29:29,180
+The story of each character was derived from a Chinese mythology.
 
 526
-00:27:38,582 --> 00:27:39,901
-The race will begin soon
+00:29:29,380 --> 00:29:32,260
+Specially for all China players.
 
 527
-00:27:40,746 --> 00:27:41,702
-Have a good performance
+00:29:37,880 --> 00:29:39,920
+That's right. "Heavenly Warrior" series
 
 528
-00:27:42,355 --> 00:27:43,958
-I'll never do you any wrong
+00:29:40,040 --> 00:29:44,320
+is a historical creation of ICONQUER.
 
 529
-00:28:10,472 --> 00:28:11,402
-Good evening
+00:29:44,400 --> 00:29:44,960
+Today,
 
 530
-00:28:11,554 --> 00:28:12,675
-Welcome to 
+00:29:45,120 --> 00:29:47,000
+Legends and VNG will be having
 
 531
-00:28:12,675 --> 00:28:14,258
-the IConquer new version of 
+00:29:47,160 --> 00:29:50,000
+their first battle of the new beta version on stage.
 
 532
-00:28:14,456 --> 00:28:15,940
-the beta finals
+00:29:50,400 --> 00:29:53,270
+Is everyone excited?
 
 533
-00:28:16,131 --> 00:28:17,569
-I'm the host tonight
+00:29:53,590 --> 00:29:55,310
+Excited!
 
 534
-00:28:17,714 --> 00:28:18,301
-Tian Luo
+00:29:55,910 --> 00:29:57,230
+Alright. Up next,
 
 535
-00:28:25,312 --> 00:28:26,110
-Hello, everyone
+00:29:57,510 --> 00:30:00,230
+let's welcome both teams up on stage.
 
 536
-00:28:26,269 --> 00:28:28,610
-I'm YingQiu, the host for tonight
+00:30:00,270 --> 00:30:02,110
+Welcome, Legends.
 
 537
-00:28:30,483 --> 00:28:31,921
-YingQiu
+00:30:02,150 --> 00:30:03,700
+VNG!
 
 538
-00:28:35,806 --> 00:28:36,749
-One day
+00:30:35,200 --> 00:30:37,200
+Next. We'll thereby announce
 
 539
-00:28:37,085 --> 00:28:39,321
-I will stand on this stage
+00:30:37,800 --> 00:30:43,270
+new beta competition shall begin now!
 
 540
-00:28:40,073 --> 00:28:40,904
-Come on
+00:30:43,750 --> 00:30:46,110
+Both teams, get ready.
 
 541
-00:28:41,874 --> 00:28:42,362
-First
+00:30:59,780 --> 00:31:00,940
+All the best!
 
 542
-00:28:42,527 --> 00:28:43,331
- I'd like to introduce you 
+00:31:09,220 --> 00:31:10,060
+I just analysed..
 
 543
-00:28:43,622 --> 00:28:45,970
-to the IConquer series of heroes
+00:31:10,540 --> 00:31:12,180
+70% of the audience
 
 544
-00:28:46,108 --> 00:28:47,229
-Xuantian Warrior
+00:31:12,180 --> 00:31:13,410
+should expect Pei Xi to win.
 
 545
-00:28:47,401 --> 00:28:48,773
-Look at the big screen
+00:31:13,650 --> 00:31:14,450
+Of course.
 
 546
-00:28:50,488 --> 00:28:51,279
-Here are five new heroes 
-
-547
-00:28:51,431 --> 00:28:52,829
-designed by IConquer 
-
-548
-00:28:52,829 --> 00:28:54,894
-specifically for Chinese summoners
-
-549
-00:28:55,072 --> 00:28:57,552
-Well, they're Yubang
-
-550
-00:28:57,730 --> 00:29:00,592
-Axin, Zhihen, Jincan
-
-551
-00:29:00,922 --> 00:29:02,202
-GongxiChangqing
-
-552
-00:29:02,670 --> 00:29:03,488
-Their attributes 
-
-553
-00:29:03,646 --> 00:29:05,090
-are made up of the five elements of China
-
-554
-00:29:05,321 --> 00:29:07,320
-They are formed by the interaction of 
-
-555
-00:29:07,399 --> 00:29:08,949
- metal, wood, water, fire and earth
-
-556
-00:29:09,272 --> 00:29:10,077
-Yes
-
-557
-00:29:10,281 --> 00:29:11,000
-This design 
-
-558
-00:29:11,165 --> 00:29:12,445
-is very Chinese
-
-559
-00:29:13,196 --> 00:29:14,021
-Their story 
-
-560
-00:29:14,159 --> 00:29:14,951
-is also adapted from 
-
-561
-00:29:15,070 --> 00:29:16,554
-the myth of Xuantian Warrior
-
-562
-00:29:16,883 --> 00:29:17,774
-which is 
-
-563
-00:29:17,958 --> 00:29:19,759
-a unique benefit to Chinese fans
-
-564
-00:29:25,319 --> 00:29:27,252
-Yes, the Xuantian warrior heroes 
-
-565
-00:29:27,403 --> 00:29:29,158
-will be a great historical innovation 
-
-566
-00:29:29,310 --> 00:29:31,572
-at the IConquer of history
-
-567
-00:29:31,737 --> 00:29:32,271
-Today 
-
-568
-00:29:32,357 --> 00:29:34,302
-Legends and Weiteng 
-
-569
-00:29:34,434 --> 00:29:37,238
-will bring the first show of Xuantian warriors
-
-570
-00:29:37,719 --> 00:29:39,144
-So 
-
-571
-00:29:39,163 --> 00:29:40,443
-are you looking forward to it today?
-
-572
-00:29:40,760 --> 00:29:42,507
-Yes
-
-573
-00:29:43,160 --> 00:29:44,440
-Well, no more talking
-
-574
-00:29:44,750 --> 00:29:47,513
-Let's bring out the two teams
-
-575
-00:29:47,540 --> 00:29:49,255
-Please welcome Legends
-
-576
-00:29:49,426 --> 00:29:50,798
-Weiteng
-
-577
-00:30:22,160 --> 00:30:24,238
-Ok, let's announce that 
-
-578
-00:30:24,673 --> 00:30:27,312
-this new version of the beta finals 
-
-579
-00:30:27,951 --> 00:30:30,068
-is now open
-
-580
-00:30:30,642 --> 00:30:33,030
-Please take your seats
-
-581
-00:30:46,531 --> 00:30:47,791
-Come on, come on
-
-582
-00:30:55,956 --> 00:30:56,748
-I just looked at it
-
-583
-00:30:57,236 --> 00:30:58,694
-About 70 percent of the people now say 
-
-584
-00:30:58,819 --> 00:30:59,914
- Xipei will win
-
-585
-00:31:00,263 --> 00:31:01,088
-Of course
-
-586
-00:31:04,913 --> 00:31:05,949
+00:31:18,450 --> 00:31:19,250
 Why?
 
+547
+00:31:20,370 --> 00:31:21,170
+Legends..
+
+548
+00:31:21,450 --> 00:31:23,680
+was the runner up of the finals at Vancouver.
+
+549
+00:31:25,040 --> 00:31:26,200
+Gu Fang's existence in Legends
+
+550
+00:31:26,600 --> 00:31:27,680
+makes a huge difference.
+
+551
+00:31:38,020 --> 00:31:40,060
+Legends' teamwork was great.
+
+552
+00:31:40,140 --> 00:31:41,340
+The attack was shot in a second!
+
+553
+00:31:41,620 --> 00:31:43,180
+Without teamwork and trust,
+
+554
+00:31:43,420 --> 00:31:45,140
+a strong Mid Laner like Pei Xi
+
+555
+00:31:45,260 --> 00:31:46,420
+is tough to be defeated for Legends.
+
+556
+00:31:47,220 --> 00:31:48,380
+Didn't you just said that
+
+557
+00:31:48,940 --> 00:31:50,220
+Gu Fang's existence in Legends
+
+558
+00:31:50,620 --> 00:31:51,660
+makes a huge difference?
+
+559
+00:31:52,740 --> 00:31:53,620
+Did I?
+
+560
+00:32:00,820 --> 00:32:01,140
+Alright.
+
+561
+00:32:01,260 --> 00:32:02,820
+As Pei Xi was defeated just now,
+
+562
+00:32:02,900 --> 00:32:05,450
+VNG chose to camouflage themselves!
+
+563
+00:32:06,210 --> 00:32:08,450
+But Legends managed to clear the vog.
+
+564
+00:32:08,610 --> 00:32:10,090
+Legends is getting ready to attack!
+
+565
+00:32:11,010 --> 00:32:11,730
+Let's see.
+
+566
+00:32:11,810 --> 00:32:12,930
+Who will succeed?
+
+567
+00:32:12,970 --> 00:32:14,190
+They are nearing each other.
+
+568
+00:32:17,790 --> 00:32:18,910
+Both teams are fighting!
+
+569
+00:32:19,670 --> 00:32:20,550
+Oh no..
+
+570
+00:32:20,710 --> 00:32:21,630
+Huoyao? What's happening?
+
+571
+00:32:21,750 --> 00:32:22,910
+He made a huge attack but at the wrong direction!
+
+572
+00:32:22,990 --> 00:32:24,110
+What a pity!
+
+573
+00:32:24,350 --> 00:32:25,470
+What's wrong with Huoyao?
+
+574
+00:32:26,550 --> 00:32:27,150
+Xiang Kong.
+
+575
+00:32:27,350 --> 00:32:28,990
+Let's disperse. Protect ourselves.
+
+576
+00:32:29,390 --> 00:32:29,790
+Let's disperse.
+
+577
+00:32:29,790 --> 00:32:30,510
+Do not attack.
+
+578
+00:32:30,670 --> 00:32:31,150
+Retreat.
+
+579
+00:32:31,270 --> 00:32:31,670
+Retreat..
+
+580
+00:32:31,830 --> 00:32:32,830
+Huoyao, retreat..
+
+581
+00:32:33,110 --> 00:32:34,070
+Huoyao, what are you..
+
+582
+00:32:34,150 --> 00:32:35,190
+Alright, I'm retreating..
+
+583
+00:32:39,270 --> 00:32:41,150
+Why is Legends lacking today?
+
+584
+00:32:45,540 --> 00:32:46,180
+We're going to win this..
+
+585
+00:32:46,660 --> 00:32:47,860
+We can do it!
+
+586
+00:32:49,020 --> 00:32:50,180
+Can we change?
+
 587
-00:31:07,083 --> 00:31:09,392
-Wasn't Legends the runner-up 
+00:32:50,540 --> 00:32:51,460
+We can't win this.
 
 588
-00:31:09,398 --> 00:31:10,322
-in the vancouver finals?
+00:32:53,980 --> 00:32:57,440
+We can see that VNG is attacking Legends.
 
 589
-00:31:11,562 --> 00:31:12,868
-Legends without Fang Gu
+00:32:58,120 --> 00:32:59,080
+Seems like VNG is winning this.
 
 590
-00:31:13,145 --> 00:31:14,266
-gets much worse
+00:32:59,120 --> 00:33:00,360
+VNG is getting close to the jewel!
 
 591
-00:31:24,608 --> 00:31:25,109
-The cooperation of group battle 
+00:33:10,240 --> 00:33:11,560
+Huoyao, what's wrong with you today?
 
 592
-00:31:25,287 --> 00:31:26,560
-is really too tacit       -Great
+00:33:15,470 --> 00:33:17,710
+Wake up! It's a competition!
 
 593
-00:31:26,705 --> 00:31:27,886
-It's really a one-second judgment
+00:33:17,790 --> 00:33:19,070
+We're at the finals!
 
 594
-00:31:28,196 --> 00:31:29,014
-Without mutual understanding 
+00:33:31,820 --> 00:33:32,900
+Something unusual with Huoyao.
 
 595
-00:31:29,146 --> 00:31:29,647
-and absolute trust
+00:33:40,690 --> 00:33:41,130
+Xuan..
 
 596
-00:31:29,917 --> 00:31:31,606
-So strong mid like Xi Pei 
+00:33:41,370 --> 00:33:42,210
+The second round is about to begin.
 
 597
-00:31:31,751 --> 00:31:32,892
-is difficult to be killed
+00:33:42,370 --> 00:33:43,210
+Cheer up.
 
 598
-00:31:33,637 --> 00:31:34,917
-You just said that 
+00:33:48,330 --> 00:33:49,930
+Huoyao, what's wrong with you just now?
 
 599
-00:31:35,326 --> 00:31:36,678
-Legends would be much worse 
+00:33:50,050 --> 00:33:51,050
+Why didn't you attack?
 
 600
-00:31:36,988 --> 00:31:38,116
-without Fang Gu
+00:33:51,170 --> 00:33:52,210
+Huoyao..
 
 601
-00:31:39,237 --> 00:31:39,916
-Did I say that?
+00:33:53,530 --> 00:33:54,290
+Huoyao.
 
 602
-00:31:47,198 --> 00:31:47,521
-Ok
+00:33:55,240 --> 00:33:57,120
+We had a strong advantage.
 
 603
-00:31:47,679 --> 00:31:49,223
-Because Xi Pei was killed just now
+00:33:57,160 --> 00:33:58,760
+Chances of winning for the previous game was 90%.
 
 604
-00:31:49,229 --> 00:31:50,087
-Now Weiteng 
+00:34:03,680 --> 00:34:04,520
+Sorry, everyone.
 
 605
-00:31:50,126 --> 00:31:51,716
-chose to open the fog to secretly shoot down tai lung
+00:34:05,430 --> 00:34:06,390
+I didn't sleep well last night.
 
 606
-00:31:52,527 --> 00:31:53,325
-But Legends' false eye 
+00:34:06,750 --> 00:34:07,950
+Just now..
 
 607
-00:31:53,470 --> 00:31:54,796
-has seen them fogging
+00:34:07,950 --> 00:34:08,790
+[Something unusual with Huoyao.]
 
 608
-00:31:54,915 --> 00:31:56,451
-They're in ambush here
+00:34:09,030 --> 00:34:10,150
+Maybe I was too nervous.
 
 609
-00:31:57,236 --> 00:31:57,988
-Let's see 
+00:34:10,950 --> 00:34:11,790
+I was out of the condition.
 
 610
-00:31:58,120 --> 00:31:59,228
-if they can sneak down the dragon?
+00:34:13,030 --> 00:34:14,860
+Please buck up for the next round.
 
 611
-00:31:59,228 --> 00:32:00,435
-The enemy has come
+00:34:14,980 --> 00:34:16,020
+If we lose again..
 
 612
-00:32:03,957 --> 00:32:05,085
-They're coming. They're fighting
+00:34:19,340 --> 00:34:21,020
+This is a beta competition, Huoyao.
 
 613
-00:32:05,877 --> 00:32:06,800
-This...No
+00:34:21,380 --> 00:34:22,660
+We are playing against VNG.
 
 614
-00:32:06,952 --> 00:32:07,868
-What's the matter, Yao Huo?
+00:34:23,460 --> 00:34:24,980
+How many times have we won them?
 
 615
-00:32:08,053 --> 00:32:09,115
-His big move was way off base
+00:34:25,060 --> 00:34:25,820
+We have been playing for a long time.
 
 616
-00:32:09,287 --> 00:32:10,309
-That's too bad
+00:34:25,900 --> 00:34:27,220
+Since when were you nervous?
 
 617
-00:32:10,513 --> 00:32:11,635
-What's wrong with Yao Huo?
+00:34:28,140 --> 00:34:29,340
+If we lose again, Xiangkong is out of the team.
 
 618
-00:32:12,756 --> 00:32:13,244
-Brother Kong
+00:34:29,380 --> 00:34:31,140
+Can you please buck up?
 
 619
-00:32:13,547 --> 00:32:15,091
-You retreat and defend the enemy
+00:34:31,500 --> 00:34:32,860
+It isn't the right time to argue now.
 
 620
-00:32:15,480 --> 00:32:15,948
-Let's retreat first
+00:34:38,130 --> 00:34:40,890
+Huoyao, get your condition right.
 
 621
-00:32:15,948 --> 00:32:16,753
-Don't fight yet,don't fight yet
+00:34:47,480 --> 00:34:48,320
+Hi professionals!
 
 622
-00:32:16,759 --> 00:32:17,214
-Move it back
+00:34:48,760 --> 00:34:50,280
+What's wrong with you guys?
 
 623
-00:32:17,386 --> 00:32:17,874
-Move it back
+00:34:50,680 --> 00:34:51,280
+Can you guys play this properly?
 
 624
-00:32:18,039 --> 00:32:18,969
-Brother Yao, move it back,move it back
+00:34:51,400 --> 00:34:52,440
+Don't wish to win?
 
 625
-00:32:19,279 --> 00:32:20,077
-What's wrong with you, brother Yao?
+00:34:53,320 --> 00:34:54,200
+Is there any problem?
 
 626
-00:32:20,117 --> 00:32:21,238
-Okay, I'll go back. I'll go back
+00:34:57,780 --> 00:34:58,820
+Manager Zhao, relax.
 
 627
-00:32:25,320 --> 00:32:27,200
-How did Legends feel so bad today?
+00:34:59,500 --> 00:35:00,820
+There is nothing wrong.
 
 628
-00:32:31,600 --> 00:32:32,233
-We'll win, we'll win
+00:35:08,100 --> 00:35:08,780
+Huoyao,
 
 629
-00:32:32,701 --> 00:32:33,796
-Yes, yes, yes
+00:35:09,580 --> 00:35:10,660
+what are you nervous about?
 
 630
-00:32:34,924 --> 00:32:35,432
-Can we kill one?
+00:35:13,260 --> 00:35:14,180
+Is there any issue?
 
 631
-00:32:35,596 --> 00:32:36,243
-Can we kill one?
+00:35:16,260 --> 00:35:17,140
+Nope.
 
 632
-00:32:36,559 --> 00:32:37,463
-We can't fight this group war
+00:35:21,100 --> 00:35:21,860
+Relax.
 
 633
-00:32:39,917 --> 00:32:42,278
-Weiteng has stormed
+00:35:22,220 --> 00:35:23,020
+Play well.
 
 634
-00:32:42,278 --> 00:32:43,399
-the final defensive tower of Legends
+00:35:23,540 --> 00:35:24,620
+The second round depends on you.
 
 635
-00:32:44,052 --> 00:32:44,909
-It looks unstoppable
+00:35:26,810 --> 00:35:28,530
+All the best, guys!
 
 636
-00:32:44,909 --> 00:32:46,354
-They're going to break the crystal
+00:35:30,570 --> 00:35:31,210
+Alright.
 
 637
-00:32:56,109 --> 00:32:56,597
-No,brother Yao
+00:35:31,370 --> 00:35:32,530
+The next round is starting soon.
 
 638
-00:32:56,610 --> 00:32:57,402
-What's the matter with you today?
+00:35:32,850 --> 00:35:33,530
+Let's go.
 
 639
-00:33:01,313 --> 00:33:03,509
-Wake up. This is a private test match
+00:35:58,590 --> 00:35:59,510
+Huoyao.
 
 640
-00:33:03,522 --> 00:33:04,782
-This is the final game
+00:35:59,990 --> 00:36:01,310
+It's okay. We only lost one round.
 
 641
-00:33:17,551 --> 00:33:18,587
-Yao Huo has a problem
+00:36:02,190 --> 00:36:03,430
+There is still chance in winning the next round.
 
 642
-00:33:26,403 --> 00:33:26,726
-Yixuan
+00:36:06,260 --> 00:36:07,500
+Don't stress yourself.
 
 643
-00:33:26,990 --> 00:33:27,801
-The second game is about to begin
+00:36:08,220 --> 00:36:10,100
+The role of the Captain doesn't matter to me.
 
 644
-00:33:28,078 --> 00:33:28,883
-Cheer up
+00:36:11,020 --> 00:36:11,940
+Most importantly,
 
 645
-00:33:33,948 --> 00:33:35,472
-Brother Yao, what happened to you just now?
+00:36:12,820 --> 00:36:14,620
+to battle the game with the team.
 
 646
-00:33:35,636 --> 00:33:36,593
-Why don't you come on?
+00:36:16,160 --> 00:36:17,680
+Captain, rest assure.
 
 647
-00:33:36,758 --> 00:33:37,707
-Brother Yao
+00:36:18,200 --> 00:36:20,960
+I will not make any mistakes this time.
 
 648
-00:33:39,159 --> 00:33:39,831
-Brother Yao
+00:36:33,360 --> 00:36:34,400
+[Ji Xiang Kong: I've known him for 2 years]
 
 649
-00:33:40,748 --> 00:33:41,751
-We have so much 
+00:36:34,680 --> 00:36:35,520
+[I trust him.]
 
 650
-00:33:41,830 --> 00:33:42,582
-economic advantage
+00:36:39,270 --> 00:36:40,190
+Alright.
 
 651
-00:33:42,582 --> 00:33:44,191
-The win in the last game is in the bag
+00:36:40,310 --> 00:36:41,670
+Both teams are ready for Round 2.
 
 652
-00:33:49,164 --> 00:33:49,916
-I'm sorry, guys
+00:36:41,870 --> 00:36:43,590
+Selection round begins.
 
 653
-00:33:50,912 --> 00:33:51,829
-I didn't sleep well last night
+00:36:45,030 --> 00:36:47,580
+I wonder which character will they choose.
 
 654
-00:33:52,633 --> 00:33:53,392
-In the last game
+00:36:47,820 --> 00:36:48,420
+Xuan, I'll help you to choose.
 
 655
-00:33:53,398 --> 00:33:54,197
-Yao Huo have problem
+00:36:48,500 --> 00:36:49,500
+Choose Gongxi Changqing.
 
 656
-00:33:54,507 --> 00:33:55,628
-Maybe I was too nervous
+00:36:50,220 --> 00:36:50,660
+Okay.
 
 657
-00:33:56,432 --> 00:33:57,270
-I'm not in the zone
+00:36:50,780 --> 00:36:51,700
+Let's take a look.
 
 658
-00:33:58,405 --> 00:33:59,374
-Then please stay competitive 
+00:36:52,340 --> 00:36:53,740
+Legends chose
 
 659
-00:33:59,513 --> 00:34:00,245
-for the next round
+00:36:54,100 --> 00:36:55,020
+Gongxi Changqing.
 
 660
-00:34:00,390 --> 00:34:01,353
-If we lose again
+00:36:56,050 --> 00:36:57,530
+They chose Gongxi Changqing. Damn it!
 
 661
-00:34:04,644 --> 00:34:06,431
-This is only a test match, brother yao
+00:36:57,970 --> 00:36:59,570
+They're trying to help Lin Yixuan--
 
 662
-00:34:06,748 --> 00:34:08,061
-Our opponent is Weiteng
+00:36:59,570 --> 00:37:00,090
+They snatched our aide!
 
 663
-00:34:08,753 --> 00:34:10,316
-How many times have we beaten him?
+00:37:00,090 --> 00:37:01,570
+They chose a strong aide.
 
 664
-00:34:10,316 --> 00:34:11,154
-I've been fighting with you for so long
-
-665
-00:34:11,161 --> 00:34:12,466
-When have I seen you nervous?
-
-666
-00:34:13,390 --> 00:34:14,590
-If we lose one more game,brother Kong will leave
-
-667
-00:34:14,597 --> 00:34:14,907
-Can you 
-
-668
-00:34:14,907 --> 00:34:16,437
-improve your concentration?   -Stop
-
-669
-00:34:16,760 --> 00:34:18,191
-Now is not the time for argue about it
-
-670
-00:34:23,303 --> 00:34:24,200
-BrotherYao
-
-671
-00:34:24,919 --> 00:34:26,073
-You just need to adjust
-
-672
-00:34:32,596 --> 00:34:33,388
-Masters
-
-673
-00:34:33,882 --> 00:34:35,498
-What are you doing? One by one
-
-674
-00:34:35,782 --> 00:34:36,435
-Can you play well?
-
-675
-00:34:36,600 --> 00:34:37,563
-You don't want to win, do you?
-
-676
-00:34:38,513 --> 00:34:39,317
-Do you have any questions?
-
-677
-00:34:42,846 --> 00:34:43,954
-Manager Zhao, don't worry
-
-678
-00:34:44,600 --> 00:34:45,939
-What can happen to us?
-
-679
-00:34:53,155 --> 00:34:53,768
-YaoHuo
-
-680
-00:34:54,639 --> 00:34:55,635
-What are you nervous about?
-
-681
-00:34:58,280 --> 00:34:59,197
-Do you have any questions?
-
-682
-00:35:01,235 --> 00:35:02,033
-No problem
-
-683
-00:35:05,957 --> 00:35:06,742
-Be relaxed
-
-684
-00:35:07,078 --> 00:35:07,870
-You have to play well
-
-685
-00:35:08,477 --> 00:35:09,473
-It was up to you last time
-
-686
-00:35:11,675 --> 00:35:13,390
-Come on, everyone
-
-687
-00:35:15,468 --> 00:35:16,088
-Ok
-
-688
-00:35:16,266 --> 00:35:17,321
-The next match is about to begin
-
-689
-00:35:17,638 --> 00:35:18,436
-Let's go
-
-690
-00:35:43,150 --> 00:35:44,093
-Brother Yao
-
-691
-00:35:44,555 --> 00:35:45,960
-All right. We just lost one game
-
-692
-00:35:46,883 --> 00:35:48,077
-We still have a chance in the next game
-
-693
-00:35:50,801 --> 00:35:52,027
-Don't take on too much weight
-
-694
-00:35:52,806 --> 00:35:54,679
-It doesn't matter to me if I'm not the captain
-
-695
-00:35:55,596 --> 00:35:56,559
-the important thing is 
-
-696
-00:35:57,350 --> 00:35:59,204
-to fight with the brothers
-
-697
-00:36:00,635 --> 00:36:02,257
-Don't worry, captain
-
-698
-00:36:02,719 --> 00:36:03,372
-In the next game
-
-699
-00:36:03,992 --> 00:36:05,476
-I will make no mistake
-
-700
-00:36:17,836 --> 00:36:18,760
-We have been brothers more than two years 
-
-701
-00:36:19,030 --> 00:36:19,775
-I believe him
-
-702
-00:36:23,647 --> 00:36:24,557
-Ok, the two teams 
-
-703
-00:36:24,689 --> 00:36:26,068
-are now in the second game
-
-704
-00:36:26,239 --> 00:36:27,914
-Now this is BP
-
-705
-00:36:29,346 --> 00:36:29,926
-I wonder what kind of hero 
-
-706
-00:36:30,084 --> 00:36:30,810
-each side will choose 
-
-707
-00:36:30,915 --> 00:36:31,885
-in this game
-
-708
-00:36:32,050 --> 00:36:32,683
-Yixuan, I help you pick
-
-709
-00:36:32,841 --> 00:36:33,798
-Gongxichangqing
-
-710
-00:36:34,437 --> 00:36:34,912
-Ok
-
-711
-00:36:34,912 --> 00:36:35,921
-Let's take a look
-
-712
-00:36:36,673 --> 00:36:38,072
-Legends first chose
-
-713
-00:36:38,362 --> 00:36:39,213
- Gongxichangqing
-
-714
-00:36:40,189 --> 00:36:41,805
-They chose Gongxichangqing. Oh, no
-
-715
-00:36:42,121 --> 00:36:43,711
-They must want to choose 
-
-716
-00:36:43,711 --> 00:36:44,351
-The sup was robbed
-
-717
-00:36:44,364 --> 00:36:45,815
-this powerful sup hero for Xuanyi Lin
-
-718
-00:36:46,277 --> 00:36:46,910
-We chose Jincan
+00:37:02,130 --> 00:37:02,770
+Choose Jin Can.
 
