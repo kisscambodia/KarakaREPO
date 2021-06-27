@@ -1,0 +1,3350 @@
+﻿1
+00:00:00,180 --> 00:00:01,660
+(Shield menghilang Airborne)
+
+2
+00:00:01,660 --> 00:00:02,640
+(Seal·First Blood)
+Seal.
+
+3
+00:00:07,910 --> 00:00:08,910
+Ada apa?
+
+4
+00:00:10,140 --> 00:00:11,480
+Seal·First Blood.
+
+5
+00:00:11,480 --> 00:00:12,510
+Tunggu anggota baru kita tiba,
+
+6
+00:00:12,510 --> 00:00:13,430
+aku akan janji dengan Xiao Rui.
+
+7
+00:00:13,510 --> 00:00:14,720
+Sepertinya merekrut anggota baru.
+
+8
+00:00:14,880 --> 00:00:15,800
+Tunggu pengumuman resmi saja.
+
+9
+00:00:15,800 --> 00:00:16,760
+Juga berita besar.
+
+10
+00:00:22,320 --> 00:00:23,280
+Paus datang!
+
+11
+00:00:29,550 --> 00:00:30,830
+Lee Gun-hyeok.
+
+12
+00:00:33,750 --> 00:00:34,560
+(YQCB_PausHierophant)
+(Aku.)
+
+13
+00:00:36,660 --> 00:00:40,380
+(Developer e-sport unggah Weibo)
+
+14
+00:01:37,220 --> 00:01:40,660
+=Terpesona Senyummu=
+
+15
+00:01:41,460 --> 00:01:43,420
+=Episode 10=
+
+16
+00:03:05,190 --> 00:03:06,030
+Permianan yang bagus.
+
+17
+00:03:45,680 --> 00:03:48,910
+- Bagus!
+- Bagus sekali!
+
+18
+00:03:48,910 --> 00:03:50,360
+Jika ingin sehebat kakak-kakak,
+
+19
+00:03:50,360 --> 00:03:52,080
+kita harus berusaha lagi!
+
+20
+00:04:50,430 --> 00:04:51,720
+Semuanya sudah bekerja keras.
+
+21
+00:04:53,600 --> 00:04:54,390
+Pelatih,
+
+22
+00:04:56,310 --> 00:05:00,000
+babak selanjutnya biarkan
+Lu Sicheng yang main saja.
+
+23
+00:05:00,830 --> 00:05:01,720
+Benarkah?
+
+24
+00:05:01,830 --> 00:05:02,510
+Benar.
+
+25
+00:05:06,870 --> 00:05:07,630
+Kau yakin dia bisa?
+
+26
+00:05:07,630 --> 00:05:08,360
+Yakin.
+
+27
+00:05:09,720 --> 00:05:10,600
+Lu Sicheng.
+
+28
+00:05:17,830 --> 00:05:18,720
+Pelatih.
+
+29
+00:05:19,120 --> 00:05:20,920
+Babak selanjutnya, kau maju.
+
+30
+00:05:23,830 --> 00:05:25,430
+Semangat, Lu Sicheng!
+
+31
+00:06:06,630 --> 00:06:07,480
+Bagus sekali!
+
+32
+00:06:44,750 --> 00:06:45,600
+Hebat!
+
+33
+00:06:56,180 --> 00:06:59,500
+(Pertandingan ADC menakjubkan antara
+Chessman dan Hierophant)
+
+34
+00:07:09,220 --> 00:07:12,940
+(Paus dan penggantinya Chessman
+main bergantian.)
+
+35
+00:07:46,870 --> 00:07:47,830
+Terima kasih semua!
+
+36
+00:07:59,040 --> 00:08:00,120
+Pertandingan kedepannya
+
+37
+00:08:00,390 --> 00:08:02,510
+aku dan Lu Sicheng akan main bergantian.
+
+38
+00:08:02,750 --> 00:08:04,630
+Juga harap semua banyak mendukungnya.
+
+39
+00:08:05,190 --> 00:08:07,950
+Berita besar! Cepat foto!
+
+40
+00:08:07,950 --> 00:08:11,950
+Bagaimana menurutmu, Lu Sicheng?
+
+41
+00:08:15,120 --> 00:08:16,390
+Terima kasih.
+
+42
+00:08:21,580 --> 00:08:23,220
+(Duel)
+
+43
+00:08:23,220 --> 00:08:24,130
+(Chessman musuh dalam hidupku)
+
+44
+00:08:24,130 --> 00:08:24,830
+(Jangan merebut suami denganku)
+
+45
+00:08:24,830 --> 00:08:26,870
+(Aku umumkan, Kak Cheng adalah idolaku!)
+
+46
+00:08:26,920 --> 00:08:29,360
+(Pasangan cahaya dan bayangan, aku suka!)
+
+47
+00:08:30,360 --> 00:08:31,310
+(Menurut informasi,)
+
+48
+00:08:31,390 --> 00:08:33,790
+(perkiraan pengguna e-sport Tiongkok
+lebih dari 20 miliyar,)
+
+49
+00:08:34,000 --> 00:08:35,790
+(serta masih akan terus bertambah.)
+
+50
+00:08:36,320 --> 00:08:36,550
+(Tapi)
+
+51
+00:08:36,550 --> 00:08:38,910
+(seiring dengan tren karir e-sport,)
+
+52
+00:08:39,120 --> 00:08:40,120
+(kekurangan talenta dalam e-sport)
+
+53
+00:08:40,120 --> 00:08:42,600
+(menjadi kemacetan baru dalam
+perkembangan industri e-sport.)
+
+54
+00:08:42,870 --> 00:08:44,510
+(Bagi industri e-sport Tiongkok,)
+
+55
+00:08:44,670 --> 00:08:46,000
+(peserta profesional yang handal,)
+
+56
+00:08:46,080 --> 00:08:48,600
+(pertandingan e-sport, perusahaan game
+dan kesenjangan karir lainnya)
+
+57
+00:08:48,790 --> 00:08:50,390
+(diperkirakan akan mencapai
+2 juta orang.)
+
+58
+00:08:54,630 --> 00:08:55,720
+Tidak senang?
+
+59
+00:08:58,720 --> 00:09:00,670
+Ayo, kubawa kau ke suatu tempat.
+
+60
+00:09:58,960 --> 00:09:59,720
+Lu Sicheng,
+
+61
+00:09:59,870 --> 00:10:01,390
+pemain utama pertandingan berikutnya
+
+62
+00:10:01,390 --> 00:10:04,240
+kau tebak itu kau atau aku?
+
+63
+00:10:06,080 --> 00:10:07,510
+Sebenarnya aku ingin beri tahu
+kau satu hal.
+
+64
+00:10:08,080 --> 00:10:09,550
+Aku berencana pulang.
+
+65
+00:10:14,720 --> 00:10:15,790
+Meninggalkanku?
+
+66
+00:10:18,670 --> 00:10:20,960
+Masih bermain sebagai profesional
+setelah kembali?
+
+67
+00:10:26,960 --> 00:10:30,030
+Aku akan menghargai setiap
+kesempatan untuk mengalahkanmu.
+
+68
+00:10:30,440 --> 00:10:32,080
+Semoga kau bisa melakukannya.
+
+69
+00:10:42,670 --> 00:10:44,200
+Kau berikan padaku nanti
+saat bertemu kembali.
+
+70
+00:10:46,000 --> 00:10:46,840
+Lu Sicheng,
+
+71
+00:10:47,440 --> 00:10:48,670
+sampai jumpa di pertandingan.
+
+72
+00:10:49,000 --> 00:10:50,150
+Sampai jumpa di pertandingan.
+
+73
+00:11:20,510 --> 00:11:22,080
+Kak Cheng, aku Liang Sheng di sebelah.
+
+74
+00:11:22,080 --> 00:11:23,390
+Kau di markas?
+
+75
+00:11:23,670 --> 00:11:24,440
+Ada apa?
+
+76
+00:11:24,670 --> 00:11:25,670
+Paus hilang.
+
+77
+00:11:26,360 --> 00:11:27,030
+Di mana?
+
+78
+00:11:27,440 --> 00:11:28,030
+Setelah selesai pertandingan latihan,
+
+79
+00:11:28,200 --> 00:11:29,150
+aku pergi ke pusat perbelanjaan
+dengannya,
+
+80
+00:11:29,360 --> 00:11:30,600
+orang langsung menghilang
+begitu saja,
+
+81
+00:11:30,840 --> 00:11:31,550
+tidak bisa menemukannya.
+
+82
+00:11:31,870 --> 00:11:34,080
+Kak Cheng, aku sekarang
+tidak tahu bagaimana.
+
+83
+00:11:34,270 --> 00:11:36,390
+Aku menghilangkan anggota baru
+Korea yang baru diumumkan,
+
+84
+00:11:36,480 --> 00:11:38,600
+aku bagaimana bertanggungjawab
+dengan fans klub?
+
+85
+00:11:45,360 --> 00:11:46,390
+Kak Cheng keluar?
+
+86
+00:11:50,320 --> 00:11:51,270
+Paus menghilang di
+pusat perbelanjaan.
+
+87
+00:11:51,390 --> 00:11:52,120
+Aku pergi mencarinya.
+
+88
+00:11:52,200 --> 00:11:53,200
+Paus menghilang,
+
+89
+00:11:53,270 --> 00:11:54,360
+kenapa kau yang pergi?
+
+90
+00:11:54,480 --> 00:11:56,270
+Penerjemahnya ada urusan mendesak,
+sudah pulang.
+
+91
+00:11:56,440 --> 00:11:57,510
+Sekarang tidak bisa berkomunikasi.
+
+92
+00:11:58,000 --> 00:11:59,510
+Baru selesai pertandingan
+langsung jalan-jalan,
+
+93
+00:11:59,510 --> 00:12:00,510
+tindakan apa ini?
+
+94
+00:12:01,200 --> 00:12:02,510
+Oh ya, sebentar lagi akan hujan,
+
+95
+00:12:02,600 --> 00:12:03,480
+ingat bawa payung.
+
+96
+00:12:03,600 --> 00:12:06,240
+Tapi kalian bawa dua atau satu?
+
+97
+00:12:09,510 --> 00:12:10,240
+Apa maksudnya?
+
+98
+00:12:10,550 --> 00:12:11,870
+Kehujanan bisa flu.
+
+99
+00:12:19,000 --> 00:12:19,790
+Kau tahu
+
+100
+00:12:20,670 --> 00:12:22,320
+meski kau memperlakukanku
+dengan baik seperti ini
+
+101
+00:12:23,080 --> 00:12:24,460
+aku juga tidak akan
+mengubah keterangan.
+
+102
+00:12:24,670 --> 00:12:25,540
+(Kelinci Peluk Erat Wortel)
+
+103
+00:12:28,030 --> 00:12:28,870
+Selamat jalan.
+
+104
+00:12:44,670 --> 00:12:46,000
+Kak Cheng, bagaimana ini?
+
+105
+00:12:46,200 --> 00:12:48,030
+Baru sebentar saja sudah menghilang.
+
+106
+00:12:56,740 --> 00:13:03,820
+(Enjoy)
+
+107
+00:13:23,080 --> 00:13:24,240
+Hebat sekali!
+
+108
+00:13:37,080 --> 00:13:38,240
+Kenapa datang ke Tiongkok?
+
+109
+00:13:39,480 --> 00:13:40,750
+Karena dia.
+
+110
+00:13:43,480 --> 00:13:44,750
+Support pilihanku,
+
+111
+00:13:45,000 --> 00:13:46,030
+bagus bukan?
+
+112
+00:13:47,390 --> 00:13:48,870
+Pandanganmu bagus.
+
+113
+00:13:50,600 --> 00:13:52,080
+Aku pesankan minuman untuk kalian.
+
+114
+00:14:09,150 --> 00:14:11,480
+Waktu itu kemenangan
+masih belum jelas,
+
+115
+00:14:11,790 --> 00:14:13,240
+kau sudah pulang.
+
+116
+00:14:13,360 --> 00:14:15,510
+Kali ini aku akan mengalahkanmu
+
+117
+00:14:15,630 --> 00:14:16,870
+pada kompetisi Tiongkok!
+
+118
+00:14:18,870 --> 00:14:19,870
+Mengalahkanku?
+
+119
+00:14:20,550 --> 00:14:22,840
+Hadiah tamparan besar
+pertandingan latihan hari ini,
+
+120
+00:14:22,840 --> 00:14:23,750
+belum cukup menampar?
+
+121
+00:14:24,270 --> 00:14:26,440
+Aku hanya mengalah dengan
+sopan saja.
+
+122
+00:14:26,790 --> 00:14:28,750
+Lain kali aku tidak akan kalah.
+
+123
+00:14:30,360 --> 00:14:32,120
+Liga nasional segera dimulai,
+
+124
+00:14:33,030 --> 00:14:34,200
+kita bertemu nanti di pertandingan.
+
+125
+00:14:34,910 --> 00:14:35,870
+Aku sangat menantikannya.
+
+126
+00:14:36,600 --> 00:14:38,270
+Nanti jangan peluk supportmu
+sambil menangis.
+
+127
+00:14:39,440 --> 00:14:41,960
+Kalau begitu kau peluk
+mid laner kalian?
+
+128
+00:14:42,720 --> 00:14:44,360
+Orang yang bisa tersesat
+di pusat perbelanjaan
+
+129
+00:14:44,480 --> 00:14:45,720
+masih bisa mengikuti mid laner kami?
+
+130
+00:14:46,080 --> 00:14:47,000
+Boleh juga.
+
+131
+00:14:48,960 --> 00:14:51,080
+Memahami musuh dengan baik,
+mid laner yang bagus.
+
+132
+00:14:51,080 --> 00:14:52,030
+Tentu saja.
+
+133
+00:14:54,390 --> 00:14:55,200
+Semangat, Xiao Pang!
+
+134
+00:14:55,200 --> 00:14:55,720
+Mari.
+
+135
+00:14:56,120 --> 00:14:58,550
+- Xiao Pang! Xiao Pang, semangat!
+- Mudah sekali!
+
+136
+00:14:59,720 --> 00:15:00,790
+Dua banding nol.
+
+137
+00:15:02,120 --> 00:15:03,000
+Bagaimana kau main denganku?
+
+138
+00:15:03,440 --> 00:15:06,120
+Cuaca yang terus berubah ini
+benar-benar tidak bisa berhenti.
+
+139
+00:15:06,270 --> 00:15:07,960
+Semoga Kak Cheng pergi
+menyetir mobil.
+
+140
+00:15:08,270 --> 00:15:09,200
+Mobil kakakku sedang dicuci!
+
+141
+00:15:09,320 --> 00:15:09,840
+Bagus!
+
+142
+00:15:10,440 --> 00:15:11,320
+- Pikir dulu...
+- Dua banding nol.
+
+143
+00:15:11,320 --> 00:15:13,000
+Nanti Kak Cheng kehujanan
+
+144
+00:15:13,080 --> 00:15:14,270
+rasanya sedikit tidak tega.
+
+145
+00:15:14,360 --> 00:15:15,510
+benar tidak, Da Bing?
+
+146
+00:15:15,750 --> 00:15:17,720
+Semuanya, Kak Cheng tidak bawa payung,
+kalian siapa yang pergi antarkan?
+
+147
+00:15:17,790 --> 00:15:18,670
+Di pusat perbelanjaan sebelah.
+
+148
+00:15:20,870 --> 00:15:22,080
+Lanjut, lanjut main.
+
+149
+00:15:22,080 --> 00:15:22,510
+Mari, mari, mari.
+
+150
+00:15:22,510 --> 00:15:23,030
+Tong Yao?
+
+151
+00:15:23,360 --> 00:15:24,150
+Tidak baik.
+
+152
+00:15:24,270 --> 00:15:25,270
+Aku sangat sibuk.
+
+153
+00:15:25,320 --> 00:15:26,790
+Kau tidak sibuk, kau saja!
+
+154
+00:15:26,960 --> 00:15:28,320
+Nanti ingat bawa satu lagi.
+
+155
+00:15:28,440 --> 00:15:29,670
+Yang dari tim sebelah tidak bawa.
+
+156
+00:15:30,000 --> 00:15:30,630
+Dan lagi,
+
+157
+00:15:30,750 --> 00:15:32,510
+waktu itu Kak Cheng juga meluangkan
+waktu dari kesibukannya
+
+158
+00:15:32,600 --> 00:15:34,550
+membawamu pergi ke pusat perbelanjaan
+beli kebutuhan sehari-hari bukan?
+
+159
+00:15:34,750 --> 00:15:35,510
+Jadi orang harus tahu balas budi.
+
+160
+00:15:35,670 --> 00:15:36,480
+Benar tidak, Da Bing?
+
+161
+00:15:36,790 --> 00:15:37,790
+Aku tidak tahu diri.
+
+162
+00:15:38,390 --> 00:15:39,630
+Jangan mencari alasan, cepat pergi!
+
+163
+00:15:40,150 --> 00:15:41,270
+Baik, aku pergi.
+
+164
+00:15:41,390 --> 00:15:43,120
+Tapi aku sepertinya butuh
+20 menit baru bisa tiba.
+
+165
+00:15:43,200 --> 00:15:44,550
+Karena kaki ku pendek,
+jalanku lambat.
+
+166
+00:15:44,720 --> 00:15:45,910
+Semoga dalam kurun waktu ini
+
+167
+00:15:45,910 --> 00:15:47,000
+dia tidak mati kedinginan.
+
+168
+00:15:47,480 --> 00:15:48,910
+Pergilah, hati-hati!
+
+169
+00:15:49,480 --> 00:15:50,630
+Mari, mari, mari!
+Sekali lagi, sekali lagi!
+
+170
+00:15:51,000 --> 00:15:51,870
+Sudah ngantuk?
+
+171
+00:16:16,360 --> 00:16:19,630
+(Halo, nomor yang Anda tuju
+sedang tidak aktif.)
+
+172
+00:16:19,630 --> 00:16:23,790
+(Maaf, nomor yang Anda hubungi
+sedang tidak aktif.)
+
+173
+00:16:32,550 --> 00:16:33,510
+Nona Tong Yao!
+
+174
+00:16:34,080 --> 00:16:34,910
+Kenapa kau di sini?
+
+175
+00:16:35,150 --> 00:16:35,960
+Akhirnya menemukanmu!
+
+176
+00:16:36,080 --> 00:16:36,910
+Di mana Marksman kami?
+
+177
+00:16:36,960 --> 00:16:38,030
+Sedang bersama dengan Marksmanku.
+
+178
+00:16:38,270 --> 00:16:39,440
+Terima kasih, mohon arahannya.
+
+179
+00:16:39,550 --> 00:16:40,240
+Ayo.
+
+180
+00:16:44,550 --> 00:16:46,910
+Memang disamping idola kalau
+bukan idola wanita,
+
+181
+00:16:47,120 --> 00:16:49,030
+yaitu idola lainnya.
+
+182
+00:16:52,840 --> 00:16:53,630
+Kau sudah datang?
+
+183
+00:16:57,240 --> 00:16:58,960
+Sudah kusuruh bawa payung keluar,
+kau tidak bawa.
+
+184
+00:16:59,120 --> 00:17:00,600
+Sekarang masih harus menjemputmu.
+
+185
+00:17:01,600 --> 00:17:03,270
+Maaf, membuatmu lama menunggu.
+
+186
+00:17:04,920 --> 00:17:07,030
+Bonekanya untukmu.
+
+187
+00:17:08,720 --> 00:17:09,960
+Dia bilang, maaf membuatmu menunggu
+
+188
+00:17:10,070 --> 00:17:11,440
+boneka-boneka ini untukmu.
+
+189
+00:17:20,350 --> 00:17:21,160
+Lihat apa?
+
+190
+00:17:22,070 --> 00:17:22,880
+Tidak apa-apa.
+
+191
+00:17:23,720 --> 00:17:24,480
+Mari,
+
+192
+00:17:25,440 --> 00:17:26,000
+ini untukmu.
+
+193
+00:17:30,070 --> 00:17:30,960
+Ambil.
+
+194
+00:17:31,960 --> 00:17:34,000
+Hm... ayo, ayo, dingin sekali!
+
+195
+00:17:45,030 --> 00:17:45,720
+Ambil.
+
+196
+00:17:53,590 --> 00:17:54,440
+Ayo pergi.
+
+197
+00:18:09,030 --> 00:18:11,480
+Cepat mandi air hangat setelah
+pulang agar tidak kedinginan.
+
+198
+00:18:11,640 --> 00:18:13,270
+Besok masih harus pergi ke
+liga nasional ambil undian,
+
+199
+00:18:13,270 --> 00:18:14,070
+jangan sakit.
+
+200
+00:18:14,310 --> 00:18:16,480
+Oh ya, besok masih ada
+sesi undian.
+
+201
+00:18:16,510 --> 00:18:17,200
+Hampir lupa.
+
+202
+00:18:17,200 --> 00:18:18,590
+Apa yang dipikirkan otakmu?
+
+203
+00:18:18,750 --> 00:18:19,750
+Bukan urusanmu!
+
+204
+00:18:20,310 --> 00:18:21,200
+Semoga undian besok,
+
+205
+00:18:21,200 --> 00:18:22,550
+tidak mendapat tim kalian.
+
+206
+00:18:22,720 --> 00:18:24,350
+Meski kami degredasi
+di kompetisi musim semi,
+
+207
+00:18:24,400 --> 00:18:25,310
+tapi masih boleh memimpikan
+
+208
+00:18:25,310 --> 00:18:26,920
+juara di final liga nasional.
+
+209
+00:18:28,510 --> 00:18:30,030
+Tapi meski bukan kami,
+
+210
+00:18:30,070 --> 00:18:31,550
+juga adalah tim CK.
+
+211
+00:18:31,830 --> 00:18:33,720
+Tapi CK bukan begitu tidak
+terkalahkan seperti kalian.
+
+212
+00:18:33,880 --> 00:18:35,880
+Pertandingan latihan akhir-akhir
+ini kami menang.
+
+213
+00:18:36,830 --> 00:18:38,590
+CK, lemah!
+
+214
+00:18:38,720 --> 00:18:39,750
+Bisa menang.
+
+215
+00:18:40,030 --> 00:18:41,510
+Kalian menang dari CK?
+
+216
+00:18:41,640 --> 00:18:42,680
+Hebat sekali!
+
+217
+00:18:43,550 --> 00:18:44,720
+Kerdil, sudah dengar?
+
+218
+00:18:44,920 --> 00:18:46,310
+Mereka bilang tidak terkalahkan.
+
+219
+00:18:46,510 --> 00:18:47,720
+Kau lihat dia begitu pintar bicara.
+
+220
+00:18:49,880 --> 00:18:51,550
+Kau lihat, bersin bukan?
+
+221
+00:18:51,680 --> 00:18:52,590
+Sombong!
+
+222
+00:19:01,480 --> 00:19:02,400
+Sampai jumpa di pertandingan!
+
+223
+00:19:03,350 --> 00:19:04,350
+Sampai jumpa di pertandingan!
+
+224
+00:19:38,200 --> 00:19:39,480
+Siaran langsung mu bulan ini
+
+225
+00:19:39,640 --> 00:19:40,440
+masih kurang banyak.
+
+226
+00:19:40,920 --> 00:19:41,440
+Makan lagi?
+
+227
+00:19:41,440 --> 00:19:42,270
+Makan dulu, nanti baru bahas.
+
+228
+00:19:43,110 --> 00:19:44,270
+Tidak makan, mana ada energi
+untuk siaran langsung?
+
+229
+00:19:44,960 --> 00:19:45,790
+Sudah pulang?
+
+230
+00:19:46,680 --> 00:19:47,640
+Bukankah kalian berdua
+bawa payung keluar?
+
+231
+00:19:48,270 --> 00:19:49,200
+Kenapa masih kehujanan?
+
+232
+00:19:49,350 --> 00:19:50,880
+Empat orang dua payung.
+
+233
+00:19:51,000 --> 00:19:52,880
+Hujan begitu deras, mana berguna!
+
+234
+00:19:53,590 --> 00:19:54,550
+Kau kedinginan?
+
+235
+00:19:54,960 --> 00:19:55,590
+Tidak tahu.
+
+236
+00:19:56,070 --> 00:19:56,920
+Kau makanlah obat kalau kedinginan.
+
+237
+00:19:57,030 --> 00:19:58,160
+Besok sesi undian,
+
+238
+00:19:58,160 --> 00:19:59,200
+kau pergi dengan hingusan?
+
+239
+00:19:59,550 --> 00:20:01,160
+Hanya kendinginan saja,
+untuk apa makan obat?
+
+240
+00:20:01,310 --> 00:20:02,550
+Aku mandi air panas dulu di atas.
+
+241
+00:20:07,110 --> 00:20:07,880
+Apa ini?
+
+242
+00:20:08,640 --> 00:20:09,720
+Jaket Kak Cheng.
+
+243
+00:20:09,960 --> 00:20:10,880
+Ini yang ku bilang.
+
+244
+00:20:11,110 --> 00:20:12,030
+Kelinci!
+
+245
+00:20:13,590 --> 00:20:14,790
+Kelinci dari mana?
+
+246
+00:20:14,960 --> 00:20:16,920
+Ini harus terima kasih
+dengan Kak Cheng kami.
+
+247
+00:20:17,000 --> 00:20:17,960
+di area khusus anak-anak
+
+248
+00:20:18,160 --> 00:20:19,510
+berdua dengan Marksman sebelah
+
+249
+00:20:19,510 --> 00:20:22,200
+yang tingginya ditambah
+hampir empat meter
+
+250
+00:20:22,550 --> 00:20:24,480
+berperang di depan mesin crane,
+
+251
+00:20:24,590 --> 00:20:25,880
+rasanya seperti mau menjepit
+
+252
+00:20:25,880 --> 00:20:27,030
+habis seluruh boneka
+di pusat perbelanjaan.
+
+253
+00:20:27,030 --> 00:20:28,400
+Begitulah asal muasal kelinci ini.
+
+254
+00:20:28,830 --> 00:20:30,030
+Jari pemain profesional lincah,
+
+255
+00:20:30,110 --> 00:20:31,350
+menangkap benda-benda ini
+memang hebat.
+
+256
+00:20:31,680 --> 00:20:33,480
+Aku temani Kak Cheng begitu lama
+
+257
+00:20:33,590 --> 00:20:34,880
+dia juga tidak memberiku
+seekor kelinci.
+
+258
+00:20:35,400 --> 00:20:36,070
+Berikan padaku!
+
+259
+00:20:36,440 --> 00:20:36,920
+Tidak mau!
+
+260
+00:20:37,160 --> 00:20:38,640
+- Kemari!
+- Tidak mau!
+
+261
+00:20:40,720 --> 00:20:41,480
+Berikan padaku!
+
+262
+00:21:37,100 --> 00:21:42,220
+(Onmyoji Arena)
+
+263
+00:21:49,830 --> 00:21:53,750
+♪Tutup mata, rasakan kenikmatan
+surga dunia♪
+
+264
+00:21:54,270 --> 00:21:57,160
+♪Suara ombak yang yang kuat♪
+
+265
+00:21:58,830 --> 00:21:59,550
+Mao.
+
+266
+00:22:00,070 --> 00:22:01,440
+Menurutmu Kak Cheng akan
+mendapat Tim A atau Tim B?
+
+267
+00:22:01,590 --> 00:22:02,440
+Menurutmu?
+
+268
+00:22:03,960 --> 00:22:05,590
+Aku dengar pembawa acara hari ini
+
+269
+00:22:06,160 --> 00:22:07,310
+ada seorang wanita.
+
+270
+00:22:08,310 --> 00:22:10,240
+Sepertinya pacar Ai Jia.
+
+271
+00:22:10,440 --> 00:22:11,030
+Benarkah?
+
+272
+00:22:11,160 --> 00:22:12,960
+Semoga bisa membawa keberuntungan
+untuk kita.
+
+273
+00:22:13,110 --> 00:22:15,830
+♪Cepat maju ke medan perang
+yang penuh perubahan♪
+
+274
+00:22:16,240 --> 00:22:18,960
+♪Cepat rasakan bentrokan
+yang paling menakjubkan♪
+
+275
+00:22:19,160 --> 00:22:21,880
+♪Ragu-ragu akan kalah,
+percaya diri baru cukup gila♪
+
+276
+00:22:22,510 --> 00:22:25,640
+♪Kau hanya akan menginginkan
+lebih banyak♪
+
+277
+00:22:26,000 --> 00:22:27,510
+Pembawa acara hari ini
+adalah istriku
+
+278
+00:22:27,680 --> 00:22:28,510
+Aku tahu.
+
+279
+00:22:29,070 --> 00:22:30,350
+Kau hati-hati,
+
+280
+00:22:30,440 --> 00:22:31,400
+jangan terlalu senang.
+
+281
+00:22:31,510 --> 00:22:33,720
+Bukan urusanmu, banyak masalah!
+
+282
+00:22:34,510 --> 00:22:35,640
+Nanti di layar besar ini,
+
+283
+00:22:35,750 --> 00:22:38,030
+akan menampilkan nama tim
+yang diundi...
+
+284
+00:22:38,790 --> 00:22:41,400
+♪Kami pilih yang kuat♪
+
+285
+00:22:42,480 --> 00:22:43,200
+Kau kenapa?
+
+286
+00:22:43,270 --> 00:22:44,070
+Hati-hati.
+
+287
+00:22:46,510 --> 00:22:48,270
+♪Kau tahu kami tidak akan menyerah♪
+
+288
+00:22:48,400 --> 00:22:51,400
+♪Pertarungan di atas langit♪
+
+289
+00:22:53,110 --> 00:22:54,400
+Para hadirin yang terhormat,
+
+290
+00:22:54,510 --> 00:22:55,000
+halo semua.
+
+291
+00:22:55,110 --> 00:22:58,030
+Aku pembawa acara sesi undian
+hari ini, Xiao Sen.
+
+292
+00:22:58,240 --> 00:22:59,750
+Halo semua, aku Jinyang.
+
+293
+00:23:00,070 --> 00:23:03,110
+Sesi undian liga nasional
+yang ditunggu-tunggu
+
+294
+00:23:03,110 --> 00:23:04,440
+- akan segera dimulai.
+- Liang Sheng.
+
+295
+00:23:04,600 --> 00:23:05,900
+- Selanjutnya...
+- Nanti izinkan aku naik panggung.
+
+296
+00:23:05,900 --> 00:23:07,340
+- Kita lihat dulu.
+- Aku mau foto dengan istriku.
+
+297
+00:23:07,340 --> 00:23:09,510
+- Peraturan sesi undian musim ini...
+- Terserahmu.
+
+298
+00:23:09,510 --> 00:23:11,440
+Silakan lihat layar besar.
+
+299
+00:23:12,780 --> 00:23:13,830
+(Peraturan undian)
+
+300
+00:23:13,830 --> 00:23:14,550
+Dapat kita lihat,
+
+301
+00:23:14,750 --> 00:23:16,880
+berdasarkan urutan kompetisi
+Onmyoji Arena
+
+302
+00:23:17,070 --> 00:23:18,070
+musim semi tahun 2020
+
+303
+00:23:18,200 --> 00:23:19,880
+dapat dibagi menjadi empat
+kolam bibit.
+
+304
+00:23:20,110 --> 00:23:22,440
+Juara satu dan dua adalah
+kolam nomor satu.
+
+305
+00:23:22,590 --> 00:23:25,550
+Juara tiga sampai enam
+adalah kolam nomor dua.
+
+306
+00:23:25,680 --> 00:23:27,160
+Juara tujuh sampai sepuluh
+
+307
+00:23:27,240 --> 00:23:28,350
+akan menjadi kolam nomor tiga.
+
+308
+00:23:28,350 --> 00:23:30,030
+- Kami berada di kolam itu.
+- Juara 11 dan 12
+
+309
+00:23:30,030 --> 00:23:31,260
+- jadi kolam keempat.
+- Baik.
+
+310
+00:23:31,350 --> 00:23:34,880
+(Liga Profesional Onmyoji Arena 2020)
+
+311
+00:23:34,880 --> 00:23:35,750
+Urutan mengundi
+
+312
+00:23:35,880 --> 00:23:38,830
+dilaksanakan sesuai urutan
+tim A-B-A-B.
+
+313
+00:23:45,830 --> 00:23:47,110
+Pertama, mari kita persilakan
+
+314
+00:23:47,160 --> 00:23:50,110
+kedua tim dari kolam nomor satu
+naik ke panggung mengambil undian.
+
+315
+00:23:50,550 --> 00:23:53,070
+Karena Tim CK adalah juara
+kompetisi musim semi
+
+316
+00:23:53,160 --> 00:23:56,480
+jadi yang pertama mengundi
+adalah Tim CK.
+
+317
+00:23:56,480 --> 00:23:58,510
+Berikut persilakan Ketua Tim CK,
+
+318
+00:23:58,590 --> 00:24:00,640
+Dewa Yang naik ke atas panggung
+mengambil undian.
+
+319
+00:24:27,790 --> 00:24:28,440
+Tim B.
+
+320
+00:24:29,750 --> 00:24:31,750
+Berikut persilakan Ketua Tim ZGDX
+
+321
+00:24:31,880 --> 00:24:33,310
+Lu Sicheng naik ke atas panggung
+mengambil undian.
+
+322
+00:24:33,680 --> 00:24:34,790
+Meski sudah tahu hasil,
+
+323
+00:24:34,920 --> 00:24:36,510
+lebih baik Kak Cheng
+yang undi saja,
+
+324
+00:24:36,590 --> 00:24:37,510
+jalani prosedurnya.
+
+325
+00:24:42,270 --> 00:24:43,240
+Kak Cheng, keren!
+
+326
+00:24:43,480 --> 00:24:44,200
+Baik!
+
+327
+00:24:59,240 --> 00:25:00,070
+Tim A.
+
+328
+00:25:00,640 --> 00:25:02,440
+Baik, terima kasih.
+Silakan kembali ke tempat duduk.
+
+329
+00:25:02,750 --> 00:25:04,110
+Kalau begitu berikutnya
+
+330
+00:25:04,110 --> 00:25:05,480
+kita persilakan
+
+331
+00:25:05,550 --> 00:25:08,350
+Tim Hong Jian dari kolam nomor dua
+naik ke panggung mengambil undian.
+
+332
+00:25:08,960 --> 00:25:09,830
+Silakan.
+
+333
+00:25:12,830 --> 00:25:14,880
+Kenapa ekspresi Kak Cheng
+menakutkan sekali?
+
+334
+00:25:15,110 --> 00:25:16,270
+Apa yang terjadi?
+
+335
+00:25:16,310 --> 00:25:17,830
+Penuh dengan aura membunuh.
+
+336
+00:25:17,880 --> 00:25:18,480
+Benar!
+
+337
+00:25:22,160 --> 00:25:24,400
+Kak Cheng, kenapa mukamu
+begitu masam?
+
+338
+00:25:25,750 --> 00:25:27,480
+Tahan batuk, tahan bersin
+
+339
+00:25:27,510 --> 00:25:28,350
+menyiksa sekali.
+
+340
+00:25:29,270 --> 00:25:31,070
+Jadi kau penuh aura membunuh
+
+341
+00:25:31,310 --> 00:25:32,550
+muka hitam seperti pantat wajan,
+
+342
+00:25:32,750 --> 00:25:35,030
+agar tidak bersin dan batuk?
+
+343
+00:25:35,480 --> 00:25:37,240
+Kenapa begitu menjaga kesan?
+
+344
+00:25:43,440 --> 00:25:44,240
+Kak Cheng,
+
+345
+00:25:44,920 --> 00:25:46,680
+kau yakin tidak perlu makan obat flu?
+
+346
+00:25:46,680 --> 00:25:47,480
+Tidak mau.
+
+347
+00:25:48,030 --> 00:25:49,920
+Tapi dua hari lagi kita
+akan bertanding.
+
+348
+00:25:50,000 --> 00:25:52,070
+Tenggorokanmu sudah serak,
+bagaimana mengarahkan kita?
+
+349
+00:25:52,440 --> 00:25:53,590
+Lusa akan sembuh.
+
+350
+00:26:04,750 --> 00:26:05,350
+Kerdil,
+
+351
+00:26:06,510 --> 00:26:08,440
+ada apa antara kau dan
+Jian Yang di tim CK?
+
+352
+00:26:08,440 --> 00:26:09,030
+Masih belum selesai?
+
+353
+00:26:09,350 --> 00:26:11,000
+Ekspresi apa tadi saat dia melihatmu?
+
+354
+00:26:11,400 --> 00:26:13,070
+Apa-apaan?
+
+355
+00:26:13,270 --> 00:26:13,960
+Sudah lama selesai.
+
+356
+00:26:14,160 --> 00:26:15,160
+Sepenuhnya!
+
+357
+00:26:16,070 --> 00:26:18,240
+Dan lagi, kami juga berada
+di arena yang berbeda,
+
+358
+00:26:18,440 --> 00:26:21,270
+jika ketemu juga pasti
+di final, bukan?
+
+359
+00:26:21,640 --> 00:26:22,880
+Pertandingan pembuka liga nasional
+
+360
+00:26:23,240 --> 00:26:24,510
+kami melawan CK.
+
+361
+00:26:34,030 --> 00:26:35,310
+Berikut kita persilakan
+
+362
+00:26:35,440 --> 00:26:36,750
+tim terakhir hari ini.
+
+363
+00:26:36,750 --> 00:26:39,200
+Kuda hitam yang keluar dari
+tim degredasi tahun ini,
+
+364
+00:26:39,200 --> 00:26:40,400
+- Tim YQCB.
+- Giliran kita.
+
+365
+00:26:40,590 --> 00:26:42,110
+Silakan naik ke panggung
+mengambil undian.
+
+366
+00:26:42,590 --> 00:26:44,110
+- Tim YQCB silakan.
+- Semangat!
+
+367
+00:26:45,750 --> 00:26:47,070
+Maju! Semangat!
+
+368
+00:26:48,960 --> 00:26:49,510
+Cepat!
+
+369
+00:26:50,550 --> 00:26:51,440
+Berdiri foto.
+
+370
+00:26:54,110 --> 00:26:55,110
+Sayang, peluk!
+
+371
+00:26:55,400 --> 00:26:56,400
+Kau kenapa?
+
+372
+00:27:11,110 --> 00:27:12,880
+Baik, mari, kita lihat dulu.
+
+373
+00:27:14,640 --> 00:27:16,350
+Selamar, Tim B.
+
+374
+00:27:24,880 --> 00:27:26,640
+Baik, terima kasih.
+Silakan kembali ke tempat.
+
+375
+00:27:27,310 --> 00:27:28,070
+Ai Jia.
+
+376
+00:27:31,350 --> 00:27:32,110
+Bisa, bisa, bisa.
+
+377
+00:27:34,070 --> 00:27:34,680
+Keren.
+
+378
+00:27:34,790 --> 00:27:36,240
+- Kak, lihat.
+- Baik.
+
+379
+00:27:36,240 --> 00:27:37,350
+Sekarang 12 tim...
+
+380
+00:27:37,350 --> 00:27:39,720
+- Jelek sekali fotonya.
+- Sudah selesai mengundi.
+
+381
+00:27:40,070 --> 00:27:41,200
+Bagaimana dengan keadaan
+
+382
+00:27:41,200 --> 00:27:43,110
+pembagian Tim A dan B kita?
+
+383
+00:27:43,200 --> 00:27:44,920
+Silakan lihat layar lebar.
+
+384
+00:27:45,030 --> 00:27:47,200
+Pertama, Tim A.
+
+385
+00:27:48,240 --> 00:27:52,000
+ZGDX, FNC, Hong Jian,
+
+386
+00:27:52,920 --> 00:27:56,640
+KING, Feng, Hei Yao.
+
+387
+00:27:57,350 --> 00:27:59,790
+Berikut adalah Tim B.
+
+388
+00:28:00,310 --> 00:28:04,680
+CK, YQCB, Orc,
+
+389
+00:28:05,000 --> 00:28:10,030
+Alpha, DQ.Five, ANT
+
+390
+00:28:10,980 --> 00:28:18,460
+(Calon juara)
+
+391
+00:28:20,000 --> 00:28:21,480
+Dari data pribadi dan penampilan
+
+392
+00:28:21,480 --> 00:28:23,270
+Lu Yue dan Tong Yao sampai sekarang
+
+393
+00:28:23,510 --> 00:28:25,510
+juga susunan barisan
+dan kolam shikigami
+
+394
+00:28:25,790 --> 00:28:27,960
+Tong Yao lebih cocok menjadi
+pemain utama liga nasional.
+
+395
+00:28:28,310 --> 00:28:29,480
+Keputusan akhir klub,
+
+396
+00:28:29,550 --> 00:28:31,110
+Tong Yao jadi pemain utama liga nasional.
+
+397
+00:28:31,310 --> 00:28:33,750
+Lu Yue sebagai pengganti,
+bergantian dengan Tong Yao.
+
+398
+00:28:34,030 --> 00:28:35,160
+Aku sudah kabari admin akun.
+
+399
+00:28:35,240 --> 00:28:36,720
+Akun resmi akan segera
+mengumumkannya.
+
+400
+00:28:38,960 --> 00:28:39,550
+Lihat apa?
+
+401
+00:28:39,830 --> 00:28:40,830
+Kau ikuti pertandingan dengan baik,
+
+402
+00:28:41,070 --> 00:28:42,920
+jika tidak, kapan pun bisa
+kembali ke samping dispenser!
+
+403
+00:28:44,680 --> 00:28:47,160
+Nona akan bertempur bersama kami.
+
+404
+00:28:48,000 --> 00:28:49,240
+Tong Yao, semangat!
+
+405
+00:28:49,550 --> 00:28:50,310
+Semangat!
+
+406
+00:28:51,480 --> 00:28:52,160
+Tong Yao,
+
+407
+00:28:52,350 --> 00:28:53,680
+Oktober makan daging di Shanghai,
+
+408
+00:28:53,790 --> 00:28:55,070
+atau minum sup di depan komputer,
+
+409
+00:28:55,240 --> 00:28:56,680
+semuanya mengandalkanmu, semangat!
+
+410
+00:28:57,160 --> 00:28:58,160
+Lusa adalah pertandingan pembuka,
+
+411
+00:28:58,310 --> 00:29:00,640
+sebagai pemain utama,
+Tong Yao kau harus semangat.
+
+412
+00:29:01,550 --> 00:29:04,240
+Tong Yao, selamat bergabung
+di ZGDX!
+
+413
+00:29:05,720 --> 00:29:06,510
+Lao K,
+
+414
+00:29:07,240 --> 00:29:08,960
+bukankah aku sudah lama bergabung?
+
+415
+00:29:10,160 --> 00:29:10,920
+Kalau begitu aku diam.
+
+416
+00:29:16,270 --> 00:29:17,110
+Semangat!
+
+417
+00:29:31,480 --> 00:29:32,030
+Lu Yue.
+
+418
+00:29:33,680 --> 00:29:34,550
+Aku tidak apa-apa.
+
+419
+00:29:35,440 --> 00:29:36,640
+Data itu objektif,
+
+420
+00:29:37,110 --> 00:29:38,790
+keseluruhan kemampuanku sekarang
+dibandingkan dengan kerdil
+
+421
+00:29:38,790 --> 00:29:39,640
+masih kurang sedikit.
+
+422
+00:29:39,720 --> 00:29:40,680
+Aku akan berusaha
+
+423
+00:29:40,680 --> 00:29:41,880
+pasti akan melewatinya!
+
+424
+00:29:42,880 --> 00:29:43,720
+Pertahankan mentalmu!
+
+425
+00:29:44,270 --> 00:29:44,960
+Semangat!
+
+426
+00:29:45,440 --> 00:29:46,070
+Semangat!
+
+427
+00:29:46,550 --> 00:29:47,200
+Ayo!
+
+428
+00:30:31,590 --> 00:30:33,640
+FNC yang terbagi ke arena kami
+
+429
+00:30:33,790 --> 00:30:35,070
+sudah pernah main tahun ini.
+
+430
+00:30:35,400 --> 00:30:37,310
+Up lanernya kadang bisa
+menekan Lao Mao,
+
+431
+00:30:37,480 --> 00:30:39,160
+tekan sampai dia tidak bisa
+hidup sendiri.
+
+432
+00:30:40,030 --> 00:30:40,920
+Sangat hebat.
+
+433
+00:30:41,830 --> 00:30:44,960
+Tim KING tim yang naik pada
+kompetisi musim semi
+
+434
+00:30:45,270 --> 00:30:46,920
+kabarnya persentase mereka
+membalikkan keadaan
+
+435
+00:30:47,070 --> 00:30:48,480
+mencapai 80%.
+
+436
+00:30:48,750 --> 00:30:49,640
+Dan Hei Yao,
+
+437
+00:30:49,750 --> 00:30:52,160
+sama seperti sebelah, tahun ini
+pernah ikut kompetisi degredasi,
+
+438
+00:30:52,550 --> 00:30:54,680
+tapi sekarang sebelah bahkan
+bisa mengalahkan CK
+
+439
+00:30:54,830 --> 00:30:56,070
+masih ada apa yang tidak mungkin?
+
+440
+00:30:57,270 --> 00:30:58,550
+Sudahlah, jangan pikir lagi.
+
+441
+00:31:00,700 --> 00:31:04,740
+(Pertandingan lusa, semangat!)
+
+442
+00:31:12,480 --> 00:31:13,270
+(Sejujurnya)
+
+443
+00:31:13,400 --> 00:31:14,550
+(ada perasaan seperti
+menikahkan istri.)
+
+444
+00:31:14,680 --> 00:31:15,400
+(Yang di atas salah!)
+
+445
+00:31:15,830 --> 00:31:17,750
+(Jelas-jelas adalah perasaan
+menikahkan putri.)
+
+446
+00:31:18,310 --> 00:31:20,240
+(Menantikan putri bersinar
+di rumah mertua!)
+
+447
+00:31:20,440 --> 00:31:21,110
+(Menampar wajah)
+
+448
+00:31:21,110 --> 00:31:22,680
+(pria jujur yang bilang
+dinua e-sport milik pria.)
+
+449
+00:31:22,960 --> 00:31:24,070
+(Juga ada perasaan)
+
+450
+00:31:24,310 --> 00:31:25,110
+(putriku hebat sekali,)
+
+451
+00:31:25,240 --> 00:31:27,440
+(kenapa harus dilukai kalian,
+rasa kecewa seperti ini)
+
+452
+00:31:29,200 --> 00:31:30,030
+(Sayang.)
+
+453
+00:31:30,160 --> 00:31:31,440
+(Aku menunggumu di lokasi.)
+
+454
+00:31:31,550 --> 00:31:32,480
+(Jika menang,)
+
+455
+00:31:32,480 --> 00:31:33,790
+(bagaimana jika melamarmu?)
+
+456
+00:31:35,480 --> 00:31:37,510
+(Nona pembawa acara cantik dan ketus.)
+
+457
+00:31:37,680 --> 00:31:38,380
+(Jatuh cinta.)
+
+458
+00:31:38,440 --> 00:31:42,500
+(Kirim ke Ibu Amao)
+
+459
+00:31:43,640 --> 00:31:45,640
+(Teman, kau terkenal.)
+
+460
+00:31:46,590 --> 00:31:48,640
+(Tolong panggil aku Ratu.)
+
+461
+00:31:50,180 --> 00:31:52,380
+(Bos Smiling Sang Gadis Ikan Asin)
+
+462
+00:32:00,400 --> 00:32:02,540
+(Unggah Weibo)
+(Saat ini, tidak takut apa pun,)
+
+463
+00:32:02,780 --> 00:32:03,720
+(yang penting maju!)
+
+464
+00:32:10,030 --> 00:32:12,000
+(Nona, aku sudah lama mengikutimu,)
+
+465
+00:32:12,070 --> 00:32:13,640
+(kau sangat ceria dan semangat,)
+
+466
+00:32:13,720 --> 00:32:15,440
+(tidak peduli terjadi
+apa pun harus semangat,)
+
+467
+00:32:15,550 --> 00:32:16,590
+(menjadi raja sendiri.)
+
+468
+00:32:16,750 --> 00:32:17,960
+(Yang dibutuhkan adalah
+kekuatan seperti ini.)
+
+469
+00:32:18,200 --> 00:32:20,200
+(Percaya diri,
+melewati segala rintangan)
+
+470
+00:32:42,820 --> 00:32:44,500
+(Orc, KINF, ANT)
+
+471
+00:32:57,420 --> 00:32:59,660
+(Liga Profesional Onmyoji Arena)
+
+472
+00:33:21,030 --> 00:33:21,960
+Halo!
+
+473
+00:33:22,920 --> 00:33:25,000
+Para tuan Onmyoji Arena
+yang tersayang,
+
+474
+00:33:25,200 --> 00:33:26,640
+juga para penonton yang sedang
+
+475
+00:33:26,640 --> 00:33:27,720
+menonton siaran langsung kami.
+
+476
+00:33:27,720 --> 00:33:28,590
+(Liga Profesional Onmyoji Arena)
+Halo semuanya.
+
+477
+00:33:28,680 --> 00:33:29,510
+Semuanya selamat datang di...
+
+478
+00:33:29,510 --> 00:33:31,750
+- Sudah mulai.
+- Liga profesional
+
+479
+00:33:31,830 --> 00:33:32,590
+Onmyoji Arena tahun 2020.
+
+480
+00:33:32,720 --> 00:33:33,550
+- Arena Tiongkok.
+- Tempatnya besar sekali.
+
+481
+00:33:33,550 --> 00:33:34,960
+Lokasi pertandingan pembuka.
+
+482
+00:33:35,110 --> 00:33:36,680
+Biar kita rekam setiap
+
+483
+00:33:36,680 --> 00:33:38,960
+saat yang biasa tapi
+tidak terlupakan.
+
+484
+00:33:39,030 --> 00:33:41,160
+Halo semuanya, aku adalah
+pembawa acara Xiao Sen.
+
+485
+00:34:09,440 --> 00:34:10,400
+Baik, terima kasih.
+
+486
+00:34:10,480 --> 00:34:13,550
+Sekarang, persiapan kedua
+tim pertandingan pembuka kami
+
+487
+00:34:13,670 --> 00:34:15,230
+sudah selesai.
+
+488
+00:34:15,360 --> 00:34:16,440
+Kalau begitu selanjutnya
+
+489
+00:34:16,510 --> 00:34:17,840
+gunakan kehangatan kalian
+
+490
+00:34:17,920 --> 00:34:20,360
+sambut mereka masuk!
+
+491
+00:34:20,670 --> 00:34:23,230
+Pertama, persilakan CK!
+
+492
+00:34:23,480 --> 00:34:25,140
+♪Don't care what they talking about♪
+
+493
+00:34:25,140 --> 00:34:26,420
+♪The enemy standing around♪
+
+494
+00:34:27,220 --> 00:34:30,040
+♪Definitely show you my heart♪
+
+495
+00:34:30,160 --> 00:34:31,580
+♪You are the something else♪
+
+496
+00:34:31,580 --> 00:34:32,700
+♪You are the no one else♪
+
+497
+00:34:33,140 --> 00:34:34,220
+♪Now no one can stand in our way♪
+
+498
+00:34:34,400 --> 00:34:35,110
+Hao Yun Lai.
+
+499
+00:34:35,190 --> 00:34:36,880
+Up laner kelas atas OPL
+Liga Profesional Onmyoji Arena.
+
+500
+00:34:36,880 --> 00:34:38,840
+Andalannya adalah
+shikigami defensif.
+
+501
+00:34:41,150 --> 00:34:42,320
+Marksman, Hu Die.
+
+502
+00:34:43,030 --> 00:34:45,480
+Andalan Hao Yun Lai adalah
+shikigami defensif.
+
+503
+00:34:45,550 --> 00:34:47,190
+disebut sebagai mimpi buruk
+up laner.
+
+504
+00:34:47,230 --> 00:34:48,440
+Cara main Hu Die radikal,
+
+505
+00:34:48,440 --> 00:34:49,510
+langsung menghajar jika
+tidak senang.
+
+506
+00:34:49,800 --> 00:34:52,550
+Namanya ada di daftar urutan
+Marksman Tiongkok.
+
+507
+00:34:52,630 --> 00:34:53,670
+Xiao Hua, mid laner mereka.
+
+508
+00:34:53,760 --> 00:34:55,840
+Hero andalannya juga
+Tamamo-no-Mae.
+
+509
+00:34:55,880 --> 00:34:58,030
+Nona, kau bergumam apa?
+
+510
+00:34:58,590 --> 00:34:59,400
+Kau tahu apa?
+
+511
+00:34:59,480 --> 00:35:01,960
+Ini namanya mengerti lawan
+baru bisa menang.
+
+512
+00:35:02,400 --> 00:35:03,920
+Jian Yang di Tim CK.
+
+513
+00:35:04,630 --> 00:35:07,070
+Jian Yang? Lawan mantan pacar
+juga harus mempelajarinya?
+
+514
+00:35:07,190 --> 00:35:09,550
+Itu karena dia tidak ingin
+malu di depan mantan.
+
+515
+00:35:11,360 --> 00:35:12,880
+Nona, kau kenapa?
+
+516
+00:35:13,030 --> 00:35:14,360
+Sejujurnya
+
+517
+00:35:14,920 --> 00:35:16,000
+sedikit sakit perut.
+
+518
+00:35:16,000 --> 00:35:18,440
+Jangan-jangan kau ingin buang...
+
+519
+00:35:22,230 --> 00:35:23,360
+Kalau begitu selanjutnya
+
+520
+00:35:23,360 --> 00:35:24,400
+kita persilakan
+
+521
+00:35:24,400 --> 00:35:25,800
+lawan lama mereka.
+
+522
+00:35:25,880 --> 00:35:27,440
+ZGDX!
+
+523
+00:35:44,880 --> 00:35:46,440
+♪Kami akan menjadi hero mu♪
+
+524
+00:35:47,630 --> 00:35:48,960
+Semangat, jangan takut!
+
+525
+00:35:48,960 --> 00:35:51,230
+(Anggap datang untuk ziarah,)
+
+526
+00:35:51,480 --> 00:35:54,030
+(yang dinamakan lawan hanya
+setan dalam hati.)
+
+527
+00:35:54,510 --> 00:35:57,230
+(Tidak ada yang tak terkalahkan.)
+
+528
+00:35:57,670 --> 00:36:00,440
+(Monolog jiwa yang mendidih.)
+
+529
+00:36:00,440 --> 00:36:03,190
+♪Diledakkan oleh semangat♪
+
+530
+00:36:03,440 --> 00:36:05,960
+♪Sinar lampu sudah tidak berarti♪
+
+531
+00:36:05,960 --> 00:36:09,070
+♪Ada untuk melewati rekor♪
+
+532
+00:36:09,510 --> 00:36:11,880
+♪Khayalan takhir akan♪
+
+533
+00:36:12,590 --> 00:36:14,800
+♪Melawan tahtamu♪
+
+534
+00:36:15,110 --> 00:36:17,590
+♪Sekilas sikap di sudut mulut♪
+
+535
+00:36:18,190 --> 00:36:20,070
+♪Lagu perang terlalu berlebihan♪
+
+536
+00:36:30,800 --> 00:36:31,400
+Sudah masuk!
+
+537
+00:36:31,400 --> 00:36:32,320
+Datang, datang!
+
+538
+00:36:33,280 --> 00:36:34,230
+Tampan sekali!
+
+539
+00:36:36,110 --> 00:36:38,400
+Dia masih sedikit gugup.
+
+540
+00:36:38,710 --> 00:36:39,670
+Tidak berkarisma.
+
+541
+00:36:41,360 --> 00:36:42,320
+Pertama kali naik panggung,
+
+542
+00:36:42,550 --> 00:36:43,360
+wajar.
+
+543
+00:36:44,150 --> 00:36:46,590
+Kalah jauh dari aku waktu itu.
+
+544
+00:36:47,190 --> 00:36:48,510
+Ada berapa orang sepertimu?
+
+545
+00:36:51,670 --> 00:36:52,230
+Hari ini adalah
+pertandingan pertama
+
+546
+00:36:52,320 --> 00:36:53,920
+Tong Yao sebagai
+pemain utama mid laner
+
+547
+00:36:54,000 --> 00:36:54,880
+pasti sangat gugup.
+
+548
+00:36:55,550 --> 00:36:57,000
+Semoga bisa mendapat berita besar.
+
+549
+00:37:00,110 --> 00:37:02,280
+Jaminan hidup up lane,
+up laner Lao Mao.
+
+550
+00:37:02,440 --> 00:37:03,630
+Lihat ototnya yang ketat,
+
+551
+00:37:03,710 --> 00:37:05,190
+benar-benar susah dilawan.
+
+552
+00:37:05,920 --> 00:37:07,320
+Jungler tenang Lao K.
+
+553
+00:37:07,510 --> 00:37:10,510
+Wajah imutnya membuat orang takut.
+
+554
+00:37:10,760 --> 00:37:13,280
+Juga ada seorang perempuan
+di antara para lelaki.
+
+555
+00:37:13,360 --> 00:37:15,110
+Pemain e-sport wanita pertama
+di Tiongkok.
+
+556
+00:37:15,190 --> 00:37:18,280
+Pemain utama mid laner yang
+menarik perhatian, Tong Yao.
+
+557
+00:37:18,670 --> 00:37:20,400
+Akhirnya melihat wajah aslinya!
+
+558
+00:37:20,480 --> 00:37:22,590
+Adik berambut pendek, sangat imut.
+
+559
+00:37:22,840 --> 00:37:24,760
+Juga support andalan, Xiao Pang.
+
+560
+00:37:24,880 --> 00:37:26,150
+Dirinya yang gendut
+
+561
+00:37:26,280 --> 00:37:27,880
+lihat saja membuat orang tenang.
+
+562
+00:37:28,360 --> 00:37:29,800
+Baik, terakhir
+
+563
+00:37:29,920 --> 00:37:33,510
+adalah dewa Marksman kami,
+Lu Sicheng.
+
+564
+00:37:33,590 --> 00:37:34,800
+Mari kita sambut mereka
+
+565
+00:37:35,150 --> 00:37:35,920
+dengan meriah!
+
+566
+00:37:37,030 --> 00:37:38,880
+Baik, kalau begitu persiapan
+kedua tim kami
+
+567
+00:37:39,000 --> 00:37:40,590
+sudah selesai sekarang.
+
+568
+00:37:40,960 --> 00:37:41,760
+Tidak menunggu lagi,
+
+569
+00:37:41,880 --> 00:37:44,400
+kedua tim silakan kembali
+ke tempat masing-masing.
+
+570
+00:37:44,480 --> 00:37:46,550
+Bersiaplah memberikan
+satu perang abad
+
+571
+00:37:46,630 --> 00:37:49,070
+untuk para hadirin sekalian.
+
+572
+00:37:52,280 --> 00:37:53,280
+CK!
+
+573
+00:37:54,110 --> 00:37:55,960
+CK, semangat!
+
+574
+00:37:57,760 --> 00:38:00,320
+Semangat! Semangat! Semangat!
+
+575
+00:38:04,880 --> 00:38:06,760
+Halo semua, aku adalah
+pembawa acara hari ini, Jinyang.
+
+576
+00:38:06,840 --> 00:38:08,000
+Hari ini merasa sangat terhormat
+
+577
+00:38:08,110 --> 00:38:10,000
+bisa melihat Xiao Fan dan
+Chen Yao kalian berdua,
+
+578
+00:38:10,070 --> 00:38:10,960
+menjadi komentator
+
+579
+00:38:11,030 --> 00:38:13,000
+pertandingan pertama
+liga nasional bersamaku.
+
+580
+00:38:13,000 --> 00:38:15,590
+Halo semua, aku adalah komentator
+kali ini Xiao Fan.
+
+581
+00:38:15,710 --> 00:38:17,550
+Halo semua, aku adalah
+komentator, Chen Yao.
+
+582
+00:38:18,190 --> 00:38:18,760
+(Hari ini)
+
+583
+00:38:18,880 --> 00:38:20,670
+(gaya Nona Jinyang sangat ala jepang.)
+
+584
+00:38:20,670 --> 00:38:23,030
+(Meniru Yoto Hime, bukan?)
+
+585
+00:38:23,230 --> 00:38:24,030
+Apakah biasanya
+
+586
+00:38:24,030 --> 00:38:26,230
+sangat suka cosplay?
+
+587
+00:38:26,800 --> 00:38:27,480
+Bukan.
+
+588
+00:38:27,840 --> 00:38:28,480
+Nona.
+
+589
+00:38:28,590 --> 00:38:29,030
+Kenapa, teman?
+
+590
+00:38:29,110 --> 00:38:30,150
+Gugup sekali?
+
+591
+00:38:30,150 --> 00:38:30,760
+Hari ini akhirnya...
+
+592
+00:38:30,760 --> 00:38:32,190
+Sejujurnya
+
+593
+00:38:32,480 --> 00:38:33,710
+aku gugup sampai hampir
+memuntahkan makan siangku.
+
+594
+00:38:33,710 --> 00:38:35,670
+(Pertandingan belum dimulai
+hati-hati orang kabur ketakutan.)
+
+595
+00:38:35,760 --> 00:38:37,320
+Kau memang sangat gugup.
+
+596
+00:38:37,400 --> 00:38:39,150
+Kita hari ini bahkan tidak ada
+waktu makan siang.
+
+597
+00:38:39,230 --> 00:38:40,840
+Bagaimana kalau kau muntah udara?
+
+598
+00:38:40,840 --> 00:38:41,710
+(Ini baru benar.)
+
+599
+00:38:42,000 --> 00:38:43,000
+Cepat selesaikan permainan.
+
+600
+00:38:45,320 --> 00:38:47,070
+Memang orang berpengalaman.
+
+601
+00:38:47,150 --> 00:38:49,030
+Apakah kalian juga menantikan
+pertandingan hari ini?
+
+602
+00:38:49,110 --> 00:38:49,550
+Benar, benar, benar!
+
+603
+00:38:49,630 --> 00:38:51,190
+Aku rasa bukan hanya kami
+berdua saja.
+
+604
+00:38:51,360 --> 00:38:52,360
+Benar, termasuk semua
+fans di lokasi
+
+605
+00:38:52,510 --> 00:38:54,110
+dan para netizen juga
+sangat menantikannya.
+
+606
+00:38:54,110 --> 00:38:54,880
+ZGDX yang dilawan CK
+
+607
+00:38:54,960 --> 00:38:56,880
+pada pertandingan pembuka ini
+
+608
+00:38:56,960 --> 00:38:57,920
+aku rasa semuanya masih
+belum lupa.
+
+609
+00:38:58,030 --> 00:38:59,760
+Pada kompetisi musim semi
+yang baru lewat
+
+610
+00:38:59,920 --> 00:39:01,670
+situasi itu benar-benar hm...
+
+611
+00:39:01,920 --> 00:39:02,710
+Hm... hm... hm...
+
+612
+00:39:02,920 --> 00:39:05,280
+Kejam.
+
+613
+00:39:05,590 --> 00:39:06,230
+- Benar.
+- Benar.
+
+614
+00:39:06,230 --> 00:39:08,480
+Benar, benar, benar.
+Memang kejam.
+
+615
+00:39:08,510 --> 00:39:09,550
+Sepertinya memang Nona Jinyang
+
+616
+00:39:09,550 --> 00:39:10,920
+yang menyimpulkan dengan baik.
+
+617
+00:39:11,030 --> 00:39:12,510
+- Benar, benar, benar!
+- Bagaimanapun sorotan
+
+618
+00:39:12,510 --> 00:39:13,880
+kedua tim ini di liga nasional
+
+619
+00:39:13,920 --> 00:39:15,280
+memang terlalu banyak!
+
+620
+00:39:15,360 --> 00:39:16,360
+Pertandingan pertama hari ini
+
+621
+00:39:16,440 --> 00:39:17,440
+mari kita lihat
+
+622
+00:39:17,550 --> 00:39:18,880
+apakah Tim ZGDX
+
+623
+00:39:18,880 --> 00:39:21,440
+bisa balaskan dendam pada
+kompetisi musim semi?
+
+624
+00:39:21,510 --> 00:39:22,800
+Apakah Tim Ck bisa
+
+625
+00:39:22,920 --> 00:39:24,880
+terus menulis keajaiban
+kemenangan mereka.
+
+626
+00:39:25,030 --> 00:39:25,760
+Dan lagi,
+
+627
+00:39:25,840 --> 00:39:28,070
+masih ada poin yang sangat
+dinantikan yaitu
+
+628
+00:39:28,150 --> 00:39:30,760
+anggota yang baru bergabung
+di Tim ZGDX tahun ini.
+
+629
+00:39:30,760 --> 00:39:32,110
+Dia adalah perempuan.
+
+630
+00:39:32,230 --> 00:39:33,360
+Pernah lihat perempuan
+main profesional?
+
+631
+00:39:33,440 --> 00:39:34,510
+Benar, masih belum pernah lihat.
+
+632
+00:39:34,590 --> 00:39:36,070
+Jangan bahas aku.
+Jangan bahas aku.
+
+633
+00:39:36,280 --> 00:39:38,280
+Bahas aku rasanya banyak sekali
+orang yang melihatku.
+
+634
+00:39:38,760 --> 00:39:40,110
+Apakah lihat layar besar
+tidak bagus?
+
+635
+00:39:40,190 --> 00:39:41,030
+Lihat apa?
+
+636
+00:39:41,360 --> 00:39:43,110
+Tapi dilihat dari situasi
+di lokasi hari ini,
+
+637
+00:39:43,110 --> 00:39:43,920
+kenapa aku rasa
+
+638
+00:39:44,230 --> 00:39:46,960
+Nona Tong Yao sepertinya
+sedikit gugup.
+
+639
+00:39:47,110 --> 00:39:48,190
+- Benar.
+- Menurutmu apakah karena
+
+640
+00:39:48,190 --> 00:39:49,230
+dia adalah satu-satunya wanita
+
+641
+00:39:49,280 --> 00:39:51,190
+yang mengikuti kompetisi
+skala besar seperti ini?
+
+642
+00:39:51,510 --> 00:39:52,710
+In juga mungkin.
+
+643
+00:39:53,480 --> 00:39:55,590
+Pertama kali bertanding di atas
+panggung siapa pun akan gugup,
+
+644
+00:39:55,710 --> 00:39:57,110
+ini sepertinya tidak ada
+hubungannya
+
+645
+00:39:57,230 --> 00:39:58,360
+dengan dia perempuan
+atau bukan, kan?
+
+646
+00:39:58,510 --> 00:39:59,320
+Benar, benar, benar!
+
+647
+00:39:59,440 --> 00:40:00,960
+- Bagus teman!
+- (Masuk akal.)
+
+648
+00:40:03,360 --> 00:40:05,510
+Baik. Sekarang pertandingan
+sudah memasuki sesi ban.
+
+649
+00:40:05,550 --> 00:40:06,960
+Mari kita lihat, siapa yang
+di-ban?
+
+650
+00:40:14,320 --> 00:40:15,800
+Pertandingan segera dimulai.
+
+651
+00:40:15,920 --> 00:40:17,070
+Semangat Tong Yao!
+
+652
+00:40:17,590 --> 00:40:19,630
+(CK memang pertama langsung ban)
+
+653
+00:40:19,710 --> 00:40:22,030
+(Tamamo-no-Mae yang membuat
+Tong Yao terkenal.)
+
+654
+00:40:22,150 --> 00:40:23,320
+(Sepertinya sudah mempelajari
+dengan baik.)
+
+655
+00:40:23,320 --> 00:40:25,670
+(Benar, bagaimanapun ini bukan
+Tamamo-no-Mae biasa.)
+
+656
+00:40:25,760 --> 00:40:27,840
+(Ini Tamamo-no-Mae nomor satu
+server nasional.)
+
+657
+00:40:27,920 --> 00:40:28,510
+(- Benar, benar, benar!)
+- Mari.
+
+658
+00:40:28,630 --> 00:40:30,710
+Kita ban Banketanuki milik
+Hao Yun Lai.
+
+659
+00:40:31,000 --> 00:40:33,190
+Baik, Banketanuki sampai jumpa.
+
+660
+00:40:33,400 --> 00:40:34,920
+(ZGDX ban)
+
+661
+00:40:34,920 --> 00:40:36,590
+(Banketanuki andalan Hao Yun Lai.)
+
+662
+00:40:36,670 --> 00:40:37,800
+(Sepertinya kedua pihak
+mempelajari banyak)
+
+663
+00:40:37,840 --> 00:40:38,840
+(dalam slot ban.)
+
+664
+00:40:38,840 --> 00:40:39,920
+(Benar, benar!)
+
+665
+00:40:40,590 --> 00:40:41,400
+Enenra.
+
+666
+00:40:45,630 --> 00:40:46,400
+Aobozu.
+
+667
+00:40:47,480 --> 00:40:48,360
+Tuhanku!
+
+668
+00:40:48,480 --> 00:40:49,880
+Kedua pihak langsung ban
+
+669
+00:40:50,000 --> 00:40:50,800
+Enenra, Tamamo-no-Mae,
+
+670
+00:40:50,840 --> 00:40:52,670
+Kiyohime dan Shiro Douji
+empat mid laner!
+
+671
+00:40:53,400 --> 00:40:54,360
+Enam slot ban
+
+672
+00:40:54,360 --> 00:40:56,590
+menggunakan empat untuk
+membatasi mid laner lawan,
+
+673
+00:40:56,710 --> 00:40:59,230
+sepertinya mid laner
+kali ini menarik!
+
+674
+00:40:59,480 --> 00:41:00,760
+Kalau begitu ini juga menguji
+
+675
+00:41:00,880 --> 00:41:03,280
+kolam shikigami siapa yang dalam
+dan dangkal dari kedua pihak.
+
+676
+00:41:03,280 --> 00:41:04,190
+Apa-apaan?
+
+677
+00:41:04,230 --> 00:41:05,710
+Jika kolam shikigaminya dangkal
+
+678
+00:41:05,840 --> 00:41:07,440
+masih berani main di atas?
+
+679
+00:41:08,710 --> 00:41:09,710
+Aku akan menyampaikan
+kalimatmu ini
+
+680
+00:41:09,800 --> 00:41:11,840
+kepada penjaga dispenser itu.
+
+681
+00:41:12,480 --> 00:41:15,030
+Mari, Kita ambil Susabi
+dan Yoto Hime dulu.
+
+682
+00:41:15,030 --> 00:41:15,920
+Ambilkan Youko.
+
+683
+00:41:16,360 --> 00:41:18,230
+Kak Cheng, dilihat dari
+barisan lawan,
+
+684
+00:41:18,480 --> 00:41:19,960
+Youko akan kelelahan diakhir.
+
+685
+00:41:20,110 --> 00:41:20,840
+Kau ambil Hakuro saja.
+
+686
+00:41:20,960 --> 00:41:21,800
+Tidak main sesi akhir.
+
+687
+00:41:21,880 --> 00:41:23,320
+Aku sudah bilang cepat
+selesaikan permainan.
+
+688
+00:41:23,480 --> 00:41:24,590
+Permainan ini tidak ada
+sesi akhir.
+
+689
+00:41:24,760 --> 00:41:27,320
+Ketua Lu yang sombong.
+Hormat kepada Ketua Lu.
+
+690
+00:41:29,590 --> 00:41:31,960
+(Apa? Lu Sicheng memilih Youko?)
+
+691
+00:41:31,960 --> 00:41:32,630
+(Aku katakan padamu)
+
+692
+00:41:32,710 --> 00:41:34,110
+(dia ini sangat bahaya.)
+
+693
+00:41:34,280 --> 00:41:34,960
+(Barisan yang dia pilih ini)
+
+694
+00:41:35,070 --> 00:41:36,760
+(jika tidak mengeluarkan
+keunggulan di sesi awal,)
+
+695
+00:41:36,880 --> 00:41:37,880
+(tidak bisa main di sesi akhir.)
+
+696
+00:41:37,960 --> 00:41:38,630
+(Aku tahu.)
+
+697
+00:41:38,710 --> 00:41:40,000
+(Dia ingin menyelesaikan
+permainan dengan cepat,)
+
+698
+00:41:40,000 --> 00:41:41,710
+(menakuti CK!)
+
+699
+00:41:41,960 --> 00:41:43,800
+(Langkah ini terlalu bahaya.)
+
+700
+00:41:46,440 --> 00:41:47,360
+- (Siapa)
+- (Baik, sekarang kita lihat)
+
+701
+00:41:47,360 --> 00:41:49,320
+- (bertarung denganku?)
+- (barisan kedua pihak sudah selesai dipilih.)
+
+702
+00:41:49,400 --> 00:41:51,480
+Lihat yang dipilih CK dulu.
+
+703
+00:41:51,590 --> 00:41:53,960
+(Up laner Hannya dan Yasha,
+Mid laner Susabi)
+
+704
+00:41:54,070 --> 00:41:56,360
+(Down lane adalah gabungan Chin
+dan Ichimokuren.)
+
+705
+00:41:56,360 --> 00:41:57,190
+(Pilihan barisan ini)
+
+706
+00:41:57,280 --> 00:41:58,960
+(ingin main di sesi akhir?)
+
+707
+00:41:59,070 --> 00:42:01,550
+(Sebaliknya, di Tim ZGDX ini...)
+
+708
+00:42:02,000 --> 00:42:04,230
+Lihat mereka semua barisan
+sesi akhir,
+
+709
+00:42:04,360 --> 00:42:06,000
+barisan kami semua sesi awal.
+
+710
+00:42:06,000 --> 00:42:08,110
+Aku ingin bilang,
+kalian terlalu sombong, teman.
+
+711
+00:42:08,230 --> 00:42:09,000
+Aku sakit kepala.
+
+712
+00:42:09,070 --> 00:42:10,320
+Cepat selesaikan, pulang tidur.
+
+713
+00:42:10,550 --> 00:42:11,070
+Setuju!
+
+714
+00:42:11,230 --> 00:42:12,030
+Kau kenapa?
+
+715
+00:42:12,670 --> 00:42:13,510
+Aku sakit perut.
+
+716
+00:42:13,630 --> 00:42:14,840
+Ingin hm... hm...
+
+717
+00:42:15,070 --> 00:42:16,000
+Apa itu hm... hm...?
+
+718
+00:42:17,030 --> 00:42:19,630
+Merespon panggilan alam,
+
+719
+00:42:19,630 --> 00:42:21,880
+panggilan yang sangat kuat.
+
+720
+00:42:24,030 --> 00:42:25,400
+Ingin buang air besar!
+
+721
+00:42:26,280 --> 00:42:28,760
+Aku lihat kau ingin masuk
+rekaman kompetisi.
+
+722
+00:42:28,880 --> 00:42:30,070
+Rekaman kompetisi?
+
+723
+00:42:30,280 --> 00:42:31,150
+Apa itu?
+
+724
+00:42:31,760 --> 00:42:33,880
+Teman di balik layar sudah dengar?
+
+725
+00:42:33,960 --> 00:42:35,440
+Pembaruan terbaru!
+
+726
+00:42:35,440 --> 00:42:37,880
+Kau lihat nona mid laner kami,
+
+727
+00:42:37,880 --> 00:42:39,480
+saat pembukaan tidak sampai
+30 detik...
+
+728
+00:42:39,590 --> 00:42:40,880
+Jangan, jangan!
+
+729
+00:42:41,110 --> 00:42:42,840
+Kakak karyawan belakang layar
+
+730
+00:42:43,110 --> 00:42:44,150
+kau berbaik hatilah,
+
+731
+00:42:44,190 --> 00:42:45,590
+potong, potong bagian ini!
+
+732
+00:42:45,760 --> 00:42:47,590
+Aku berikan salam tahun baru
+untukmu!
+
+733
+00:42:47,710 --> 00:42:48,440
+Jangan ribut,
+
+734
+00:42:48,550 --> 00:42:50,320
+hati-hati terlalu semangat
+buang di celana.
+
+735
+00:42:52,150 --> 00:42:54,630
+Satu sakit,
+satu keinginan buang air begitu kuat.
+
+736
+00:42:54,630 --> 00:42:55,360
+Teman-teman,
+
+737
+00:42:55,480 --> 00:42:57,840
+kita masih bisa main pertandingan
+pembuka dengan baik tidak?
+
+738
+00:42:58,000 --> 00:42:58,760
+Aku tidak main lagi.
+
+739
+00:42:58,760 --> 00:42:59,960
+Kalian panggil Lu Yue kemari.
+
+740
+00:43:00,070 --> 00:43:00,800
+Aku ingin pulang!
+
+741
+00:43:00,880 --> 00:43:01,710
+Terlambat!
+
+742
+00:43:02,800 --> 00:43:05,190
+(Baiklah! Online!)
+
+743
+00:43:13,860 --> 00:43:16,020
+♪Prinsip dan penantian dari siapa♪
+
+744
+00:43:16,150 --> 00:43:19,220
+♪Seperti bukan monolog dalam hatiku♪
+
+745
+00:43:21,600 --> 00:43:24,020
+♪Menjadi diri sendiri
+ataukah melarikan diri♪
+
+746
+00:43:24,020 --> 00:43:26,980
+♪Apakah akan terus bergoyang
+sesuai arah tiupan angin♪
+
+747
+00:43:29,400 --> 00:43:33,620
+♪Lautan bintang adalah
+kau yang sedang berjalan ke sini♪
+
+748
+00:43:33,620 --> 00:43:37,550
+♪Sudut yang terbuka tanpa sengaja♪
+
+749
+00:43:37,550 --> 00:43:39,930
+♪Sepertinya keputusasaanku♪
+
+750
+00:43:39,930 --> 00:43:43,580
+♪Ada orang yang memahaminya♪
+
+751
+00:43:44,860 --> 00:43:48,240
+♪Rasa kesepian
+yang semakin menghilang♪
+
+752
+00:43:48,240 --> 00:43:50,490
+♪Mulai percaya terhadap♪
+
+753
+00:43:50,490 --> 00:43:52,620
+♪Keberadaan kekompakan♪
+
+754
+00:43:52,620 --> 00:43:55,930
+♪Apakah takdir dapat diubah♪
+
+755
+00:43:55,930 --> 00:43:58,310
+♪Karena bertahan♪
+
+756
+00:43:58,310 --> 00:44:00,600
+♪Maka tidak pernah putus asa♪
+
+757
+00:44:00,600 --> 00:44:04,330
+♪Berapa banyak kesuksesan dan kegagalan
+yang terdapat di bawah jari♪
+
+758
+00:44:04,330 --> 00:44:07,690
+♪Lautan manusia
+yang akan berteriak besok♪
+
+759
+00:44:07,690 --> 00:44:14,090
+♪Sorot matamu membuatku
+semakin jatuh cinta♪
+
+760
+00:44:14,090 --> 00:44:20,640
+♪Menyambut sinar matahari♪
+
+761
+00:44:21,530 --> 00:44:28,180
+♪Bersama-sama
+menyambut sinar matahari♪
+
+762
+00:44:30,820 --> 00:44:32,750
+♪Apakah kau masih ingat?♪
+
+763
+00:44:32,750 --> 00:44:34,800
+♪Pernah menemanimu
+melihat bintang jatuh♪
+
+764
+00:44:34,800 --> 00:44:36,640
+♪Beberapa kali
+seperti terdengar suara♪
+
+765
+00:44:36,640 --> 00:44:38,490
+♪Permohonan yang dibuat
+pada malam itu♪
+
+766
+00:44:38,490 --> 00:44:40,580
+♪Kita telah membuat janji♪
+
+767
+00:44:40,580 --> 00:44:46,820
+♪Tidak akan meninggalkan
+penyesalan dalam masa muda♪
+
+768
+00:44:47,110 --> 00:44:52,730
+♪Jika memiliki impian♪
+
+769
+00:44:52,730 --> 00:44:55,460
+♪Maka aku harus mengejar cahaya♪
+
+770
+00:44:56,640 --> 00:44:59,490
+♪Maka aku harus mengejar cahaya♪
+
+771
+00:45:02,490 --> 00:45:07,800
+♪Jika memiliki impian♪
+
+772
+00:45:07,800 --> 00:45:10,260
+♪Maka aku harus mengejar cahaya♪
+
+773
+00:45:10,260 --> 00:45:15,860
+♪Ternyata selama kita terus melihat
+ke arah yang terang♪
+
+774
+00:45:15,860 --> 00:45:18,400
+♪Kegelapan juga akan
+berhasil disinari♪
+
+775
+00:45:18,400 --> 00:45:21,910
+♪Semakin bodohnya keras kepala
+yang tidak bisa dimengerti siapa pun♪
+
+776
+00:45:21,910 --> 00:45:25,200
+♪Semakin besar juga hati
+yang ingin mengejar kebanggaan♪
+
+777
+00:45:25,200 --> 00:45:31,380
+♪Ingatlah pada saat
+berhasil berdiri di puncak♪
+
+778
+00:45:31,780 --> 00:45:34,460
+♪Bersama-sama menyambut
+sinar matahari♪
