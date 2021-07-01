@@ -1,3766 +1,3764 @@
-1
-00:00:05,040 --> 00:00:15,040
+﻿1
+00:00:00,000 --> 00:00:00,000
 [Tersedia subtitle Bahasa Indonesia]
 
 2
-00:00:13,440 --> 00:00:15,950
+00:00:00,000 --> 00:00:00,000
 [Perjanjian Tinggal Bersama]
 
 3
-00:00:16,030 --> 00:00:18,060
+00:00:00,000 --> 00:00:00,000
 [Jang Ki-yong, Lee Hye-ri]
 
 4
-00:00:18,630 --> 00:00:20,700
+00:00:00,000 --> 00:00:00,000
 [Kang Han-na, Kim Do-wan]
 
 5
-00:00:21,310 --> 00:00:23,690
+00:00:00,000 --> 00:00:01,690
 [Bae In-hyuk, Park Gyeong-hye]
 
 6
-00:00:32,140 --> 00:00:34,870
+00:00:10,140 --> 00:00:12,870
 [My Roommate is a Gumiho]
 
 7
-00:00:38,560 --> 00:00:40,150
+00:00:16,560 --> 00:00:18,150
 [Akan kutunjukkan kepadamu]
 
 8
-00:00:40,500 --> 00:00:42,570
+00:00:18,500 --> 00:00:20,570
 [apa yang bisa menjadi masa depannya.]
 
 9
-00:00:53,870 --> 00:00:57,970
+00:00:31,870 --> 00:00:35,970
 [Semua berawal dari keegoisanku,
 jadi, aku mencoba menahan ini.]
 
 10
-00:01:01,400 --> 00:01:03,950
+00:00:39,400 --> 00:00:41,950
 [Hidupku terbentuk dari kesabaran,]
 
 11
-00:01:04,349 --> 00:01:07,690
+00:00:42,349 --> 00:00:45,690
 [jadi, kupikir itu akan mudah.]
 
 12
-00:01:12,789 --> 00:01:14,160
+00:00:50,789 --> 00:00:52,160
 [Kenapa aku]
 
 13
-00:01:15,039 --> 00:01:18,030
+00:00:53,039 --> 00:00:56,030
 [membuat diriku mengira
 aku bisa bertahan?]
 
 14
-00:01:22,910 --> 00:01:24,100
+00:01:00,910 --> 00:01:02,100
 Dam.
 
 15
-00:01:26,039 --> 00:01:27,450
+00:01:04,039 --> 00:01:05,450
 Bangun.
 
 16
-00:01:31,450 --> 00:01:32,590
+00:01:09,450 --> 00:01:10,590
 Berhentilah
 
 17
-00:01:35,810 --> 00:01:36,990
+00:01:13,810 --> 00:01:14,990
 melihat itu.
 
 18
-00:01:52,000 --> 00:01:53,180
+00:01:30,000 --> 00:01:31,180
 Pak.
 
 19
-00:01:54,550 --> 00:01:56,660
+00:01:32,550 --> 00:01:34,660
 Aku bermimpi dan...
 
 20
-00:01:57,229 --> 00:01:59,080
+00:01:35,229 --> 00:01:37,080
 Lupakan saja. Pria itu...
 
 21
-00:02:00,490 --> 00:02:02,070
+00:01:38,490 --> 00:01:40,070
 Tadi dia di sini.
 
 22
-00:02:05,240 --> 00:02:06,650
+00:01:43,240 --> 00:01:44,650
 Kau baik-baik saja, Nona Dam?
 
 23
-00:02:28,910 --> 00:02:30,800
+00:02:06,910 --> 00:02:08,800
 Aku baik-baik saja sekarang, Pak.
 
 24
-00:02:37,100 --> 00:02:39,430
+00:02:15,100 --> 00:02:17,430
 Omong-omong, soal pria itu.
 
 25
-00:02:39,960 --> 00:02:42,200
+00:02:17,960 --> 00:02:20,200
 Kurasa aku juga bertemu
 dengannya di toko buku.
 
 26
-00:02:42,290 --> 00:02:43,960
+00:02:20,290 --> 00:02:21,960
 Siapa dia?
 
 27
-00:02:45,370 --> 00:02:47,440
+00:02:23,370 --> 00:02:25,440
 Makhluk yang menempatkanku
 di sini hari ini.
 
 28
-00:02:48,100 --> 00:02:49,500
+00:02:26,100 --> 00:02:27,500
 Orang-orang biasanya memanggilnya
 
 29
-00:02:50,340 --> 00:02:52,140
+00:02:28,340 --> 00:02:30,140
 roh gunung.
 
 30
-00:02:52,500 --> 00:02:53,730
+00:02:30,500 --> 00:02:31,730
 Dia roh?
 
 31
-00:02:54,560 --> 00:02:57,780
+00:02:32,560 --> 00:02:35,780
 Jadi, begitulah caranya
 mengikat benang merah kepadaku
 
 32
-00:02:57,860 --> 00:02:59,360
+00:02:35,860 --> 00:02:37,360
 dan membuatku memimpikan itu.
 
 33
-00:03:06,140 --> 00:03:09,440
+00:02:44,140 --> 00:02:47,440
 Apa kau juga melihat mimpiku?
 
 34
-00:03:11,590 --> 00:03:14,760
+00:02:49,590 --> 00:02:52,760
 Aku tidak melihat apa pun.
 
 35
-00:03:19,329 --> 00:03:21,010
+00:02:57,329 --> 00:02:59,010
 Itu bukan apa-apa.
 
 36
-00:03:21,090 --> 00:03:24,040
+00:02:59,090 --> 00:03:02,040
 Seon-woo terlibat,
 tapi itu bukan masalah besar.
 
 37
-00:03:24,350 --> 00:03:27,210
+00:03:02,350 --> 00:03:05,210
 Dia mengatakan sesuatu tentang takdirku,
 tapi tidak akan kubiarkan itu terjadi.
 
 38
-00:03:29,940 --> 00:03:32,090
+00:03:07,940 --> 00:03:10,090
 Makin kupikirkan, makin aku marah.
 
 39
-00:03:32,180 --> 00:03:35,350
+00:03:10,180 --> 00:03:13,350
 Dia pikir dia siapa sampai mengaitkan itu
 denganku dan memberiku mimpi itu?
 
 40
-00:03:35,570 --> 00:03:37,680
+00:03:13,570 --> 00:03:15,680
 Kenapa dia melakukan ini kepada kita?
 
 41
-00:03:39,660 --> 00:03:42,040
+00:03:17,660 --> 00:03:20,040
 Karena sudah sewajarnya bagi manusia
 
 42
-00:03:42,570 --> 00:03:44,110
+00:03:20,570 --> 00:03:22,110
 untuk bersama manusia lain.
 
 43
-00:03:52,329 --> 00:03:55,680
+00:03:30,329 --> 00:03:33,680
 Kita bisa memutuskan
 yang tepat untuk kita.
 
 44
-00:03:55,990 --> 00:03:58,010
+00:03:33,990 --> 00:03:36,010
 Pak, jangan khawatir.
 
 45
-00:03:58,100 --> 00:04:01,570
+00:03:36,100 --> 00:03:39,570
 Mimpi dan benang itu?
 Itu tidak ada artinya bagi kita.
 
 46
-00:04:02,190 --> 00:04:03,860
+00:03:40,190 --> 00:03:41,860
 Aku tidak akan membiarkan itu terjadi.
 
 47
-00:04:08,310 --> 00:04:10,730
+00:03:46,310 --> 00:03:48,730
 [Apa? Dia memberinya mimpi?]
 
 48
-00:04:13,150 --> 00:04:17,149
+00:03:51,150 --> 00:03:55,149
 Kenapa dia menunjukkan sesuatu yang
 tidak benar dengan memanfaatkan mimpinya?
 
 49
-00:04:22,210 --> 00:04:24,190
+00:04:00,210 --> 00:04:02,190
 Berapa banyak yang kau lihat?
 
 50
-00:04:24,410 --> 00:04:28,020
+00:04:02,410 --> 00:04:06,020
 Apa mereka berpelukan?
 Atau mereka berciuman?
 
 51
-00:04:28,680 --> 00:04:30,830
+00:04:06,680 --> 00:04:08,830
 Hari biasa mereka tampak indah.
 
 52
-00:04:33,909 --> 00:04:36,550
+00:04:11,909 --> 00:04:14,550
 Mereka seperti pasangan muda
 seperti seharusnya,
 
 53
-00:04:37,920 --> 00:04:40,780
+00:04:15,920 --> 00:04:18,780
 menikmati waktu mereka
 dengan tenang tanpa khawatir.
 
 54
-00:04:43,550 --> 00:04:45,880
+00:04:21,550 --> 00:04:23,880
 Itu sesuatu yang tidak bisa
 kuberikan kepadanya.
 
 55
-00:04:47,290 --> 00:04:51,290
+00:04:25,290 --> 00:04:29,290
 Terserah. Kenapa kau
 memedulikan mimpi bodoh?
 
 56
-00:04:51,380 --> 00:04:52,659
+00:04:29,380 --> 00:04:30,659
 Benar, bukan?
 
 57
-00:04:53,670 --> 00:04:55,380
+00:04:31,670 --> 00:04:33,380
 Kenapa itu sangat menggangguku?
 
 58
-00:04:58,070 --> 00:05:01,590
+00:04:36,070 --> 00:04:39,590
 Aku mungkin iri
 menjalani kehidupan biasa seperti itu.
 
 59
-00:05:04,620 --> 00:05:05,770
+00:04:42,620 --> 00:04:43,770
 Berapa lama waktu
 
 60
-00:05:06,690 --> 00:05:09,510
+00:04:44,690 --> 00:04:47,510
 yang kau punya
 sampai 1.000 tahun berakhir?
 
 61
-00:05:12,900 --> 00:05:14,040
+00:04:50,900 --> 00:04:52,040
 Entahlah.
 
 62
-00:05:16,020 --> 00:05:17,870
+00:04:54,020 --> 00:04:55,870
 Kurasa itu akan segera berakhir.
 
 63
-00:05:19,540 --> 00:05:20,950
+00:04:57,540 --> 00:04:58,950
 [Lalu]
 
 64
-00:05:22,090 --> 00:05:24,070
+00:05:00,090 --> 00:05:02,070
 [aku akan menghilang tanpa jejak.]
 
 65
-00:05:31,640 --> 00:05:33,140
+00:05:09,640 --> 00:05:11,140
 [Episode 12]
 
 66
-00:05:33,220 --> 00:05:35,640
+00:05:11,220 --> 00:05:13,640
 - Kakak sibuk besok?
 - Tidak, kenapa?
 
 67
-00:05:35,730 --> 00:05:37,450
+00:05:13,730 --> 00:05:15,450
 Pulanglah lebih awal. Aku membuat kimchi.
 
 68
-00:05:37,540 --> 00:05:39,960
+00:05:15,540 --> 00:05:17,960
 Kakak tidak bisa mencampur bumbu,
 tapi selera Kakak bagus.
 
 69
-00:05:40,659 --> 00:05:42,420
+00:05:18,659 --> 00:05:20,420
 Selera kakak memang bagus,
 
 70
-00:05:42,510 --> 00:05:44,710
+00:05:20,510 --> 00:05:22,710
 tapi kau sibuk berlatih sekarang.
 Mari beli saja kali ini.
 
 71
-00:05:44,800 --> 00:05:46,950
+00:05:22,800 --> 00:05:24,950
 Aku hanya memesan beberapa kubis.
 
 72
-00:05:47,220 --> 00:05:48,540
+00:05:25,220 --> 00:05:26,540
 Aku akan mengirimkannya kepada Ibu,
 
 73
-00:05:48,620 --> 00:05:51,880
+00:05:26,620 --> 00:05:29,880
 dan karena Kakak suka makan kimchi baru
 dengan bossam, aku mau berterima kasih.
 
 74
-00:05:53,240 --> 00:05:55,580
+00:05:31,240 --> 00:05:33,580
 Berterima kasih? Apa?
 
 75
-00:05:56,280 --> 00:05:57,730
+00:05:34,280 --> 00:05:35,730
 Aku membuat Kakak bekerja paruh waktu.
 
 76
-00:05:57,820 --> 00:05:59,620
+00:05:35,820 --> 00:05:37,620
 Kakak seharusnya sibuk berpesta.
 
 77
-00:06:00,280 --> 00:06:03,850
+00:05:38,280 --> 00:05:41,850
 Menangi medali emas,
 lalu bayar kembali dengan bunga 50 persen.
 
 78
-00:06:05,120 --> 00:06:06,360
+00:05:43,120 --> 00:05:44,360
 Kakak rentenir.
 
 79
-00:06:07,630 --> 00:06:10,230
+00:05:45,630 --> 00:05:48,230
 Jadi, bagaimana pekerjaan Kakak?
 Itu tidak terlalu berat?
 
 80
-00:06:12,690 --> 00:06:15,290
+00:05:50,690 --> 00:05:53,290
 Itu tidak masalah.
 
 81
-00:06:17,530 --> 00:06:19,120
+00:05:55,530 --> 00:05:57,120
 - Kakak baik-baik saja.
 - Benarkah?
 
 82
-00:06:21,100 --> 00:06:22,810
+00:05:59,100 --> 00:06:00,810
 [Kau libur hari ini, bukan?]
 
 83
-00:06:21,230 --> 00:06:25,580
+00:05:59,230 --> 00:06:03,580
 [Gye Seon-woo]
 
 84
-00:06:23,080 --> 00:06:26,070
+00:06:01,080 --> 00:06:04,070
 [Aku akan mengatur persediaan,
 jadi, kau tidak perlu memikirkannya.]
 
 85
-00:06:26,600 --> 00:06:30,420
+00:06:04,600 --> 00:06:08,420
 Aku tidak mau memikirkannya,
 tapi malah memikirkannya.
 
 86
-00:06:46,530 --> 00:06:47,930
+00:06:24,530 --> 00:06:25,930
 Selamat pagi, Dam.
 
 87
-00:06:48,020 --> 00:06:50,530
+00:06:26,020 --> 00:06:28,530
 Hei, jangan memelukku dari belakang.
 Aku benci ini.
 
 88
-00:06:50,620 --> 00:06:54,750
+00:06:28,620 --> 00:06:32,750
 Kenapa? Apa kau punya kenangan buruk
 kekasihmu memelukmu dari belakang?
 
 89
-00:06:55,460 --> 00:06:57,040
+00:06:33,460 --> 00:06:35,040
 Akan lebih baik jika itu dia.
 
 90
-00:06:57,130 --> 00:06:59,460
+00:06:35,130 --> 00:06:37,460
 - Astaga, Nak.
 - Itu Profesor Shin.
 
 91
-00:07:01,090 --> 00:07:04,080
+00:06:39,090 --> 00:06:42,080
 Apa ada yang mengganggunya?
 
 92
-00:07:04,870 --> 00:07:07,070
+00:06:42,870 --> 00:06:45,070
 Dia tidak terlihat begitu bertenaga.
 
 93
-00:07:07,690 --> 00:07:08,970
+00:06:45,690 --> 00:06:46,970
 Benar.
 
 94
-00:07:09,670 --> 00:07:13,500
+00:06:47,670 --> 00:06:51,500
 Biasanya dia terlihat tampan dan pintar,
 
 95
-00:07:13,890 --> 00:07:16,710
+00:06:51,890 --> 00:06:54,710
 tapi hari ini,
 dia membuatku ingin melindunginya.
 
 96
-00:07:16,800 --> 00:07:20,580
+00:06:54,800 --> 00:06:58,580
 Dia terlihat seolah-olah
 terjaga semalaman karena sedih.
 
 97
-00:07:21,020 --> 00:07:22,780
+00:06:59,020 --> 00:07:00,780
 Kau tahu, menyayat hati.
 
 98
-00:07:22,870 --> 00:07:25,510
+00:07:00,870 --> 00:07:03,510
 - Soo-kyung, aku mau bertanya.
 - Baiklah.
 
 99
-00:07:26,610 --> 00:07:28,810
+00:07:04,610 --> 00:07:06,810
 Anggap saja kau punya pacar.
 
 100
-00:07:28,900 --> 00:07:30,480
+00:07:06,900 --> 00:07:08,480
 Dan pacarmu...
 
 101
-00:07:32,370 --> 00:07:34,400
+00:07:10,370 --> 00:07:12,400
 Kau bisa memberitahuku.
 Ada apa dengannya?
 
 102
-00:07:38,620 --> 00:07:40,070
+00:07:16,620 --> 00:07:18,070
 Dia bukan manusia.
 
 103
-00:07:40,250 --> 00:07:43,680
+00:07:18,250 --> 00:07:21,680
 Apa? Dia begitu berengsek sampai kau
 tidak bisa menyebutnya manusia?
 
 104
-00:07:43,770 --> 00:07:46,150
+00:07:21,770 --> 00:07:24,150
 Tidak, bukan itu maksudku.
 Dia bukan manusia.
 
 105
-00:07:46,670 --> 00:07:49,270
+00:07:24,670 --> 00:07:27,270
 Dia seperti bukan manusia.
 
 106
-00:07:49,360 --> 00:07:53,800
+00:07:27,360 --> 00:07:31,800
 Contohnya, vampir atau gumiho.
 
 107
-00:07:54,150 --> 00:07:56,000
+00:07:32,150 --> 00:07:34,000
 Baik, gumiho.
 
 108
-00:07:56,710 --> 00:07:57,810
+00:07:34,710 --> 00:07:35,810
 Lalu?
 
 109
-00:07:57,890 --> 00:08:00,580
+00:07:35,890 --> 00:07:38,580
 Lalu roh gunung ini muncul
 
 110
-00:08:00,670 --> 00:08:04,710
+00:07:38,670 --> 00:07:42,710
 dan mengikatkan benang merah takdir
 dengan manusia di depannya.
 
 111
-00:08:04,800 --> 00:08:06,910
+00:07:42,800 --> 00:07:44,910
 Dan sekarang ada roh gunung?
 
 112
-00:08:07,350 --> 00:08:09,380
+00:07:45,350 --> 00:07:47,380
 - Lalu?
 - Lalu
 
 113
-00:08:10,080 --> 00:08:11,710
+00:07:48,080 --> 00:07:49,710
 harus bagaimana sekarang?
 
 114
-00:08:12,280 --> 00:08:15,890
+00:07:50,280 --> 00:07:53,890
 Jika kau ingin memberitahunya
 bahwa itu tidak penting,
 
 115
-00:08:17,160 --> 00:08:19,580
+00:07:55,160 --> 00:07:57,580
 apa yang bisa kau lakukan
 untuk menyampaikan poin itu?
 
 116
-00:08:22,140 --> 00:08:24,860
+00:08:00,140 --> 00:08:02,860
 Pertama-tama,
 
 117
-00:08:26,980 --> 00:08:28,870
+00:08:04,980 --> 00:08:06,870
 aku akan berhenti membaca webtoon.
 
 118
-00:08:29,310 --> 00:08:31,600
+00:08:07,310 --> 00:08:09,600
 Kukira ini tentang pacarmu.
 
 119
-00:08:31,680 --> 00:08:34,280
+00:08:09,680 --> 00:08:12,280
 Kau membaca webtoon fantasi
 setelah menonton drama kolosal?
 
 120
-00:08:34,500 --> 00:08:37,580
+00:08:12,500 --> 00:08:15,580
 Kau juga bekerja paruh waktu.
 Kau gadis yang sibuk.
 
 121
-00:08:38,590 --> 00:08:41,539
+00:08:16,590 --> 00:08:19,539
 Hei, ya.
 Anggap saja ini alur cerita webtoon.
 
 122
-00:08:41,630 --> 00:08:43,120
+00:08:19,630 --> 00:08:21,120
 Jadi, apa yang akan kau lakukan?
 
 123
-00:08:43,210 --> 00:08:46,560
+00:08:21,210 --> 00:08:24,560
 Entahlah. Masa depanku akan jauh
 lebih penting daripada pacarku.
 
 124
-00:08:46,690 --> 00:08:49,150
+00:08:24,690 --> 00:08:27,150
 Benar, bukan? Memang begitu, bukan?
 
 125
-00:08:50,520 --> 00:08:52,450
+00:08:28,520 --> 00:08:30,450
 Tapi ini sangat aneh.
 
 126
-00:08:53,160 --> 00:08:55,840
+00:08:31,160 --> 00:08:33,840
 Saat menyukai seseorang,
 
 127
-00:08:56,370 --> 00:08:58,480
+00:08:34,370 --> 00:08:36,480
 kau lebih mencemaskannya daripada...
 
 128
-00:08:59,400 --> 00:09:01,250
+00:08:37,400 --> 00:08:39,250
 Soo-kyung, tunggu!
 
 129
-00:09:12,300 --> 00:09:13,400
+00:08:50,300 --> 00:08:51,400
 Apa yang kau lakukan?
 
 130
-00:09:14,760 --> 00:09:16,480
+00:08:52,760 --> 00:08:54,480
 Apa yang kau tulis?
 
 131
-00:09:16,740 --> 00:09:18,590
+00:08:54,740 --> 00:08:56,590
 Aku merencanakan kencanku.
 
 132
-00:09:18,680 --> 00:09:20,830
+00:08:56,680 --> 00:08:58,830
 Makan siang, makan malam,
 hidangan penutup, lalu jalan-jalan.
 
 133
-00:09:20,920 --> 00:09:22,150
+00:08:58,920 --> 00:09:00,150
 Semuanya sempurna.
 
 134
-00:09:22,240 --> 00:09:24,620
+00:09:00,240 --> 00:09:02,620
 Ya, kau penurut sekali.
 
 135
-00:09:24,880 --> 00:09:26,550
+00:09:02,880 --> 00:09:04,550
 Apa kisah penurut ini sudah dimulai?
 
 136
-00:09:26,640 --> 00:09:31,000
+00:09:04,640 --> 00:09:09,000
 Bukan begitu. Hye-sun menghiburku
 saat aku sedih waktu itu.
 
 137
-00:09:31,080 --> 00:09:32,980
+00:09:09,080 --> 00:09:10,980
 Jadi, suatu hari, saat dia merasa sedih,
 
 138
-00:09:33,060 --> 00:09:35,440
+00:09:11,060 --> 00:09:13,440
 aku ingin menghiburnya
 dengan berkencan menyenangkan.
 
 139
-00:09:36,580 --> 00:09:39,050
+00:09:14,580 --> 00:09:17,050
 - Bisakah kencan menyenangkan menghibur?
 - Ya.
 
 140
-00:09:41,200 --> 00:09:44,330
+00:09:19,200 --> 00:09:22,330
 - Jae-jin, aku ingin bertanya.
 - Baiklah.
 
 141
-00:09:45,380 --> 00:09:46,570
+00:09:23,380 --> 00:09:24,570
 Kau bilang
 
 142
-00:09:47,190 --> 00:09:50,000
+00:09:25,190 --> 00:09:28,000
 kau mengencani Hye-sun
 karena nilaimu, bukan?
 
 143
-00:09:50,570 --> 00:09:53,740
+00:09:28,570 --> 00:09:31,740
 Tapi sejak kapan kau peduli
 dengan nilaimu?
 
 144
-00:09:53,870 --> 00:09:55,020
+00:09:31,870 --> 00:09:33,020
 Dia benar.
 
 145
-00:09:56,160 --> 00:09:57,260
+00:09:34,160 --> 00:09:35,260
 Apa?
 
 146
-00:09:57,350 --> 00:10:01,000
+00:09:35,350 --> 00:09:39,000
 Dan jika kau memacarinya
 hanya karena nilaimu,
 
 147
-00:10:01,570 --> 00:10:03,640
+00:09:39,570 --> 00:09:41,640
 kenapa kau berusaha keras?
 
 148
-00:10:03,990 --> 00:10:05,090
+00:09:41,990 --> 00:09:43,090
 Dia benar.
 
 149
-00:10:07,030 --> 00:10:08,440
+00:09:45,030 --> 00:09:46,440
 Begini...
 
 150
-00:10:11,030 --> 00:10:13,810
+00:09:49,030 --> 00:09:51,810
 Hei, jujurlah.
 
 151
-00:10:14,250 --> 00:10:15,700
+00:09:52,250 --> 00:09:53,700
 Orang yang bemalam
 
 152
-00:10:20,050 --> 00:10:21,370
+00:09:58,050 --> 00:09:59,370
 denganmu waktu itu.
 
 153
-00:10:22,610 --> 00:10:24,940
+00:10:00,610 --> 00:10:02,940
 Hye-sun, bukan?
 
 154
-00:10:28,680 --> 00:10:29,870
+00:10:06,680 --> 00:10:07,870
 Begini...
 
 155
-00:10:30,970 --> 00:10:34,270
+00:10:08,970 --> 00:10:12,270
 [Aku harus bagaimana? Jika kujawab ya,
 Hye-sun akan tampak aneh.]
 
 156
-00:10:34,350 --> 00:10:36,380
+00:10:12,350 --> 00:10:14,380
 [Tapi jika kujawab bukan,
 aku akan menjadi orang berengsek]
 
 157
-00:10:36,470 --> 00:10:38,090
+00:10:14,470 --> 00:10:16,090
 [yang punya hubungan satu malam acak.]
 
 158
-00:10:45,710 --> 00:10:47,600
+00:10:23,710 --> 00:10:25,600
 Gadis yang bermalam denganku itu
 bukan Hye-sun.
 
 159
-00:10:47,690 --> 00:10:50,020
+00:10:25,690 --> 00:10:28,020
 - Apa?
 - Kau. Berengsek.
 
 160
-00:10:50,110 --> 00:10:54,070
+00:10:28,110 --> 00:10:32,070
 Ada apa denganmu?
 Kenapa kau begitu berpikiran terbuka?
 
 161
-00:10:54,680 --> 00:10:56,090
+00:10:32,680 --> 00:10:34,090
 Kau pantas dipukuli.
 
 162
-00:10:56,180 --> 00:10:57,720
+00:10:34,180 --> 00:10:35,720
 [Itu pilihan bagus, Jae-jin.]
 
 163
-00:10:57,810 --> 00:10:59,920
+00:10:35,810 --> 00:10:37,920
 [Reputasiku sudah hancur,]
 
 164
-00:11:00,230 --> 00:11:01,590
+00:10:38,230 --> 00:10:39,590
 [tapi aku menyelamatkan reputasi Hye-sun.]
 
 165
-00:11:05,070 --> 00:11:06,170
+00:10:43,070 --> 00:10:44,170
 Astaga.
 
 166
-00:11:07,440 --> 00:11:08,630
+00:10:45,440 --> 00:10:46,630
 Aku akan mengambil ini.
 
 167
-00:11:09,030 --> 00:11:10,210
+00:10:47,030 --> 00:10:48,210
 Tiba-tiba saja? Kenapa?
 
 168
-00:11:10,430 --> 00:11:11,890
+00:10:48,430 --> 00:10:49,890
 - Kau tidak boleh memilikinya.
 - Kembalikan.
 
 169
-00:11:21,340 --> 00:11:24,640
+00:10:59,340 --> 00:11:02,640
 [Profesor Sejarah, Shin Woo-yeo]
 
 170
-00:11:25,880 --> 00:11:27,900
+00:11:03,880 --> 00:11:05,900
 Pak, apa kau sibuk?
 
 171
-00:11:27,990 --> 00:11:30,630
+00:11:05,990 --> 00:11:08,630
 Meskipun begitu,
 aku tidak akan sibuk. Kau di sini.
 
 172
-00:11:36,080 --> 00:11:38,020
+00:11:14,080 --> 00:11:16,020
 Kalau begitu, ayo keluar.
 
 173
-00:11:38,420 --> 00:11:39,650
+00:11:16,420 --> 00:11:17,650
 Ini dia.
 
 174
-00:11:40,180 --> 00:11:43,340
+00:11:18,180 --> 00:11:21,340
 Aku mencuri buku catatan
 ide kencan Jae-jin.
 
 175
-00:11:42,510 --> 00:11:44,970
+00:11:20,510 --> 00:11:22,970
 [Rencana Kencan, Film, Makan malam,
 Pemandangan malam, Minum]
 
 176
-00:11:46,250 --> 00:11:48,580
+00:11:24,250 --> 00:11:26,580
 Mari kita lakukan segalanya di sini
 untuk mengubah keadaan.
 
 177
-00:11:49,900 --> 00:11:51,620
+00:11:27,900 --> 00:11:29,620
 Mengubah keadaan?
 
 178
-00:11:51,840 --> 00:11:55,220
+00:11:29,840 --> 00:11:33,220
 Kita sudah melalui banyak hal dengan
 energi, benang merah, dan lainnya.
 
 179
-00:11:57,250 --> 00:11:59,580
+00:11:35,250 --> 00:11:37,580
 Kau bisa pulang dan fokus kepada kita.
 
 180
-00:11:58,740 --> 00:12:06,440
+00:11:36,740 --> 00:11:44,440
 [Profesor Sejarah, Shin Woo-yeo]
 
 181
-00:12:03,280 --> 00:12:04,380
+00:11:41,280 --> 00:11:42,380
 Sebentar.
 
 182
-00:12:08,070 --> 00:12:09,170
+00:11:46,070 --> 00:11:47,170
 Hei, Dan.
 
 183
-00:12:10,490 --> 00:12:12,650
+00:11:48,490 --> 00:11:50,650
 Apa? Kubisnya akan datang hari ini?
 
 184
-00:12:13,530 --> 00:12:14,800
+00:11:51,530 --> 00:11:52,800
 Kakak kira besok.
 
 185
-00:12:14,980 --> 00:12:17,530
+00:11:52,980 --> 00:11:55,530
 Entahlah. Pasti ada kesalahpahaman
 dalam pesanannya.
 
 186
-00:12:17,620 --> 00:12:20,790
+00:11:55,620 --> 00:11:58,790
 Apa yang harus kita lakukan? Mereka
 meninggalkannya di depan rumah kita.
 
 187
-00:12:21,140 --> 00:12:22,550
+00:11:59,140 --> 00:12:00,550
 Itu tidak bisa lama di luar sana.
 
 188
-00:12:23,560 --> 00:12:25,230
+00:12:01,560 --> 00:12:03,230
 Baik, kakak akan membawanya masuk.
 
 189
-00:12:25,500 --> 00:12:28,930
+00:12:03,500 --> 00:12:06,930
 Membawa itu bukan akhir dari segalanya.
 
 190
-00:12:29,020 --> 00:12:31,830
+00:12:07,020 --> 00:12:09,830
 Apa? Kau menyuruh kakak
 membuat kimchi sendirian?
 
 191
-00:12:32,320 --> 00:12:34,820
+00:12:10,320 --> 00:12:12,820
 Maafkan aku. Aku ada turnamen penting,
 
 192
-00:12:34,910 --> 00:12:37,990
+00:12:12,910 --> 00:12:15,990
 [dan aku akan pulang sangat larut
 seusai menganalisis pertandingan.]
 
 193
-00:12:38,830 --> 00:12:40,590
+00:12:16,830 --> 00:12:18,590
 Kubis asin tidak boleh didiamkan
 terlalu lama.
 
 194
-00:12:41,200 --> 00:12:42,610
+00:12:19,200 --> 00:12:20,610
 Tutup teleponnya.
 
 195
-00:12:49,780 --> 00:12:51,590
+00:12:27,780 --> 00:12:29,590
 Pak, maafkan aku.
 
 196
-00:12:53,130 --> 00:12:55,810
+00:12:31,130 --> 00:12:33,810
 Kita harus menjadwalkan ulang kencan kita.
 
 197
-00:13:05,180 --> 00:13:07,120
+00:12:43,180 --> 00:12:45,120
 Aku bahkan merasa dingin
 setelah menjadi manusia.
 
 198
-00:13:07,780 --> 00:13:09,760
+00:12:45,780 --> 00:12:47,760
 Aku dahulu baik-baik saja
 
 199
-00:13:09,850 --> 00:13:12,790
+00:12:47,850 --> 00:12:50,790
 di tengah musim dingin,
 mengenakan hanbok tipisku.
 
 200
-00:13:13,940 --> 00:13:15,570
+00:12:51,940 --> 00:12:53,570
 Itu sebabnya dia tidak boleh berkencan.
 
 201
-00:13:15,650 --> 00:13:18,950
+00:12:53,650 --> 00:12:56,950
 Kalian sudah dengar
 tentang hubungan Hye-sun dan Jae-jin?
 
 202
-00:13:19,090 --> 00:13:20,930
+00:12:57,090 --> 00:12:58,930
 Ya, kami sudah dengar.
 
 203
-00:13:21,110 --> 00:13:23,350
+00:12:59,110 --> 00:13:01,350
 Anak-anak di departemen kami terkejut,
 
 204
-00:13:23,440 --> 00:13:24,590
+00:13:01,440 --> 00:13:02,590
 lalu mereka mabuk.
 
 205
-00:13:24,670 --> 00:13:25,820
+00:13:02,670 --> 00:13:03,820
 Kau bicara seolah-olah tidak mabuk.
 
 206
-00:13:25,910 --> 00:13:27,180
+00:13:03,910 --> 00:13:05,180
 Kau kasus terburuk.
 
 207
-00:13:27,270 --> 00:13:29,430
+00:13:05,270 --> 00:13:07,430
 - Kukira kau kehilangan negaramu.
 - Hei.
 
 208
-00:13:30,130 --> 00:13:32,550
+00:13:08,130 --> 00:13:10,550
 Tapi bukankah itu aneh?
 
 209
-00:13:32,640 --> 00:13:33,780
+00:13:10,640 --> 00:13:11,780
 - Apa?
 - Apa yang aneh?
 
 210
-00:13:34,790 --> 00:13:37,130
+00:13:12,790 --> 00:13:15,130
 Maksudku, itu terlalu mendadak.
 
 211
-00:13:37,210 --> 00:13:39,720
+00:13:15,210 --> 00:13:17,720
 Mereka mengumumkannya
 di hari nilai kita keluar.
 
 212
-00:13:40,560 --> 00:13:43,370
+00:13:18,560 --> 00:13:21,370
 Apa menurutmu mereka berpura-pura
 berkencan karena nilai mereka?
 
 213
-00:13:43,510 --> 00:13:44,690
+00:13:21,510 --> 00:13:22,690
 Hanya untuk mendapatkan nilai A plus?
 
 214
-00:13:44,780 --> 00:13:45,840
+00:13:22,780 --> 00:13:23,840
 Benar sekali.
 
 215
-00:13:46,100 --> 00:13:47,250
+00:13:24,100 --> 00:13:25,250
 Tidak mungkin.
 
 216
-00:13:47,330 --> 00:13:49,360
+00:13:25,330 --> 00:13:27,360
 Nilai sangat penting belakangan ini,
 
 217
-00:13:49,450 --> 00:13:51,430
+00:13:27,450 --> 00:13:29,430
 dan mereka tidak akan mengacaukannya.
 
 218
-00:13:51,510 --> 00:13:53,270
+00:13:29,510 --> 00:13:31,270
 Benar sekali. Kalau begitu,
 
 219
-00:13:53,360 --> 00:13:56,180
+00:13:31,360 --> 00:13:34,180
 kita harus beri tahu Profesor
 dan mengakhiri riwayat mereka.
 
 220
-00:13:56,270 --> 00:13:57,500
+00:13:34,270 --> 00:13:35,500
 Lalu akan kuunggah ke internet.
 
 221
-00:13:57,670 --> 00:14:00,620
+00:13:35,670 --> 00:13:38,620
 - Itu akan menjadi skandal besar.
 - Mereka harus berhenti kuliah.
 
 222
-00:14:02,210 --> 00:14:03,700
+00:13:40,210 --> 00:13:41,700
 - Tidak mungkin.
 - Astaga.
 
 223
-00:14:04,140 --> 00:14:05,900
+00:13:42,140 --> 00:13:43,900
 Aku mungkin akan malu
 
 224
-00:14:05,990 --> 00:14:07,930
+00:13:43,990 --> 00:13:45,930
 di depan anak-anak
 yang 700 tahun lebih muda dariku.
 
 225
-00:14:11,090 --> 00:14:12,900
+00:13:49,090 --> 00:13:50,900
 - Apa yang harus kulakukan?
 - Hye-sun.
 
 226
-00:14:13,910 --> 00:14:16,150
+00:13:51,910 --> 00:13:54,150
 - Kelasmu sudah selesai?
 - Apa?
 
 227
-00:14:16,240 --> 00:14:18,970
+00:13:54,240 --> 00:13:56,970
 Aku menyiapkan banyak hal untukmu,
 
 228
-00:14:19,500 --> 00:14:20,910
+00:13:57,500 --> 00:13:58,910
 tapi semuanya dicuri.
 
 229
-00:14:31,600 --> 00:14:33,970
+00:14:09,600 --> 00:14:11,970
 Sayang, kau tidak kedinginan?
 
 230
-00:14:36,660 --> 00:14:37,760
+00:14:14,660 --> 00:14:15,760
 "Sayang"?
 
 231
-00:14:39,030 --> 00:14:40,440
+00:14:17,030 --> 00:14:18,440
 Ya, Sayang.
 
 232
-00:14:42,330 --> 00:14:44,800
+00:14:20,330 --> 00:14:22,800
 Pegang ini di tanganmu
 dan hangatkan dirimu di kelas.
 
 233
-00:14:45,900 --> 00:14:49,020
+00:14:23,900 --> 00:14:27,020
 Meski kau lelah,
 pikirkan aku dan tetaplah kuat, ya?
 
 234
-00:14:59,890 --> 00:15:01,430
+00:14:37,890 --> 00:14:39,430
 Sayang, kau memang...
 
 235
-00:15:09,520 --> 00:15:10,980
+00:14:47,520 --> 00:14:48,980
 Aku akan melakukan yang terbaik.
 
 236
-00:15:14,410 --> 00:15:15,820
+00:14:52,410 --> 00:14:53,820
 [Kubis Asin, Lobak Asin]
 
 237
-00:15:17,530 --> 00:15:19,070
+00:14:55,530 --> 00:14:57,070
 Akan butuh waktu lama
 untuk memindahkan ini.
 
 238
-00:15:21,760 --> 00:15:23,380
+00:14:59,760 --> 00:15:01,380
 Ini sangat merepotkan.
 
 239
-00:15:23,520 --> 00:15:26,200
+00:15:01,520 --> 00:15:04,200
 [Kubis Asin]
 
 240
-00:15:30,340 --> 00:15:31,610
+00:15:08,340 --> 00:15:09,610
 Pak.
 
 241
-00:15:31,700 --> 00:15:33,200
+00:15:09,700 --> 00:15:11,200
 Kupikir kau butuh bantuan.
 
 242
-00:15:37,160 --> 00:15:38,210
+00:15:15,160 --> 00:15:16,210
 Astaga.
 
 243
-00:15:38,520 --> 00:15:40,500
+00:15:16,520 --> 00:15:18,500
 Terima kasih sudah menggunakan
 kekuatanmu, Pak.
 
 244
-00:15:45,030 --> 00:15:47,670
+00:15:23,030 --> 00:15:25,670
 Bisakah kau membuat kimchi dengan sihir?
 
 245
-00:15:48,330 --> 00:15:49,430
+00:15:26,330 --> 00:15:27,430
 Entahlah.
 
 246
-00:15:49,870 --> 00:15:52,860
+00:15:27,870 --> 00:15:30,860
 Membuat makanan butuh
 sentuhan tangan yang lembut,
 
 247
-00:15:53,130 --> 00:15:54,270
+00:15:31,130 --> 00:15:32,270
 jadi, ada batasnya.
 
 248
-00:15:55,150 --> 00:15:57,090
+00:15:33,150 --> 00:15:35,090
 Jadi, aku ingin membantumu sendiri.
 
 249
-00:15:57,180 --> 00:15:59,510
+00:15:35,180 --> 00:15:37,510
 Kau ingin membuat kimchi?
 
 250
-00:15:59,600 --> 00:16:00,740
+00:15:37,600 --> 00:15:38,740
 Tentu saja.
 
 251
-00:16:01,050 --> 00:16:03,600
+00:15:39,050 --> 00:15:41,600
 Aku yakin membuat kimchi adalah
 acara keluarga,
 
 252
-00:16:03,690 --> 00:16:05,760
+00:15:41,690 --> 00:15:43,760
 yang artinya kau butuh banyak orang.
 
 253
-00:16:05,840 --> 00:16:07,160
+00:15:43,840 --> 00:15:45,160
 Kau tidak bisa melakukannya
 sendiri, bukan?
 
 254
-00:16:07,870 --> 00:16:10,510
+00:15:45,870 --> 00:15:48,510
 Tapi akan sulit saat kau
 benar-benar melakukannya.
 
 255
-00:16:13,670 --> 00:16:14,990
+00:15:51,670 --> 00:15:52,990
 Aku ingin melakukan ini bersama.
 
 256
-00:16:17,550 --> 00:16:20,360
+00:15:55,550 --> 00:15:58,360
 Sesuatu yang biasa dalam keseharianmu.
 
 257
-00:16:21,150 --> 00:16:22,870
+00:15:59,150 --> 00:16:00,870
 Aku ingin melakukannya denganmu.
 
 258
-00:16:27,180 --> 00:16:28,590
+00:16:05,180 --> 00:16:06,590
 Tentu, kau bisa melakukannya.
 
 259
-00:16:30,970 --> 00:16:33,740
+00:16:08,970 --> 00:16:11,740
 Astaga, kau punya penampilan
 untuk mewujudkan semua keinginanmu.
 
 260
-00:16:35,890 --> 00:16:37,520
+00:16:13,890 --> 00:16:15,520
 Kita harus mulai dari mana?
 
 261
-00:16:40,950 --> 00:16:44,960
+00:16:18,950 --> 00:16:22,960
 Pertama,
 kau harus berpakaian dengan benar.
 
 262
-00:16:46,060 --> 00:16:47,470
+00:16:24,060 --> 00:16:25,470
 Apa ada pakaian tertentu?
 
 263
-00:16:48,790 --> 00:16:50,900
+00:16:26,790 --> 00:16:28,900
 Bagaimana aku harus berpakaian
 agar terlihat pantas
 
 264
-00:16:50,990 --> 00:16:53,050
+00:16:28,990 --> 00:16:31,050
 dalam kegiatan tradisional manusia
 membuat kimchi?
 
 265
-00:17:00,090 --> 00:17:02,070
+00:16:38,090 --> 00:16:40,070
 Kau punya warna yang berbeda?
 
 266
-00:17:02,470 --> 00:17:06,210
+00:16:40,470 --> 00:16:44,210
 Sesuatu yang kurang mencolok,
 tapi lebih berkelas.
 
 267
-00:17:09,599 --> 00:17:12,020
+00:16:47,599 --> 00:16:50,020
 Tapi Pak, kau yakin bisa melakukan ini?
 
 268
-00:17:27,510 --> 00:17:31,290
+00:17:05,510 --> 00:17:09,290
 Nona Dam, pernah dengar ungkapan,
 "Pria dengan keahlian tidak biasa"?
 
 269
-00:17:31,470 --> 00:17:34,850
+00:17:09,470 --> 00:17:12,850
 Tentu saja, seseorang yang pintar
 dan berbakat dalam banyak hal.
 
 270
-00:17:35,600 --> 00:17:36,750
+00:17:13,600 --> 00:17:14,750
 Itulah aku.
 
 271
-00:17:39,430 --> 00:17:42,330
+00:17:17,430 --> 00:17:20,330
 Aku sudah hidup lama, jadi, aku tahu
 banyak tentang hidangan tradisional,
 
 272
-00:17:42,420 --> 00:17:45,020
+00:17:20,420 --> 00:17:23,020
 dan sangat berbakat,
 
 273
-00:17:46,160 --> 00:17:47,440
+00:17:24,160 --> 00:17:25,440
 jadi, jangan khawatir.
 
 274
-00:17:47,520 --> 00:17:53,380
+00:17:25,520 --> 00:17:31,380
 [Kubis Asin]
 
 275
-00:17:54,610 --> 00:17:56,240
+00:17:32,610 --> 00:17:34,240
 [Pir]
 
 276
-00:19:07,300 --> 00:19:09,060
+00:18:45,300 --> 00:18:47,060
 Sekarang adalah langkah terakhir.
 
 277
-00:19:11,960 --> 00:19:13,150
+00:18:49,960 --> 00:18:51,150
 Ulangi.
 
 278
-00:19:14,030 --> 00:19:16,360
+00:18:52,030 --> 00:18:54,360
 Apa? Kenapa?
 
 279
-00:19:16,800 --> 00:19:19,130
+00:18:54,800 --> 00:18:57,130
 Kau harus memasukkan bumbunya
 secara merata.
 
 280
-00:19:19,220 --> 00:19:21,810
+00:18:57,220 --> 00:18:59,810
 Bagian dalamnya sangat putih.
 Kau membuat kimchi putih?
 
 281
-00:19:27,800 --> 00:19:30,880
+00:19:05,800 --> 00:19:08,880
 Kimchi pasti sangat signifikan
 bagi manusia.
 
 282
-00:19:31,230 --> 00:19:33,740
+00:19:09,230 --> 00:19:11,740
 Kau sudah melakukan pekerjaan berat ini
 setiap tahun.
 
 283
-00:19:35,060 --> 00:19:36,550
+00:19:13,060 --> 00:19:14,550
 Padahal tidak ada hadiahnya.
 
 284
-00:19:36,860 --> 00:19:38,050
+00:19:14,860 --> 00:19:16,050
 Tentu saja, ada hadiah.
 
 285
-00:19:38,400 --> 00:19:40,160
+00:19:16,400 --> 00:19:18,160
 Selalu ada hadiah
 yang istimewa dan luar biasa
 
 286
-00:19:40,250 --> 00:19:41,350
+00:19:18,250 --> 00:19:19,350
 setelah membuat kimchi.
 
 287
-00:19:43,330 --> 00:19:45,530
+00:19:21,330 --> 00:19:23,530
 Sebenarnya apa hadiah itu?
 
 288
-00:19:48,870 --> 00:19:52,130
+00:19:26,870 --> 00:19:30,130
 Ini dia. Kita punya suyuk di sini.
 
 289
-00:19:52,390 --> 00:19:54,680
+00:19:30,390 --> 00:19:32,680
 Kimchi segar
 dengan suyuk yang baru direbus.
 
 290
-00:19:54,770 --> 00:19:56,090
+00:19:32,770 --> 00:19:34,090
 Bukankah ini hadiah terbaik?
 
 291
-00:19:57,540 --> 00:19:58,730
+00:19:35,540 --> 00:19:36,730
 Entahlah.
 
 292
-00:19:58,860 --> 00:20:00,930
+00:19:36,860 --> 00:19:38,930
 Akan berbeda setelah kau makan.
 
 293
-00:20:01,770 --> 00:20:03,000
+00:19:39,770 --> 00:19:41,000
 Buka.
 
 294
-00:20:08,980 --> 00:20:10,130
+00:19:46,980 --> 00:19:48,130
 Bagaimana?
 
 295
-00:20:12,940 --> 00:20:14,170
+00:19:50,940 --> 00:19:52,170
 Ini enak.
 
 296
-00:20:15,580 --> 00:20:18,440
+00:19:53,580 --> 00:19:56,440
 Ayolah. Itu bukan respons orang
 yang menganggap ini enak.
 
 297
-00:20:18,880 --> 00:20:21,350
+00:19:56,880 --> 00:19:59,350
 Aku akan masuk sekali lagi, jadi, ulangi.
 
 298
-00:20:26,450 --> 00:20:30,630
+00:20:04,450 --> 00:20:08,630
 Ini dia. Pak, kita punya suyuk di sini.
 
 299
-00:20:34,680 --> 00:20:36,440
+00:20:12,680 --> 00:20:14,440
 Kelihatannya enak sekali.
 
 300
-00:20:37,540 --> 00:20:38,730
+00:20:15,540 --> 00:20:16,730
 Buka.
 
 301
-00:20:44,360 --> 00:20:45,500
+00:20:22,360 --> 00:20:23,500
 Bagaimana?
 
 302
-00:20:52,500 --> 00:20:54,740
+00:20:30,500 --> 00:20:32,740
 - Ini enak sekali, Nona Dam.
 - Lihat?
 
 303
-00:20:57,160 --> 00:20:58,830
+00:20:35,160 --> 00:20:36,830
 Aku tidak belajar menggunakan sihir
 untuk melakukan ini.
 
 304
-00:20:58,920 --> 00:21:02,130
+00:20:36,920 --> 00:20:40,130
 Benar, ini saat kita
 membutuhkan teman kita.
 
 305
-00:21:02,880 --> 00:21:04,160
+00:20:40,880 --> 00:20:42,160
 Teman kita?
 
 306
-00:21:11,150 --> 00:21:14,230
+00:20:49,150 --> 00:20:52,230
 Pak, aku punya makgeolli.
 
 307
-00:21:14,320 --> 00:21:15,640
+00:20:52,320 --> 00:20:53,640
 Teman Suyuk, makgeolli.
 
 308
-00:21:17,490 --> 00:21:19,600
+00:20:55,490 --> 00:20:57,600
 Tunggu, kau mudah mabuk.
 
 309
-00:21:22,150 --> 00:21:23,160
+00:21:00,150 --> 00:21:01,160
 Apa?
 
 310
-00:21:23,380 --> 00:21:25,230
+00:21:01,380 --> 00:21:03,230
 Saat pergi ke bar gerobak itu,
 
 311
-00:21:25,320 --> 00:21:28,270
+00:21:03,320 --> 00:21:06,270
 kita memesan dua botol soju,
 dan kau hanya minum satu gelas.
 
 312
-00:21:28,750 --> 00:21:30,640
+00:21:06,750 --> 00:21:08,640
 Dan wajahmu memerah setelah itu.
 
 313
-00:21:31,390 --> 00:21:33,770
+00:21:09,390 --> 00:21:11,770
 Kurasa kau yang mabuk malam itu.
 
 314
-00:21:36,230 --> 00:21:38,390
+00:21:14,230 --> 00:21:16,390
 Kau tidak mengizinkanku minum saat itu,
 
 315
-00:21:38,480 --> 00:21:40,630
+00:21:16,480 --> 00:21:18,630
 jadi, aku lemah selama masa itu.
 
 316
-00:21:41,290 --> 00:21:42,830
+00:21:19,290 --> 00:21:20,830
 Aku peminum berat.
 
 317
-00:21:42,920 --> 00:21:45,870
+00:21:20,920 --> 00:21:23,870
 Aku terkenal karena memenangi
 kontes minum bir.
 
 318
-00:21:45,960 --> 00:21:47,140
+00:21:23,960 --> 00:21:25,140
 Nona Dam.
 
 319
-00:21:47,450 --> 00:21:50,490
+00:21:25,450 --> 00:21:28,490
 Aku juga terkenal
 dengan asupan alkoholku di era Joseon.
 
 320
-00:21:51,060 --> 00:21:52,860
+00:21:29,060 --> 00:21:30,860
 Begitu aku mulai minum,
 mereka harus menghabiskan beras
 
 321
-00:21:52,950 --> 00:21:54,490
+00:21:30,950 --> 00:21:32,490
 untuk memuaskan kebutuhanku akan alkohol,
 
 322
-00:21:54,580 --> 00:21:56,560
+00:21:32,580 --> 00:21:34,560
 jadi, orang-orang kelaparan tahun itu.
 
 323
-00:21:57,090 --> 00:21:58,670
+00:21:35,090 --> 00:21:36,670
 Itu berlebihan.
 
 324
-00:21:58,760 --> 00:22:00,700
+00:21:36,760 --> 00:21:38,700
 Akan kubuktikan bahwa itu
 bukan sekadar melebih-lebihkan.
 
 325
-00:22:22,120 --> 00:22:24,500
+00:22:00,120 --> 00:22:02,500
 - Siapa ini?
 - Ibuku.
 
 326
-00:22:25,690 --> 00:22:27,140
+00:22:03,690 --> 00:22:05,140
 Itu sudah lama sekali.
 
 327
-00:22:30,400 --> 00:22:32,420
+00:22:08,400 --> 00:22:10,420
 Aku sudah lama tidak melihat ini.
 
 328
-00:22:33,250 --> 00:22:35,280
+00:22:11,250 --> 00:22:13,280
 Aku terlihat sangat jelek
 saat masih bayi, bukan?
 
 329
-00:22:36,770 --> 00:22:38,230
+00:22:14,770 --> 00:22:16,230
 Kau manis.
 
 330
-00:22:39,630 --> 00:22:41,480
+00:22:17,630 --> 00:22:19,480
 - Yang ini?
 - Ya.
 
 331
-00:22:42,270 --> 00:22:43,810
+00:22:20,270 --> 00:22:21,810
 Ini Dan.
 
 332
-00:22:47,110 --> 00:22:48,350
+00:22:25,110 --> 00:22:26,350
 Ini aku.
 
 333
-00:22:49,050 --> 00:22:50,190
+00:22:27,050 --> 00:22:28,190
 Benar.
 
 334
-00:22:55,690 --> 00:22:58,990
+00:22:33,690 --> 00:22:36,990
 Jadi, kau tumbuh seperti ini.
 
 335
-00:22:59,350 --> 00:23:01,770
+00:22:37,350 --> 00:22:39,770
 Seperti apa kau saat kecil?
 
 336
-00:23:02,780 --> 00:23:04,580
+00:22:40,780 --> 00:22:42,580
 Aku tak pernah punya masa kecil.
 
 337
-00:23:05,680 --> 00:23:07,660
+00:22:43,680 --> 00:22:45,660
 Aku selalu terlihat seperti ini.
 
 338
-00:23:12,240 --> 00:23:14,790
+00:22:50,240 --> 00:22:52,790
 Pilih satu foto. Aku akan memberimu satu.
 
 339
-00:23:16,860 --> 00:23:18,350
+00:22:54,860 --> 00:22:56,350
 Kalau begitu, beri aku lima.
 
 340
-00:23:18,440 --> 00:23:20,200
+00:22:56,440 --> 00:22:58,200
 Apa? Lima?
 
 341
-00:23:21,830 --> 00:23:25,040
+00:22:59,830 --> 00:23:03,040
 Yang ini. Ini, dan ini.
 
 342
-00:23:25,530 --> 00:23:27,770
+00:23:03,530 --> 00:23:05,770
 Yang ini dan ini. Aku suka semuanya.
 
 343
-00:23:28,300 --> 00:23:31,290
+00:23:06,300 --> 00:23:09,290
 Lalu apa yang harus kulakukan?
 Haruskah aku memberimu seluruh albumnya?
 
 344
-00:23:45,150 --> 00:23:46,380
+00:23:23,150 --> 00:23:24,380
 Kak Dam!
 
 345
-00:23:52,630 --> 00:23:55,360
+00:23:30,630 --> 00:23:33,360
 - Kakak sedang apa?
 - Kakak...
 
 346
-00:23:55,750 --> 00:23:58,440
+00:23:33,750 --> 00:23:36,440
 Kami hanya membuat kimchi,
 kakak serius. Hanya kimchi.
 
 347
-00:23:58,570 --> 00:24:00,020
+00:23:36,570 --> 00:23:38,020
 Kakak harus melakukannya sendiri, bukan?
 
 348
-00:24:00,110 --> 00:24:02,660
+00:23:38,110 --> 00:23:40,660
 Tapi dia menawarkan bantuan
 karena sulit melakukannya sendiri.
 
 349
-00:24:02,790 --> 00:24:05,870
+00:23:40,790 --> 00:23:43,870
 Lalu kami agak mabuk makgeolli, jadi...
 
 350
-00:24:07,680 --> 00:24:09,700
+00:23:45,680 --> 00:23:47,700
 Beri salam. Ini pacarku.
 
 351
-00:24:13,440 --> 00:24:15,380
+00:23:51,440 --> 00:23:53,380
 Apa Laksamana Yi Sun-sin pacar Kakak?
 
 352
-00:24:17,800 --> 00:24:18,900
+00:23:55,800 --> 00:23:56,900
 Apa?
 
 353
-00:24:20,300 --> 00:24:22,370
+00:23:58,300 --> 00:24:00,370
 [Jika aku ingin hidup, aku akan mati.
 Tapi jika aku ingin mati, aku akan hidup!]
 
 354
-00:24:25,450 --> 00:24:27,170
+00:24:03,450 --> 00:24:05,170
 Kakak pasti terlalu banyak minum.
 
 355
-00:24:27,260 --> 00:24:29,630
+00:24:05,260 --> 00:24:07,630
 Kakak pasti memimpikan pacar kakak
 setelah tertidur saat mabuk.
 
 356
-00:24:32,540 --> 00:24:35,220
+00:24:10,540 --> 00:24:13,220
 Ada 12 botol makgeolli kosong di luar.
 
 357
-00:24:35,310 --> 00:24:36,540
+00:24:13,310 --> 00:24:14,540
 Bersihkan itu.
 
 358
-00:24:36,630 --> 00:24:39,140
+00:24:14,630 --> 00:24:17,140
 Lupakan, aku akan bersih-bersih.
 Istirahatlah.
 
 359
-00:24:39,220 --> 00:24:40,590
+00:24:17,220 --> 00:24:18,590
 Terima kasih.
 
 360
-00:24:40,680 --> 00:24:42,300
+00:24:18,680 --> 00:24:20,300
 Apa Kakak punya pacar sungguhan?
 
 361
-00:24:50,970 --> 00:24:52,910
+00:24:28,970 --> 00:24:30,910
 [Pak, apa yang terjadi?]
 
 362
-00:24:52,730 --> 00:25:00,340
+00:24:30,730 --> 00:24:38,340
 [Nona Dam]
 
 363
-00:24:53,260 --> 00:24:55,460
+00:24:31,260 --> 00:24:33,460
 [Aku tidak mau merepotkanmu,
 jadi, aku keluar.]
 
 364
-00:24:56,300 --> 00:24:59,600
+00:24:34,300 --> 00:24:37,600
 [Kau seharusnya bertemu
 dengan adikku sebelum pergi.]
 
 365
-00:25:00,430 --> 00:25:08,130
+00:24:38,430 --> 00:24:46,130
 [Nona Dam]
 
 366
-00:25:00,920 --> 00:25:04,700
+00:24:38,920 --> 00:24:42,700
 [Kau nanti harus berbohong
 jika ingin memberitahunya soal aku.]
 
 367
-00:25:38,050 --> 00:25:42,010
+00:25:16,050 --> 00:25:20,010
 Kalau begitu, Pak,
 kau akan tampak seperti ini seumur hidup.
 
 368
-00:25:44,470 --> 00:25:45,790
+00:25:22,470 --> 00:25:23,790
 Kau tahu,
 
 369
-00:25:46,500 --> 00:25:50,410
+00:25:24,500 --> 00:25:28,410
 aku tidak peduli dia bilang manusia
 hanya boleh bersama manusia lain.
 
 370
-00:25:51,910 --> 00:25:53,710
+00:25:29,910 --> 00:25:31,710
 Aku sungguh tidak peduli
 
 371
-00:25:54,020 --> 00:25:56,930
+00:25:32,020 --> 00:25:34,930
 jika kau bukan manusia.
 
 372
-00:25:58,860 --> 00:26:00,050
+00:25:36,860 --> 00:25:38,050
 Tapi
 
 373
-00:26:01,990 --> 00:26:04,140
+00:25:39,990 --> 00:25:42,140
 aku akan terus berubah
 
 374
-00:26:05,730 --> 00:26:07,530
+00:25:43,730 --> 00:25:45,530
 seiring bertambahnya usia.
 
 375
-00:26:10,170 --> 00:26:14,310
+00:25:48,170 --> 00:25:52,310
 Jadi, aku agak khawatir
 kau akan tertinggal sendirian.
 
 376
-00:26:29,660 --> 00:26:32,570
+00:26:07,660 --> 00:26:10,570
 Tapi kuharap kita bisa bersama
 untuk waktu yang lama.
 
 377
-00:26:41,010 --> 00:26:42,860
+00:26:19,010 --> 00:26:20,860
 Aku juga ingin melakukan itu.
 
 378
-00:27:07,190 --> 00:27:08,560
+00:26:45,190 --> 00:26:46,560
 [Awalnya,]
 
 379
-00:27:09,480 --> 00:27:11,810
+00:26:47,480 --> 00:26:49,810
 [aku ingin kau kembali
 ke kehidupan normalmu.]
 
 380
-00:27:14,410 --> 00:27:15,690
+00:26:52,410 --> 00:26:53,690
 [Karena itulah]
 
 381
-00:27:16,610 --> 00:27:18,280
+00:26:54,610 --> 00:26:56,280
 [aku membiarkanmu pergi
 dengan penuh rasa sakit.]
 
 382
-00:27:21,050 --> 00:27:22,500
+00:26:59,050 --> 00:27:00,500
 [Tapi sekarang,]
 
 383
-00:27:24,040 --> 00:27:26,640
+00:27:02,040 --> 00:27:04,640
 [aku ingin menjadi masa depan biasamu.]
 
 384
-00:27:37,110 --> 00:27:39,180
+00:27:15,110 --> 00:27:17,180
 [Suatu hari, akan datang momen]
 
 385
-00:27:41,560 --> 00:27:45,520
+00:27:19,560 --> 00:27:23,520
 [saat kau tidak tahan
 bahwa kau sebenarnya rubah.]
 
 386
-00:28:00,700 --> 00:28:01,930
+00:27:38,700 --> 00:27:39,930
 Profesor Shin.
 
 387
-00:28:04,960 --> 00:28:06,810
+00:27:42,960 --> 00:27:44,810
 Kau mau masuk kelas?
 
 388
-00:28:07,080 --> 00:28:08,180
+00:27:45,080 --> 00:27:46,180
 Ya.
 
 389
-00:28:12,000 --> 00:28:15,700
+00:27:50,000 --> 00:27:53,700
 Kau mau minum kopi setelah mengajar?
 
 390
-00:28:27,800 --> 00:28:29,740
+00:28:05,800 --> 00:28:07,740
 [Pak, kau baik-baik saja?]
 
 391
-00:28:30,220 --> 00:28:32,380
+00:28:08,220 --> 00:28:10,380
 [Pasti sulit minum sebanyak aku.]
 
 392
-00:28:32,460 --> 00:28:34,090
+00:28:10,460 --> 00:28:12,090
 [Mari kita menghilangkan pengar bersama.]
 
 393
-00:28:50,110 --> 00:28:53,280
+00:28:28,110 --> 00:28:31,280
 Hei, aku tahu perasaanmu, tapi...
 
 394
-00:28:54,550 --> 00:28:56,970
+00:28:32,550 --> 00:28:34,970
 Perasaanku tentang apa?
 
 395
-00:28:58,290 --> 00:28:59,570
+00:28:36,290 --> 00:28:37,570
 Itu.
 
 396
-00:28:59,830 --> 00:29:04,100
+00:28:37,830 --> 00:28:42,100
 Bahwa kau memujaku
 sebagai junior yang manis dan baik.
 
 397
-00:29:05,810 --> 00:29:09,160
+00:28:43,810 --> 00:28:47,160
 Apa? Aku tidak pernah memikirkan
 hal menakutkan seperti itu.
 
 398
-00:29:10,170 --> 00:29:14,220
+00:28:48,170 --> 00:28:52,220
 Benar juga. Kudengar kau berhasil
 mewawancarai Pak Han Seok-won.
 
 399
-00:29:14,480 --> 00:29:15,890
+00:28:52,480 --> 00:28:53,890
 Bagaimana kau membujuk dia?
 
 400
-00:29:15,980 --> 00:29:19,060
+00:28:53,980 --> 00:28:57,060
 Aku mengiriminya sekitar 100 surel.
 
 401
-00:29:19,150 --> 00:29:20,860
+00:28:57,150 --> 00:28:58,860
 Aku akan pergi wawancara pekan depan.
 
 402
-00:29:20,950 --> 00:29:22,490
+00:28:58,950 --> 00:29:00,490
 Luar biasa.
 
 403
-00:29:23,060 --> 00:29:26,490
+00:29:01,060 --> 00:29:04,490
 Tapi maafkan aku.
 Tidak ada yang ikut denganmu.
 
 404
-00:29:26,580 --> 00:29:27,640
+00:29:04,580 --> 00:29:05,640
 Benar sekali.
 
 405
-00:29:27,730 --> 00:29:30,890
+00:29:05,730 --> 00:29:08,890
 Sejak Da Young dan semua orang pergi,
 tidak ada orang lain yang mau bergabung.
 
 406
-00:29:31,600 --> 00:29:35,250
+00:29:09,600 --> 00:29:13,250
 Benar, haruskah kita meminta
 Profesor Shin membantu menyebarkan kabar?
 
 407
-00:29:36,130 --> 00:29:37,710
+00:29:14,130 --> 00:29:15,710
 Profesor Shin?
 
 408
-00:29:40,710 --> 00:29:42,910
+00:29:18,710 --> 00:29:20,910
 Bapak punya pengumuman
 sebelum memulai kelas.
 
 409
-00:29:42,470 --> 00:29:45,770
+00:29:20,470 --> 00:29:23,770
 [Sejarah 101]
 
 410
-00:29:43,260 --> 00:29:45,720
+00:29:21,260 --> 00:29:23,720
 Kami butuh lebih banyak anggota
 di klub sejarah yang bapak awasi.
 
 411
-00:29:45,810 --> 00:29:48,190
+00:29:23,810 --> 00:29:26,190
 Aku! Aku akan melakukannya.
 
 412
-00:29:48,270 --> 00:29:50,910
+00:29:26,270 --> 00:29:28,910
 Aku sibuk belajar untuk kelasku
 dan untuk sertifikasi guruku,
 
 413
-00:29:51,000 --> 00:29:54,300
+00:29:29,000 --> 00:29:32,300
 tapi aku ingin menambahkan
 usaha kecilku demi Bapak.
 
 414
-00:29:56,460 --> 00:29:57,650
+00:29:34,460 --> 00:29:35,650
 [Sejarah 101]
 
 415
-00:29:57,250 --> 00:29:58,530
+00:29:35,250 --> 00:29:36,530
 Aku juga ikut.
 
 416
-00:30:02,350 --> 00:30:03,670
+00:29:40,350 --> 00:29:41,670
 Ada lagi?
 
 417
-00:30:04,330 --> 00:30:05,570
+00:29:42,330 --> 00:29:43,570
 Aku juga.
 
 418
-00:30:19,690 --> 00:30:20,830
+00:29:57,690 --> 00:29:58,830
 Baiklah, kalau begitu.
 
 419
-00:30:21,320 --> 00:30:24,710
+00:29:59,320 --> 00:30:02,710
 Lantas, Choi Soo-kyung,
 Jung Seok, dan Gye Seon-woo.
 
 420
-00:30:24,970 --> 00:30:27,610
+00:30:02,970 --> 00:30:05,610
 Selain itu, Yang Hye-sun juga.
 
 421
-00:30:28,050 --> 00:30:29,550
+00:30:06,050 --> 00:30:07,550
 Mari kita mulai.
 
 422
-00:30:29,770 --> 00:30:31,220
+00:30:07,770 --> 00:30:09,220
 Kenapa aku harus bergabung?
 
 423
-00:30:31,830 --> 00:30:34,030
+00:30:09,830 --> 00:30:12,030
 Aku sudah memberi tahu mereka
 kau mendaftar sebelumnya.
 
 424
-00:30:34,120 --> 00:30:37,380
+00:30:12,120 --> 00:30:15,380
 Jadi, kenapa mengarang kebohongan itu?
 Berhentilah membuat lelucon.
 
 425
-00:30:37,460 --> 00:30:39,530
+00:30:15,460 --> 00:30:17,530
 Ini bukan lelucon. Aku meminta bantuanmu.
 
 426
-00:30:40,100 --> 00:30:41,340
+00:30:18,100 --> 00:30:19,340
 Tolong awasi dia.
 
 427
-00:30:41,420 --> 00:30:43,670
+00:30:19,420 --> 00:30:21,670
 Jika kau secemas itu, pergilah sendiri.
 
 428
-00:30:43,760 --> 00:30:45,250
+00:30:21,760 --> 00:30:23,250
 Bukankah kau pembimbingnya?
 
 429
-00:30:45,340 --> 00:30:47,580
+00:30:23,340 --> 00:30:25,580
 Itu akan membuatnya kewalahan.
 
 430
-00:30:49,560 --> 00:30:53,300
+00:30:27,560 --> 00:30:31,300
 Jika tidak mau melakukannya sendiri,
 kau juga bisa membawanya.
 
 431
-00:30:57,750 --> 00:30:58,850
+00:30:35,750 --> 00:30:36,850
 Apa?
 
 432
-00:30:59,950 --> 00:31:01,360
+00:30:37,950 --> 00:30:39,360
 Apa lagi sekarang?
 
 433
-00:31:02,280 --> 00:31:04,390
+00:30:40,280 --> 00:30:42,390
 Kami hanya berpacaran karena nilai kami.
 
 434
-00:31:04,700 --> 00:31:06,150
+00:30:42,700 --> 00:30:44,150
 Aku tidak mengatakan apa pun.
 
 435
-00:31:07,300 --> 00:31:09,800
+00:30:45,300 --> 00:30:47,800
 Benar. Kau mengatakannya di kepalamu.
 
 436
-00:31:11,520 --> 00:31:12,750
+00:30:49,520 --> 00:30:50,750
 Apa maumu?
 
 437
-00:31:14,950 --> 00:31:17,990
+00:30:52,950 --> 00:30:55,990
 [Profesor Shin Woo-yeo]
 
 438
-00:31:20,670 --> 00:31:22,830
+00:30:58,670 --> 00:31:00,830
 Rasanya lebih buruk saat dia diam saja.
 
 439
-00:31:26,000 --> 00:31:28,900
+00:31:04,000 --> 00:31:06,900
 Tapi tetap saja,
 sepertinya dia sudah tenang.
 
 440
-00:31:30,040 --> 00:31:31,190
+00:31:08,040 --> 00:31:09,190
 Hye-sun.
 
 441
-00:31:31,580 --> 00:31:34,360
+00:31:09,580 --> 00:31:12,360
 Kudengar kau bergabung dengan klub Dam.
 Aku akan ikut denganmu.
 
 442
-00:31:35,460 --> 00:31:37,440
+00:31:13,460 --> 00:31:15,440
 - Kau juga?
 - Ya, tentu.
 
 443
-00:31:37,520 --> 00:31:40,300
+00:31:15,520 --> 00:31:18,300
 Kau sudah dengar soal wawancara besok?
 
 444
-00:31:40,910 --> 00:31:42,010
+00:31:18,910 --> 00:31:20,010
 Apa?
 
 445
-00:31:42,100 --> 00:31:43,820
+00:31:20,100 --> 00:31:21,820
 Besok? Langsung?
 
 446
-00:31:45,750 --> 00:31:48,610
+00:31:23,750 --> 00:31:26,610
 Ya, sejarawan yang akan kuwawancarai
 
 447
-00:31:48,700 --> 00:31:50,330
+00:31:26,700 --> 00:31:28,330
 harus segera pergi ke luar negeri.
 
 448
-00:31:50,420 --> 00:31:52,790
+00:31:28,420 --> 00:31:30,790
 Jika tidak besok,
 kami harus menunggu sebulan.
 
 449
-00:31:54,600 --> 00:31:57,760
+00:31:32,600 --> 00:31:35,760
 Jadi, aku akan pergi
 selama dua hari satu malam.
 
 450
-00:31:59,920 --> 00:32:01,370
+00:31:37,920 --> 00:31:39,370
 Dua hari, satu malam.
 
 451
-00:32:04,230 --> 00:32:06,040
+00:31:42,230 --> 00:31:44,040
 Kau harus menginap?
 
 452
-00:32:08,450 --> 00:32:11,530
+00:31:46,450 --> 00:31:49,530
 Ya, hanya itu cara agar kami
 bisa mewawancarainya.
 
 453
-00:32:27,240 --> 00:32:28,610
+00:32:05,240 --> 00:32:06,610
 Aku haus.
 
 454
-00:32:37,010 --> 00:32:38,460
+00:32:15,010 --> 00:32:16,460
 Sejujurnya, aku tidak ingin kau pergi.
 
 455
-00:32:40,180 --> 00:32:41,670
+00:32:18,180 --> 00:32:19,670
 Temani aku saja.
 
 456
-00:32:46,250 --> 00:32:47,530
+00:32:24,250 --> 00:32:25,530
 [Dia manis sekali.]
 
 457
-00:32:51,310 --> 00:32:52,450
+00:32:29,310 --> 00:32:30,450
 Berjanjilah untuk sering
 mengirimiku pesan.
 
 458
-00:32:53,290 --> 00:32:55,800
+00:32:31,290 --> 00:32:33,800
 Ayolah. Ini bukan perjalanan beransel
 selama sebulan.
 
 459
-00:32:56,280 --> 00:32:57,910
+00:32:34,280 --> 00:32:35,910
 Jangan minum terlalu banyak.
 
 460
-00:32:58,530 --> 00:33:00,240
+00:32:36,530 --> 00:32:38,240
 Aku tidak bisa menjanjikan itu.
 
 461
-00:33:00,680 --> 00:33:02,710
+00:32:38,680 --> 00:32:40,710
 Jangan terlalu dekat dengannya.
 
 462
-00:33:11,640 --> 00:33:14,760
+00:32:49,640 --> 00:32:52,760
 Kecemasanmu tidak akan pernah terjadi.
 
 463
-00:33:15,770 --> 00:33:16,870
+00:32:53,770 --> 00:32:54,870
 Kau percaya kepadaku?
 
 464
-00:33:20,660 --> 00:33:21,760
+00:32:58,660 --> 00:32:59,760
 Ya.
 
 465
-00:33:40,550 --> 00:33:42,310
+00:33:18,550 --> 00:33:20,310
 Bersenang-senanglah.
 
 466
-00:33:43,930 --> 00:33:45,870
+00:33:21,930 --> 00:33:23,870
 Tapi jangan terlalu bersenang-senang.
 
 467
-00:33:49,390 --> 00:33:50,620
+00:33:27,390 --> 00:33:28,620
 Baiklah.
 
 468
-00:34:06,280 --> 00:34:08,040
+00:33:44,280 --> 00:33:46,040
 Hye-sun,
 kita pasti yang pertama tiba di sini.
 
 469
-00:34:08,130 --> 00:34:09,360
+00:33:46,130 --> 00:33:47,360
 Kurasa kau benar.
 
 470
-00:34:08,840 --> 00:34:11,480
+00:33:46,840 --> 00:33:49,480
 [Lantai Tiga, Jalur]
 
 471
-00:34:10,550 --> 00:34:11,520
+00:33:48,550 --> 00:33:49,520
 Benar juga.
 
 472
-00:34:12,929 --> 00:34:15,790
+00:33:50,929 --> 00:33:53,790
 Aku tidak butuh suplemen sebelumnya,
 tapi karena sekarang aku manusia,
 
 473
-00:34:15,880 --> 00:34:17,639
+00:33:53,880 --> 00:33:55,639
 aku butuh suplemen agar bersemangat.
 
 474
-00:34:17,989 --> 00:34:19,179
+00:33:55,989 --> 00:33:57,179
 Karena sekarang kau manusia?
 
 475
-00:34:21,070 --> 00:34:24,320
+00:33:59,070 --> 00:34:02,320
 Bahasa Korea-ku masih buruk. Mungkin
 karena aku sudah lama di luar negeri.
 
 476
-00:34:28,199 --> 00:34:30,310
+00:34:06,199 --> 00:34:08,310
 Masing-masing dua. Cobalah.
 
 477
-00:34:36,909 --> 00:34:39,900
+00:34:14,909 --> 00:34:17,900
 Ini hadiahku untukmu. Ini bagus
 untuk kesehatan, jadi, minumlah teratur.
 
 478
-00:34:42,190 --> 00:34:45,620
+00:34:20,190 --> 00:34:23,620
 Terima kasih. Ini kali pertamaku
 mendapat hal seperti ini dari pacarku.
 
 479
-00:34:45,880 --> 00:34:48,610
+00:34:23,880 --> 00:34:26,610
 Selama ini aku hanya tiba-tiba
 dapat salam perpisahan.
 
 480
-00:34:49,010 --> 00:34:50,110
+00:34:27,010 --> 00:34:28,110
 Terima kasih.
 
 481
-00:34:50,500 --> 00:34:52,440
+00:34:28,500 --> 00:34:30,440
 Jika kau sangat menyukainya,
 jadikan itu foto profilmu
 
 482
-00:34:52,530 --> 00:34:53,850
+00:34:30,530 --> 00:34:31,850
 agar yang lain tidak mencurigai kita.
 
 483
-00:34:54,199 --> 00:34:55,210
+00:34:32,199 --> 00:34:33,210
 Mencurigai?
 
 484
-00:34:55,300 --> 00:34:56,530
+00:34:33,300 --> 00:34:34,530
 Bukankah sudah kubilang?
 
 485
-00:34:56,659 --> 00:34:59,660
+00:34:34,659 --> 00:34:37,660
 Mahasiswa lain curiga kita
 bukan pasangan sungguhan.
 
 486
-00:35:00,360 --> 00:35:04,100
+00:34:38,360 --> 00:34:42,100
 Maksudmu,
 mereka pikir kita pasangan palsu?
 
 487
-00:35:04,230 --> 00:35:05,550
+00:34:42,230 --> 00:34:43,550
 Bukan itu maksudku.
 
 488
-00:35:05,640 --> 00:35:07,400
+00:34:43,640 --> 00:34:45,400
 Mereka pikir kita hanya berpura-pura
 
 489
-00:35:07,490 --> 00:35:09,640
+00:34:45,490 --> 00:34:47,640
 menjadi pasangan hanya untuk pamer.
 
 490
-00:35:09,730 --> 00:35:12,550
+00:34:47,730 --> 00:34:50,550
 Itu maksudku, pasangan palsu.
 
 491
-00:35:14,440 --> 00:35:15,540
+00:34:52,440 --> 00:34:53,540
 Begitukah?
 
 492
-00:35:19,980 --> 00:35:22,270
+00:34:57,980 --> 00:35:00,270
 Jadi, itu sebabnya kau
 bersikap baik kepadaku.
 
 493
-00:35:22,930 --> 00:35:25,660
+00:35:00,930 --> 00:35:03,660
 Kau ingin menunjukkan
 bahwa kita tidak palsu.
 
 494
-00:35:26,230 --> 00:35:29,570
+00:35:04,230 --> 00:35:07,570
 Ya. Beri tahu teman-temanmu
 
 495
-00:35:29,660 --> 00:35:30,810
+00:35:07,660 --> 00:35:08,810
 untuk menutup mulut mereka.
 
 496
-00:35:32,040 --> 00:35:33,230
+00:35:10,040 --> 00:35:11,230
 - Baiklah.
 - Jae-jin.
 
 497
-00:35:35,780 --> 00:35:36,880
+00:35:13,780 --> 00:35:14,880
 Hei.
 
 498
-00:35:37,630 --> 00:35:39,390
+00:35:15,630 --> 00:35:17,390
 Yang lainnya ada di loket tiket sekarang.
 
 499
-00:35:39,470 --> 00:35:40,660
+00:35:17,470 --> 00:35:18,660
 Ayo cepat.
 
 500
-00:35:54,570 --> 00:35:56,330
+00:35:32,570 --> 00:35:34,330
 Terima kasih atas waktu Anda, Pak.
 
 501
-00:35:56,410 --> 00:35:57,650
+00:35:34,410 --> 00:35:35,650
 Terima kasih.
 
 502
-00:35:57,780 --> 00:36:00,240
+00:35:35,780 --> 00:35:38,240
 Kami juga akan melihat-lihat museum.
 
 503
-00:36:00,330 --> 00:36:01,960
+00:35:38,330 --> 00:35:39,960
 Bagus. Sampai jumpa.
 
 504
-00:36:02,050 --> 00:36:03,370
+00:35:40,050 --> 00:35:41,370
 Terima kasih.
 
 505
-00:36:06,180 --> 00:36:07,810
+00:35:44,180 --> 00:35:45,810
 Dia pria yang karismatik!
 
 506
-00:36:07,900 --> 00:36:10,630
+00:35:45,900 --> 00:35:48,630
 Semua ucapannya mutiara kebijaksanaan.
 Kau mendengarnya, bukan?
 
 507
-00:36:10,710 --> 00:36:12,030
+00:35:48,710 --> 00:35:50,030
 Tentu saja.
 
 508
-00:36:12,120 --> 00:36:14,100
+00:35:50,120 --> 00:35:52,100
 "Kurasa mendapatkan kembali
 aset budaya kita adalah"
 
 509
-00:36:14,190 --> 00:36:15,640
+00:35:52,190 --> 00:35:53,640
 "mendapatkan kembali roh leluhur kita."
 
 510
-00:36:16,210 --> 00:36:19,030
+00:35:54,210 --> 00:35:57,030
 Itu menyentuh hatiku.
 Kau harus menyebutkan ini di majalah.
 
 511
-00:36:19,120 --> 00:36:21,010
+00:35:57,120 --> 00:35:59,010
 Tentu saja. Permisi sebentar.
 
 512
-00:36:21,270 --> 00:36:22,640
+00:35:59,270 --> 00:36:00,640
 Ya!
 
 513
-00:36:23,300 --> 00:36:24,710
+00:36:01,300 --> 00:36:02,710
 Ya! Sudah selesai sekarang.
 
 514
-00:36:27,480 --> 00:36:29,240
+00:36:05,480 --> 00:36:07,240
 Itu berjalan lancar.
 
 515
-00:36:30,210 --> 00:36:31,310
+00:36:08,210 --> 00:36:09,310
 [Apa kabar, Pak?]
 
 516
-00:36:31,830 --> 00:36:34,470
+00:36:09,830 --> 00:36:12,470
 [Aku baik-baik saja.
 Jadi, kau tidak perlu khawatir.]
 
 517
-00:36:42,260 --> 00:36:43,490
+00:36:20,260 --> 00:36:21,490
 Hati-hati!
 
 518
-00:36:50,750 --> 00:36:52,650
+00:36:28,750 --> 00:36:30,650
 - Apa kau baik-baik saja?
 - Terima kasih, Seon-woo.
 
 519
-00:36:57,530 --> 00:36:59,510
+00:36:35,530 --> 00:36:37,510
 Aku merasa dia makin menghindariku.
 
 520
-00:37:06,060 --> 00:37:08,400
+00:36:44,060 --> 00:36:46,400
 Terima kasih sudah datang hari ini.
 
 521
-00:37:08,480 --> 00:37:09,800
+00:36:46,480 --> 00:36:47,800
 Aku menghargai partisipasi kalian.
 
 522
-00:37:10,110 --> 00:37:12,090
+00:36:48,110 --> 00:36:50,090
 Partisipasimu harus paling dihargai.
 
 523
-00:37:12,750 --> 00:37:15,000
+00:36:50,750 --> 00:36:53,000
 Kau baru mulai menemui pacarmu,
 
 524
-00:37:15,080 --> 00:37:16,620
+00:36:53,080 --> 00:36:54,620
 dan harus merelakan kencan akhir pekan.
 
 525
-00:37:16,710 --> 00:37:17,860
+00:36:54,710 --> 00:36:55,860
 Apa maksudmu?
 
 526
-00:37:19,040 --> 00:37:20,890
+00:36:57,040 --> 00:36:58,890
 Omong-omong, Seon-woo,
 tak kusangka kau akan datang.
 
 527
-00:37:21,200 --> 00:37:23,360
+00:36:59,200 --> 00:37:01,360
 Kau belum pernah berpartisipasi
 dalam hal seperti ini.
 
 528
-00:37:23,440 --> 00:37:24,540
+00:37:01,440 --> 00:37:02,540
 Ya...
 
 529
-00:37:25,290 --> 00:37:27,620
+00:37:03,290 --> 00:37:05,620
 Kupikir hari ini mungkin
 kesempatan terakhir bagiku.
 
 530
-00:37:37,960 --> 00:37:40,160
+00:37:15,960 --> 00:37:18,160
 Bagaimana kalau kita bermain?
 Jujur atau tantangan?
 
 531
-00:37:40,250 --> 00:37:42,890
+00:37:18,250 --> 00:37:20,890
 - Kita tidak memainkan itu.
 - Ayolah. Kita bisa melakukan apa lagi?
 
 532
-00:37:43,110 --> 00:37:44,300
+00:37:21,110 --> 00:37:22,300
 Biar kuisi gelasnya.
 
 533
-00:37:44,920 --> 00:37:46,500
+00:37:22,920 --> 00:37:24,500
 Baiklah. Tiga, dua, satu.
 
 534
-00:37:48,660 --> 00:37:49,840
+00:37:26,660 --> 00:37:27,840
 Soo-kyung.
 
 535
-00:37:51,210 --> 00:37:52,260
+00:37:29,210 --> 00:37:30,260
 Baiklah.
 
 536
-00:37:52,350 --> 00:37:54,460
+00:37:30,350 --> 00:37:32,460
 Kurasa aku harus mengungkap
 
 537
-00:37:54,550 --> 00:37:57,460
+00:37:32,550 --> 00:37:35,460
 rahasia terselubungku sekarang.
 
 538
-00:37:57,540 --> 00:37:59,390
+00:37:35,540 --> 00:37:37,390
 Tanyakan apa saja,
 
 539
-00:38:00,050 --> 00:38:01,330
+00:37:38,050 --> 00:37:39,330
 silakan.
 
 540
-00:38:08,150 --> 00:38:09,510
+00:37:46,150 --> 00:37:47,510
 - Ayolah.
 - Apa?
 
 541
-00:38:09,600 --> 00:38:10,700
+00:37:47,600 --> 00:37:48,700
 Tanya aku.
 
 542
-00:38:13,870 --> 00:38:16,680
+00:37:51,870 --> 00:37:54,680
 Pernahkah kau menyukai
 salah satu dari kami di sini?
 
 543
-00:38:17,340 --> 00:38:19,760
+00:37:55,340 --> 00:37:57,760
 - Ayolah. Itu konyol.
 - Ya.
 
 544
-00:38:21,040 --> 00:38:22,140
+00:37:59,040 --> 00:38:00,140
 Pernah.
 
 545
-00:38:27,240 --> 00:38:28,340
+00:38:05,240 --> 00:38:06,340
 Kau tidak mau
 
 546
-00:38:29,660 --> 00:38:31,820
+00:38:07,660 --> 00:38:09,820
 memulai kisah yang panjang, bukan?
 
 547
-00:38:32,390 --> 00:38:33,840
+00:38:10,390 --> 00:38:11,840
 Aku tidak tertarik. Mari kita lanjutkan.
 
 548
-00:38:34,020 --> 00:38:35,560
+00:38:12,020 --> 00:38:13,560
 Berikutnya.
 
 549
-00:38:35,870 --> 00:38:37,490
+00:38:13,870 --> 00:38:15,490
 Ini dia. Dam.
 
 550
-00:38:37,800 --> 00:38:40,090
+00:38:15,800 --> 00:38:18,090
 Baiklah. Dam.
 
 551
-00:38:42,820 --> 00:38:46,210
+00:38:20,820 --> 00:38:24,210
 Di mana kali pertama kau bertemu
 dengan pacarmu?
 
 552
-00:38:51,350 --> 00:38:54,610
+00:38:29,350 --> 00:38:32,610
 Di mana kau mungkin bertemu dengannya
 untuk langsung meminumnya?
 
 553
-00:38:54,700 --> 00:38:56,500
+00:38:32,700 --> 00:38:34,500
 Entahlah. Mari kita lanjutkan.
 
 554
-00:38:58,390 --> 00:39:01,740
+00:38:36,390 --> 00:38:39,740
 - Dam lagi.
 - Apa yang kau suka dari pacarmu?
 
 555
-00:39:03,720 --> 00:39:04,990
+00:38:41,720 --> 00:38:42,990
 Aku hanya menyukainya.
 
 556
-00:39:05,080 --> 00:39:07,240
+00:38:43,080 --> 00:38:45,240
 Aku sangat menyukainya sampai
 tidak ada yang bisa menggoyahkanku.
 
 557
-00:39:19,380 --> 00:39:22,730
+00:38:57,380 --> 00:39:00,730
 Kurasa aku harus memanggang cumi-cumi.
 
 558
-00:39:22,900 --> 00:39:26,200
+00:39:00,900 --> 00:39:04,200
 Aku juga akan mengambil buah.
 
 559
-00:39:37,110 --> 00:39:38,520
+00:39:15,110 --> 00:39:16,520
 - Soo-kyung.
 - Ya?
 
 560
-00:39:38,610 --> 00:39:41,340
+00:39:16,610 --> 00:39:19,340
 Kau bilang menyukai salah satu
 dari kami. Benarkah itu?
 
 561
-00:39:42,040 --> 00:39:44,290
+00:39:20,040 --> 00:39:22,290
 Permainannya sudah berakhir sekarang,
 
 562
-00:39:44,370 --> 00:39:45,960
+00:39:22,370 --> 00:39:23,960
 dasar pencuri Seogwa.
 
 563
-00:39:46,050 --> 00:39:47,450
+00:39:24,050 --> 00:39:25,450
 Pencuri Seogwa?
 
 564
-00:39:49,390 --> 00:39:50,970
+00:39:27,390 --> 00:39:28,970
 Kenapa Jae-jin pencuri?
 
 565
-00:39:51,060 --> 00:39:52,650
+00:39:29,060 --> 00:39:30,650
 Kepiting bumbu kecap asin
 adalah pencuri nasi
 
 566
-00:39:52,730 --> 00:39:54,580
+00:39:30,730 --> 00:39:32,580
 karena itu membuat kita ingin makan nasi.
 
 567
-00:39:54,670 --> 00:39:56,960
+00:39:32,670 --> 00:39:34,960
 Rain adalah pencuri
 karena dia menikahi Kim Tae Hee.
 
 568
-00:39:57,310 --> 00:39:59,640
+00:39:35,310 --> 00:39:37,640
 Dia juga pencuri
 karena berkencan denganmu.
 
 569
-00:40:00,480 --> 00:40:01,750
+00:39:38,480 --> 00:39:39,750
 Kau terlalu baik untuknya.
 
 570
-00:40:02,810 --> 00:40:05,710
+00:39:40,810 --> 00:39:43,710
 Aku tidak yakin soal itu.
 Kurasa dia terlalu baik untukku.
 
 571
-00:40:06,550 --> 00:40:09,190
+00:39:44,550 --> 00:39:47,190
 Ayolah. Kau bisa jujur kepadaku.
 Tidak ada orang di sini.
 
 572
-00:40:09,280 --> 00:40:11,390
+00:39:47,280 --> 00:39:49,390
 Kau tidak perlu berpura-pura menyukainya.
 
 573
-00:40:11,480 --> 00:40:13,500
+00:39:49,480 --> 00:39:51,500
 Aku serius. Aku belum pernah melihat
 
 574
-00:40:13,590 --> 00:40:15,480
+00:39:51,590 --> 00:39:53,480
 pria yang baik dan tulus sejak lama.
 
 575
-00:40:15,740 --> 00:40:18,300
+00:39:53,740 --> 00:39:56,300
 Aku serius saat bilang
 dia terlalu baik untukku.
 
 576
-00:40:19,260 --> 00:40:20,500
+00:39:57,260 --> 00:39:58,500
 Kau yakin?
 
 577
-00:40:21,200 --> 00:40:24,190
+00:39:59,200 --> 00:40:02,190
 Bisakah kau meletakkan tanganmu
 di dada dan bersumpah?
 
 578
-00:40:25,560 --> 00:40:27,710
+00:40:03,560 --> 00:40:05,710
 Apa aku harus meletakkan tanganku di dada?
 
 579
-00:40:28,420 --> 00:40:30,570
+00:40:06,420 --> 00:40:08,570
 Kau tidak bisa, bukan?
 
 580
-00:40:30,750 --> 00:40:33,040
+00:40:08,750 --> 00:40:11,040
 Kenapa? Apa karena itu akan membuatmu
 
 581
-00:40:33,120 --> 00:40:34,710
+00:40:11,120 --> 00:40:12,710
 merasa bersalah?
 
 582
-00:40:44,650 --> 00:40:46,280
+00:40:22,650 --> 00:40:24,280
 Aku harus pergi.
 
 583
-00:40:49,800 --> 00:40:52,570
+00:40:27,800 --> 00:40:30,570
 Kenapa kau ingin aku meletakkan tanganku
 di dadamu?
 
 584
-00:40:53,140 --> 00:40:55,340
+00:40:31,140 --> 00:40:33,340
 Karena tampaknya
 tidak ada yang bisa dibanggakan.
 
 585
-00:40:55,650 --> 00:40:56,750
+00:40:33,650 --> 00:40:34,750
 Hei!
 
 586
-00:40:57,410 --> 00:40:59,520
+00:40:35,410 --> 00:40:37,520
 Maksudku bukan dadaku.
 
 587
-00:41:00,580 --> 00:41:01,720
+00:40:38,580 --> 00:40:39,720
 Apa maksudmu
 
 588
-00:41:02,340 --> 00:41:03,790
+00:40:40,340 --> 00:40:41,790
 dengan tidak ada yang bisa dibanggakan?
 
 589
-00:41:03,880 --> 00:41:06,390
+00:40:41,880 --> 00:40:44,390
 Punyaku normal!
 
 590
-00:41:15,890 --> 00:41:17,080
+00:40:53,890 --> 00:40:55,080
 Salju turun.
 
 591
-00:41:18,310 --> 00:41:19,720
+00:40:56,310 --> 00:40:57,720
 Ini cantik.
 
 592
-00:41:28,170 --> 00:41:29,270
+00:41:06,170 --> 00:41:07,270
 Apa dia mabuk?
 
 593
-00:41:31,340 --> 00:41:33,400
+00:41:09,340 --> 00:41:11,400
 Itu bukan urusanku. Aku harus pergi.
 
 594
-00:41:49,510 --> 00:41:52,810
+00:41:27,510 --> 00:41:30,810
 Seon-woo, masuklah dan tidur.
 
 595
-00:41:56,410 --> 00:41:58,170
+00:41:34,410 --> 00:41:36,170
 Aku memperingatkanmu.
 
 596
-00:42:11,730 --> 00:42:12,910
+00:41:49,730 --> 00:41:50,910
 Aku menyukaimu.
 
 597
-00:42:15,550 --> 00:42:19,070
+00:41:53,550 --> 00:41:57,070
 Aku tahu kau punya pacar
 dan aku tahu harus berhenti.
 
 598
-00:42:22,150 --> 00:42:23,250
+00:42:00,150 --> 00:42:01,250
 Tapi tetap saja...
 
 599
-00:42:24,840 --> 00:42:26,990
+00:42:02,840 --> 00:42:04,990
 Apa yang harus kulakukan
 agar kau menatapku?
 
 600
-00:42:28,970 --> 00:42:30,120
+00:42:06,970 --> 00:42:08,120
 Apa sudah terlambat?
 
 601
-00:42:31,170 --> 00:42:33,550
+00:42:09,170 --> 00:42:11,550
 Atau aku tidak pernah punya
 kesempatan sama sekali?
 
 602
-00:42:51,240 --> 00:42:54,490
+00:42:29,240 --> 00:42:32,490
 [Aku harus berhenti.
 Aku bisa membuat kesalahan.]
 
 603
-00:42:57,880 --> 00:42:59,160
+00:42:35,880 --> 00:42:37,160
 Seon-woo, kau mabuk.
 
 604
-00:42:59,910 --> 00:43:02,190
+00:42:37,910 --> 00:42:40,190
 Kau harus masuk
 sebelum membuat kesalahan.
 
 605
-00:43:09,010 --> 00:43:10,330
+00:42:47,010 --> 00:42:48,330
 Ini bukan kesalahan.
 
 606
-00:43:15,660 --> 00:43:19,440
+00:42:53,660 --> 00:42:57,440
 [Kenapa jantungku tiba-tiba...]
 
 607
-00:43:27,840 --> 00:43:29,380
+00:43:05,840 --> 00:43:07,380
 [Pak]
 
 608
-00:43:31,360 --> 00:43:34,970
+00:43:09,360 --> 00:43:12,970
 [Jika kujawab telepon ini sekarang
 dan dia mendengar suaranya...]
 
 609
-00:43:37,960 --> 00:43:40,600
+00:43:15,960 --> 00:43:18,600
 [Pak]
 
 610
-00:43:48,260 --> 00:43:51,380
+00:43:26,260 --> 00:43:29,380
 Seon-woo, sudah kubilang.
 
 611
-00:43:52,000 --> 00:43:53,890
+00:43:30,000 --> 00:43:31,890
 Aku sangat menyukai pacarku.
 
 612
-00:43:55,340 --> 00:43:57,500
+00:43:33,340 --> 00:43:35,500
 Aku tidak mau memberimu harapan palsu.
 
 613
-00:43:59,000 --> 00:44:02,300
+00:43:37,000 --> 00:43:40,300
 Apa yang harus kukatakan
 untuk menolakmu selamanya?
 
 614
-00:44:16,510 --> 00:44:18,220
+00:43:54,510 --> 00:43:56,220
 Ke mana dia pergi?
 
 615
-00:44:18,840 --> 00:44:21,520
+00:43:56,840 --> 00:43:59,520
 Woo-yeo menyuruhku mengawasinya.
 
 616
-00:44:22,010 --> 00:44:23,110
+00:44:00,010 --> 00:44:01,110
 Hye-sun.
 
 617
-00:44:24,340 --> 00:44:25,790
+00:44:02,340 --> 00:44:03,790
 Sedang apa kau di salju?
 
 618
-00:44:25,880 --> 00:44:28,040
+00:44:03,880 --> 00:44:06,040
 Jae-jin, kau melihat Dam?
 
 619
-00:44:28,120 --> 00:44:29,220
+00:44:06,120 --> 00:44:07,220
 Tidak.
 
 620
-00:44:30,500 --> 00:44:32,610
+00:44:08,500 --> 00:44:10,610
 Kenapa? Kau perlu bicara dengannya?
 
 621
-00:44:33,320 --> 00:44:35,210
+00:44:11,320 --> 00:44:13,210
 Semacam itu.
 
 622
-00:44:35,520 --> 00:44:38,160
+00:44:13,520 --> 00:44:16,160
 Aku akan mencarinya,
 jadi, tetaplah di dalam. Ini dingin.
 
 623
-00:44:38,240 --> 00:44:40,800
+00:44:16,240 --> 00:44:18,800
 Ayolah. Kita tidak perlu
 terlihat begitu manis.
 
 624
-00:44:40,880 --> 00:44:42,690
+00:44:18,880 --> 00:44:20,690
 Lagi pula, tidak ada yang melihat...
 
 625
-00:44:43,740 --> 00:44:45,640
+00:44:21,740 --> 00:44:23,640
 Ada seseorang yang melihat.
 
 626
-00:44:45,770 --> 00:44:47,530
+00:44:23,770 --> 00:44:25,530
 Apa? Ada yang melihat?
 
 627
-00:44:48,760 --> 00:44:50,560
+00:44:26,760 --> 00:44:28,560
 Seok di belakang kita.
 
 628
-00:44:51,050 --> 00:44:52,980
+00:44:29,050 --> 00:44:30,980
 Berpura-puralah kita pasangan yang manis.
 
 629
-00:44:54,520 --> 00:44:57,820
+00:44:32,520 --> 00:44:35,820
 Ayo. Tersenyumlah
 dan berjalanlah secara alami.
 
 630
-00:45:03,150 --> 00:45:05,260
+00:44:41,150 --> 00:44:43,260
 Seharusnya aku tidak memintamu memacariku.
 
 631
-00:45:05,740 --> 00:45:08,120
+00:44:43,740 --> 00:44:46,120
 Kupikir mendapat nilai bagus itu
 ide bagus,
 
 632
-00:45:08,210 --> 00:45:11,680
+00:44:46,210 --> 00:44:49,680
 tapi kini aku agak khawatir mungkin ini
 akan lebih rumit daripada dugaanku.
 
 633
-00:45:12,390 --> 00:45:13,660
+00:44:50,390 --> 00:44:51,660
 Hye-sun.
 
 634
-00:45:14,410 --> 00:45:17,710
+00:44:52,410 --> 00:44:55,710
 Aku mengencanimu bukan untuk nilai bagus.
 
 635
-00:45:18,020 --> 00:45:19,210
+00:44:56,020 --> 00:44:57,210
 Apa?
 
 636
-00:45:19,380 --> 00:45:23,470
+00:44:57,380 --> 00:45:01,470
 Tentang yang terjadi pada kita malam itu
 
 637
-00:45:24,130 --> 00:45:25,850
+00:45:02,130 --> 00:45:03,850
 setelah pesta usai festival,
 
 638
-00:45:26,640 --> 00:45:28,890
+00:45:04,640 --> 00:45:06,890
 aku sering memikirkannya,
 
 639
-00:45:28,970 --> 00:45:32,190
+00:45:06,970 --> 00:45:10,190
 dan kurasa itu bukan hanya kesalahan.
 
 640
-00:45:33,590 --> 00:45:38,260
+00:45:11,590 --> 00:45:16,260
 Menurutku kau manis dan sangat keren.
 
 641
-00:45:38,430 --> 00:45:40,720
+00:45:16,430 --> 00:45:18,720
 Memikirkanmu membuatku bahagia.
 
 642
-00:45:42,880 --> 00:45:45,080
+00:45:20,880 --> 00:45:23,080
 Jadi, jangan pedulikan
 perkataan orang lain.
 
 643
-00:45:45,170 --> 00:45:47,150
+00:45:23,170 --> 00:45:25,150
 Aku mengencanimu karena menyukaimu.
 
 644
-00:45:55,730 --> 00:45:57,930
+00:45:33,730 --> 00:45:35,930
 Seok masih di sana?
 
 645
-00:46:05,360 --> 00:46:07,470
+00:45:43,360 --> 00:45:45,470
 Tidak, dia masih di sana.
 
 646
-00:46:16,980 --> 00:46:18,910
+00:45:54,980 --> 00:45:56,910
 Aku harus menemukan Dam.
 
 647
-00:46:19,490 --> 00:46:21,950
+00:45:57,490 --> 00:45:59,950
 Dia akan pulang sendiri.
 
 648
-00:46:24,850 --> 00:46:26,790
+00:46:02,850 --> 00:46:04,790
 Saljunya lebat, bukan?
 
 649
-00:46:35,850 --> 00:46:37,220
+00:46:13,850 --> 00:46:15,220
 [Haruskah aku pergi?]
 
 650
-00:46:38,760 --> 00:46:39,940
+00:46:16,760 --> 00:46:17,940
 [Tidak.]
 
 651
-00:46:41,570 --> 00:46:43,990
+00:46:19,570 --> 00:46:21,990
 [Jika aku tiba-tiba muncul,
 itu akan terlihat aneh.]
 
 652
-00:46:58,860 --> 00:47:01,020
+00:46:36,860 --> 00:46:39,020
 Aku merasa seperti itu
 
 653
-00:47:01,500 --> 00:47:03,400
+00:46:39,500 --> 00:46:41,400
 karena benang merah itu?
 
 654
-00:47:08,810 --> 00:47:11,400
+00:46:46,810 --> 00:46:49,400
 [Dam, kau akan tiba
 pukul 14.00 besok, bukan?]
 
 655
-00:47:08,850 --> 00:47:12,330
+00:46:46,850 --> 00:46:50,330
 [Pak]
 
 656
-00:47:11,490 --> 00:47:12,720
+00:46:49,490 --> 00:46:50,720
 [Aku akan menjemputmu.]
 
 657
-00:47:12,810 --> 00:47:15,320
+00:46:50,810 --> 00:46:53,320
 Aku berjanji tidak akan melakukan apa pun
 yang mungkin membuatnya khawatir.
 
 658
-00:47:19,370 --> 00:47:23,280
+00:46:57,370 --> 00:47:01,280
 Dia mungkin akan lebih khawatir
 jika tahu aku juga bisa melihatnya.
 
 659
-00:47:30,240 --> 00:47:33,360
+00:47:08,240 --> 00:47:11,360
 Dam, kau dari mana saja? Aku mencarimu.
 
 660
-00:47:33,450 --> 00:47:34,940
+00:47:11,450 --> 00:47:12,940
 Kenapa kau mencariku?
 
 661
-00:47:38,290 --> 00:47:42,120
+00:47:16,290 --> 00:47:20,120
 Aku tidak bisa menemukan kau dan Seon-woo.
 Tidak terjadi apa-apa, bukan?
 
 662
-00:47:42,470 --> 00:47:43,570
+00:47:20,470 --> 00:47:21,570
 Apa?
 
 663
-00:47:43,660 --> 00:47:47,310
+00:47:21,660 --> 00:47:25,310
 Kudengar kalian berdua
 terikat dengan benang merah.
 
 664
-00:47:47,480 --> 00:47:50,080
+00:47:25,480 --> 00:47:28,080
 Begitu rupanya. Tidak terjadi apa-apa.
 
 665
-00:47:50,170 --> 00:47:51,580
+00:47:28,170 --> 00:47:29,580
 Itu bagus.
 
 666
-00:47:51,710 --> 00:47:53,380
+00:47:29,710 --> 00:47:31,380
 Ini dingin. Ayo masuk.
 
 667
-00:47:54,000 --> 00:47:55,360
+00:47:32,000 --> 00:47:33,360
 Hei, Hye-sun.
 
 668
-00:47:58,700 --> 00:48:01,170
+00:47:36,700 --> 00:47:39,170
 Apa menurutmu hanya orang yang terikat
 dengan benang merah
 
 669
-00:48:01,260 --> 00:48:03,370
+00:47:39,260 --> 00:47:41,370
 yang dianggap takdir?
 
 670
-00:48:04,820 --> 00:48:09,090
+00:47:42,820 --> 00:47:47,090
 Ya dan tidak.
 
 671
-00:48:11,150 --> 00:48:12,470
+00:47:49,150 --> 00:47:50,470
 Apa kau tahu
 
 672
-00:48:12,560 --> 00:48:15,770
+00:47:50,560 --> 00:47:53,770
 kenapa semua hewan ingin menjadi manusia?
 
 673
-00:48:18,630 --> 00:48:22,770
+00:47:56,630 --> 00:48:00,770
 Hanya manusia yang bisa menentukan
 takdirnya sendiri.
 
 674
-00:48:32,580 --> 00:48:35,930
+00:48:10,580 --> 00:48:13,930
 [Lantai Tiga, Peron]
 
 675
-00:48:37,380 --> 00:48:39,310
+00:48:15,380 --> 00:48:17,310
 Kerja bagus, Kawan-kawan.
 
 676
-00:48:39,400 --> 00:48:40,850
+00:48:17,400 --> 00:48:18,850
 Aku pergi sekarang.
 
 677
-00:48:41,870 --> 00:48:43,050
+00:48:19,870 --> 00:48:21,050
 Sampai jumpa.
 
 678
-00:48:47,890 --> 00:48:48,990
+00:48:25,890 --> 00:48:26,990
 Ayo.
 
 679
-00:48:50,580 --> 00:48:51,770
+00:48:28,580 --> 00:48:29,770
 Itu menyenangkan.
 
 680
-00:48:54,670 --> 00:48:57,660
+00:48:32,670 --> 00:48:35,660
 - Hye-sun, biar kubantu.
 - Tidak apa-apa. Ini berat.
 
 681
-00:48:57,970 --> 00:48:59,640
+00:48:35,970 --> 00:48:37,640
 Itu sebabnya aku menawarkan bantuan.
 
 682
-00:49:00,790 --> 00:49:01,930
+00:48:38,790 --> 00:48:39,930
 Terima kasih.
 
 683
-00:49:02,720 --> 00:49:03,820
+00:48:40,720 --> 00:48:41,820
 Keren.
 
 684
-00:49:03,910 --> 00:49:05,410
+00:48:41,910 --> 00:48:43,410
 Haruskah aku mengemudi?
 Aku yakin kau lelah.
 
 685
-00:49:05,490 --> 00:49:06,680
+00:48:43,490 --> 00:48:44,680
 Itu pasti menyenangkan.
 
 686
-00:49:08,790 --> 00:49:10,910
+00:48:46,790 --> 00:48:48,910
 - Sampai jumpa.
 - Boleh aku...
 
 687
-00:49:19,710 --> 00:49:21,420
+00:48:57,710 --> 00:48:59,420
 Dia bilang Pintu Delapan.
 
 688
-00:49:36,430 --> 00:49:37,660
+00:49:14,430 --> 00:49:15,660
 Kau baik-baik saja?
 
 689
-00:49:42,010 --> 00:49:44,390
+00:49:20,010 --> 00:49:22,390
 Kau masih ada di sekitar sini.
 
 690
-00:49:44,830 --> 00:49:46,630
+00:49:22,830 --> 00:49:24,630
 Aku naik taksi di sini.
 
 691
-00:49:47,200 --> 00:49:48,700
+00:49:25,200 --> 00:49:26,700
 Bagaimana kau akan pulang?
 
 692
-00:49:49,180 --> 00:49:51,780
+00:49:27,180 --> 00:49:29,780
 - Dengan mobil.
 - Mobil siapa?
 
 693
-00:49:52,260 --> 00:49:54,420
+00:49:30,260 --> 00:49:32,420
 - Begini...
 - Dam.
 
 694
-00:49:59,830 --> 00:50:03,310
+00:49:37,830 --> 00:49:41,310
 Dam naik mobilku. Apa ada masalah?
 
 695
-00:50:04,980 --> 00:50:08,370
+00:49:42,980 --> 00:49:46,370
 Halo, Profesor. Aku Gye Seon-woo,
 dan aku mengambil kelas Bapak.
 
 696
-00:50:10,520 --> 00:50:12,060
+00:49:48,520 --> 00:49:50,060
 Bagaimana Bapak
 
 697
-00:50:12,990 --> 00:50:14,530
+00:49:50,990 --> 00:49:52,530
 mengenal Dam?
 
 698
-00:50:16,550 --> 00:50:18,750
+00:49:54,550 --> 00:49:56,750
 Apa ada alasan kenapa kau
 ingin tahu, Pak Gye?
 
 699
-00:50:19,980 --> 00:50:21,130
+00:49:57,980 --> 00:49:59,130
 Apa?
 
 700
-00:50:25,090 --> 00:50:27,290
+00:50:03,090 --> 00:50:05,290
 Ya, ada.
 
 701
-00:50:32,740 --> 00:50:34,590
+00:50:10,740 --> 00:50:12,590
 Tunggu.
 
 702
-00:50:38,510 --> 00:50:40,000
+00:50:16,510 --> 00:50:18,000
 Dia pacarku.
 
 703
-00:50:42,780 --> 00:50:43,830
+00:50:20,780 --> 00:50:21,830
 Apa?
 
 704
-00:50:43,920 --> 00:50:46,870
+00:50:21,920 --> 00:50:24,870
 Aku tidak memberi tahu siapa pun
 karena tidak mau ada rumor,
 
 705
-00:50:46,960 --> 00:50:49,820
+00:50:24,960 --> 00:50:27,820
 tapi kami bertemu bahkan sebelum
 dia datang ke kampus kita.
 
 706
-00:50:50,650 --> 00:50:53,860
+00:50:28,650 --> 00:50:31,860
 Aku tidak mengikuti kelasnya sekarang,
 jadi, tidak akan ada masalah.
 
 707
-00:50:54,000 --> 00:50:57,380
+00:50:32,000 --> 00:50:35,380
 Apa maksudmu? Bukan itu masalahnya.
 
 708
-00:50:57,820 --> 00:50:59,630
+00:50:35,820 --> 00:50:37,630
 - Lantas...
 - Dam.
 
 709
-00:51:00,290 --> 00:51:02,220
+00:50:38,290 --> 00:50:40,220
 Aku ingin minta maaf
 atas kejadian kemarin.
 
 710
-00:51:03,590 --> 00:51:06,930
+00:50:41,590 --> 00:50:44,930
 Tadinya aku ingin minta maaf,
 menjauh darimu,
 
 711
-00:51:07,200 --> 00:51:09,840
+00:50:45,200 --> 00:50:47,840
 dan berhenti bicara denganmu jika kau
 bilang begitu. Tidak, sebenarnya,
 
 712
-00:51:10,800 --> 00:51:12,120
+00:50:48,800 --> 00:50:50,120
 kukira kau tidak akan mengizinkanku.
 
 713
-00:51:13,000 --> 00:51:14,760
+00:50:51,000 --> 00:50:52,760
 Tapi ini tidak benar.
 
 714
-00:51:15,780 --> 00:51:18,680
+00:50:53,780 --> 00:50:56,680
 Aku mengerti mungkin bukan aku
 orangnya. Tapi jika bukan aku,
 
 715
-00:51:21,450 --> 00:51:23,520
+00:50:59,450 --> 00:51:01,520
 setidaknya bukan dia juga.
 
 716
-00:51:27,210 --> 00:51:28,840
+00:51:05,210 --> 00:51:06,840
 Apa maksudmu?
 
 717
-00:51:28,930 --> 00:51:31,090
+00:51:06,930 --> 00:51:09,090
 Aku mengatakan ini bukan karena rumor.
 
 718
-00:51:33,900 --> 00:51:35,440
+00:51:11,900 --> 00:51:13,440
 Aku melihatnya sendiri.
 
 719
-00:51:45,210 --> 00:51:49,570
+00:51:23,210 --> 00:51:27,570
 Aku tidak mengerti maksudmu. Rumor apa?
 
 720
-00:51:50,800 --> 00:51:51,810
+00:51:28,800 --> 00:51:29,810
 Masalahnya...
 
 721
-00:51:54,800 --> 00:51:57,090
+00:51:32,800 --> 00:51:35,090
 [Mereka bilang Profesor Shin
 dan Profesor Seo berpacaran.]
 
 722
-00:51:54,980 --> 00:51:57,220
+00:51:32,980 --> 00:51:35,220
 [Dae-hoon]
 
 723
-00:51:57,270 --> 00:51:58,670
+00:51:35,270 --> 00:51:36,670
 [Seluruh kampus mengetahuinya.]
 
 724
-00:51:57,350 --> 00:51:58,410
+00:51:35,350 --> 00:51:36,410
 [Moo-geun]
 
 725
-00:52:07,340 --> 00:52:08,570
+00:51:45,340 --> 00:51:46,570
 Kau harus pergi.
 
 726
-00:52:08,840 --> 00:52:11,650
+00:51:46,840 --> 00:51:49,650
 Apa pun yang kulakukan
 atau tidak kulakukan,
 
 727
-00:52:12,620 --> 00:52:14,510
+00:51:50,620 --> 00:51:52,510
 itu masalah antara aku dan Nona Dam.
 
 728
-00:52:40,210 --> 00:52:41,840
+00:52:18,210 --> 00:52:19,840
 Sekarang katakan
 
 729
-00:52:42,540 --> 00:52:44,830
+00:52:20,540 --> 00:52:22,830
 rumor apa itu.
 
 730
-00:52:47,870 --> 00:52:49,580
+00:52:25,870 --> 00:52:27,580
 Kau tahu Profesor Seo Young-ju.
 
 731
-00:52:50,680 --> 00:52:52,930
+00:52:28,680 --> 00:52:30,930
 Ya, dia mengajar Sejarah Kuno.
 
 732
-00:52:54,030 --> 00:52:56,360
+00:52:32,030 --> 00:52:34,360
 Aku minum kopi dengannya karena pekerjaan,
 
 733
-00:52:57,500 --> 00:52:59,080
+00:52:35,500 --> 00:52:37,080
 dan tampaknya itu menciptakan rumor palsu
 
 734
-00:53:00,890 --> 00:53:02,470
+00:52:38,890 --> 00:52:40,470
 bahwa kami berkencan.
 
 735
-00:53:04,890 --> 00:53:07,400
+00:52:42,890 --> 00:52:45,400
 Astaga, sia-sia saja aku takut.
 
 736
-00:53:07,490 --> 00:53:09,380
+00:52:45,490 --> 00:52:47,380
 Jadi, itu bukan masalah, bukan?
 
 737
-00:53:11,450 --> 00:53:14,000
+00:52:49,450 --> 00:52:52,000
 Tentu saja. Bukan.
 
 738
-00:53:23,680 --> 00:53:25,400
+00:53:01,680 --> 00:53:03,400
 Omong-omong, apa terjadi sesuatu kemarin?
 
 739
-00:53:25,880 --> 00:53:27,020
+00:53:03,880 --> 00:53:05,020
 Apa?
 
 740
-00:53:27,460 --> 00:53:30,060
+00:53:05,460 --> 00:53:08,060
 Dia bilang ingin minta maaf
 atas kejadian kemarin.
 
 741
-00:53:30,240 --> 00:53:32,080
+00:53:08,240 --> 00:53:10,080
 Itu.
 
 742
-00:53:35,820 --> 00:53:37,890
+00:53:13,820 --> 00:53:15,890
 Jika kau tidak mau membicarakannya,
 tidak perlu.
 
 743
-00:53:37,980 --> 00:53:39,340
+00:53:15,980 --> 00:53:17,340
 Dia bilang dia menyukaiku.
 
 744
-00:53:42,780 --> 00:53:45,720
+00:53:20,780 --> 00:53:23,720
 Aku terus terlibat dengannya
 karena benang merah itu.
 
 745
-00:53:46,030 --> 00:53:48,230
+00:53:24,030 --> 00:53:26,230
 Aku berusaha berhati-hati
 
 746
-00:53:48,320 --> 00:53:50,390
+00:53:26,320 --> 00:53:28,390
 karena tidak ingin membuatmu khawatir,
 
 747
-00:53:50,610 --> 00:53:52,760
+00:53:28,610 --> 00:53:30,760
 tapi satu hal mengarah ke yang lain,
 dan itu terjadi.
 
 748
-00:53:54,960 --> 00:53:58,260
+00:53:32,960 --> 00:53:36,260
 Aku tidak tahu harus sejujur apa kepadamu,
 
 749
-00:53:58,620 --> 00:54:00,770
+00:53:36,620 --> 00:53:38,770
 tapi kupikir aku harus mengatakan ini.
 
 750
-00:54:04,600 --> 00:54:08,250
+00:53:42,600 --> 00:53:46,250
 Terima kasih sudah jujur kepadaku.
 
 751
-00:54:19,690 --> 00:54:22,240
+00:53:57,690 --> 00:54:00,240
 [Kenapa dia memegangnya seperti itu?]
 
 752
-00:54:24,490 --> 00:54:25,760
+00:54:02,490 --> 00:54:03,760
 [Dia pasti khawatir.]
 
 753
-00:54:26,910 --> 00:54:29,940
+00:54:04,910 --> 00:54:07,940
 [Lihat yang sudah kulakukan
 kepada orang yang kusayangi.]
 
 754
-00:54:33,240 --> 00:54:37,510
+00:54:11,240 --> 00:54:15,510
 [Hanya manusia yang bisa menentukan
 takdirnya sendiri.]
 
 755
-00:54:42,750 --> 00:54:43,800
+00:54:20,750 --> 00:54:21,800
 [Baiklah.]
 
 756
-00:54:44,810 --> 00:54:48,160
+00:54:22,810 --> 00:54:26,160
 [Aku akan membuat keputusan.]
 
 757
-00:54:53,350 --> 00:54:55,860
+00:54:31,350 --> 00:54:33,860
 Roti lapis ayam dengan ekstra avokad.
 
 758
-00:54:55,950 --> 00:54:58,670
+00:54:33,950 --> 00:54:36,670
 Untuk sausnya, tolong tuangkan
 yang menurutmu akan cocok dengan itu.
 
 759
-00:54:58,760 --> 00:55:00,080
+00:54:36,760 --> 00:54:38,080
 Baiklah.
 
 760
-00:55:13,850 --> 00:55:16,850
+00:54:51,850 --> 00:54:54,850
 Sayang sekali. Kau sangat membantu.
 
 761
-00:55:17,290 --> 00:55:20,010
+00:54:55,290 --> 00:54:58,010
 Maaf aku berhenti mendadak.
 
 762
-00:55:20,100 --> 00:55:21,820
+00:54:58,100 --> 00:54:59,820
 Tidak apa-apa.
 Kau pasti punya masalahmu sendiri.
 
 763
-00:55:22,210 --> 00:55:24,550
+00:55:00,210 --> 00:55:02,550
 Semoga kita bisa bertemu lagi.
 
 764
-00:55:25,210 --> 00:55:27,630
+00:55:03,210 --> 00:55:05,630
 Kuharap juga begitu.
 Terima kasih untuk semuanya.
 
 765
-00:55:27,710 --> 00:55:28,900
+00:55:05,710 --> 00:55:06,900
 Terima kasih.
 
 766
-00:55:37,610 --> 00:55:38,630
+00:55:15,610 --> 00:55:16,630
 Hai, Paman.
 
 767
-00:55:41,130 --> 00:55:43,950
+00:55:19,130 --> 00:55:21,950
 Hei, Dam berhenti.
 
 768
-00:55:47,290 --> 00:55:49,760
+00:55:25,290 --> 00:55:27,760
 Itu karena kau, bukan?
 Kau membuatnya merasa tidak nyaman.
 
 769
-00:55:50,860 --> 00:55:52,310
+00:55:28,860 --> 00:55:30,310
 Itu...
 
 770
-00:55:52,400 --> 00:55:55,130
+00:55:30,400 --> 00:55:33,130
 Kau pikir paman tidak tahu
 kau menyukainya?
 
 771
-00:55:55,740 --> 00:55:57,410
+00:55:33,740 --> 00:55:35,410
 Kau selalu menunggunya datang
 
 772
-00:55:57,500 --> 00:55:59,610
+00:55:35,500 --> 00:55:37,610
 dan melakukan semua pekerjaan untuknya.
 
 773
-00:55:59,700 --> 00:56:03,350
+00:55:37,700 --> 00:55:41,350
 Sejak kapan kau menjadi tipe yang setia?
 
 774
-00:56:08,110 --> 00:56:09,210
+00:55:46,110 --> 00:55:47,210
 Seon-woo.
 
 775
-00:56:10,040 --> 00:56:13,380
+00:55:48,040 --> 00:55:51,380
 Bersikap terlalu baik kepada wanita
 hanya menjauhkan mereka.
 
 776
-00:56:13,740 --> 00:56:15,760
+00:55:51,740 --> 00:55:53,760
 Jika kau ingin mempertahankannya,
 biarkan dia bebas.
 
 777
-00:56:15,850 --> 00:56:18,710
+00:55:53,850 --> 00:55:56,710
 Jika ingin cinta bergairah,
 bersikaplah dingin kepadanya.
 
 778
-00:56:21,520 --> 00:56:24,300
+00:55:59,520 --> 00:56:02,300
 Jika paman memberimu kiat
 yang luar biasa ini lebih awal, kau...
 
 779
-00:56:24,380 --> 00:56:27,160
+00:56:02,380 --> 00:56:05,160
 - Aku akan menjadi pria lajang tua.
 - Benar. Pria lajang tua...
 
 780
-00:56:30,410 --> 00:56:32,520
+00:56:08,410 --> 00:56:10,520
 Bagaimanapun,
 menurut paman ini yang terbaik.
 
 781
-00:56:32,610 --> 00:56:34,590
+00:56:10,610 --> 00:56:12,590
 Kalian membuat paman merasa canggung.
 
 782
-00:56:36,180 --> 00:56:38,420
+00:56:14,180 --> 00:56:16,420
 Dia mungkin punya seseorang
 yang lebih baik darimu.
 
 783
-00:56:44,670 --> 00:56:47,400
+00:56:22,670 --> 00:56:25,400
 Jika dia memang orang baik,
 aku pasti sudah menyerah.
 
 784
-00:56:54,920 --> 00:56:58,530
+00:56:32,920 --> 00:56:36,530
 Pak, aku memutuskan berhenti.
 
 785
-00:56:58,620 --> 00:57:00,680
+00:56:36,620 --> 00:56:38,680
 Pekerjaannya lebih sulit
 daripada dugaanku.
 
 786
-00:57:01,040 --> 00:57:03,100
+00:56:39,040 --> 00:56:41,100
 Beri tahu aku jika kau butuh bantuan.
 
 787
-00:57:03,720 --> 00:57:06,670
+00:56:41,720 --> 00:56:44,670
 Semoga kelasmu lancar.
 Kita bicara lagi nanti.
 
 788
-00:57:15,600 --> 00:57:16,740
+00:56:53,600 --> 00:56:54,740
 Profesor Shin.
 
 789
-00:57:24,310 --> 00:57:25,410
+00:57:02,310 --> 00:57:03,410
 Hei.
 
 790
-00:57:26,340 --> 00:57:27,570
+00:57:04,340 --> 00:57:05,570
 Kenapa wajahmu murung?
 
 791
-00:57:28,140 --> 00:57:29,330
+00:57:06,140 --> 00:57:07,330
 Begini...
 
 792
-00:57:29,770 --> 00:57:31,440
+00:57:07,770 --> 00:57:09,440
 Mungkin seharusnya aku
 tidak bergabung dengan klubmu.
 
 793
-00:57:31,700 --> 00:57:33,820
+00:57:09,700 --> 00:57:11,820
 Kenapa? Kau yang pertama mengangkat tangan
 
 794
-00:57:33,900 --> 00:57:36,680
+00:57:11,900 --> 00:57:14,680
 dan berkata,
 "Aku ingin membantu Profesor Shin."
 
 795
-00:57:37,120 --> 00:57:38,920
+00:57:15,120 --> 00:57:16,920
 Ternyata dia tidak butuh bantuanku.
 
 796
-00:57:40,200 --> 00:57:43,670
+00:57:18,200 --> 00:57:21,670
 Tampaknya, Profesor Seo
 dan Profesor Shin berpacaran.
 
 797
-00:57:43,980 --> 00:57:46,790
+00:57:21,980 --> 00:57:24,790
 Aku yakin Profesor Seo
 memberinya banyak bantuan,
 
 798
-00:57:47,230 --> 00:57:48,200
+00:57:25,230 --> 00:57:26,200
 yaitu cinta.
 
 799
-00:57:48,290 --> 00:57:50,270
+00:57:26,290 --> 00:57:28,270
 Kudengar itu tidak benar.
 
 800
-00:57:50,360 --> 00:57:52,510
+00:57:28,360 --> 00:57:30,510
 Kudengar mereka hanya minum kopi
 karena pekerjaan.
 
 801
-00:57:52,730 --> 00:57:55,990
+00:57:30,730 --> 00:57:33,990
 Hei, siapa yang membicarakan pekerjaan
 
 802
-00:57:56,080 --> 00:57:57,710
+00:57:34,080 --> 00:57:35,710
 sambil bergandengan begitu erat?
 
 803
-00:58:08,220 --> 00:58:09,320
+00:57:46,220 --> 00:57:47,320
 Kau tidak tahu apa-apa.
 
 804
-00:58:22,520 --> 00:58:25,730
+00:58:00,520 --> 00:58:03,730
 Dam, bukankah kau iri kepada Profesor Seo?
 
 805
-00:58:26,170 --> 00:58:28,990
+00:58:04,170 --> 00:58:06,990
 Aku penasaran bagaimana rasanya
 mengencani pria seperti Profesor Shin.
 
 806
-00:58:29,830 --> 00:58:33,300
+00:58:07,830 --> 00:58:11,300
 Aku yakin kau merasa sangat bahagia.
 
 807
-00:58:35,630 --> 00:58:39,150
+00:58:13,630 --> 00:58:17,150
 [Itu tidak mungkin benar.
 Dia bilang bukan apa-apa.]
 
 808
-00:58:40,430 --> 00:58:43,640
+00:58:18,430 --> 00:58:21,640
 Hei, sepertinya rumor itu benar.
 
 809
-00:58:43,730 --> 00:58:45,840
+00:58:21,730 --> 00:58:23,840
 Aku baru saja melihat Profesor Seo
 dalam perjalanan ke sini.
 
 810
-00:58:45,930 --> 00:58:48,660
+00:58:23,930 --> 00:58:26,660
 Dan dia masuk ke ruangan Profesor Shin.
 
 811
-00:58:48,750 --> 00:58:50,290
+00:58:26,750 --> 00:58:28,290
 Mereka pasti berkencan.
 
 812
-00:58:50,370 --> 00:58:52,620
+00:58:28,370 --> 00:58:30,620
 Hei, kita semua tahu.
 
 813
-00:58:53,060 --> 00:58:54,250
+00:58:31,060 --> 00:58:32,250
 Kita semua tahu.
 
 814
-00:58:55,740 --> 00:58:57,680
+00:58:33,740 --> 00:58:35,680
 - Aku harus pergi ke suatu tempat.
 - Apa?
 
 815
-00:58:57,770 --> 00:59:00,140
+00:58:35,770 --> 00:58:38,140
 Ke mana? Kelas akan segera dimulai.
 
 816
-00:59:00,230 --> 00:59:01,370
+00:58:38,230 --> 00:58:39,370
 Ada apa dengannya?
 
 817
-00:59:01,770 --> 00:59:07,360
+00:58:39,770 --> 00:58:45,360
 [Kantor Profesor]
 
 818
-00:59:10,260 --> 00:59:11,630
+00:58:48,260 --> 00:58:49,630
 Terima kasih kopinya.
 
 819
-00:59:12,550 --> 00:59:15,150
+00:58:50,550 --> 00:58:53,150
 Kau ada waktu luang malam ini?
 
 820
-00:59:15,370 --> 00:59:17,740
+00:58:53,370 --> 00:58:55,740
 Ada restoran mewah yang kusuka,
 
 821
-00:59:17,830 --> 00:59:19,150
+00:58:55,830 --> 00:58:57,150
 dan kokinya juga...
 
 822
-00:59:21,440 --> 00:59:22,670
+00:58:59,440 --> 00:59:00,670
 Profesor Shin?
 
 823
-01:00:09,700 --> 01:00:11,640
+00:59:47,700 --> 00:59:49,640
 Inikah maksudmu saat bilang punya cara?
 
 824
-01:00:11,730 --> 01:00:13,710
+00:59:49,730 --> 00:59:51,710
 Tunggu. Aku bisa jelaskan.
 
 825
-01:00:13,800 --> 01:00:15,780
+00:59:51,800 --> 00:59:53,780
 Bagaimana kau akan menjelaskannya?
 
 826
-01:00:15,860 --> 01:00:16,960
+00:59:53,860 --> 00:59:54,960
 Nona Dam.
 
 827
-01:00:18,680 --> 01:00:21,230
+00:59:56,680 --> 00:59:59,230
 Kau mencoba menyakiti orang lain,
 alih-alih aku.
 
 828
-01:00:22,070 --> 01:00:24,270
+01:00:00,070 --> 01:00:02,270
 Tunggu.
 
 829
-01:00:24,360 --> 01:00:26,560
+01:00:02,360 --> 01:00:04,560
 - Cepat.
 - Kau mau ke mana?
 
 830
-01:00:25,540 --> 01:00:28,620
+01:00:03,540 --> 01:00:06,620
 [Kantor Profesor]
 
 831
-01:00:46,440 --> 01:00:47,630
+01:00:24,440 --> 01:00:25,630
 Aku bisa jelaskan.
 
 832
-01:00:59,250 --> 01:01:00,920
+01:00:37,250 --> 01:00:38,920
 Biar kutanya satu hal.
 
 833
-01:01:02,500 --> 01:01:04,750
+01:00:40,500 --> 01:00:42,750
 Dan aku sungguh berharap
 jawabanmu adalah tidak.
 
 834
-01:01:06,290 --> 01:01:07,430
+01:00:44,290 --> 01:00:45,430
 Nona Dam.
 
 835
-01:01:08,130 --> 01:01:10,640
+01:00:46,130 --> 01:00:48,640
 Kau sangat membutuhkan energi karena aku,
 
 836
-01:01:11,080 --> 01:01:12,490
+01:00:49,080 --> 01:00:50,490
 dan kau membahayakan orang lain,
 
 837
-01:01:13,500 --> 01:01:16,850
+01:00:51,500 --> 01:00:54,850
 alih-alih membahayakanku. Benar, bukan?
 
 838
-01:01:18,210 --> 01:01:19,400
+01:00:56,210 --> 01:00:57,400
 Karena aku?
 
 839
-01:01:21,380 --> 01:01:23,090
+01:00:59,380 --> 01:01:01,090
 Apa kau melakukan
 yang kau lakukan kepadaku?
 
 840
-01:01:29,690 --> 01:01:30,930
+01:01:07,690 --> 01:01:08,930
 Tidak ada cara lain.
 
 841
-01:01:31,010 --> 01:01:33,480
+01:01:09,010 --> 01:01:11,480
 Seharusnya kau bilang
 tidak ada cara saat itu.
 
 842
-01:01:33,570 --> 01:01:36,340
+01:01:11,570 --> 01:01:14,340
 Seharusnya kau jujur kepadaku.
 
 843
-01:01:44,830 --> 01:01:46,680
+01:01:22,830 --> 01:01:24,680
 Aku tahu aku jahat,
 
 844
-01:01:48,220 --> 01:01:49,450
+01:01:26,220 --> 01:01:27,450
 tapi bisakah kau...
 
 845
-01:01:52,530 --> 01:01:56,620
+01:01:30,530 --> 01:01:34,620
 Bisakah kau menahannya?
 
 846
-01:02:01,950 --> 01:02:04,100
+01:01:39,950 --> 01:01:42,100
 Aku bersedia menahannya.
 
 847
-01:02:04,540 --> 01:02:06,960
+01:01:42,540 --> 01:01:44,960
 Meski aku harus selalu ketakutan
 setengah mati
 
 848
-01:02:07,050 --> 01:02:09,430
+01:01:45,050 --> 01:01:47,430
 hanya untuk memegang tanganmu,
 
 849
-01:02:09,510 --> 01:02:11,360
+01:01:47,510 --> 01:01:49,360
 Aku bersedia menahannya.
 
 850
-01:02:16,420 --> 01:02:21,000
+01:01:54,420 --> 01:01:59,000
 Terlepas dari semuanya,
 aku menginginkan hubungan ini.
 
 851
-01:02:22,580 --> 01:02:24,470
+01:02:00,580 --> 01:02:02,470
 Meskipun bukan manusia,
 
 852
-01:02:26,010 --> 01:02:28,430
+01:02:04,010 --> 01:02:06,430
 meskipun kau berbohong kepadaku
 dan memanfaatkanku,
 
 853
-01:02:28,520 --> 01:02:30,370
+01:02:06,520 --> 01:02:08,370
 aku menyukaimu.
 
 854
-01:02:32,530 --> 01:02:34,680
+01:02:10,530 --> 01:02:12,680
 Banyak hal yang membuatku
 takut dan khawatir,
 
 855
-01:02:36,220 --> 01:02:39,390
+01:02:14,220 --> 01:02:17,390
 tapi yang kupedulikan hanyalah
 apa aku akan menyakitimu.
 
 856
-01:02:43,570 --> 01:02:45,240
+01:02:21,570 --> 01:02:23,240
 Teganya kau melakukan ini kepadaku.
 
 857
-01:02:50,300 --> 01:02:51,490
+01:02:28,300 --> 01:02:29,490
 Nona Dam.
 
 858
-01:03:19,740 --> 01:03:20,840
+01:02:57,740 --> 01:02:58,840
 Mari
 
 859
-01:03:25,500 --> 01:03:26,730
+01:03:03,500 --> 01:03:04,730
 hentikan ini.
 
 860
-01:03:54,100 --> 01:03:55,330
+01:03:32,100 --> 01:03:33,330
 [Kami menghargai Shim Hyoung-tak,
 Go Kyung-pyo, dan Son Sung-yoon]
 
 861
-01:03:55,420 --> 01:03:56,430
+01:03:33,420 --> 01:03:34,430
 [untuk penampilan tamunya.]
 
 862
-01:04:23,310 --> 01:04:25,820
+01:04:01,310 --> 01:04:03,820
 [My Roommate is a Gumiho]
 
 863
-01:04:26,830 --> 01:04:30,750
+01:04:04,830 --> 01:04:08,750
 [Aku yakin sepenuhnya
 dia orang yang baik.]
 
 864
-01:04:30,440 --> 01:04:31,450
+01:04:08,440 --> 01:04:09,450
 [Profesor Shin Woo-yeo]
 
 865
-01:04:31,100 --> 01:04:35,720
+01:04:09,100 --> 01:04:13,720
 [Kelerengnya telah berubah.
 Jadi, aku bermimpi kosong.]
 
 866
-01:04:35,810 --> 01:04:39,290
+01:04:13,810 --> 01:04:17,290
 [Dia manusia. Tentu saja,
 dia tidak mengerti situasi ini.]
 
 867
-01:04:39,370 --> 01:04:40,560
+01:04:17,370 --> 01:04:18,560
 [Maafkan aku]
 
 868
-01:04:41,530 --> 01:04:42,890
+01:04:19,530 --> 01:04:20,890
 [Aku menyukaimu.]
 
 869
-01:04:43,860 --> 01:04:45,840
+01:04:21,860 --> 01:04:23,840
 Kelereng-nya mulai membiru.
 
 870
-01:04:45,930 --> 01:04:48,750
+01:04:23,930 --> 01:04:26,750
 [Jika ada yang bisa membantunya,]
 
 871
-01:04:48,830 --> 01:04:50,680
+01:04:26,830 --> 01:04:28,680
 [itu adalah aku.]
 
 872
-01:04:50,770 --> 01:04:54,200
+01:04:28,770 --> 01:04:32,200
 [Mungkin hanya kau
 yang bisa menjadikannya manusia.]
-
-
