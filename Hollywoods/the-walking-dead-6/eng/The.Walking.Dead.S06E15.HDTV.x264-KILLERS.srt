@@ -1,0 +1,1935 @@
+﻿1
+00:00:00,320 --> 00:00:03,455
+<i>"Previously on
+AMC's "The Walking Dead..."</i>
+
+2
+00:00:03,580 --> 00:00:06,115
+Those people you met, the
+ones in the burnt forest,
+
+3
+00:00:06,216 --> 00:00:07,883
+you saved them, right?
+
+4
+00:00:07,984 --> 00:00:09,104
+<i>You should have killed them.</i>
+
+5
+00:00:12,689 --> 00:00:14,456
+<i>You're going to let us into
+your little complex,</i>
+
+6
+00:00:14,557 --> 00:00:17,876
+and then you're gonna let us take
+whatever and whoever we want.
+
+7
+00:00:19,395 --> 00:00:20,629
+Fall back!
+
+8
+00:00:20,730 --> 00:00:22,810
+<i>I wish it didn't
+have to end, not this way,</i>
+
+9
+00:00:22,899 --> 00:00:24,900
+<i>but it's how it has to be.</i>
+
+10
+00:00:25,001 --> 00:00:27,069
+<i>So I'm going like I
+always should have.</i>
+
+11
+00:00:27,170 --> 00:00:29,064
+<i>Don't come after me, please.</i>
+
+12
+00:00:32,809 --> 00:00:34,510
+<i>I can see you.</i>
+
+13
+00:00:36,579 --> 00:00:38,013
+<i>Come out.</i>
+
+14
+00:00:38,015 --> 00:00:39,414
+<i>Slowly.</i>
+
+15
+00:00:42,253 --> 00:00:44,686
+<i>Yeah, I think I'm gonna pass on that.</i>
+
+16
+00:01:25,641 --> 00:01:36,492
+<font color="#ec14bd">Sync & corrections by honeybunny
+www.addic7ed.com</font>
+
+17
+00:02:23,506 --> 00:02:25,473
+<i>Carol?</i>
+
+18
+00:02:25,475 --> 00:02:27,642
+<i>You here?</i>
+
+19
+00:02:30,713 --> 00:02:32,981
+Upstairs.
+
+20
+00:02:37,153 --> 00:02:38,386
+How are you?
+
+21
+00:02:38,388 --> 00:02:40,455
+Happy to see you.
+
+22
+00:02:43,260 --> 00:02:44,593
+What happened?
+
+23
+00:02:44,595 --> 00:02:46,828
+Oh, I just slipped.
+
+24
+00:02:46,830 --> 00:02:49,497
+Building a new guard tower.
+
+25
+00:02:49,499 --> 00:02:52,100
+<i>I went to the infirmary.</i>
+
+26
+00:02:52,102 --> 00:02:54,436
+<i>It's so quiet over there now.</i>
+
+27
+00:02:55,538 --> 00:02:59,341
+I knew Denise since the beginning.
+
+28
+00:02:59,343 --> 00:03:03,878
+<i>She wasn't around much
+before Pete, but...</i>
+
+29
+00:03:03,880 --> 00:03:07,382
+<i>before that, she just stayed inside.</i>
+
+30
+00:03:07,384 --> 00:03:11,286
+<i>She was
+always-- was always reading something.</i>
+
+31
+00:03:11,288 --> 00:03:14,322
+<i>And she really stepped up
+when she had to.</i>
+
+32
+00:03:14,324 --> 00:03:16,124
+<i>She was there for us.</i>
+
+33
+00:03:28,871 --> 00:03:30,605
+I didn't mean to bring it up.
+
+34
+00:03:30,607 --> 00:03:34,109
+No, it's just--
+
+35
+00:03:34,111 --> 00:03:37,712
+I just keep thinking about
+Tara, when she finds out.
+
+36
+00:03:37,714 --> 00:03:39,247
+<i>Ah.</i>
+
+37
+00:03:39,249 --> 00:03:43,151
+Hey, everything's gonna be okay.
+
+38
+00:03:43,153 --> 00:03:44,552
+Yeah.
+
+39
+00:03:58,567 --> 00:04:01,836
+<i>♪ I was on my way
+to you ♪</i>
+
+40
+00:04:01,838 --> 00:04:05,006
+<i>♪ And I was worried ♪</i>
+
+41
+00:04:05,008 --> 00:04:08,209
+<i>♪ I was all torn up
+and nervous ♪</i>
+
+42
+00:04:08,211 --> 00:04:11,313
+<i>♪ 'Cause I knew
+that you'd be gone ♪</i>
+
+43
+00:04:11,315 --> 00:04:14,382
+<i>♪ I knocked
+and crossed my fingers ♪</i>
+
+44
+00:04:14,384 --> 00:04:17,452
+<i>♪ While I waited ♪</i>
+
+45
+00:04:17,454 --> 00:04:20,622
+<i>♪ And I couldn't hold
+the teardrops ♪</i>
+
+46
+00:04:20,624 --> 00:04:23,391
+<i>♪ When I walked away
+alone ♪</i>
+
+47
+00:04:23,393 --> 00:04:26,761
+<i>♪ It's all over,
+it's all over ♪</i>
+
+48
+00:04:26,763 --> 00:04:30,298
+<i>♪ My heart echoed,
+"It's all over ♪</i>
+
+49
+00:04:30,300 --> 00:04:33,702
+<i>♪ Every minute
+that you cry for her ♪</i>
+
+50
+00:04:33,704 --> 00:04:36,404
+<i>♪ Is wasted,
+don't you know?" ♪</i>
+
+51
+00:04:36,406 --> 00:04:39,674
+<i>♪ It's all over,
+it's all over ♪</i>
+
+52
+00:04:39,676 --> 00:04:42,744
+<i>♪ My heart echoed,
+"It's all over ♪</i>
+
+53
+00:04:42,746 --> 00:04:45,613
+<i>♪ Stop your cryin',
+turn around ♪</i>
+
+54
+00:04:45,615 --> 00:04:49,351
+<i>♪ And let her go"... ♪</i>
+
+55
+00:04:55,825 --> 00:04:58,893
+<i>♪ I'd been runnin'
+round in circles ♪</i>
+
+56
+00:04:58,895 --> 00:05:00,729
+<i>♪ Like a baby ♪</i>
+
+57
+00:05:02,298 --> 00:05:06,434
+<i>♪ I was in a daze
+because I loved you so ♪</i>
+
+58
+00:05:06,436 --> 00:05:08,570
+<i>♪ I couldn't see ♪</i>
+
+59
+00:05:08,572 --> 00:05:15,009
+<i>♪ I was broken
+in a million little pieces ♪</i>
+
+60
+00:05:15,011 --> 00:05:18,747
+<i>♪ When I saw enough
+to realize ♪</i>
+
+61
+00:05:18,749 --> 00:05:21,249
+<i>♪ You didn't care
+for me ♪</i>
+
+62
+00:05:21,251 --> 00:05:24,319
+<i>♪ It's all over,
+it's all over ♪</i>
+
+63
+00:05:24,321 --> 00:05:27,856
+<i>♪ My heart echoed ♪</i>
+
+64
+00:05:27,858 --> 00:05:31,359
+<i>♪ "Every minute
+that you cry for her ♪</i>
+
+65
+00:05:31,361 --> 00:05:33,895
+<i>♪ Is wasted,
+don't you know?" ♪</i>
+
+66
+00:05:33,897 --> 00:05:36,931
+<i>♪ It's all over,
+it's all over ♪</i>
+
+67
+00:05:36,933 --> 00:05:40,568
+<i>♪ My heart echoed,
+"It's all over ♪</i>
+
+68
+00:05:40,570 --> 00:05:43,238
+<i>♪ Stop your cryin',
+turn around ♪</i>
+
+69
+00:05:43,240 --> 00:05:46,841
+<i>♪ And let her go"... ♪</i>
+
+70
+00:05:53,582 --> 00:05:56,618
+<i>♪ I'd been runnin'
+round in circles ♪</i>
+
+71
+00:05:56,620 --> 00:05:58,453
+<i>♪ Like a baby ♪</i>
+
+72
+00:05:59,955 --> 00:06:04,125
+<i>♪ I was in a daze
+because I loved you so ♪</i>
+
+73
+00:06:04,127 --> 00:06:06,361
+<i>♪ I couldn't see ♪</i>
+
+74
+00:06:06,363 --> 00:06:12,801
+<i>♪ I was broken
+in a million little pieces ♪</i>
+
+75
+00:06:12,803 --> 00:06:16,337
+<i>♪ When I saw enough
+to realize ♪</i>
+
+76
+00:06:16,339 --> 00:06:18,940
+<i>♪ You didn't care
+for me ♪</i>
+
+77
+00:06:18,942 --> 00:06:22,177
+<i>♪ It's all over,
+it's all over ♪</i>
+
+78
+00:06:22,179 --> 00:06:25,613
+<i>♪ My heart echoed ♪</i>
+
+79
+00:06:25,615 --> 00:06:29,017
+<i>♪ "Every minute
+that you cry for her ♪</i>
+
+80
+00:06:29,019 --> 00:06:31,519
+<i>♪ Is wasted,
+don't you know? ♪</i>
+
+81
+00:06:31,521 --> 00:06:35,023
+<i>♪ It's all over,
+it's all over ♪</i>
+
+82
+00:06:35,025 --> 00:06:38,259
+<i>♪ So, forget her ♪</i>
+
+83
+00:06:38,261 --> 00:06:42,096
+<i>♪ Stop your cryin',
+turn around ♪</i>
+
+84
+00:06:42,098 --> 00:06:44,899
+<i>♪ And let her go ♪</i>
+
+85
+00:06:44,901 --> 00:06:49,103
+<i>♪ Let her go,
+boy, let her go." ♪</i>
+
+86
+00:07:30,513 --> 00:07:32,480
+Mm.
+
+87
+00:07:38,988 --> 00:07:40,688
+This is good.
+
+88
+00:07:40,690 --> 00:07:43,925
+Mm, it is.
+
+89
+00:07:46,029 --> 00:07:47,629
+Jesus came through.
+
+90
+00:07:47,631 --> 00:07:50,231
+They all did.
+
+91
+00:07:50,233 --> 00:07:52,734
+And they're all
+gonna keep coming through.
+
+92
+00:07:52,736 --> 00:07:56,871
+Maggie asked me and Glenn to help
+put up more bins and watch points.
+
+93
+00:08:01,477 --> 00:08:04,579
+S-stick around.
+
+94
+00:08:04,581 --> 00:08:07,315
+Judith-- Judith
+isn't even up yet.
+
+95
+00:08:10,220 --> 00:08:12,487
+Wait, no.
+No, no, no, no.
+
+96
+00:08:12,489 --> 00:08:15,223
+- Yeah? Why not?
+- No.
+
+97
+00:08:15,225 --> 00:08:17,592
+Maggie has us on a schedule
+
+98
+00:08:17,594 --> 00:08:21,262
+and I'm not pissing off
+a pregnant lady.
+
+99
+00:08:23,065 --> 00:08:24,566
+Yeah.
+
+100
+00:08:24,568 --> 00:08:28,036
+- Not that pregnant lady.
+- Right.
+
+101
+00:08:28,038 --> 00:08:31,706
+Go.
+
+102
+00:08:37,746 --> 00:08:39,981
+She's worried about an attack.
+
+103
+00:08:42,184 --> 00:08:45,587
+When they come for us, we'll end it,
+
+104
+00:08:45,589 --> 00:08:47,589
+the whole thing.
+
+105
+00:08:47,591 --> 00:08:51,025
+This won't be like before.
+
+106
+00:08:51,027 --> 00:08:52,560
+We're putting everything in place
+
+107
+00:08:52,562 --> 00:08:54,395
+and these people know what to do now.
+
+108
+00:08:57,232 --> 00:08:59,767
+The world's ours,
+
+109
+00:08:59,769 --> 00:09:01,903
+and we know how to take it.
+
+110
+00:09:07,610 --> 00:09:10,111
+Everything we need
+
+111
+00:09:10,113 --> 00:09:13,581
+is right here inside these walls.
+
+112
+00:09:15,217 --> 00:09:18,252
+We're not losing any of it again.
+
+113
+00:09:18,254 --> 00:09:19,520
+I'm not.
+
+114
+00:09:19,522 --> 00:09:22,190
+No, you're not.
+
+115
+00:09:28,864 --> 00:09:30,932
+I'm not.
+
+116
+00:09:39,842 --> 00:09:42,310
+We'll have these,
+but we should hide a few.
+
+117
+00:09:42,312 --> 00:09:45,046
+That way, we can find them,
+but strangers can't.
+
+118
+00:09:45,048 --> 00:09:46,881
+In case anyone gets in.
+
+119
+00:09:48,550 --> 00:09:50,018
+They won't.
+
+120
+00:09:52,155 --> 00:09:53,354
+Oh, no.
+
+121
+00:10:01,463 --> 00:10:03,331
+Where are you going?
+
+122
+00:10:03,333 --> 00:10:04,832
+Out.
+
+123
+00:10:04,834 --> 00:10:06,734
+No, shit.
+You got specifics?
+
+124
+00:10:06,736 --> 00:10:08,970
+What the hell is he doing?
+
+125
+00:10:08,972 --> 00:10:10,805
+Something he shouldn't.
+
+126
+00:10:10,807 --> 00:10:12,974
+We gotta stop him.
+
+127
+00:10:27,189 --> 00:10:28,389
+Whoa!
+
+128
+00:10:28,391 --> 00:10:29,824
+Make room for my freckled ass.
+
+129
+00:10:29,826 --> 00:10:31,125
+No.
+
+130
+00:10:31,127 --> 00:10:33,027
+Cover my watch.
+You stay.
+
+131
+00:10:33,029 --> 00:10:34,996
+Hey, we should keep numbers here.
+
+132
+00:10:34,998 --> 00:10:36,197
+I know where Daryl's going.
+
+133
+00:11:08,897 --> 00:11:10,865
+What time did she leave?
+Do you know what she took?
+
+134
+00:11:10,867 --> 00:11:12,533
+Sometime in the night.
+I never heard her go,
+
+135
+00:11:12,535 --> 00:11:14,102
+but she made a bunch
+of food, you know.
+
+136
+00:11:14,104 --> 00:11:16,437
+- She took her pack, one of my coats--
+- Did she leave on foot?
+
+137
+00:11:16,439 --> 00:11:18,206
+I-- I don't know.
+
+138
+00:11:18,208 --> 00:11:21,209
+Rick, I took over at
+12:00, I was on till 6:00.
+
+139
+00:11:21,211 --> 00:11:22,877
+I never saw anything.
+
+140
+00:11:22,879 --> 00:11:25,313
+Front's been quiet
+since the others left.
+
+141
+00:11:25,315 --> 00:11:26,748
+What? Who?
+
+142
+00:11:26,750 --> 00:11:29,450
+Daryl. He went ICBM after
+the Saviors from yesterday.
+
+143
+00:11:29,452 --> 00:11:33,821
+Glenn, Michonne, Rosita, they all
+went to shut that shit down.
+
+144
+00:11:33,823 --> 00:11:37,325
+<i>Where's the other car?</i>
+
+145
+00:11:37,327 --> 00:11:39,894
+We added two more cars yesterday.
+
+146
+00:11:39,896 --> 00:11:42,840
+One of them's missing, the one we
+put right between those houses.
+
+147
+00:11:42,960 --> 00:11:45,133
+You can barely see between
+the houses from up top,
+
+148
+00:11:45,893 --> 00:11:47,092
+especially at night.
+
+149
+00:11:47,094 --> 00:11:49,160
+The note, can I see it?
+
+150
+00:11:49,773 --> 00:11:52,117
+You never saw any
+headlights, taillights?
+
+151
+00:11:52,246 --> 00:11:54,713
+She's smart enough
+to cover her tracks.
+
+152
+00:11:54,715 --> 00:11:57,716
+<i>She must've left
+during the shift change.</i>
+
+153
+00:11:57,718 --> 00:11:59,017
+Where are you going?
+
+154
+00:11:59,019 --> 00:12:01,086
+<i>I'm gonna go find her.</i>
+
+155
+00:12:01,088 --> 00:12:02,621
+Wait.
+
+156
+00:12:05,425 --> 00:12:07,059
+Tell Carl I'll be back soon.
+
+157
+00:12:07,061 --> 00:12:09,227
+No one else leaves.
+
+158
+00:12:09,229 --> 00:12:11,329
+Everyone else stays
+ready for a fight.
+
+159
+00:13:43,826 --> 00:13:45,126
+Hands up.
+
+160
+00:13:47,997 --> 00:13:49,831
+Please don't hurt me.
+
+161
+00:13:50,315 --> 00:13:54,336
+Why does everyone
+always assume the worst?
+
+162
+00:13:54,338 --> 00:13:56,471
+How 'bout you come on out?
+
+163
+00:14:09,585 --> 00:14:11,519
+I just have the car.
+
+164
+00:14:17,727 --> 00:14:21,096
+And a knife for the dead
+ones, nothing else.
+
+165
+00:14:22,298 --> 00:14:25,934
+Naw, you got information.
+
+166
+00:14:25,936 --> 00:14:29,070
+Like where you're from,
+where you're going.
+
+167
+00:14:31,316 --> 00:14:33,016
+<i>Aw, come on, it's a lonely world.</i>
+
+168
+00:14:33,018 --> 00:14:34,751
+<i>Let's get to know each other.</i>
+
+169
+00:14:34,753 --> 00:14:36,887
+<i>I'm Jiro.</i>
+
+170
+00:14:36,889 --> 00:14:39,289
+<i>Your turn.</i>
+
+171
+00:14:39,291 --> 00:14:41,758
+I'm nobody, really.
+
+172
+00:14:43,461 --> 00:14:45,862
+Nancy from Montclair.
+
+173
+00:14:49,367 --> 00:14:51,401
+But I've bounced around
+a lot since then.
+
+174
+00:14:51,403 --> 00:14:53,603
+I-- I keep moving.
+
+175
+00:14:55,406 --> 00:14:59,743
+I'm not really from anywhere.
+I'm not really going anywhere.
+
+176
+00:14:59,745 --> 00:15:01,278
+<i>Well...</i>
+
+177
+00:15:01,280 --> 00:15:05,449
+at least we agree on one
+thing, Nancy from Montclair--
+
+178
+00:15:05,451 --> 00:15:08,919
+you're not going anywhere.
+
+179
+00:15:08,921 --> 00:15:12,689
+But you do seem like
+you're from somewhere.
+
+180
+00:15:12,691 --> 00:15:15,926
+After Montclair, right?
+
+181
+00:15:15,928 --> 00:15:18,362
+Miles, what's that place called?
+
+182
+00:15:18,364 --> 00:15:22,399
+The gated one
+12.75 clicks down?
+
+183
+00:15:22,401 --> 00:15:24,334
+<i>Alexandria.</i>
+
+184
+00:15:24,336 --> 00:15:27,270
+Yeah, Alexandria.
+
+185
+00:15:27,272 --> 00:15:30,040
+<i>You know, they got some cars out
+front, spikes through them,</i>
+
+186
+00:15:30,042 --> 00:15:32,509
+<i>just like the one you're driving.</i>
+
+187
+00:15:33,678 --> 00:15:35,479
+A woman like you,
+
+188
+00:15:35,481 --> 00:15:38,648
+no weapons, no protection,
+
+189
+00:15:38,650 --> 00:15:41,318
+no clue,
+
+190
+00:15:41,320 --> 00:15:44,755
+you really shouldn't
+be out here alone.
+
+191
+00:15:44,757 --> 00:15:47,157
+You know, we were just
+on our way to your place.
+
+192
+00:15:47,159 --> 00:15:49,393
+<i>We can give you a ride back.</i>
+
+193
+00:15:49,395 --> 00:15:52,796
+<i>Maybe they'll let us in
+if you're with us.</i>
+
+194
+00:16:24,462 --> 00:16:25,996
+It doesn't have to be this way.
+
+195
+00:16:25,998 --> 00:16:28,031
+You could turn back
+and you could go home.
+
+196
+00:16:28,033 --> 00:16:31,001
+Nobody has to get hurt.
+
+197
+00:16:31,003 --> 00:16:33,236
+It's looking like
+someone's gotta get hurt.
+
+198
+00:16:35,206 --> 00:16:38,075
+Please.
+
+199
+00:16:38,077 --> 00:16:39,609
+Please.
+
+200
+00:16:39,611 --> 00:16:41,771
+Man, why don't you just grab
+her before she passes out?
+
+201
+00:16:44,249 --> 00:16:46,216
+<i>Don't, please!</i>
+
+202
+00:17:57,955 --> 00:17:59,823
+I can see you.
+
+203
+00:17:59,825 --> 00:18:02,259
+<i>Come out slowly.</i>
+
+204
+00:18:02,261 --> 00:18:05,162
+<i>Yeah, I think I'm gonna pass on that.</i>
+
+205
+00:18:38,046 --> 00:18:39,647
+- Hey.
+- Hey.
+
+206
+00:18:43,552 --> 00:18:45,019
+You look tired.
+
+207
+00:18:45,021 --> 00:18:47,488
+We still have a lot to do.
+
+208
+00:18:47,490 --> 00:18:50,491
+Glenn, Michonne, and Rosita
+just took off after Daryl.
+
+209
+00:18:50,493 --> 00:18:51,726
+I'm taking an extra shift.
+
+210
+00:18:51,728 --> 00:18:53,961
+Just packing a lunch
+before I go back out.
+
+211
+00:18:57,799 --> 00:18:59,934
+- See you later.
+- Where are you going?
+
+212
+00:18:59,936 --> 00:19:01,502
+Take your shift while you rest.
+
+213
+00:19:01,504 --> 00:19:03,738
+Enid...
+
+214
+00:19:03,740 --> 00:19:05,706
+Just for a few hours.
+
+215
+00:19:07,676 --> 00:19:09,477
+Let me help.
+
+216
+00:19:09,479 --> 00:19:12,313
+Put up your feet
+and eat some pickles.
+
+217
+00:19:23,158 --> 00:19:24,926
+You didn't have to come.
+
+218
+00:19:26,195 --> 00:19:30,064
+We have to try,
+even if it's a long shot,
+
+219
+00:19:30,066 --> 00:19:31,799
+even if it's dangerous.
+
+220
+00:19:33,835 --> 00:19:35,803
+Tire tracks pointed east...
+
+221
+00:19:37,506 --> 00:19:39,740
+we go east.
+
+222
+00:19:39,742 --> 00:19:42,109
+Saviors' compound
+that you and the group--
+
+223
+00:19:43,445 --> 00:19:45,846
+that you went to,
+
+224
+00:19:45,848 --> 00:19:47,682
+that was west.
+
+225
+00:19:52,254 --> 00:19:54,255
+Seems like she went east.
+
+226
+00:20:01,363 --> 00:20:05,099
+You don't even know Carol.
+
+227
+00:20:05,101 --> 00:20:07,435
+Oh, I got to.
+
+228
+00:20:07,437 --> 00:20:09,337
+A little.
+
+229
+00:20:14,176 --> 00:20:16,043
+Why are you doing this?
+
+230
+00:20:20,549 --> 00:20:24,919
+What I believe--
+I'm not right.
+
+231
+00:20:24,921 --> 00:20:28,689
+There is no right.
+
+232
+00:20:28,691 --> 00:20:31,392
+There's just the wrong
+that doesn't pull you down.
+
+233
+00:20:37,666 --> 00:20:39,667
+It hasn't pulled me down.
+
+234
+00:20:42,437 --> 00:20:44,171
+I think it will.
+
+235
+00:20:46,975 --> 00:20:49,610
+'Cause I know you.
+
+236
+00:20:59,822 --> 00:21:01,455
+God dang--!
+
+237
+00:21:06,996 --> 00:21:09,497
+Oh, man.
+
+238
+00:21:28,050 --> 00:21:30,384
+Shh.
+
+239
+00:21:30,386 --> 00:21:31,886
+Shh!
+
+240
+00:21:33,855 --> 00:21:36,991
+Just let it go, man.
+Just let go.
+
+241
+00:21:49,838 --> 00:21:51,806
+Oh, God.
+
+242
+00:22:06,588 --> 00:22:08,055
+There.
+
+243
+00:22:08,057 --> 00:22:09,957
+I see it.
+
+244
+00:22:26,641 --> 00:22:28,409
+That's her car.
+
+245
+00:22:31,580 --> 00:22:33,381
+You see her?
+
+246
+00:22:37,953 --> 00:22:40,020
+No.
+
+247
+00:22:49,598 --> 00:22:51,165
+Hey, where is she?
+
+248
+00:23:14,723 --> 00:23:18,392
+The Saviors were getting weapons
+from the Hilltop's blacksmith.
+
+249
+00:23:18,394 --> 00:23:20,294
+These men were Saviors.
+
+250
+00:23:35,510 --> 00:23:37,244
+There's blood here.
+
+251
+00:23:38,447 --> 00:23:40,247
+She could've been hit.
+
+252
+00:23:45,821 --> 00:23:48,322
+I'm proud of her.
+
+253
+00:23:48,324 --> 00:23:50,858
+How's that?
+
+254
+00:23:50,860 --> 00:23:54,428
+She took four of them down.
+
+255
+00:23:54,430 --> 00:23:56,630
+That woman, she's a force of nature.
+
+256
+00:23:56,632 --> 00:23:59,133
+She left because she can't anymore.
+
+257
+00:23:59,135 --> 00:24:00,634
+That's what her letter said.
+
+258
+00:24:00,636 --> 00:24:03,304
+She could because she had to.
+
+259
+00:24:04,339 --> 00:24:05,840
+Sometimes you have to.
+
+260
+00:24:08,677 --> 00:24:11,946
+There's more blood opposite these men
+
+261
+00:24:11,948 --> 00:24:14,081
+<i>that leads into the field.</i>
+
+262
+00:24:14,083 --> 00:24:16,650
+It's a trail.
+Could be Carol's.
+
+263
+00:24:16,652 --> 00:24:18,552
+She could still be alive.
+
+264
+00:24:18,554 --> 00:24:20,287
+She's not here.
+
+265
+00:24:20,289 --> 00:24:22,356
+<i>Most of their guns are gone.</i>
+
+266
+00:24:22,358 --> 00:24:24,091
+She might've taken them.
+
+267
+00:24:24,093 --> 00:24:25,893
+Those, too.
+
+268
+00:24:28,397 --> 00:24:31,966
+Or she could've died here,
+
+269
+00:24:31,968 --> 00:24:34,468
+even if she isn't here.
+
+270
+00:24:35,837 --> 00:24:37,438
+Trail goes this way.
+
+271
+00:24:43,712 --> 00:24:46,347
+They were close to Alexandria.
+
+272
+00:24:47,582 --> 00:24:49,884
+There's even more of them.
+
+273
+00:24:49,886 --> 00:24:52,720
+We didn't end it.
+
+274
+00:24:52,722 --> 00:24:55,222
+No.
+
+275
+00:24:55,224 --> 00:24:57,191
+You started something.
+
+276
+00:26:14,337 --> 00:26:16,203
+That's where she died.
+
+277
+00:26:20,108 --> 00:26:22,209
+All right, so he had
+to start from here.
+
+278
+00:26:27,282 --> 00:26:28,616
+He did.
+
+279
+00:26:30,218 --> 00:26:32,319
+Which way did Dwight run?
+
+280
+00:26:35,490 --> 00:26:36,590
+Rosita?
+
+281
+00:26:40,395 --> 00:26:42,229
+We should let him do this.
+
+282
+00:26:43,632 --> 00:26:46,433
+But he doesn't know what he's doing.
+
+283
+00:26:46,435 --> 00:26:49,203
+We don't.
+
+284
+00:26:49,205 --> 00:26:52,139
+Maybe him trying this makes you
+feel better about it right now.
+
+285
+00:26:52,141 --> 00:26:55,876
+Maybe they keep knowing more about
+us than we know about them.
+
+286
+00:26:55,878 --> 00:27:00,047
+Or maybe Daryl's
+gonna get himself killed.
+
+287
+00:27:03,718 --> 00:27:05,653
+Which way did Dwight run?
+
+288
+00:27:54,969 --> 00:27:56,470
+<i>Watch the hell out, asshole.</i>
+
+289
+00:27:56,472 --> 00:27:58,238
+I did.
+You shouldn't have come.
+
+290
+00:27:58,240 --> 00:28:00,007
+You shouldn't have left.
+
+291
+00:28:02,043 --> 00:28:04,511
+When I split off
+from Sasha and Abraham,
+
+292
+00:28:04,513 --> 00:28:07,181
+he was out there in the woods, in that
+burned-out forest with them girls,
+
+293
+00:28:07,183 --> 00:28:10,484
+put a gun to my head, tied me up.
+
+294
+00:28:12,320 --> 00:28:13,821
+I even tried to help him.
+
+295
+00:28:13,823 --> 00:28:16,423
+So, you think it's your fault?
+
+296
+00:28:16,425 --> 00:28:18,892
+Yeah, I know it is.
+
+297
+00:28:18,894 --> 00:28:20,461
+I'm gonna go do what I
+should've done before.
+
+298
+00:28:20,463 --> 00:28:23,330
+What, for her?
+
+299
+00:28:23,332 --> 00:28:25,899
+She's gone, man.
+
+300
+00:28:25,901 --> 00:28:28,335
+You're doing this for you.
+
+301
+00:28:28,337 --> 00:28:29,737
+Man, I don't give a shit.
+
+302
+00:28:29,739 --> 00:28:31,605
+Daryl...
+
+303
+00:28:33,241 --> 00:28:37,177
+we need to get back there
+and figure this out from home.
+
+304
+00:28:37,179 --> 00:28:39,947
+Our home.
+
+305
+00:28:39,949 --> 00:28:43,650
+We need you, and everyone back
+there needs us right now.
+
+306
+00:28:46,254 --> 00:28:48,956
+It's-- it's gonna
+go wrong out here.
+
+307
+00:28:50,258 --> 00:28:53,961
+We'll square it.
+I will.
+
+308
+00:28:53,963 --> 00:28:56,864
+I promise you.
+
+309
+00:28:56,866 --> 00:28:58,632
+Just come back.
+
+310
+00:29:03,404 --> 00:29:05,506
+I can't.
+
+311
+00:29:05,508 --> 00:29:07,574
+- Daryl.
+- Man, I can't!
+
+312
+00:29:15,049 --> 00:29:16,917
+I can't either.
+
+313
+00:29:35,804 --> 00:29:39,973
+Thing is, those men could
+be back in Alexandria right now.
+
+314
+00:29:39,975 --> 00:29:41,675
+If they are, they're dead.
+
+315
+00:29:41,677 --> 00:29:44,077
+I hope not.
+
+316
+00:29:44,079 --> 00:29:45,712
+We need them alive.
+
+317
+00:29:45,714 --> 00:29:47,481
+We need to find out more.
+
+318
+00:29:47,483 --> 00:29:50,284
+Yeah, we do.
+
+319
+00:29:57,959 --> 00:30:00,460
+We just got stuck with each other.
+
+320
+00:30:00,462 --> 00:30:03,063
+We were lucky.
+
+321
+00:30:06,467 --> 00:30:08,468
+We figured it all out together.
+
+322
+00:30:10,171 --> 00:30:12,272
+It felt like we did.
+
+323
+00:30:12,274 --> 00:30:14,942
+After everything, we did.
+
+324
+00:30:21,916 --> 00:30:24,117
+The world's not
+what we thought it was.
+
+325
+00:30:27,355 --> 00:30:30,424
+Hilltop, the Saviors, it's bigger.
+
+326
+00:30:52,881 --> 00:30:54,448
+Hi.
+
+327
+00:31:27,439 --> 00:31:30,374
+It's not much.
+
+328
+00:31:30,739 --> 00:31:33,707
+But if it's Carol's, then she's
+been bleeding for a while.
+
+329
+00:31:39,580 --> 00:31:43,183
+So, you out here because
+Carol is your friend?
+
+330
+00:31:43,185 --> 00:31:46,519
+I'm out here 'cause she's my family.
+
+331
+00:31:49,190 --> 00:31:51,458
+I've talked to people back there.
+
+332
+00:31:51,460 --> 00:31:55,395
+I found out about
+what happened at the prison.
+
+333
+00:31:55,397 --> 00:31:57,697
+How you sent her away.
+
+334
+00:31:59,033 --> 00:32:00,867
+She killed two of your people, right?
+
+335
+00:32:00,869 --> 00:32:02,636
+Burned their bodies.
+
+336
+00:32:04,605 --> 00:32:07,540
+What if that had happened today?
+
+337
+00:32:07,542 --> 00:32:09,142
+Would you kill her?
+
+338
+00:32:09,144 --> 00:32:12,245
+If it happened today, I'd thank her.
+
+339
+00:32:12,247 --> 00:32:14,648
+Or I would've killed them myself.
+
+340
+00:32:14,650 --> 00:32:17,317
+She was right to do it.
+
+341
+00:32:17,319 --> 00:32:19,419
+They were sick, spreading a disease.
+
+342
+00:32:19,421 --> 00:32:21,121
+They weren't gonna make it.
+
+343
+00:32:22,156 --> 00:32:24,291
+Yeah, but this was back then.
+
+344
+00:32:24,293 --> 00:32:26,259
+And you didn't kill her.
+
+345
+00:32:27,295 --> 00:32:31,131
+You sent her away, Rick,
+and she came back.
+
+346
+00:32:31,133 --> 00:32:33,667
+And she came back
+and she saved all y'all.
+
+347
+00:32:36,470 --> 00:32:38,538
+People can come back, Rick.
+
+348
+00:33:00,294 --> 00:33:02,329
+It's not her.
+
+349
+00:33:11,472 --> 00:33:14,240
+<i>She couldn't have
+been dead more than a day.</i>
+
+350
+00:33:41,769 --> 00:33:42,869
+Hey!
+
+351
+00:33:42,871 --> 00:33:44,504
+Whoa, whoa!
+
+352
+00:33:44,506 --> 00:33:46,439
+<i>It's okay. I'm not trouble.</i>
+
+353
+00:33:46,441 --> 00:33:47,574
+<i>I don't want any trouble.</i>
+
+354
+00:33:47,576 --> 00:33:50,210
+Come out, drop your weapons.
+
+355
+00:33:50,212 --> 00:33:52,078
+<i>I can't do that.</i>
+
+356
+00:33:52,080 --> 00:33:54,047
+<i>The wasted are too close.</i>
+
+357
+00:33:54,049 --> 00:33:56,716
+<i>I'm just looking for my horse.
+Have you seen him?</i>
+
+358
+00:33:56,718 --> 00:33:58,184
+No.
+
+359
+00:34:00,187 --> 00:34:02,789
+We're looking for our friend.
+Have you seen her?
+
+360
+00:34:02,791 --> 00:34:05,258
+<i>Have you seen her?</i>
+
+361
+00:34:05,260 --> 00:34:06,793
+<i>They're coming!</i>
+
+362
+00:34:06,795 --> 00:34:09,262
+<i>Just go!
+Just go!</i>
+
+363
+00:34:13,901 --> 00:34:15,235
+Stop!
+
+364
+00:34:38,426 --> 00:34:40,126
+Rick.
+
+365
+00:34:40,128 --> 00:34:41,394
+We didn't know who he was.
+
+366
+00:34:42,730 --> 00:34:46,199
+Yeah, it's one of the Hilltop's.
+
+367
+00:34:46,201 --> 00:34:48,668
+Like the one on the road.
+
+368
+00:34:48,670 --> 00:34:51,137
+Maybe he's one of them.
+
+369
+00:34:51,139 --> 00:34:52,906
+Maybe he's looking for Carol, too.
+
+370
+00:34:52,908 --> 00:34:55,008
+Maybe the man is just
+looking for a horse.
+
+371
+00:34:55,010 --> 00:34:58,144
+Maybe he is from Hilltop.
+Maybe he's from somewhere else.
+
+372
+00:35:03,417 --> 00:35:07,887
+I don't take chances anymore.
+
+373
+00:35:18,098 --> 00:35:20,099
+Those people...
+
+374
+00:35:21,268 --> 00:35:23,336
+the Wolves...
+
+375
+00:35:25,172 --> 00:35:27,507
+after they attacked,
+I found one of them.
+
+376
+00:35:29,977 --> 00:35:32,445
+He had attacked me
+on the road before,
+
+377
+00:35:32,447 --> 00:35:34,514
+when I was trying to find you.
+
+378
+00:35:34,516 --> 00:35:36,149
+And I stopped him.
+
+379
+00:35:38,686 --> 00:35:41,621
+But I let him live.
+
+380
+00:35:41,623 --> 00:35:44,257
+And then he was there in
+Alexandria after the attack,
+
+381
+00:35:44,259 --> 00:35:47,260
+hiding in one of the brownstones,
+so I stopped him again.
+
+382
+00:35:47,262 --> 00:35:50,463
+I knocked him out
+and I could have killed him.
+
+383
+00:35:54,502 --> 00:35:56,736
+But all life is precious.
+
+384
+00:36:05,579 --> 00:36:07,814
+Put him in the cell
+of the brownstone basement.
+
+385
+00:36:09,550 --> 00:36:12,385
+'Cause I knew he could change.
+
+386
+00:36:12,387 --> 00:36:14,053
+We all can change.
+
+387
+00:36:14,055 --> 00:36:18,124
+- You had one of them alive in the community?
+- Oh, yeah.
+
+388
+00:36:18,126 --> 00:36:22,362
+And when the walls came down and the
+walkers broke in, Carol found out.
+
+389
+00:36:22,364 --> 00:36:24,697
+We fought and that man escaped,
+
+390
+00:36:24,699 --> 00:36:26,432
+and Denise...
+
+391
+00:36:28,335 --> 00:36:30,370
+she had come to the cell
+to try and help him
+
+392
+00:36:30,372 --> 00:36:33,439
+and he took her hostage.
+
+393
+00:36:33,441 --> 00:36:38,378
+And then she and that Wolf,
+they got swarmed,
+
+394
+00:36:38,380 --> 00:36:41,014
+and that man, that killer,
+
+395
+00:36:41,016 --> 00:36:44,317
+he saved her life.
+
+396
+00:36:44,319 --> 00:36:47,320
+And then Denise
+was there to save Carl.
+
+397
+00:36:47,322 --> 00:36:49,956
+It--
+
+398
+00:36:49,958 --> 00:36:51,991
+it's all a circle.
+
+399
+00:36:53,360 --> 00:36:55,161
+Everything gets a return.
+
+400
+00:37:03,470 --> 00:37:06,573
+But the fact is the fact.
+
+401
+00:37:06,575 --> 00:37:09,208
+I did what I did.
+
+402
+00:37:09,210 --> 00:37:11,444
+I let him live.
+
+403
+00:37:18,786 --> 00:37:21,554
+You go home, Rick.
+
+404
+00:37:21,556 --> 00:37:24,824
+You take the car.
+You're needed back there.
+
+405
+00:37:24,826 --> 00:37:26,993
+You shouldn't be out here
+taking any more chances.
+
+406
+00:37:26,995 --> 00:37:28,761
+I'm not leaving.
+
+407
+00:37:28,763 --> 00:37:32,098
+- Carol's still out here.
+- And I will find her.
+
+408
+00:37:32,100 --> 00:37:33,866
+Somehow.
+
+409
+00:37:36,437 --> 00:37:38,137
+You go.
+
+410
+00:37:41,642 --> 00:37:43,610
+You're coming back.
+
+411
+00:37:47,114 --> 00:37:49,482
+Yeah.
+
+412
+00:37:49,484 --> 00:37:51,951
+But if I don't, don't come looking.
+
+413
+00:37:56,957 --> 00:37:59,092
+Take it.
+
+414
+00:37:59,094 --> 00:38:01,527
+- No, I--
+- Take it.
+
+415
+00:38:11,005 --> 00:38:13,039
+Morgan?
+
+416
+00:38:20,648 --> 00:38:23,449
+Michonne did steal that protein bar.
+
+417
+00:38:26,520 --> 00:38:28,321
+Oh, I know.
+
+418
+00:38:51,556 --> 00:38:55,226
+Morgan's still out there looking.
+
+419
+00:38:55,228 --> 00:38:57,061
+Is Michonne here?
+
+420
+00:38:57,670 --> 00:39:00,331
+She's still out there, too.
+
+421
+00:39:12,110 --> 00:39:14,812
+You afraid...
+
+422
+00:39:14,814 --> 00:39:16,914
+to go back to it?
+
+423
+00:39:19,618 --> 00:39:21,919
+Let somebody close?
+
+424
+00:39:28,612 --> 00:39:32,129
+Yeah. Yeah.
+
+425
+00:39:34,099 --> 00:39:35,833
+Mm.
+
+426
+00:39:37,653 --> 00:39:40,355
+Me, too.
+
+427
+00:39:40,357 --> 00:39:42,691
+But now...
+
+428
+00:39:46,028 --> 00:39:47,462
+I think I'm that much more ready
+
+429
+00:39:47,464 --> 00:39:50,198
+to tear the world
+a brand-new asshole.
+
+430
+00:40:02,144 --> 00:40:04,312
+Any second now.
+
+431
+00:40:06,348 --> 00:40:08,149
+Yeah.
+
+432
+00:40:09,952 --> 00:40:11,086
+Any second.
+
+433
+00:40:35,044 --> 00:40:37,846
+Scott said you were looking for me?
+
+434
+00:40:37,848 --> 00:40:39,714
+What's up?
+
+435
+00:40:42,218 --> 00:40:44,285
+I need some more help.
+
+436
+00:41:00,336 --> 00:41:02,070
+<i>I like it.</i>
+
+437
+00:41:02,072 --> 00:41:03,738
+<i>But why?</i>
+
+438
+00:41:06,510 --> 00:41:09,344
+Hmm.
+I have to keep going.
+
+439
+00:41:12,581 --> 00:41:15,150
+And I don't want anything
+getting in my way.
+
+440
+00:41:22,458 --> 00:41:24,893
+Man, did I go too short?
+
+441
+00:41:24,895 --> 00:41:27,228
+I-I only used
+to cut my dad's.
+
+442
+00:41:27,230 --> 00:41:29,230
+No, it's not that.
+
+443
+00:41:30,800 --> 00:41:33,434
+Maggie?
+
+444
+00:41:33,436 --> 00:41:35,537
+Ah!
+
+445
+00:41:37,072 --> 00:41:39,407
+Maggie.
+
+446
+00:41:39,409 --> 00:41:41,409
+Maggie!
+
+447
+00:42:18,147 --> 00:42:20,448
+Hi, Daryl.
+
+448
+00:42:33,078 --> 00:42:35,063
+<i>You'll be all right.</i>
+
