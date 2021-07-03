@@ -1,3231 +1,2954 @@
 ﻿1
-00:00:01,100 --> 00:00:02,830
-Previously on "Superman and Lois"...
+00:00:00,893 --> 00:00:02,591
+- Previously on
+"Superman and Lois"...
 
 2
-00:00:02,835 --> 00:00:05,290
-Let's just focus on what
+00:00:02,634 --> 00:00:04,201
+- Let's just focus on what
 we came here for, family.
 
 3
-00:00:05,295 --> 00:00:07,095
-I came here with one purpose...
+00:00:04,244 --> 00:00:05,637
+- I came here
+with one purpose--
 
 4
-00:00:07,100 --> 00:00:09,295
-to further our Kryptonian heritage.
+00:00:05,681 --> 00:00:08,292
+to further
+our Kryptonian heritage.
 
 5
-00:00:09,300 --> 00:00:12,298
-Krypton will finally be resurrected,
+00:00:08,335 --> 00:00:11,295
+Krypton will finally
+be resurrected,
 
 6
-00:00:12,303 --> 00:00:14,533
-and we'll have our mother with us.
+00:00:11,338 --> 00:00:13,689
+and we'll have
+our mother with us.
 
 7
-00:00:14,538 --> 00:00:17,038
-- Help me do that, brother.
+00:00:13,732 --> 00:00:16,430
+Help me do that, brother.
 - Not like this.
 
 8
-00:00:17,043 --> 00:00:19,004
-I have to bring back everyone
-Edge has implanted
+00:00:16,474 --> 00:00:17,649
+I have to bring back
+everyone Edges implanted
 
 9
-00:00:19,009 --> 00:00:20,060
+00:00:17,693 --> 00:00:19,129
 with Kryptonian consciousness.
 
 10
-00:00:20,064 --> 00:00:21,965
+00:00:19,172 --> 00:00:20,478
 I'll release all my energy
-at once. It'll be enough.
+at once.
 
 11
-00:00:21,969 --> 00:00:23,975
-And you'll be out of
-commission for days.
+00:00:20,522 --> 00:00:21,784
+It'll be enough.
 
 12
-00:00:23,980 --> 00:00:25,077
-[DRAMATIC MUSIC]
+00:00:21,827 --> 00:00:23,481
+- And you'll be out
+of commission for days.
 
 13
-00:00:25,082 --> 00:00:27,317
-[SCREAMS]
-
-14
-00:00:28,753 --> 00:00:30,583
+00:00:27,746 --> 00:00:29,748
 - Dad?
 - Sarah.
 
+14
+00:00:53,815 --> 00:00:55,773
+- No, no, no!
+
 15
-00:00:30,588 --> 00:00:34,793
-♪ ♪
-
-16
-00:00:53,878 --> 00:00:55,845
-No, no, no!
-
-17
-00:00:58,900 --> 00:01:00,863
+00:00:58,950 --> 00:01:00,865
 What am I supposed to do now?
 
+16
+00:03:07,035 --> 00:03:09,864
+- The day has finally come.
+
+17
+00:03:09,907 --> 00:03:13,824
+It gives me such joy
+to see you here.
+
 18
-00:01:00,868 --> 00:01:03,866
-[SOFT DRAMATIC MUSIC]
-
-19
-00:01:03,871 --> 00:01:08,076
-♪ ♪
-
-20
-00:01:17,151 --> 00:01:21,356
-♪ ♪
-
-21
-00:01:23,958 --> 00:01:27,194
-[GROUND CRACKLING AND RUMBLING]
-
-22
-00:01:40,808 --> 00:01:43,806
-[DRAMATIC MUSIC]
-
-23
-00:01:43,811 --> 00:01:48,016
-♪ ♪
-
-24
-00:02:10,771 --> 00:02:14,976
-♪ ♪
-
-25
-00:02:30,791 --> 00:02:34,996
-♪ ♪
-
-26
-00:02:47,642 --> 00:02:50,573
-[SOFT DRAMATIC MUSIC]
-
-27
-00:02:50,578 --> 00:02:54,783
-♪ ♪
-
-28
-00:03:06,700 --> 00:03:09,598
-The day has finally come.
-
-29
-00:03:09,603 --> 00:03:13,569
-It gives me such joy to see you here.
-
-30
-00:03:13,574 --> 00:03:17,576
+00:03:13,868 --> 00:03:17,654
 - Who are you?
 - I am Jor-El.
 
-31
-00:03:18,612 --> 00:03:21,510
+19
+00:03:18,916 --> 00:03:21,745
 And you...
 
-32
-00:03:21,515 --> 00:03:24,146
+20
+00:03:21,789 --> 00:03:24,574
 you are my son.
 
-33
-00:03:24,151 --> 00:03:27,149
-[DRAMATIC MUSIC]
+21
+00:03:24,598 --> 00:03:33,598
 
-34
-00:03:27,154 --> 00:03:31,359
-♪ ♪
 
-35
-00:03:31,364 --> 00:03:33,864
-- Synced and corrected by Firefly -
-- www.addic7ed.com -
+22
+00:03:35,216 --> 00:03:36,739
+- What is all this?
 
-36
-00:03:35,229 --> 00:03:36,953
-What is all this?
-
-37
-00:03:36,958 --> 00:03:41,363
-This... this is a place
+23
+00:03:36,782 --> 00:03:41,091
+- This--this is a place
 where you can learn
 
-38
-00:03:41,368 --> 00:03:44,733
-away from the prying eyes of the world
+24
+00:03:41,134 --> 00:03:44,529
+away from the prying eyes
+of the world
 
-39
-00:03:44,738 --> 00:03:47,569
-lessons about who you really are
+25
+00:03:44,573 --> 00:03:47,315
+lessons about
+who you really are
 
-40
-00:03:47,574 --> 00:03:49,371
+26
+00:03:47,358 --> 00:03:49,317
 and why you were sent here.
 
-41
-00:03:49,376 --> 00:03:51,173
-Sent here from where?
+27
+00:03:49,360 --> 00:03:51,101
+- Sent here from where?
 
-42
-00:03:51,178 --> 00:03:54,683
-You were born on the planet Krypton.
+28
+00:03:51,144 --> 00:03:55,497
+- You were born
+on the planet Krypton.
 
-43
-00:03:55,516 --> 00:03:59,148
+29
+00:03:55,540 --> 00:03:59,065
 Your true name is Kal,
 
-44
-00:03:59,153 --> 00:04:03,018
-the last son from the house of El.
+30
+00:03:59,109 --> 00:04:02,895
+the last son
+from the house of El.
 
-45
-00:04:03,023 --> 00:04:04,753
-♪ ♪
+31
+00:04:04,593 --> 00:04:06,638
+- Why am I so different?
 
-46
-00:04:04,758 --> 00:04:06,822
-Why am I so different?
+32
+00:04:06,682 --> 00:04:08,597
+- The Earth's sun.
 
-47
-00:04:06,827 --> 00:04:08,791
-The Earth's sun.
+33
+00:04:08,640 --> 00:04:11,382
+Your cells
+absorb its radiation
 
-48
-00:04:08,796 --> 00:04:11,827
-Your cells absorb its radiation
-
-49
-00:04:11,832 --> 00:04:13,962
+34
+00:04:11,426 --> 00:04:13,819
 in ways humans cannot
 
-50
-00:04:13,967 --> 00:04:17,833
-creating nearly endless energy.
+35
+00:04:13,863 --> 00:04:17,649
+creating
+nearly endless energy.
 
-51
-00:04:17,838 --> 00:04:20,869
+36
+00:04:17,693 --> 00:04:20,565
 Your skin, bones, muscles
 
-52
-00:04:20,874 --> 00:04:24,340
-all capable of unimaginable power.
+37
+00:04:20,609 --> 00:04:24,308
+all capable
+of unimaginable power.
 
-53
-00:04:24,345 --> 00:04:27,443
+38
+00:04:24,352 --> 00:04:27,398
 Over time, I will teach you
 
-54
-00:04:27,448 --> 00:04:31,080
+39
+00:04:27,442 --> 00:04:30,967
 how to use that power,
 
-55
-00:04:31,085 --> 00:04:33,282
+40
+00:04:31,010 --> 00:04:33,230
 that speed,
 
-56
-00:04:33,287 --> 00:04:35,884
+41
+00:04:33,274 --> 00:04:35,711
 that strength.
 
-57
-00:04:35,889 --> 00:04:38,320
+42
+00:04:35,754 --> 00:04:38,279
 You will learn to do things
 
-58
-00:04:38,325 --> 00:04:42,191
+43
+00:04:38,322 --> 00:04:42,108
 you never thought possible
 on this Earth.
 
-59
-00:04:42,196 --> 00:04:46,401
-♪ ♪
+44
+00:04:42,152 --> 00:04:47,375
+♪
 
-60
-00:04:47,434 --> 00:04:50,632
-Whoo! [CHUCKLES]
+45
+00:04:47,418 --> 00:04:50,378
+- Whoo!
+[chuckles]
 
-61
-00:04:50,637 --> 00:04:53,035
-I'm ready, Father. I can feel it.
+46
+00:04:50,421 --> 00:04:52,641
+I'm ready, Father.
+I can feel it.
 
-62
-00:04:53,040 --> 00:04:55,304
-In body and spirit, yes,
+47
+00:04:52,684 --> 00:04:55,252
+- In body and spirit, yes,
 
-63
-00:04:55,309 --> 00:04:57,873
+48
+00:04:55,296 --> 00:04:57,689
 but there is something else
 you need to learn,
 
-64
-00:04:57,878 --> 00:05:00,213
-something which I cannot teach you here.
+49
+00:04:57,733 --> 00:05:00,170
+something which I cannot
+teach you here.
 
-65
-00:05:01,448 --> 00:05:05,118
+50
+00:05:01,432 --> 00:05:05,044
 - What is it?
 - Why you wish to help them.
 
-66
-00:05:08,088 --> 00:05:09,385
+51
+00:05:08,004 --> 00:05:09,353
 Go.
 
-67
-00:05:09,390 --> 00:05:11,220
+52
+00:05:09,397 --> 00:05:11,137
 Reconnect with the world.
 
-68
-00:05:11,225 --> 00:05:13,216
+53
+00:05:11,181 --> 00:05:12,835
 Open your heart to them.
 
-69
-00:05:13,221 --> 00:05:17,626
+54
+00:05:12,878 --> 00:05:17,361
 Find out why you wish
 to be their champion.
 
-70
-00:05:17,631 --> 00:05:20,562
-[TENDER ORCHESTRAL MUSIC]
+55
+00:05:42,299 --> 00:05:44,649
+- Did you find
+what you were looking for?
 
-71
-00:05:20,567 --> 00:05:24,772
-♪ ♪
+56
+00:05:46,564 --> 00:05:48,479
+- Yeah.
+Yeah, I think so.
 
-72
-00:05:26,240 --> 00:05:29,075
-[WHOOSHES]
-
-73
-00:05:34,214 --> 00:05:37,212
-[TENDER MUSIC]
-
-74
-00:05:37,217 --> 00:05:41,422
-♪ ♪
-
-75
-00:05:42,322 --> 00:05:44,824
-Did you find what you were looking for?
-
-76
-00:05:46,824 --> 00:05:49,124
-Yeah. Yeah, I think so.
-
-77
-00:05:49,129 --> 00:05:53,334
-♪ ♪
-
-78
-00:06:00,741 --> 00:06:03,643
+57
+00:06:00,535 --> 00:06:03,407
 I found out who I really am.
 
-79
-00:06:09,377 --> 00:06:13,582
-- I met my Kryptonian father.
+58
+00:06:09,239 --> 00:06:13,548
+I met my Kryptonian father.
 - Kryptonian?
 
-80
-00:06:13,587 --> 00:06:17,792
-Krypton is my home planet,
+59
+00:06:13,591 --> 00:06:18,074
+- Krypton is my home planet,
 Where I'm really from.
 
-81
-00:06:20,494 --> 00:06:24,326
+60
+00:06:20,468 --> 00:06:24,254
 I know why I can do
 the things I can do, Mom.
 
-82
-00:06:24,331 --> 00:06:27,763
-I know why I was sent to Earth...
+61
+00:06:24,297 --> 00:06:27,518
+I know why
+I was sent to Earth--
 
-83
-00:06:27,768 --> 00:06:31,003
+62
+00:06:27,562 --> 00:06:30,869
 to be its champion.
 
-84
-00:06:37,845 --> 00:06:40,409
-Is that why you came back home?
+63
+00:06:37,659 --> 00:06:40,357
+- Is that why
+you came back home?
 
-85
-00:06:40,414 --> 00:06:42,544
+64
+00:06:40,401 --> 00:06:42,490
 To be a hero?
 
-86
-00:06:42,549 --> 00:06:46,754
-Yeah, but not yet.
+65
+00:06:42,533 --> 00:06:46,624
+- Yeah, but not yet.
 
-87
-00:06:46,759 --> 00:06:49,560
-There's someone I need to see first.
+66
+00:06:46,668 --> 00:06:49,410
+There's someone
+I need to see first.
 
-88
-00:06:51,792 --> 00:06:55,094
-[INDISTINCT CHATTER]
+67
+00:06:59,507 --> 00:07:02,640
+- Kyle's supposed to be here
+any moment.
 
-89
-00:06:59,500 --> 00:07:02,865
-Kyle's supposed to be here any moment.
+68
+00:07:04,642 --> 00:07:07,340
+- Lana!
 
-90
-00:07:02,870 --> 00:07:04,833
-♪ ♪
+69
+00:07:07,384 --> 00:07:08,516
+- Hi.
 
-91
-00:07:04,838 --> 00:07:07,402
-Lana!
-
-92
-00:07:07,407 --> 00:07:08,770
-Hi.
-
-93
-00:07:08,775 --> 00:07:11,073
+70
+00:07:08,559 --> 00:07:10,779
 - Hey, I got some good news.
 - What?
 
-94
-00:07:11,078 --> 00:07:12,741
-There's an opening at the fire station.
+71
+00:07:10,822 --> 00:07:12,476
+- There's an opening
+at the fire station.
 
-95
-00:07:12,746 --> 00:07:14,009
-- [GASPS]
+72
+00:07:12,520 --> 00:07:13,825
+- [gasps]
 - Yeah.
 
-96
-00:07:14,014 --> 00:07:16,148
+73
+00:07:13,869 --> 00:07:16,045
 - Oh, that's amazing.
-- [LAUGHS]
+- [laughs]
 
-97
-00:07:18,652 --> 00:07:20,653
-Oh, I'm so happy.
+74
+00:07:18,439 --> 00:07:20,441
+- Oh, I'm so happy.
 
-98
-00:07:24,725 --> 00:07:26,154
+75
+00:07:24,532 --> 00:07:25,750
 Oh, that's awesome.
 
-99
-00:07:26,159 --> 00:07:27,756
+76
+00:07:25,794 --> 00:07:27,491
 - It's gonna be huge.
 - Yeah.
 
-100
-00:07:27,761 --> 00:07:29,324
-- [CHUCKLES]
+77
+00:07:27,535 --> 00:07:29,232
+- [chuckles]
 - Let's go in.
 
-101
-00:07:29,329 --> 00:07:30,363
-Okay.
+78
+00:07:29,275 --> 00:07:30,320
+- Okay.
 
-102
-00:07:34,902 --> 00:07:36,836
-I'm sorry, Clark.
+79
+00:07:34,716 --> 00:07:36,631
+- I'm sorry, Clark.
 
-103
-00:07:38,205 --> 00:07:40,869
+80
+00:07:38,110 --> 00:07:40,635
 But you were gone a long time.
 
-104
-00:07:40,874 --> 00:07:43,171
-People move on with their lives.
+81
+00:07:40,678 --> 00:07:42,637
+People move on
+with their lives.
 
-105
-00:07:43,176 --> 00:07:44,410
-Yeah.
+82
+00:07:42,680 --> 00:07:43,986
+- Yeah.
 
-106
-00:07:45,979 --> 00:07:49,211
-- Yeah, I guess so.
+83
+00:07:45,553 --> 00:07:49,078
+Yeah, I guess so.
 - Come with me.
 
-107
-00:07:49,216 --> 00:07:51,717
-There's something I want to show you.
+84
+00:07:49,121 --> 00:07:51,472
+There's something
+I want to show you.
 
-108
-00:07:55,756 --> 00:07:59,961
-♪ ♪
+85
+00:08:12,841 --> 00:08:14,364
+- What is this?
 
-109
-00:08:13,006 --> 00:08:14,436
-What is this?
+86
+00:08:14,407 --> 00:08:19,064
+- After you left,
+I had a dream of you flying,
 
-110
-00:08:15,002 --> 00:08:19,307
-After you left, I had
-a dream of you flying,
+87
+00:08:19,108 --> 00:08:21,676
+only it wasn't the boy
+that I knew.
 
-111
-00:08:19,312 --> 00:08:21,810
-only it wasn't the boy that I knew.
-
-112
-00:08:21,815 --> 00:08:25,618
+88
+00:08:21,719 --> 00:08:25,506
 It was you now, so I made this.
 
-113
-00:08:29,856 --> 00:08:32,287
-Mom...
+89
+00:08:29,640 --> 00:08:32,164
+- Mom...
 
-114
-00:08:32,292 --> 00:08:34,856
-leaving you after Dad died...
+90
+00:08:32,208 --> 00:08:34,515
+leaving you after dad died...
 
-115
-00:08:34,861 --> 00:08:36,658
-Oh, honey,
+91
+00:08:34,558 --> 00:08:36,255
+- Oh, honey,
 
-116
-00:08:36,663 --> 00:08:38,627
-it's what you needed to do then,
+92
+00:08:36,299 --> 00:08:38,214
+it's what you needed
+to do then,
 
-117
-00:08:38,632 --> 00:08:41,229
-and this is what you need to do now.
+93
+00:08:38,257 --> 00:08:41,086
+and this is what
+you need to do now.
 
-118
-00:08:41,234 --> 00:08:44,904
-It's time for you to go
-save the world, Clark.
+94
+00:08:41,130 --> 00:08:44,699
+It's time for you
+to go save the world, Clark.
 
-119
-00:08:52,012 --> 00:08:55,514
+95
+00:08:51,836 --> 00:08:55,492
 Still needs something
 on the chest, I think.
 
-120
-00:08:57,851 --> 00:08:59,444
-Uh, pardon me, ma'am? Ma'am?
+96
+00:08:57,625 --> 00:08:59,235
+- Uh, pardon me, ma'am?
+Ma'am?
 
-121
-00:08:59,449 --> 00:09:01,049
-Do you know where Milledge Avenue is?
+97
+00:08:59,278 --> 00:09:00,584
+Do you know
+where Milledge Avenue is?
 
-122
-00:09:01,054 --> 00:09:03,085
-Milledge Avenue. Milledge Avenue.
+98
+00:09:00,628 --> 00:09:02,891
+Milledge Avenue.
+Milledge Avenue.
 
-123
-00:09:03,090 --> 00:09:05,153
-Oh, excuse me, sir. Excuse me.
+99
+00:09:02,934 --> 00:09:04,719
+Oh, excuse me, sir.
+Excuse me.
 
-124
-00:09:05,158 --> 00:09:06,992
-Do you know where Milledge Avenue is?
+100
+00:09:04,762 --> 00:09:06,677
+Do you know
+where Milledge Avenue is?
 
-125
-00:09:10,297 --> 00:09:11,927
-[TIRES SQUEALING]
+101
+00:09:11,726 --> 00:09:14,076
+- The brakes are out!
+I can't stop!
 
-126
-00:09:11,932 --> 00:09:14,229
-The brakes are out! I can't stop!
+102
+00:09:14,119 --> 00:09:15,643
+- It's a red light.
+Swerve around!
 
-127
-00:09:14,234 --> 00:09:16,097
-It's a red light. Swerve around!
-
-128
-00:09:16,102 --> 00:09:18,100
+103
+00:09:15,686 --> 00:09:17,906
 - There are people!
 - Watch out!
 
-129
-00:09:18,105 --> 00:09:21,303
-[DRAMATIC MUSIC]
-
-130
-00:09:21,308 --> 00:09:25,513
-♪ ♪
-
-131
-00:09:31,952 --> 00:09:33,849
-[METAL AND GLASS CRUNCH]
-
-132
-00:09:33,854 --> 00:09:38,059
-♪ ♪
-
-133
-00:09:39,426 --> 00:09:40,922
+104
+00:09:39,362 --> 00:09:40,668
 - Whoa!
 - Did you see that?
 
-134
-00:09:40,927 --> 00:09:44,163
-[EXCITED CHATTER]
-
-135
-00:09:50,837 --> 00:09:52,668
+105
+00:09:50,852 --> 00:09:52,636
 - There you go, friend.
 - Thanks.
 
-136
-00:09:52,673 --> 00:09:54,069
+106
+00:09:52,680 --> 00:09:53,855
 Cool costume.
 
-137
-00:09:54,074 --> 00:09:56,638
-Thanks. My mom made it for me.
+107
+00:09:53,898 --> 00:09:56,597
+- Thanks.
+My mom made it for me.
 
-138
-00:09:56,643 --> 00:09:58,373
+108
+00:09:56,640 --> 00:09:58,250
 - Oh, my God.
 - Whoa!
 
-139
-00:09:58,378 --> 00:10:00,842
+109
+00:09:58,294 --> 00:10:00,818
 - Did you see that?
 - Yeah, right here. You'll see.
 
-140
-00:10:00,847 --> 00:10:03,912
-[EXCITED CHATTER]
-
-141
-00:10:03,917 --> 00:10:06,214
+110
+00:10:03,691 --> 00:10:05,649
 - Did you see that?
 - See what?
 
-142
-00:10:06,219 --> 00:10:09,217
-Some guy just saved a kid
+111
+00:10:05,693 --> 00:10:08,783
+- Some guy just saved a kid
 from getting killed by a car,
 
-143
-00:10:09,222 --> 00:10:10,850
-and then he flew up into the sky.
+112
+00:10:08,826 --> 00:10:10,654
+and then he flew up
+into the sky.
 
-144
-00:10:10,855 --> 00:10:12,384
+113
+00:10:10,698 --> 00:10:11,916
 - He flew?
 - Flew, you know?
 
-145
-00:10:12,389 --> 00:10:14,089
-Like a bird or a plane or whatever.
+114
+00:10:11,960 --> 00:10:13,657
+Like a bird
+or a plane or whatever.
 
-146
-00:10:14,094 --> 00:10:15,319
+115
+00:10:13,701 --> 00:10:14,745
 It was crazy.
 
-147
-00:10:15,324 --> 00:10:17,192
-Did you see what he looked like?
+116
+00:10:14,789 --> 00:10:16,747
+- Did you see
+what he looked like?
 
-148
-00:10:17,197 --> 00:10:19,994
-He looked like a guy
+117
+00:10:16,791 --> 00:10:19,532
+- He looked like a guy
 in a cape that was flying.
 
-149
-00:10:19,999 --> 00:10:22,030
+118
+00:10:19,576 --> 00:10:21,796
 Someone at the "Planet"
 has gotta hear about this.
 
-150
-00:10:22,035 --> 00:10:26,240
-♪ ♪
+119
+00:10:21,839 --> 00:10:29,151
+♪
 
-151
-00:10:37,300 --> 00:10:39,964
-This isn't a résumé.
+120
+00:10:36,724 --> 00:10:39,248
+- This isn't a résumé.
 It's a cry for help.
 
-152
-00:10:39,969 --> 00:10:41,769
-Oh, well... oh, oh. Sorry.
+121
+00:10:39,291 --> 00:10:41,206
+- Oh, well--oh, oh.
+Sorry.
 
-153
-00:10:41,774 --> 00:10:44,269
-See, actually I did some
-pretty top-notch reporting
+122
+00:10:41,250 --> 00:10:43,644
+See, actually I did
+some pretty top-notch reporting
 
-154
-00:10:44,274 --> 00:10:46,671
-- for my school paper.
+123
+00:10:43,687 --> 00:10:45,994
+for my school paper.
 - Look, this is Metropolis.
 
-155
-00:10:46,676 --> 00:10:49,107
-I need cub reporters, not lost puppies.
+124
+00:10:46,037 --> 00:10:48,431
+I need cub reporters,
+not lost puppies.
 
-156
-00:10:49,112 --> 00:10:51,542
+125
+00:10:48,474 --> 00:10:50,694
 You come find me when you got
 some real world experience.
 
-157
-00:10:51,547 --> 00:10:53,212
-Oh, no, no, Mr. White,
+126
+00:10:50,738 --> 00:10:52,565
+- Oh, no, no, Mr. White,
 Mr. White, please, look.
 
-158
-00:10:53,216 --> 00:10:54,292
+127
+00:10:52,609 --> 00:10:53,915
 I'm a really quick learner,
 
-159
-00:10:54,296 --> 00:10:55,867
+128
+00:10:53,958 --> 00:10:55,177
 and I'll do whatever you ask.
 
-160
-00:10:55,872 --> 00:10:57,940
-I just... I just need a chance.
+129
+00:10:55,220 --> 00:10:57,309
+I just--I just need a chance.
 
-161
-00:10:59,489 --> 00:11:01,186
-Okay, there's no health insurance
+130
+00:10:58,789 --> 00:11:00,661
+- Okay,
+there's no health insurance
 
-162
-00:11:01,191 --> 00:11:03,054
-- or overtime.
+131
+00:11:00,704 --> 00:11:02,488
+or overtime.
 - Not a problem.
 
-163
-00:11:03,059 --> 00:11:05,390
-And you have to pick up
+132
+00:11:02,532 --> 00:11:04,882
+- And you have to pick up
 my dry cleaning every Thursday.
 
-164
-00:11:05,395 --> 00:11:06,962
-Yeah, absolutely. Yes, sir.
+133
+00:11:04,926 --> 00:11:06,405
+- Yeah, absolutely.
+Yes, sir.
 
-165
-00:11:07,830 --> 00:11:11,062
-Okay, kid, you're hired.
+134
+00:11:07,232 --> 00:11:10,496
+- Okay, kid, you're hired.
 Now, try to keep up.
 
-166
-00:11:11,067 --> 00:11:13,998
-Oh, okay. Do you want...
-should I... okay.
+135
+00:11:10,540 --> 00:11:13,412
+- Oh, okay.
+Do you want--should I--okay.
 
-167
-00:11:14,003 --> 00:11:15,037
-Yeah, it's...
+136
+00:11:13,456 --> 00:11:14,500
+Yeah, it's--
 
-168
-00:11:16,538 --> 00:11:18,770
-Everyone in here, we're
+137
+00:11:15,980 --> 00:11:17,982
+- Everyone in here, we're
 the most dependable friends
 
-169
-00:11:18,775 --> 00:11:20,238
+138
+00:11:18,026 --> 00:11:19,810
 the people of Metropolis have.
 
-170
-00:11:20,243 --> 00:11:21,906
-- You remember that.
+139
+00:11:19,854 --> 00:11:21,290
+You remember that.
 - Yes, sir.
 
-171
-00:11:21,911 --> 00:11:24,909
-Stick with Lane.
+140
+00:11:21,333 --> 00:11:24,423
+- Stick with Lane.
 She'll show you the ropes.
 
-172
-00:11:24,914 --> 00:11:26,478
-Lane, sir?
+141
+00:11:24,467 --> 00:11:25,860
+- Lane, sir?
 
-173
-00:11:26,483 --> 00:11:28,546
-Who told you to wear a tie?
+142
+00:11:25,903 --> 00:11:27,949
+- Who told you to wear a tie?
 
-174
-00:11:28,551 --> 00:11:31,549
-[TENDER MUSIC]
+143
+00:11:33,911 --> 00:11:36,697
+Let me guess, Lombard?
+Ignore him.
 
-175
-00:11:31,554 --> 00:11:34,285
-♪ ♪
-
-176
-00:11:34,290 --> 00:11:37,322
-Let me guess, Lombard? Ignore him.
-
-177
-00:11:37,327 --> 00:11:40,124
+144
+00:11:36,740 --> 00:11:39,438
 Though he can get box seats
 to the Meteors.
 
-178
-00:11:40,129 --> 00:11:42,427
-- You like baseball?
+145
+00:11:39,482 --> 00:11:41,789
+You like baseball?
 - Uh, of course.
 
-179
-00:11:42,432 --> 00:11:45,029
+146
+00:11:41,832 --> 00:11:44,313
 I mean, who doesn't like
 America's pastime, Ms. Lane?
 
-180
-00:11:45,034 --> 00:11:46,130
-It's Lois.
+147
+00:11:44,356 --> 00:11:45,444
+- It's Lois.
 
-181
-00:11:46,135 --> 00:11:47,565
-What'd you say your name was again?
+148
+00:11:45,488 --> 00:11:46,837
+What'd you say
+your name was again?
 
-182
-00:11:47,570 --> 00:11:49,701
-Kent. Clark. Clark Kent.
+149
+00:11:46,881 --> 00:11:48,883
+- Kent. Clark. Clark Kent.
 
-183
-00:11:49,706 --> 00:11:52,904
+150
+00:11:48,926 --> 00:11:52,147
 Oh, oh, sorry.
 
-184
-00:11:52,909 --> 00:11:55,573
-Hm, never met a Clark before.
+151
+00:11:52,190 --> 00:11:54,976
+- Hm, never met a Clark before.
 
-185
-00:11:55,578 --> 00:11:58,743
-Oh, I've never met a Lois before.
+152
+00:11:55,019 --> 00:11:57,935
+- Oh, I've never met
+a Lois before.
 
-186
-00:11:58,748 --> 00:12:00,745
+153
+00:11:57,979 --> 00:12:00,068
 Actually, there was
 my first-grade teacher,
 
-187
-00:12:00,750 --> 00:12:02,248
-Lois Hannigan, so I guess technically...
+154
+00:12:00,111 --> 00:12:01,591
+Lois Hannigan,
+so I guess technically--
 
-188
-00:12:02,252 --> 00:12:04,020
-oh, technically you'd be the second.
+155
+00:12:01,634 --> 00:12:03,332
+oh, technically
+you'd be the second.
 
-189
-00:12:05,154 --> 00:12:07,220
+156
+00:12:04,637 --> 00:12:06,683
 You know, Miss Hannigan was
 actually my favorite teacher.
 
-190
-00:12:07,224 --> 00:12:09,488
-She... she taught me
+157
+00:12:06,727 --> 00:12:08,859
+She--she taught me
 about fractions and cursive.
 
-191
-00:12:09,492 --> 00:12:12,557
-Mystery man strikes again.
+158
+00:12:08,903 --> 00:12:11,949
+- Mystery man strikes again.
 Third time this month.
 
-192
-00:12:12,562 --> 00:12:13,758
-Where was he?
+159
+00:12:11,993 --> 00:12:13,081
+- Where was he?
 
-193
-00:12:13,763 --> 00:12:15,460
-Saved a boat sinking off Hob's River.
+160
+00:12:13,124 --> 00:12:14,952
+- Saved a boat
+sinking off Hob's River.
 
-194
-00:12:15,465 --> 00:12:16,761
+161
+00:12:14,996 --> 00:12:16,214
 Jimmy even got a photo.
 
-195
-00:12:16,766 --> 00:12:19,601
+162
+00:12:16,258 --> 00:12:19,043
 This is my Pulitzer, Lane.
 I can feel it.
 
-196
-00:12:21,037 --> 00:12:22,600
-Seems like a pretty big story.
+163
+00:12:20,349 --> 00:12:22,003
+- Seems like
+a pretty big story.
 
-197
-00:12:22,605 --> 00:12:24,335
-Yeah, which every reporter here
+164
+00:12:22,046 --> 00:12:23,918
+- Yeah,
+which every reporter here
 
-198
-00:12:24,340 --> 00:12:27,505
-is tripping over themselves to cover.
+165
+00:12:23,961 --> 00:12:26,877
+is tripping over themselves
+to cover.
 
-199
-00:12:27,510 --> 00:12:29,040
+166
+00:12:26,921 --> 00:12:28,313
 Boys and their heroes.
 
-200
-00:12:29,045 --> 00:12:31,309
-[CHUCKLES] Aren't heroes a good thing?
+167
+00:12:28,357 --> 00:12:30,794
+- [chuckles]
+Aren't heroes a good thing?
 
-201
-00:12:31,314 --> 00:12:33,411
-Yeah, of course, and I know
+168
+00:12:30,838 --> 00:12:32,665
+- Yeah, of course, and I know
 that we need this guy.
 
-202
-00:12:33,416 --> 00:12:34,813
-It's just that ever since he showed up,
+169
+00:12:32,709 --> 00:12:34,145
+It's just that
+ever since he showed up,
 
-203
-00:12:34,817 --> 00:12:36,914
-he's been dominating the conversation.
+170
+00:12:34,189 --> 00:12:36,278
+he's been dominating
+the conversation.
 
-204
-00:12:36,919 --> 00:12:38,349
+171
+00:12:36,321 --> 00:12:37,932
 Metropolis has so many problems
 
-205
-00:12:38,354 --> 00:12:40,618
-that aren't just rescue operations.
+172
+00:12:37,975 --> 00:12:40,021
+that aren't just
+rescue operations.
 
-206
-00:12:40,623 --> 00:12:43,725
-They're systemic. Here, look at this.
+173
+00:12:40,064 --> 00:12:43,198
+They're systemic.
+Here, look at this.
 
-207
-00:12:47,563 --> 00:12:49,727
+174
+00:12:46,854 --> 00:12:49,030
 - These lightning bolts.
 - Nazi symbols.
 
-208
-00:12:49,732 --> 00:12:52,063
+175
+00:12:49,073 --> 00:12:51,467
 They've been popping up
 all over lower Metropolis
 
-209
-00:12:52,068 --> 00:12:54,165
-along with a rash of arson attacks
+176
+00:12:51,510 --> 00:12:53,599
+along with a rash
+of arson attacks
 
-210
-00:12:54,170 --> 00:12:55,967
-against minority-owned businesses.
+177
+00:12:53,643 --> 00:12:55,340
+against
+minority-owned businesses.
 
-211
-00:12:55,972 --> 00:12:58,669
-Do you have any idea who's responsible?
+178
+00:12:55,384 --> 00:12:57,821
+- Do you have any idea
+who's responsible?
 
-212
-00:12:58,674 --> 00:13:00,524
-By all accounts, some psycho
+179
+00:12:57,865 --> 00:12:59,997
+- By all accounts, some psycho
 
-213
-00:13:00,529 --> 00:13:02,507
-in a metal mask and a trench coat.
+180
+00:13:00,041 --> 00:13:01,869
+in a metal mask
+and a trench coat.
 
-214
-00:13:02,512 --> 00:13:04,308
-[SOFT DRAMATIC MUSIC]
-
-215
-00:13:04,313 --> 00:13:06,913
+181
+00:13:03,696 --> 00:13:06,308
 - I didn't know about this.
 - That's my point exactly.
 
-216
-00:13:06,918 --> 00:13:08,743
-I have been covering this for months,
+182
+00:13:06,351 --> 00:13:08,049
+I have been covering this
+for months,
 
-217
-00:13:08,748 --> 00:13:10,645
-only my reporting keeps
-getting drowned out
+183
+00:13:08,092 --> 00:13:10,051
+only my reporting
+keeps getting drowned out
 
-218
-00:13:10,650 --> 00:13:12,818
-by everyone's favorite miracle man.
+184
+00:13:10,094 --> 00:13:12,053
+by everyone's favorite
+miracle man.
 
-219
-00:13:14,657 --> 00:13:16,254
-How can I help?
+185
+00:13:14,098 --> 00:13:15,578
+- How can I help?
 
-220
-00:13:16,259 --> 00:13:19,257
-[DRAMATIC MUSIC]
-
-221
-00:13:19,262 --> 00:13:23,467
-♪ ♪
-
-222
-00:13:28,004 --> 00:13:30,501
-Psycho in a metal mask
+186
+00:13:27,285 --> 00:13:29,853
+- Psycho in a metal mask
 and a trench coat?
 
-223
-00:13:30,506 --> 00:13:33,175
-That sounds...
+187
+00:13:29,897 --> 00:13:32,508
+That sounds--
 sir, I'm listening to you.
 
-224
-00:13:35,144 --> 00:13:37,909
-[INDISTINCT RADIO CHATTER]
+188
+00:13:41,822 --> 00:13:43,258
+- Whoo!
 
-225
-00:13:37,914 --> 00:13:41,919
-♪ ♪
+189
+00:13:43,301 --> 00:13:43,998
+Yes!
 
-226
-00:13:42,418 --> 00:13:44,817
-Whoo! Yes!
+190
+00:13:49,046 --> 00:13:51,092
+- Clark, Clark,
+I gotta show you something.
 
-227
-00:13:44,821 --> 00:13:48,056
-[APPLAUSE]
-
-228
-00:13:49,826 --> 00:13:51,689
-Clark, Clark, I gotta
-show you something.
-
-229
-00:13:51,694 --> 00:13:53,425
-Well, I gotta get these
+191
+00:13:51,135 --> 00:13:52,789
+- Well, I gotta get these
 to Perry before he goes home.
 
-230
-00:13:53,429 --> 00:13:57,428
+192
+00:13:52,833 --> 00:13:56,793
 - Guess who was just arrested?
 - Oh.
 
-231
-00:13:57,433 --> 00:14:01,638
-♪ ♪
-
-232
-00:14:11,014 --> 00:14:13,845
+193
+00:14:10,546 --> 00:14:13,288
 - You don't need that.
-- Wait... oh, no, I gotta...
+- Wait--oh, no, I gotta--
 
-233
-00:14:13,850 --> 00:14:16,581
+194
+00:14:13,331 --> 00:14:15,943
 okay.
 
-234
-00:14:16,586 --> 00:14:18,249
-One of these dirt bags is our guy.
+195
+00:14:15,986 --> 00:14:17,814
+- One of these dirt bags
+is our guy.
 
-235
-00:14:18,254 --> 00:14:19,755
+196
+00:14:17,858 --> 00:14:19,207
 I can feel it.
 
-236
-00:14:21,691 --> 00:14:24,259
-You're really good at this.
+197
+00:14:21,122 --> 00:14:23,602
+- You're really good at this.
 
-237
-00:14:26,362 --> 00:14:27,762
-Thanks.
+198
+00:14:25,735 --> 00:14:26,954
+- Thanks.
 
-238
-00:14:32,635 --> 00:14:36,204
-I, um... I should get going.
+199
+00:14:32,046 --> 00:14:35,788
+- I, um...I should get going.
 
-239
-00:14:38,007 --> 00:14:39,408
-What's the hurry.
+200
+00:14:37,660 --> 00:14:38,879
+- What's the hurry.
 
-240
-00:14:40,643 --> 00:14:42,307
-- You got a big date?
-- [CHUCKLES]
+201
+00:14:40,054 --> 00:14:41,969
+You got a big date?
+- [chuckles]
 
-241
-00:14:42,312 --> 00:14:43,708
+202
+00:14:42,012 --> 00:14:43,231
 No, no, nothing like that.
 
-242
-00:14:43,713 --> 00:14:47,679
-Just, you know, some "Seinfeld" reruns.
+203
+00:14:43,274 --> 00:14:47,191
+Just, you know,
+some "Seinfeld" reruns.
 
-243
-00:14:47,684 --> 00:14:50,686
-Heat up some frozen chicken nuggets.
+204
+00:14:47,235 --> 00:14:50,238
+Heat up some
+frozen chicken nuggets.
 
-244
-00:14:52,121 --> 00:14:54,819
-You've been a really big help, Clark.
+205
+00:14:51,413 --> 00:14:53,981
+- You've been
+a really big help, Clark.
 
-245
-00:14:54,824 --> 00:14:57,024
-If you want, I can
-probably talk to Perry
+206
+00:14:54,024 --> 00:14:56,331
+If you want,
+I can probably talk to Perry
 
-246
-00:14:57,029 --> 00:14:58,959
-about you getting a beat of your own,
+207
+00:14:56,374 --> 00:14:58,246
+about you getting
+a beat of your own,
 
-247
-00:14:58,964 --> 00:15:00,794
+208
+00:14:58,289 --> 00:15:00,030
 local politics or something.
 
-248
-00:15:00,799 --> 00:15:04,732
-Oh. Um... no.
+209
+00:15:00,074 --> 00:15:04,078
+- Oh. Um...no.
 
-249
-00:15:04,737 --> 00:15:08,206
-That's... it's okay. I'd rather be here.
+210
+00:15:04,121 --> 00:15:07,733
+That's--it's okay.
+I'd rather be here.
 
-250
-00:15:09,071 --> 00:15:11,669
-For the story or the company?
+211
+00:15:08,473 --> 00:15:11,172
+- For the story or the company?
 
-251
-00:15:11,674 --> 00:15:13,705
-Uh... [LAUGHS]
+212
+00:15:11,215 --> 00:15:13,217
+- Uh...
+[laughs]
 
-252
-00:15:13,710 --> 00:15:16,912
-I feel like that's a trick question.
+213
+00:15:13,261 --> 00:15:16,525
+I feel like
+that's a trick question.
 
-253
-00:15:19,382 --> 00:15:22,880
+214
+00:15:18,744 --> 00:15:22,052
 - Good night, Clark.
 - Good night, Lois.
 
-254
-00:15:22,885 --> 00:15:25,883
-[SOFT DRAMATIC MUSIC]
-
-255
-00:15:25,888 --> 00:15:30,093
-♪ ♪
-
-256
-00:15:42,605 --> 00:15:44,001
+215
+00:15:42,116 --> 00:15:43,334
 You seen Lois?
 
-257
-00:15:44,006 --> 00:15:46,037
-Her contact at the library called back
+216
+00:15:43,378 --> 00:15:45,380
+- Her contact at the library
+called back
 
-258
-00:15:46,042 --> 00:15:48,343
+217
+00:15:45,423 --> 00:15:47,817
 about some guy who works
 at a hardware store.
 
-259
-00:15:54,684 --> 00:15:57,485
+218
+00:15:54,084 --> 00:15:56,869
 - Henry Miller?
 - Hmm.
 
-260
-00:15:58,921 --> 00:16:01,485
-[INDISTINCT RADIO CHATTER]
-
-261
-00:16:01,490 --> 00:16:04,989
-You can't do this, Henry.
+219
+00:16:00,873 --> 00:16:04,181
+- You can't do this, Henry.
 They've done nothing wrong.
 
-262
-00:16:04,994 --> 00:16:07,091
-They don't belong here.
+220
+00:16:04,225 --> 00:16:06,314
+- They don't belong here.
 
-263
-00:16:07,096 --> 00:16:10,094
-- [EXPLOSION]
-- [PEOPLE SCREAMING]
+221
+00:16:11,580 --> 00:16:13,277
+- This isn't
+track and field, Kent!
 
-264
-00:16:10,099 --> 00:16:12,099
-[DRAMATIC MUSIC]
+222
+00:16:15,105 --> 00:16:17,847
+- These people
+have stolen my neighborhood,
 
-265
-00:16:12,104 --> 00:16:14,065
-This isn't track and field, Kent!
-
-266
-00:16:14,070 --> 00:16:15,900
-♪ ♪
-
-267
-00:16:15,905 --> 00:16:18,502
-These people have
-stolen my neighborhood,
-
-268
-00:16:18,507 --> 00:16:21,639
+223
+00:16:17,890 --> 00:16:21,024
 and you're spinning it
 like I'm the bad guy?
 
-269
-00:16:21,644 --> 00:16:23,474
+224
+00:16:21,068 --> 00:16:22,808
 I'm the damn hero!
 
-270
-00:16:23,479 --> 00:16:27,684
-♪ ♪
+225
+00:16:55,493 --> 00:16:57,669
+- Even you can't save
+all of them.
 
-271
-00:16:33,789 --> 00:16:36,787
-[SOFT DRAMATIC MUSIC]
+226
+00:17:18,255 --> 00:17:20,257
+- Who's the hero now?
 
-272
-00:16:36,792 --> 00:16:40,997
-♪ ♪
-
-273
-00:16:51,474 --> 00:16:54,472
-[DRAMATIC MUSIC]
-
-274
-00:16:54,477 --> 00:16:56,207
-♪ ♪
-
-275
-00:16:56,212 --> 00:16:58,376
-Even you can't save all of them.
-
-276
-00:16:58,381 --> 00:17:02,586
-♪ ♪
-
-277
-00:17:15,298 --> 00:17:17,199
-[GROANS]
-
-278
-00:17:19,035 --> 00:17:21,065
-Who's the hero now?
-
-279
-00:17:21,070 --> 00:17:24,068
-[APPLAUSE]
-
-280
-00:17:24,073 --> 00:17:27,071
-[SOFT TRIUMPHANT MUSIC]
-
-281
-00:17:27,076 --> 00:17:30,341
-♪ ♪
-
-282
-00:17:30,346 --> 00:17:32,443
+227
+00:17:29,658 --> 00:17:31,747
 How'd you know about this?
 
-283
-00:17:32,448 --> 00:17:34,545
-[SIRENS WAILING]
+228
+00:17:33,923 --> 00:17:36,273
+- I've been reading
+your reports in the "Planet,"
 
-284
-00:17:34,550 --> 00:17:37,081
-I've been reading
-your reports in the "Planet",
-
-285
-00:17:37,086 --> 00:17:39,483
+229
+00:17:36,317 --> 00:17:38,797
 but also my hearing.
 
-286
-00:17:39,488 --> 00:17:40,585
-Your hearing?
+230
+00:17:38,841 --> 00:17:40,277
+- Your hearing?
 
-287
-00:17:40,590 --> 00:17:41,719
-Oh. [CHUCKLES]
+231
+00:17:40,321 --> 00:17:41,191
+- Oh.
+[chuckles]
 
-288
-00:17:41,724 --> 00:17:44,422
+232
+00:17:41,235 --> 00:17:44,107
 My super-hearing.
 
-289
-00:17:44,427 --> 00:17:47,191
-We haven't formally met. I'm Lois Lane.
+233
+00:17:44,151 --> 00:17:46,675
+- We haven't formally met.
+I'm Lois Lane.
 
-290
-00:17:47,196 --> 00:17:48,860
-It's nice to meet you, Ms. Lane.
+234
+00:17:46,718 --> 00:17:48,242
+- It's nice to meet you,
+Ms. Lane.
 
-291
-00:17:48,865 --> 00:17:51,195
-And you are who exactly?
+235
+00:17:48,285 --> 00:17:50,418
+- And you are who exactly?
 
-292
-00:17:51,200 --> 00:17:54,866
-Mister Metropolis? Red and Blue Man?
+236
+00:17:50,461 --> 00:17:54,248
+Mister Metropolis?
+Red and Blue Man?
 
-293
-00:17:54,871 --> 00:17:56,534
-[CHUCKLES]
+237
+00:17:55,901 --> 00:17:58,034
+I'm sure
+you'll come up with something.
 
-294
-00:17:56,539 --> 00:17:58,669
-I'm sure you'll come up with something.
-
-295
-00:17:58,674 --> 00:18:01,639
-♪ ♪
-
-296
-00:18:01,644 --> 00:18:04,946
-[CROWD GASPING]
-
-297
-00:18:07,049 --> 00:18:11,254
+238
+00:18:06,260 --> 00:18:10,568
 - Who was that?
 - Superman.
 
-298
-00:18:14,500 --> 00:18:17,097
-[BRIGHT MUSIC]
+239
+00:18:17,401 --> 00:18:19,142
+- Welcome
+to the "Daily Planet Today."
 
-299
-00:18:18,102 --> 00:18:19,932
-Welcome to the "Daily Planet Today".
+240
+00:18:19,186 --> 00:18:21,362
+I'm Lois Lane,
+and with me for his first
 
-300
-00:18:19,937 --> 00:18:22,301
-I'm Lois Lane, and with me for his first
+241
+00:18:21,405 --> 00:18:24,408
+on-camera interview
+is Superman.
 
-301
-00:18:22,306 --> 00:18:25,138
-on-camera interview is Superman.
+242
+00:18:24,452 --> 00:18:26,149
+I appreciate you
+agreeing to be here.
 
-302
-00:18:25,143 --> 00:18:27,239
-I appreciate you agreeing to be here.
+243
+00:18:26,193 --> 00:18:27,759
+- Thanks for having me.
 
-303
-00:18:27,244 --> 00:18:28,408
-Thanks for having me.
-
-304
-00:18:28,413 --> 00:18:30,807
-Now, as you know, the world
+244
+00:18:27,803 --> 00:18:29,761
+- Now, as you know, the world
 has been captivated by you
 
-305
-00:18:30,812 --> 00:18:32,712
+245
+00:18:29,805 --> 00:18:31,763
 ever since your first
 appearance in Metropolis
 
-306
-00:18:32,717 --> 00:18:34,948
-over a year ago, and
-one of the big questions
+246
+00:18:31,807 --> 00:18:34,288
+over a year ago,
+and one of the big questions
 
-307
-00:18:34,953 --> 00:18:36,983
+247
+00:18:34,331 --> 00:18:36,203
 that always gets asked
 regarding Superman
 
-308
-00:18:36,988 --> 00:18:39,986
+248
+00:18:36,246 --> 00:18:39,206
 is how long you were
 on Earth before that.
 
-309
-00:18:39,991 --> 00:18:41,854
-Well, essentially my whole life.
+249
+00:18:39,249 --> 00:18:41,077
+- Well,
+essentially my whole life.
 
-310
-00:18:41,859 --> 00:18:44,323
-- After my planet was destroyed...
+250
+00:18:41,121 --> 00:18:43,645
+After my planet was destroyed--
 - Krypton.
 
-311
-00:18:44,328 --> 00:18:47,026
-Right, when Krypton was destroyed,
+251
+00:18:43,688 --> 00:18:46,256
+- Right,
+when Krypton was destroyed,
 
-312
-00:18:47,031 --> 00:18:48,928
-the pod that allowed me to escape
+252
+00:18:46,300 --> 00:18:48,171
+the pod that allowed me
+to escape
 
-313
-00:18:48,933 --> 00:18:50,429
+253
+00:18:48,215 --> 00:18:49,520
 crashed here on Earth.
 
-314
-00:18:50,434 --> 00:18:52,598
-Where exactly on Earth?
+254
+00:18:49,564 --> 00:18:51,740
+- Where exactly on Earth?
 
-315
-00:18:52,603 --> 00:18:54,667
-That's not something
+255
+00:18:51,783 --> 00:18:53,829
+- That's not something
 I'm ready to reveal yet.
 
-316
-00:18:54,672 --> 00:18:56,902
-The assumption is that
+256
+00:18:53,872 --> 00:18:56,136
+- The assumption is that
 it was somewhere in the U.S.
 
-317
-00:18:56,907 --> 00:18:59,405
-Well, don't assume that just
+257
+00:18:56,179 --> 00:18:59,139
+- Well, don't assume that just
 because I'm speaking English.
 
-318
-00:18:59,410 --> 00:19:01,507
-[SPEAKING CANTONESE] _
+258
+00:18:59,163 --> 00:19:01,163
 
-319
-00:19:01,512 --> 00:19:04,577
-You speak multiple languages.
+
+259
+00:19:01,663 --> 00:19:03,969
+- You speak multiple languages.
 Is that also a superpower?
 
-320
-00:19:04,582 --> 00:19:05,812
-[LAUGHS] No.
+260
+00:19:04,013 --> 00:19:05,232
+- [laughs]
+No.
 
-321
-00:19:05,817 --> 00:19:08,381
+261
+00:19:05,275 --> 00:19:07,451
 Just curiosity about the world.
 
-322
-00:19:08,386 --> 00:19:10,083
+262
+00:19:07,495 --> 00:19:09,323
 I wanted to know more
 about different people,
 
-323
-00:19:10,087 --> 00:19:13,920
+263
+00:19:09,366 --> 00:19:13,240
 different regions,
 so I studied their languages.
 
-324
-00:19:13,925 --> 00:19:15,392
-How many languages?
+264
+00:19:13,283 --> 00:19:14,632
+- How many languages?
 
-325
-00:19:16,794 --> 00:19:18,194
-All of them.
+265
+00:19:16,025 --> 00:19:17,244
+- All of them.
 
-326
-00:19:19,900 --> 00:19:22,097
-What would you say
+266
+00:19:19,289 --> 00:19:21,248
+- What would you say
 to the people of the world
 
-327
-00:19:22,102 --> 00:19:24,370
+267
+00:19:21,291 --> 00:19:23,641
 when asked what you stand for?
 
-328
-00:19:26,070 --> 00:19:29,302
-I'd like to think
+268
+00:19:25,339 --> 00:19:28,342
+- I'd like to think
 everything good and decent.
 
-329
-00:19:29,307 --> 00:19:31,504
+269
+00:19:28,385 --> 00:19:30,605
 Truth, justice.
 
-330
-00:19:31,509 --> 00:19:33,406
-The American way?
+270
+00:19:30,648 --> 00:19:32,607
+- The American way?
 
-331
-00:19:33,411 --> 00:19:35,771
-[CHUCKLES] I think someone's just trying
+271
+00:19:32,650 --> 00:19:34,826
+- [chuckles]
+I think someone's just trying
 
-332
-00:19:35,776 --> 00:19:37,476
-to get me to admit I was raised here.
+272
+00:19:34,870 --> 00:19:36,567
+to get me to admit
+I was raised here.
 
-333
-00:19:37,481 --> 00:19:40,279
-[MICROPHONE FEEDBACK SQUEAKS]
+273
+00:19:39,353 --> 00:19:41,093
+- Cut!
 
-334
-00:19:40,284 --> 00:19:41,881
-Cut!
-
-335
-00:19:41,886 --> 00:19:43,983
+274
+00:19:41,137 --> 00:19:43,226
 Can someone please
-take a look at Lois's mic?
+take a look at Lois' mic?
 
-336
-00:19:43,988 --> 00:19:46,009
-All right, everybody, let's
-stand by for sound check.
+275
+00:19:43,270 --> 00:19:44,880
+- All right, everybody,
+let's stand by
 
-337
-00:19:46,013 --> 00:19:47,353
+276
+00:19:44,923 --> 00:19:46,403
+for sound check.
 Stand by please.
 
-338
-00:19:47,358 --> 00:19:48,922
-I feel like we're not getting anywhere.
+277
+00:19:46,447 --> 00:19:48,013
+- I feel like
+we're not getting anywhere.
 
-339
-00:19:48,926 --> 00:19:50,189
-I can't believe it.
+278
+00:19:48,057 --> 00:19:49,319
+- I can't believe it.
 
-340
-00:19:50,194 --> 00:19:52,025
-No, I know, he's, like,
+279
+00:19:49,363 --> 00:19:51,234
+- No, I know, he's, like,
 giving me the runaround.
 
-341
-00:19:52,029 --> 00:19:56,334
-No, not that. I think
-Superman is into you.
+280
+00:19:51,278 --> 00:19:55,978
+- No, not that.
+I think Superman is into you.
 
-342
-00:19:57,835 --> 00:19:59,235
-Don't be ridiculous.
+281
+00:19:57,197 --> 00:19:58,502
+- Don't be ridiculous.
 
-343
-00:19:59,240 --> 00:20:01,200
-The way he keeps smiling at you?
+282
+00:19:58,546 --> 00:20:00,330
+- The way
+he keeps smiling at you?
 
-344
-00:20:01,205 --> 00:20:02,969
+283
+00:20:00,374 --> 00:20:02,202
 I dream of having someone
 look at me like that.
 
-345
-00:20:02,973 --> 00:20:05,337
-It's basically how all
-my favorite movies end.
+284
+00:20:02,245 --> 00:20:04,378
+It's basically how
+all my favorite movies end.
 
-346
-00:20:05,342 --> 00:20:08,607
-Janet, he's Superman.
+285
+00:20:04,421 --> 00:20:07,729
+- Janet, he's Superman.
 It's part of his whole shtick.
 
-347
-00:20:08,612 --> 00:20:10,209
-He looks at people in a nice way.
+286
+00:20:07,772 --> 00:20:09,470
+He looks at people
+in a nice way.
 
-348
-00:20:10,214 --> 00:20:13,612
-Okay, listen, I'm not talking
+287
+00:20:09,513 --> 00:20:12,734
+- Okay, listen, I'm not talking
 to you as your producer.
 
-349
-00:20:13,617 --> 00:20:15,315
+288
+00:20:12,777 --> 00:20:14,344
 I'm talking to you
 as one of your best friends.
 
-350
-00:20:15,319 --> 00:20:16,749
-- And I am telling you...
+289
+00:20:14,388 --> 00:20:16,041
+And I am telling you...
 - Janet.
 
-351
-00:20:16,754 --> 00:20:19,385
-There is some serious
-chemistry happening...
+290
+00:20:16,085 --> 00:20:18,305
+- There is some
+serious chemistry happening...
 
-352
-00:20:19,390 --> 00:20:21,554
+291
+00:20:18,348 --> 00:20:19,523
 - Listen to me.
-- And you need to bring your A game
 
-353
-00:20:21,559 --> 00:20:22,589
+292
+00:20:19,567 --> 00:20:21,046
+- And you need
+to bring your A game
+
+293
+00:20:21,090 --> 00:20:22,439
 if you wanna go out
 
-354
-00:20:22,594 --> 00:20:24,095
-with the world's most eligible bachelor.
+294
+00:20:22,483 --> 00:20:23,397
+with the world's
+most eligible bachelor.
 
-355
-00:20:24,099 --> 00:20:26,459
-I am not interested, okay?
+295
+00:20:23,440 --> 00:20:25,529
+- I am not interested, okay?
 
-356
-00:20:26,464 --> 00:20:28,431
+296
+00:20:25,573 --> 00:20:27,531
 I'm in love with someone else.
 
-357
-00:20:30,468 --> 00:20:32,631
+297
+00:20:29,577 --> 00:20:31,753
 Clark from the paper.
 
-358
-00:20:32,636 --> 00:20:34,386
-We've been dating for a couple months.
+298
+00:20:31,796 --> 00:20:33,624
+We've been dating
+for a couple months.
 
-359
-00:20:34,391 --> 00:20:36,188
-I know he's dorky, but I love him.
+299
+00:20:33,668 --> 00:20:35,496
+I know he's dorky,
+but I love him.
 
-360
-00:20:36,193 --> 00:20:38,591
-Right, the guy with the glasses.
+300
+00:20:35,539 --> 00:20:38,150
+- Right,
+the guy with the glasses.
 
-361
-00:20:38,596 --> 00:20:39,796
+301
+00:20:38,194 --> 00:20:39,282
 - Yeah.
 - He's so sweet.
 
-362
-00:20:39,801 --> 00:20:41,665
+302
+00:20:39,326 --> 00:20:40,892
 - Yeah.
 - Well, that's great, Lois.
 
-363
-00:20:41,670 --> 00:20:44,276
-I... I had no idea you were in love.
+303
+00:20:40,936 --> 00:20:43,286
+I--I had no idea
+you were in love.
 
-364
-00:20:44,281 --> 00:20:47,313
-That's because I haven't
+304
+00:20:43,330 --> 00:20:46,333
+- That's because I haven't
 told anyone yet, not even him.
 
-365
-00:20:47,318 --> 00:20:49,515
-[TENDER MUSIC]
+305
+00:20:48,639 --> 00:20:50,728
+- Hey, random
+Superman question.
 
-366
-00:20:49,520 --> 00:20:51,617
-Hey, random Superman question.
-
-367
-00:20:51,622 --> 00:20:53,819
+306
+00:20:50,772 --> 00:20:52,991
 He wouldn't happen
 to have super-hearing?
 
-368
-00:20:53,824 --> 00:20:58,029
-♪ ♪
+307
+00:21:01,913 --> 00:21:03,350
+- [whispers]
+Can we just go?
 
-369
-00:21:02,733 --> 00:21:04,430
-[WHISPERS] Can we just go?
+308
+00:21:03,393 --> 00:21:05,308
+- [whispers]
+Yeah, yeah.
 
-370
-00:21:04,435 --> 00:21:06,369
-[WHISPERS] Yeah, yeah.
+309
+00:21:10,574 --> 00:21:12,663
+- [clears throat]
+I apologize.
 
-371
-00:21:11,175 --> 00:21:13,425
-[CLEARS THROAT] I apologize.
-
-372
-00:21:13,430 --> 00:21:15,541
+310
+00:21:12,707 --> 00:21:14,622
 That was unprofessional.
 
-373
-00:21:15,546 --> 00:21:18,878
-That's okay. He's a... he's a lucky man.
+311
+00:21:14,665 --> 00:21:18,060
+- That's okay.
+He's a--he's a lucky man.
 
-374
-00:21:18,883 --> 00:21:21,647
-Don't think this means
+312
+00:21:18,103 --> 00:21:20,758
+- Don't think this means
 I'm gonna take it easy on you.
 
-375
-00:21:21,652 --> 00:21:24,016
+313
+00:21:20,802 --> 00:21:23,239
 - I'd be offended if you did.
 - Okay.
 
-376
-00:21:24,021 --> 00:21:25,384
+314
+00:21:23,283 --> 00:21:24,414
 Ready?
 
-377
-00:21:25,389 --> 00:21:26,685
+315
+00:21:24,458 --> 00:21:25,807
 I'm nervous.
 
-378
-00:21:26,690 --> 00:21:28,554
-I didn't think you got nervous.
+316
+00:21:25,850 --> 00:21:28,026
+- I didn't think
+you got nervous.
 
-379
-00:21:28,559 --> 00:21:30,558
-Well, it's your mom, Clark.
+317
+00:21:28,070 --> 00:21:29,898
+- Well, it's your mom, Clark.
 What if she doesn't like me?
 
-380
-00:21:30,562 --> 00:21:32,424
-[LAUGHS] That's not possible.
+318
+00:21:29,941 --> 00:21:31,595
+- [laughs]
+That's not possible.
 
-381
-00:21:32,429 --> 00:21:34,393
-Maybe you haven't seen
+319
+00:21:31,639 --> 00:21:33,554
+- Maybe you haven't seen
 the reader mail section
 
-382
-00:21:34,398 --> 00:21:37,229
+320
+00:21:33,597 --> 00:21:36,470
 of the newspaper, but trust me,
 it's very possible.
 
-383
-00:21:37,234 --> 00:21:38,397
+321
+00:21:36,513 --> 00:21:37,558
 Hi.
 
-384
-00:21:38,402 --> 00:21:41,634
-Oh, I'm so glad you could make it.
+322
+00:21:37,601 --> 00:21:41,126
+- Oh, I'm so glad
+you could make it.
 
-385
-00:21:41,639 --> 00:21:45,271
-Oh, look at you. [LAUGHS]
+323
+00:21:41,170 --> 00:21:44,521
+Oh, look at you.
+[laughs]
 
-386
-00:21:45,276 --> 00:21:47,973
+324
+00:21:44,565 --> 00:21:47,176
 Ever since Clark told me
 about the two of you,
 
-387
-00:21:47,978 --> 00:21:50,204
-I couldn't wait to have
-you out to the farm.
+325
+00:21:47,219 --> 00:21:49,221
+I couldn't wait
+to have you out to the farm.
 
-388
-00:21:50,209 --> 00:21:51,209
-Told you.
+326
+00:21:49,265 --> 00:21:50,571
+- Told you.
 
-389
-00:21:51,214 --> 00:21:53,112
-Well, I'm happy to finally make it.
+327
+00:21:50,614 --> 00:21:52,355
+- Well, I'm happy
+to finally make it.
 
-390
-00:21:53,117 --> 00:21:54,780
-Oh, thank you.
+328
+00:21:52,399 --> 00:21:53,922
+- Oh, thank you.
 
-391
-00:21:54,785 --> 00:21:57,850
+329
+00:21:53,965 --> 00:21:57,012
 Lots of folks in Smallville
 are dying to meet you too.
 
-392
-00:21:57,855 --> 00:21:59,885
+330
+00:21:57,055 --> 00:21:59,057
 - Mom, Mom, Mom, you promised.
 - Oh, Clark.
 
-393
-00:21:59,890 --> 00:22:01,821
-It's just the neighbors and Edelsteins
+331
+00:21:59,101 --> 00:22:00,972
+It's just the neighbors
+and Edelsteins
 
-394
-00:22:01,826 --> 00:22:04,123
+332
+00:22:01,016 --> 00:22:03,453
 and, you know,
 girls from bridge club, so...
 
-395
-00:22:04,128 --> 00:22:06,125
-Well, I'm very excited to meet everyone.
+333
+00:22:03,497 --> 00:22:05,368
+- Well, I'm very excited
+to meet everyone.
 
-396
-00:22:06,130 --> 00:22:09,328
-Well, come on inside.
+334
+00:22:05,412 --> 00:22:08,589
+- Well, come on inside.
 I've got lunch waiting.
 
-397
-00:22:09,333 --> 00:22:13,538
-♪ ♪
-
-398
-00:22:16,040 --> 00:22:18,003
+335
+00:22:15,422 --> 00:22:17,206
 She's wonderful.
 
-399
-00:22:18,008 --> 00:22:20,072
-Yeah, I know.
+336
+00:22:17,249 --> 00:22:19,295
+- Yeah, I know.
 
-400
-00:22:20,077 --> 00:22:23,142
-So what took you so long
+337
+00:22:19,339 --> 00:22:22,124
+- So what took you so long
 to bring her here?
 
-401
-00:22:23,147 --> 00:22:27,352
+338
+00:22:22,167 --> 00:22:26,389
 - Because I needed to be ready.
 - To meet me?
 
-402
-00:22:27,357 --> 00:22:28,925
-That's not what I meant.
+339
+00:22:26,433 --> 00:22:28,173
+- That's not what I meant.
 
-403
-00:22:30,588 --> 00:22:34,893
+340
+00:22:29,697 --> 00:22:34,484
 I brought her here to tell her
 who I really am.
 
-404
-00:22:36,660 --> 00:22:38,624
-Oh, are you sure?
+341
+00:22:35,790 --> 00:22:37,705
+- Oh, are you sure?
 
-405
-00:22:38,629 --> 00:22:40,793
+342
+00:22:37,748 --> 00:22:39,663
 Once you tell her,
 there's no going back.
 
-406
-00:22:40,798 --> 00:22:43,262
-Yeah, well...
+343
+00:22:39,707 --> 00:22:42,492
+- Yeah, well...
 
-407
-00:22:43,267 --> 00:22:46,098
+344
+00:22:42,536 --> 00:22:45,321
 there was no going back
 after the first time I saw her.
 
-408
-00:22:46,103 --> 00:22:49,005
-I'm so happy for you, honey.
+345
+00:22:45,365 --> 00:22:48,237
+- I'm so happy for you, honey.
 
-409
-00:22:51,275 --> 00:22:53,472
-Everything okay?
+346
+00:22:50,544 --> 00:22:52,502
+- Everything okay?
 
-410
-00:22:53,477 --> 00:22:56,880
-Everything's perfect, dear.
+347
+00:22:52,546 --> 00:22:56,071
+- Everything's perfect, dear.
 Just perfect.
 
-411
-00:22:58,549 --> 00:23:01,580
-You follow me. I wanna
-show you something.
+348
+00:22:57,638 --> 00:23:00,641
+- You follow me.
+I wanna show you something.
 
-412
-00:23:01,585 --> 00:23:04,416
-[TENDER ORCHESTRAL MUSIC]
-
-413
-00:23:04,421 --> 00:23:08,626
-♪ ♪
-
-414
-00:23:23,073 --> 00:23:27,278
-♪ ♪
-
-415
-00:23:36,687 --> 00:23:39,151
-- [CROWD CHEERING]
+349
+00:23:35,806 --> 00:23:38,374
+[crowd cheering]
 - Love you, Lois!
 
-416
-00:23:39,156 --> 00:23:41,954
+350
+00:23:38,418 --> 00:23:41,246
 Love you, Clark!
 
-417
-00:23:41,959 --> 00:23:44,461
-I can't believe I married Lois Lane.
+351
+00:23:41,290 --> 00:23:43,640
+- I can't believe
+I married Lois Lane.
 
-418
-00:23:46,830 --> 00:23:50,500
-I'm all yours, babe.
+352
+00:23:45,990 --> 00:23:49,559
+- I'm all yours, babe.
 For better or for worse.
 
-419
-00:23:52,403 --> 00:23:53,636
-You know, I...
+353
+00:23:51,692 --> 00:23:52,997
+- You know, I...
 
-420
-00:23:55,806 --> 00:23:59,772
+354
+00:23:54,956 --> 00:23:58,873
 I kept my secret
 from everyone for so long,
 
-421
-00:23:59,777 --> 00:24:01,711
+355
+00:23:58,916 --> 00:24:00,831
 and now I know why.
 
-422
-00:24:04,015 --> 00:24:05,582
+356
+00:24:03,704 --> 00:24:05,183
 It's for you.
 
-423
-00:24:07,017 --> 00:24:10,186
-So we could have this life together.
+357
+00:24:06,228 --> 00:24:09,449
+So we could have
+this life together.
 
-424
-00:24:12,456 --> 00:24:15,158
-There's no one I'd rather share it with.
+358
+00:24:11,755 --> 00:24:14,410
+- There's no one
+I'd rather share it with.
 
-425
-00:24:16,160 --> 00:24:17,723
-This might be a weird time to say it,
+359
+00:24:15,411 --> 00:24:17,065
+- This might be
+a weird time to say it,
 
-426
-00:24:17,728 --> 00:24:21,527
+360
+00:24:17,108 --> 00:24:20,547
 but I can't wait to tell my dad
 about the wedding.
 
-427
-00:24:21,532 --> 00:24:23,796
+361
+00:24:20,590 --> 00:24:22,897
 He's gonna be so excited.
 
-428
-00:24:23,801 --> 00:24:27,766
+362
+00:24:22,940 --> 00:24:26,857
 I mean, as excited
 as a hologram can get, I guess.
 
-429
-00:24:27,771 --> 00:24:30,436
-Well, he's gonna have to wait
+363
+00:24:26,901 --> 00:24:29,686
+- Well, he's gonna have to wait
 till after the honeymoon.
 
-430
-00:24:30,441 --> 00:24:33,305
-[TENDER MUSIC]
+364
+00:24:32,559 --> 00:24:37,346
+♪
 
-431
-00:24:33,310 --> 00:24:37,515
-♪ ♪
+365
+00:24:37,389 --> 00:24:40,480
+- How was
+your marriage ceremony, son?
 
-432
-00:24:38,148 --> 00:24:41,217
-How was your marriage ceremony, son?
+366
+00:24:41,568 --> 00:24:42,830
+- It was the perfect day.
 
-433
-00:24:42,519 --> 00:24:43,749
-It was the perfect day.
-
-434
-00:24:43,754 --> 00:24:45,384
+367
+00:24:42,873 --> 00:24:44,614
 Lois looked beautiful.
 
-435
-00:24:45,389 --> 00:24:46,919
-I wish you could have been there.
+368
+00:24:44,658 --> 00:24:46,094
+I wish
+you could have been there.
 
-436
-00:24:46,924 --> 00:24:49,021
-I need you to get out of here now, Son.
+369
+00:24:46,137 --> 00:24:48,183
+- I need you
+to get out of here now, Son.
 
-437
-00:24:49,026 --> 00:24:50,789
-[EERIE MUSIC]
-
-438
-00:24:50,794 --> 00:24:53,192
+370
+00:24:50,054 --> 00:24:52,404
 - Father, what's happening?
 - Go!
 
-439
-00:24:53,197 --> 00:24:54,660
-♪ ♪
-
-440
-00:24:54,665 --> 00:24:56,996
+371
+00:24:54,015 --> 00:24:56,408
 Get out of here now!
 
-441
-00:24:57,001 --> 00:24:59,999
-[DRAMATIC MUSIC]
-
-442
-00:25:00,004 --> 00:25:01,571
-♪ ♪
-
-443
-00:25:04,950 --> 00:25:07,514
-[SOFT DRAMATIC MUSIC]
-
-444
-00:25:07,519 --> 00:25:10,851
-Hey, babe, there's something
+372
+00:25:06,767 --> 00:25:09,900
+- Hey, babe, there's something
 I need to tell you.
 
-445
-00:25:10,856 --> 00:25:13,157
+373
+00:25:09,944 --> 00:25:12,337
 - Lois, what day is it?
 - I'm pregnant.
 
-446
-00:25:15,093 --> 00:25:17,691
+374
+00:25:14,252 --> 00:25:16,690
 - You're pregnant?
 - Yes.
 
-447
-00:25:17,696 --> 00:25:19,493
+375
+00:25:16,733 --> 00:25:18,474
 I know, we weren't even trying.
 
-448
-00:25:19,498 --> 00:25:20,858
-We didn't even know this was possible,
+376
+00:25:18,518 --> 00:25:19,867
+We didn't even know
+this was possible,
 
-449
-00:25:20,862 --> 00:25:22,662
-but there are three pregnancy tests
+377
+00:25:19,910 --> 00:25:21,651
+but there are
+three pregnancy tests
 
-450
-00:25:22,667 --> 00:25:25,002
+378
+00:25:21,695 --> 00:25:23,871
 in the bathroom, and they all
 say the same thing.
 
-451
-00:25:26,405 --> 00:25:28,105
+379
+00:25:25,612 --> 00:25:27,265
 We're gonna be parents.
 
-452
-00:25:28,874 --> 00:25:30,871
-Okay, Lois, something
+380
+00:25:28,223 --> 00:25:30,181
+- Okay, Lois, something
 really strange happened
 
-453
-00:25:30,876 --> 00:25:33,974
-- right before you came out.
+381
+00:25:30,225 --> 00:25:33,054
+right before you came out.
 - I can't believe it either.
 
-454
-00:25:33,979 --> 00:25:35,976
-It's like you said on our honeymoon.
+382
+00:25:33,097 --> 00:25:35,056
+It's like you said
+on our honeymoon.
 
-455
-00:25:35,981 --> 00:25:38,645
-This is why you kept your secret.
+383
+00:25:35,099 --> 00:25:37,624
+This is why
+you kept your secret.
 
-456
-00:25:38,650 --> 00:25:40,747
-So we can share our life together.
+384
+00:25:37,667 --> 00:25:39,756
+- So we can share
+our life together.
 
-457
-00:25:40,752 --> 00:25:43,050
-And now we can have a family.
+385
+00:25:39,800 --> 00:25:42,150
+- And now we can have a family.
 
-458
-00:25:43,055 --> 00:25:45,018
-I didn't even realize I wanted one
+386
+00:25:42,193 --> 00:25:43,978
+I didn't even realize
+I wanted one
 
-459
-00:25:45,023 --> 00:25:47,187
+387
+00:25:44,021 --> 00:25:46,458
 this badly until now.
 
-460
-00:25:47,192 --> 00:25:49,690
-Yeah. Yeah, me too.
+388
+00:25:46,502 --> 00:25:48,809
+- Yeah. Yeah, me too.
 
-461
-00:25:49,695 --> 00:25:51,892
-Okay, be honest,
+389
+00:25:48,852 --> 00:25:50,941
+- Okay, be honest,
 you want a boy or a girl?
 
-462
-00:25:51,897 --> 00:25:54,261
-I... I just want the baby to be healthy.
+390
+00:25:50,985 --> 00:25:53,422
+- I--I just want the baby
+to be healthy.
 
-463
-00:25:54,266 --> 00:25:56,196
-Come on, Clark. That's so predictable.
+391
+00:25:53,465 --> 00:25:54,815
+- Come on, Clark.
+That's so predictable.
 
-464
-00:25:56,201 --> 00:25:57,231
-What? It's true.
+392
+00:25:54,858 --> 00:25:56,381
+- What?
+It's true.
 
-465
-00:25:57,236 --> 00:25:58,566
-All right, well, I'm just gonna say it.
+393
+00:25:56,425 --> 00:25:57,774
+- All right,
+well, I'm just gonna say it.
 
-466
-00:25:58,570 --> 00:26:00,067
-- I want a girl.
+394
+00:25:57,818 --> 00:25:59,646
+I want a girl.
 - Okay.
 
-467
-00:26:00,072 --> 00:26:01,306
-Okay.
+395
+00:25:59,689 --> 00:26:00,734
+- Okay.
 
-468
-00:26:05,210 --> 00:26:08,075
+396
+00:26:04,389 --> 00:26:07,175
 - Oh, my.
 - Is everything okay?
 
-469
-00:26:08,080 --> 00:26:11,616
-Yes, it's just more okay.
+397
+00:26:07,218 --> 00:26:10,613
+- Yes, it's just more okay.
 
-470
-00:26:13,819 --> 00:26:15,516
+398
+00:26:13,007 --> 00:26:14,835
 Looks like you two
 are going to have twins.
 
-471
-00:26:15,521 --> 00:26:17,050
-What? Are you sure?
+399
+00:26:14,878 --> 00:26:16,140
+- What?
+Are you sure?
 
-472
-00:26:17,055 --> 00:26:18,819
-Ooh, is that a... you know?
+400
+00:26:16,184 --> 00:26:17,968
+- Ooh, is that a--you know?
 
-473
-00:26:18,824 --> 00:26:21,154
-Very, and I can't say for certain,
+401
+00:26:18,012 --> 00:26:19,883
+- Very,
+and I can't say for certain,
 
-474
-00:26:21,159 --> 00:26:24,057
-but, yes, they do appear to be boys.
+402
+00:26:19,927 --> 00:26:23,147
+but, yes,
+they do appear to be boys.
 
-475
-00:26:24,062 --> 00:26:26,260
-This is what I get for wanting a girl.
+403
+00:26:23,191 --> 00:26:25,410
+- This is what I get
+for wanting a girl.
 
-476
-00:26:26,265 --> 00:26:28,495
-I can't believe I'm gonna
+404
+00:26:25,454 --> 00:26:27,456
+- I can't believe I'm gonna
 be a dad twice all at once.
 
-477
-00:26:28,500 --> 00:26:31,765
-Can you get me some water, please?
+405
+00:26:27,499 --> 00:26:30,764
+- Can you get me
+some water, please?
 
-478
-00:26:31,770 --> 00:26:33,400
-Babe.
+406
+00:26:30,807 --> 00:26:32,592
+- Babe.
 
-479
-00:26:33,405 --> 00:26:34,868
-♪ ♪
+407
+00:26:33,941 --> 00:26:35,769
+- Do you think
+this is because of Superman?
 
-480
-00:26:34,873 --> 00:26:36,770
-Do you think this is
-because of Superman?
-
-481
-00:26:36,775 --> 00:26:39,473
-My father assured me
+408
+00:26:35,812 --> 00:26:38,641
+- My father assured me
 everything's gonna be fine.
 
-482
-00:26:39,478 --> 00:26:41,208
-He also didn't know
+409
+00:26:38,685 --> 00:26:40,208
+- He also didn't know
 we were having twins,
 
-483
-00:26:41,213 --> 00:26:42,828
-and that is a pretty big curve ball.
+410
+00:26:40,251 --> 00:26:41,731
+and that is
+a pretty big curve ball.
 
-484
-00:26:42,833 --> 00:26:45,375
-Hey, it's gonna be okay. I promise.
+411
+00:26:41,775 --> 00:26:44,473
+- Hey, it's gonna be okay.
+I promise.
 
-485
-00:26:45,380 --> 00:26:47,281
-Yeah, says the guy who
-doesn't have to give birth
+412
+00:26:44,516 --> 00:26:46,301
+- Yeah, says the guy
+who doesn't have to give birth
 
-486
-00:26:47,285 --> 00:26:48,849
+413
+00:26:46,344 --> 00:26:47,868
 to two babies at the same time.
 
-487
-00:26:48,854 --> 00:26:50,087
-[CHUCKLES]
-
-488
-00:26:53,392 --> 00:26:56,390
-[EERIE MUSIC]
-
-489
-00:26:56,395 --> 00:27:00,600
-♪ ♪
-
-490
-00:27:03,201 --> 00:27:06,900
+414
+00:27:02,360 --> 00:27:05,799
 Clark, I'm not delivering
 the babies at the fortress.
 
-491
-00:27:06,905 --> 00:27:10,910
-♪ ♪
+415
+00:27:10,673 --> 00:27:12,370
+- This isn't real.
 
-492
-00:27:11,643 --> 00:27:13,240
-This isn't real.
+416
+00:27:19,421 --> 00:27:21,641
+- In a lifetime
+full of memories,
 
-493
-00:27:13,245 --> 00:27:16,243
-[DRAMATIC MUSIC]
-
-494
-00:27:16,248 --> 00:27:20,247
-♪ ♪
-
-495
-00:27:20,252 --> 00:27:22,449
-In a lifetime full of memories,
-
-496
-00:27:22,454 --> 00:27:24,785
+417
+00:27:21,684 --> 00:27:23,773
 there is none more special
 than becoming a father.
 
-497
-00:27:24,790 --> 00:27:26,820
-♪ ♪
-
-498
-00:27:26,825 --> 00:27:29,222
+418
+00:27:27,362 --> 00:27:29,843
 - What have you done?
 - Easy, Kal-El.
 
-499
-00:27:29,227 --> 00:27:31,692
-I'd hate for you to miss the big moment.
+419
+00:27:29,886 --> 00:27:32,411
+I'd hate for you
+to miss the big moment.
 
-500
-00:27:31,697 --> 00:27:33,060
-- [SCREAMS]
+420
+00:27:32,454 --> 00:27:33,760
+- [screams]
 - You're doing great.
 
-501
-00:27:33,065 --> 00:27:37,270
-- We're almost there.
+421
+00:27:33,803 --> 00:27:38,112
+We're almost there.
 - Yeah, 27 hours later.
 
-502
-00:27:37,275 --> 00:27:40,067
+422
+00:27:38,156 --> 00:27:40,636
 - Edge is here somehow.
 - I love you too.
 
-503
-00:27:40,072 --> 00:27:41,768
-- [SCREAMS]
+423
+00:27:40,680 --> 00:27:42,247
+[screams]
 - Just one more push, Lois,
 
-504
-00:27:41,773 --> 00:27:43,236
-and baby Jonathan can meet Jordan.
+424
+00:27:42,290 --> 00:27:43,857
+and baby Jonathan
+can meet Jordan.
 
-505
-00:27:43,241 --> 00:27:46,640
+425
+00:27:43,900 --> 00:27:47,339
 - He knows everything.
-- [SCREAMS]
+- [screams]
 
-506
-00:27:46,645 --> 00:27:48,108
-- [BABY CRYING]
+426
+00:27:47,382 --> 00:27:48,688
+[baby crying]
 - You did it!
 
-507
-00:27:48,113 --> 00:27:51,244
+427
+00:27:48,731 --> 00:27:51,865
 - We have a family, Clark.
 - Yes, you do.
 
-508
-00:27:51,249 --> 00:27:54,285
-[BABIES CRYING]
-
-509
-00:27:55,220 --> 00:27:56,983
+428
+00:27:54,999 --> 00:27:56,523
 Jordan and Jonathan Kent,
 
-510
-00:27:56,988 --> 00:28:00,120
-the twin sons of Lois and Superman.
+429
+00:27:56,566 --> 00:27:59,700
+the twin sons
+of Lois and Superman.
 
-511
-00:28:00,125 --> 00:28:02,122
-No. No, please. Please.
+430
+00:27:59,743 --> 00:28:01,702
+- No. No, please. Please.
 They're just babies.
 
-512
-00:28:02,127 --> 00:28:04,591
-How little you know me, brother.
+431
+00:28:01,745 --> 00:28:04,270
+- How little
+you know me, brother.
 
-513
-00:28:04,596 --> 00:28:06,293
+432
+00:28:04,313 --> 00:28:05,923
 I would never harm a newborn.
 
-514
-00:28:06,298 --> 00:28:08,695
-♪ ♪
+433
+00:28:08,448 --> 00:28:10,754
+Teenage boys,
+on the other hand...
 
-515
-00:28:08,700 --> 00:28:10,935
-Teenage boys, on the other hand...
+434
+00:28:11,364 --> 00:28:14,062
+That's a different
+matter entirely.
 
-516
-00:28:11,837 --> 00:28:14,401
-That's a different matter entirely.
-
-517
-00:28:14,406 --> 00:28:18,611
-♪ ♪
-
-518
-00:28:21,213 --> 00:28:24,077
+435
+00:28:20,851 --> 00:28:23,637
 It's good you're awake, Kal-El.
 
-519
-00:28:24,082 --> 00:28:27,752
+436
+00:28:23,680 --> 00:28:27,249
 Now you and I can discuss
 the terms of your surrender.
 
-520
-00:28:34,800 --> 00:28:38,499
-My sons are not bargaining chips.
+437
+00:28:34,387 --> 00:28:38,260
+- My sons
+are not bargaining chips.
 
-521
-00:28:38,504 --> 00:28:41,335
-[SOFT DRAMATIC MUSIC]
+438
+00:28:41,089 --> 00:28:43,483
+- This device
+was created by Ter-Loc,
 
-522
-00:28:41,340 --> 00:28:43,904
-This device was created by Ter-Loc,
+439
+00:28:43,526 --> 00:28:45,920
+one of Krypton's
+greatest scientists.
 
-523
-00:28:43,909 --> 00:28:46,240
-one of Krypton's greatest scientists.
-
-524
-00:28:46,245 --> 00:28:50,244
+440
+00:28:45,963 --> 00:28:49,924
 It allows the user to navigate
 the resting mind of another.
 
-525
-00:28:50,249 --> 00:28:53,047
-You knew I'd be weak
+441
+00:28:49,967 --> 00:28:52,666
+- You knew I'd be weak
 from my solar flare.
 
-526
-00:28:53,052 --> 00:28:54,982
-So I followed you here
+442
+00:28:52,709 --> 00:28:54,581
+- So I followed you here
 
-527
-00:28:54,987 --> 00:28:58,690
+443
+00:28:54,624 --> 00:28:58,237
 where I could sift through
 your most precious memories.
 
-528
-00:29:00,526 --> 00:29:04,658
+444
+00:29:00,326 --> 00:29:04,417
 - To extort me?
 - No, Kal, to understand you.
 
-529
-00:29:04,663 --> 00:29:06,827
-To understand what possible reason
+445
+00:29:04,460 --> 00:29:06,506
+To understand
+what possible reason
 
-530
-00:29:06,832 --> 00:29:08,962
-you could have to betray your heritage.
+446
+00:29:06,549 --> 00:29:08,421
+you could have
+to betray your heritage.
 
-531
-00:29:08,967 --> 00:29:11,598
+447
+00:29:08,464 --> 00:29:11,119
 And to think it was all
 for a human family.
 
-532
-00:29:11,603 --> 00:29:14,201
+448
+00:29:11,162 --> 00:29:13,861
 - You know nothing about them.
 - I know enough.
 
-533
-00:29:14,206 --> 00:29:18,205
+449
+00:29:13,904 --> 00:29:17,734
 A human wife and twin boys.
 How woefully pedestrian.
 
-534
-00:29:18,210 --> 00:29:20,904
+450
+00:29:17,778 --> 00:29:20,346
 And you, stumbling
 through your daily life
 
-535
-00:29:20,909 --> 00:29:22,209
+451
+00:29:20,389 --> 00:29:21,477
 like some village idiot
 
-536
-00:29:22,214 --> 00:29:23,911
-instead of a true son of Krypton.
+452
+00:29:21,521 --> 00:29:23,349
+instead of a true son
+of Krypton.
 
-537
-00:29:23,916 --> 00:29:26,713
-I'm not the only one who kept
+453
+00:29:23,392 --> 00:29:26,134
+- I'm not the only one who kept
 my Kryptonian side hidden.
 
-538
-00:29:26,718 --> 00:29:30,250
-I did so out of strategy, not shame.
+454
+00:29:26,177 --> 00:29:29,529
+- I did so out of strategy,
+not shame.
 
-539
-00:29:30,255 --> 00:29:34,021
+455
+00:29:29,572 --> 00:29:33,489
 To be a man of greatness
 and choose to be less...
 
-540
-00:29:34,026 --> 00:29:35,522
-[CHUCKLES]
-
-541
-00:29:35,527 --> 00:29:38,058
+456
+00:29:34,925 --> 00:29:37,537
 It speaks to the mediocrity
 of this world.
 
-542
-00:29:38,063 --> 00:29:41,061
-Whatever it is you want,
+457
+00:29:37,580 --> 00:29:40,409
+- Whatever it is you want,
 
-543
-00:29:41,066 --> 00:29:44,731
+458
+00:29:40,453 --> 00:29:44,283
 threatening my family
 is not how you'll get it.
 
-544
-00:29:44,736 --> 00:29:46,233
-It's not a threat, Kal.
+459
+00:29:44,326 --> 00:29:45,632
+- It's not a threat, Kal.
 
-545
-00:29:46,238 --> 00:29:49,303
+460
+00:29:45,675 --> 00:29:48,722
 I will destroy their lives
 by taking that thing
 
-546
-00:29:49,308 --> 00:29:51,338
+461
+00:29:48,765 --> 00:29:50,767
 you hold so dear, your secret,
 
-547
-00:29:51,343 --> 00:29:53,440
-and shouting it for
-all the world to hear.
+462
+00:29:50,811 --> 00:29:52,769
+and shouting it
+for all the world to hear.
 
-548
-00:29:53,445 --> 00:29:55,976
-- Superman has a family.
+463
+00:29:52,813 --> 00:29:55,424
+Superman has a family.
 - No!
 
-549
-00:29:55,981 --> 00:29:58,112
-Then tell me another way.
+464
+00:29:55,468 --> 00:29:57,600
+- Then tell me another way.
 
-550
-00:29:58,117 --> 00:30:00,814
+465
+00:29:57,644 --> 00:30:00,255
 I appealed to you as a brother,
 and you attacked me,
 
-551
-00:30:00,819 --> 00:30:02,950
-a Kryptonian, and you stole from me,
+466
+00:30:00,299 --> 00:30:02,388
+a Kryptonian,
+and you stole from me,
 
-552
-00:30:02,955 --> 00:30:05,852
+467
+00:30:02,431 --> 00:30:05,304
 a friend, and you destroyed
 everything I had built.
 
-553
-00:30:05,857 --> 00:30:09,089
-He is none of those things.
+468
+00:30:05,347 --> 00:30:08,568
+- He is none of those things.
 Do not listen to him!
 
-554
-00:30:09,094 --> 00:30:12,599
-It is this man who has corrupted you,
+469
+00:30:08,611 --> 00:30:12,789
+- It is this man
+who has corrupted you,
 
-555
-00:30:13,365 --> 00:30:15,400
-just as he corrupted our mother.
+470
+00:30:12,833 --> 00:30:15,009
+just as he
+corrupted our mother.
 
-556
-00:30:17,402 --> 00:30:21,134
-I spoke with her. Lara.
+471
+00:30:16,750 --> 00:30:20,362
+- I spoke with her. Lara.
 
-557
-00:30:21,139 --> 00:30:24,208
-She believes there is still good in you.
+472
+00:30:20,406 --> 00:30:23,496
+She believes
+there is still good in you.
 
-558
-00:30:25,210 --> 00:30:26,740
-Was this as she helped you plot
+473
+00:30:24,497 --> 00:30:26,281
+- Was this
+as she helped you plot
 
-559
-00:30:26,745 --> 00:30:28,342
+474
+00:30:26,325 --> 00:30:27,761
 to destroy Kryptonian lives?
 
-560
-00:30:28,347 --> 00:30:30,344
-The same lives that occupied
+475
+00:30:27,804 --> 00:30:29,763
+- The same lives that occupied
 
-561
-00:30:30,349 --> 00:30:31,911
+476
+00:30:29,806 --> 00:30:31,199
 innocent human beings?
 
-562
-00:30:31,916 --> 00:30:33,246
-Enough!
+477
+00:30:31,242 --> 00:30:32,505
+- Enough!
 
-563
-00:30:33,251 --> 00:30:36,721
+478
+00:30:32,548 --> 00:30:36,160
 I will not debate morality
 with this whisper.
 
-564
-00:30:39,291 --> 00:30:41,221
+479
+00:30:38,598 --> 00:30:40,469
 Here I stand, brother.
 
-565
-00:30:41,226 --> 00:30:43,624
-Flesh and bone and beating heart.
+480
+00:30:40,513 --> 00:30:43,385
+Flesh and bone
+and beating heart.
 
-566
-00:30:43,629 --> 00:30:46,827
+481
+00:30:43,429 --> 00:30:46,606
 Your true family.
 
-567
-00:30:46,832 --> 00:30:50,431
+482
+00:30:46,649 --> 00:30:50,131
 Join me of your own free will.
 
-568
-00:30:50,436 --> 00:30:52,032
-[DRAMATIC MUSIC]
+483
+00:30:51,654 --> 00:30:54,483
+- I can't let you do this.
 
-569
-00:30:52,037 --> 00:30:54,935
-I can't let you do this.
+484
+00:30:54,527 --> 00:30:57,530
+- Then I will make you suffer.
 
-570
-00:30:54,940 --> 00:30:57,471
-Then I will make you suffer.
+485
+00:31:05,451 --> 00:31:07,757
+- I love you, son.
 
-571
-00:30:57,476 --> 00:30:59,473
-♪ ♪
-
-572
-00:30:59,478 --> 00:31:02,914
-[GLASS CRACKING]
-
-573
-00:31:06,184 --> 00:31:08,419
-I love you, son.
-
-574
-00:31:11,323 --> 00:31:15,528
-♪ ♪
-
-575
-00:31:23,368 --> 00:31:26,366
-You are my life's greatest
+486
+00:31:22,816 --> 00:31:25,645
+- You are my life's greatest
 disappointment, Kal-El.
 
-576
-00:31:26,371 --> 00:31:28,068
+487
+00:31:25,688 --> 00:31:27,516
 All my life, I dreamt
 
-577
-00:31:28,073 --> 00:31:31,305
+488
+00:31:27,560 --> 00:31:30,824
 of having a brother, a family,
 
-578
-00:31:31,310 --> 00:31:33,474
+489
+00:31:30,867 --> 00:31:33,043
 only to have you reject me!
 
-579
-00:31:33,479 --> 00:31:37,684
-♪ ♪
-
-580
-00:31:39,685 --> 00:31:41,882
+490
+00:31:39,093 --> 00:31:41,312
 It didn't have to be this way.
 
-581
-00:31:41,887 --> 00:31:46,092
-♪ ♪
-
-582
-00:31:57,002 --> 00:32:00,600
-This head is pounding worse
+491
+00:31:56,589 --> 00:31:59,940
+- This head is pounding worse
 than after ten whiskey chasers.
 
-583
-00:32:00,605 --> 00:32:01,902
-From everything we can tell,
+492
+00:31:59,983 --> 00:32:01,463
+- From everything we can tell,
 
-584
-00:32:01,907 --> 00:32:04,004
-it should go away in a day or two.
+493
+00:32:01,507 --> 00:32:03,552
+it should go away
+in a day or two.
 
-585
-00:32:04,009 --> 00:32:06,106
-How's Emily doing?
+494
+00:32:03,596 --> 00:32:05,685
+- How's Emily doing?
 
-586
-00:32:06,111 --> 00:32:09,109
-Confused. Overwhelmed.
+495
+00:32:05,728 --> 00:32:08,557
+- Confused. Overwhelmed.
 
-587
-00:32:09,114 --> 00:32:10,610
-What's she know, exactly?
+496
+00:32:08,601 --> 00:32:09,950
+- What's she know, exactly?
 
-588
-00:32:10,615 --> 00:32:13,280
-Just the broad strokes,
+497
+00:32:09,993 --> 00:32:12,518
+- Just the broad strokes,
 same as everyone else.
 
-589
-00:32:13,285 --> 00:32:14,881
+498
+00:32:12,561 --> 00:32:14,302
 Edge was giving people powers,
 
-590
-00:32:14,886 --> 00:32:16,617
+499
+00:32:14,345 --> 00:32:16,086
 messing with their minds
 to control them.
 
-591
-00:32:16,622 --> 00:32:18,985
-Nothing about alien consciousness?
+500
+00:32:16,130 --> 00:32:18,437
+- Nothing about
+alien consciousness?
 
-592
-00:32:18,990 --> 00:32:22,189
-DOD felt that would be
+501
+00:32:18,480 --> 00:32:21,657
+- DOD felt that would be
 better kept off the record.
 
-593
-00:32:22,194 --> 00:32:24,725
-Still a lot to process.
+502
+00:32:21,701 --> 00:32:24,094
+- Still a lot to process.
 
-594
-00:32:24,730 --> 00:32:28,528
+503
+00:32:24,138 --> 00:32:27,837
 And people in this town
 are gonna want answers.
 
-595
-00:32:28,533 --> 00:32:31,033
-Yeah, at which point
+504
+00:32:27,881 --> 00:32:30,492
+- Yeah, at which point
 they're gonna be looking
 
-596
-00:32:31,038 --> 00:32:33,867
-for someone to blame, and pretty sure
+505
+00:32:30,536 --> 00:32:33,277
+for someone to blame,
+and pretty sure
 
-597
-00:32:33,872 --> 00:32:35,639
-I'm gonna be at the top of that list.
+506
+00:32:33,321 --> 00:32:35,018
+I'm gonna be
+at the top of that list.
 
-598
-00:32:36,942 --> 00:32:39,172
-Your heart was in the right place, babe.
+507
+00:32:36,411 --> 00:32:38,631
+- Your heart was
+in the right place, babe.
 
-599
-00:32:39,177 --> 00:32:40,474
-Heart's not the problem.
+508
+00:32:38,674 --> 00:32:40,154
+- Heart's not the problems.
 
-600
-00:32:40,479 --> 00:32:44,484
+509
+00:32:40,197 --> 00:32:44,506
 It's this stubborn head of mine
 refusing to listen.
 
-601
-00:32:45,050 --> 00:32:48,081
+510
+00:32:44,550 --> 00:32:47,509
 I should've never gone
 to see Edge behind your back.
 
-602
-00:32:48,086 --> 00:32:50,517
-[TENDER MUSIC]
-
-603
-00:32:50,522 --> 00:32:53,687
-Speaking of Edge,
+511
+00:32:49,859 --> 00:32:53,036
+- Speaking of Edge,
 any idea where he went?
 
-604
-00:32:53,692 --> 00:32:56,590
-Superman and the DOD
+512
+00:32:53,080 --> 00:32:55,909
+- Superman and the DOD
 are looking for him.
 
-605
-00:32:56,595 --> 00:32:58,492
+513
+00:32:55,952 --> 00:32:57,780
 I'm sure he'll turn up soon.
 
-606
-00:32:58,497 --> 00:33:00,197
-It's like a war zone downtown
+514
+00:32:57,824 --> 00:32:59,739
+- It's like a war zone downtown
 
-607
-00:33:00,202 --> 00:33:01,799
-with all of the military patrolling.
+515
+00:32:59,782 --> 00:33:01,523
+with all
+of the military patrolling.
 
-608
-00:33:01,804 --> 00:33:04,598
+516
+00:33:01,567 --> 00:33:03,917
 It's very end of days.
 
-609
-00:33:04,603 --> 00:33:06,335
-I think Grandpa said
+517
+00:33:03,960 --> 00:33:05,701
+- I think Grandpa said
 they're gonna be leaving soon.
 
-610
-00:33:06,339 --> 00:33:07,802
+518
+00:33:05,745 --> 00:33:07,311
 They just have to check in
 
-611
-00:33:07,807 --> 00:33:10,504
+519
+00:33:07,355 --> 00:33:09,792
 on everybody that was
 mind-swapped or whatever.
 
-612
-00:33:10,509 --> 00:33:13,540
-My dad has his good side
+520
+00:33:09,836 --> 00:33:12,839
+- My dad has his good side
 and his not-so-good side,
 
-613
-00:33:13,545 --> 00:33:18,550
+521
+00:33:12,882 --> 00:33:17,757
 but seeing him become
-a whole different person is...
+a whole different person is--
 
-614
-00:33:18,555 --> 00:33:20,819
+522
+00:33:17,800 --> 00:33:20,237
 - Must've been strange.
 - Super weird.
 
-615
-00:33:20,824 --> 00:33:24,885
-I just instantly assumed
+523
+00:33:20,281 --> 00:33:24,285
+- I just instantly assumed
 the worst about him,
 
-616
-00:33:24,890 --> 00:33:28,522
+524
+00:33:24,328 --> 00:33:27,810
 even though my mom told me
 that it wasn't all his fault.
 
-617
-00:33:28,527 --> 00:33:30,557
-Well, sometimes it's hard to tell
+525
+00:33:27,854 --> 00:33:29,856
+- Well, sometimes
+it's hard to tell
 
-618
-00:33:30,562 --> 00:33:32,093
-when parents are telling you the truth.
+526
+00:33:29,899 --> 00:33:31,553
+when parents are
+telling you the truth.
 
-619
-00:33:32,097 --> 00:33:34,928
-It's probably the same
+527
+00:33:31,597 --> 00:33:34,338
+- It's probably the same
 for them, you know, with us.
 
-620
-00:33:34,933 --> 00:33:36,965
-It seems like families are
-always lying to each other,
+528
+00:33:34,382 --> 00:33:36,732
+It seems like families
+are always lying to each other,
 
-621
-00:33:36,969 --> 00:33:40,233
+529
+00:33:36,776 --> 00:33:39,692
 which is pretty messed up.
 
-622
-00:33:40,238 --> 00:33:44,437
+530
+00:33:39,735 --> 00:33:43,696
 So thank you for being honest
 with me about everything.
 
-623
-00:33:44,442 --> 00:33:46,139
-Yeah. Yeah, sure.
+531
+00:33:43,739 --> 00:33:45,567
+- Yeah.
+Yeah, sure.
 
-624
-00:33:46,144 --> 00:33:48,542
-Just... I'm sorry it was a...
+532
+00:33:45,611 --> 00:33:48,091
+Just--I'm sorry it was a--
 
-625
-00:33:48,547 --> 00:33:50,777
+533
+00:33:48,135 --> 00:33:50,137
 sorry it was such
 a traumatic experience.
 
-626
-00:33:50,782 --> 00:33:52,583
-At least it was the truth.
+534
+00:33:50,180 --> 00:33:51,921
+- At least it was the truth.
 
-627
-00:33:54,953 --> 00:33:58,923
-Is it cool if I have a moment
-alone with Jordan?
+535
+00:33:54,402 --> 00:33:58,362
+Is it cool if I have
+a moment alone with Jordan?
 
-628
-00:34:00,458 --> 00:34:02,860
-Yeah. Yeah, sure.
+536
+00:33:59,755 --> 00:34:02,279
+- Yeah.
+Yeah, sure.
 
-629
-00:34:09,901 --> 00:34:11,932
-Sarah, I... I'm so sorry
+537
+00:34:09,330 --> 00:34:11,332
+- Sarah, I--I'm so sorry
 
-630
-00:34:11,937 --> 00:34:13,801
+538
+00:34:11,375 --> 00:34:13,160
 I didn't tell you everything
 that was happening.
 
-631
-00:34:13,805 --> 00:34:15,502
-John even wanted me to tell you,
+539
+00:34:13,203 --> 00:34:14,770
+John even wanted me
+to tell you,
 
-632
-00:34:15,507 --> 00:34:18,071
-and I... I said no. I was really scared.
+540
+00:34:14,814 --> 00:34:17,599
+and I--I said no.
+I was really scared.
 
-633
-00:34:18,076 --> 00:34:19,139
-I...
+541
+00:34:17,643 --> 00:34:18,687
+I--
 
-634
-00:34:19,144 --> 00:34:23,349
-♪ ♪
+542
+00:34:23,953 --> 00:34:28,523
+- I don't want to be
+just friends anymore.
 
-635
-00:34:24,516 --> 00:34:28,721
-I don't want to be just friends anymore.
+543
+00:34:29,872 --> 00:34:31,482
+- Me neither.
 
-636
-00:34:30,255 --> 00:34:31,952
-Me neither.
+544
+00:34:42,755 --> 00:34:44,844
+- Uh, Lois,
 
-637
-00:34:31,957 --> 00:34:36,162
-♪ ♪
+545
+00:34:44,887 --> 00:34:48,456
+hold--hold up
+just a--just a second.
 
-638
-00:34:43,168 --> 00:34:45,265
-Uh, Lois,
-
-639
-00:34:45,270 --> 00:34:48,835
-hold... hold up just a... just a second.
-
-640
-00:34:48,840 --> 00:34:50,971
+546
+00:34:48,499 --> 00:34:50,501
 Um...
 
-641
-00:34:50,976 --> 00:34:54,374
-Listen, I just... I wanted
-to apologize to you,
+547
+00:34:50,545 --> 00:34:53,853
+Listen, I just--
+I wanted to apologize to you,
 
-642
-00:34:54,379 --> 00:34:55,942
-you know, for the way I've treated you
+548
+00:34:53,896 --> 00:34:55,594
+you know, for the way
+I've treated you
 
-643
-00:34:55,947 --> 00:34:57,611
+549
+00:34:55,637 --> 00:34:57,160
 this whole time.
 
-644
-00:34:57,616 --> 00:35:00,184
+550
+00:34:57,204 --> 00:34:59,641
 - It's okay, Kyle.
 - No. No, it's not.
 
-645
-00:35:01,108 --> 00:35:05,513
-Look, I was wrong about...
+551
+00:35:00,686 --> 00:35:04,907
+Look, I was wrong about--
 about damn near everything,
 
-646
-00:35:05,518 --> 00:35:09,923
-but... mostly, I was wrong about you.
+552
+00:35:04,951 --> 00:35:09,433
+but...mostly,
+I was wrong about you.
 
-647
-00:35:09,928 --> 00:35:12,692
+553
+00:35:09,477 --> 00:35:12,132
 You're good people, Lois,
 
-648
-00:35:12,697 --> 00:35:14,899
+554
+00:35:12,175 --> 00:35:14,438
 and I'm real happy
 you're part of this town.
 
-649
-00:35:16,034 --> 00:35:17,468
-Thank you.
+555
+00:35:15,614 --> 00:35:16,876
+- Thank you.
 
-650
-00:35:27,412 --> 00:35:31,244
-So it's, like, really
-official official now
+556
+00:35:26,799 --> 00:35:30,672
+- So it's, like,
+really official official now
 
-651
-00:35:31,249 --> 00:35:32,646
+557
+00:35:30,716 --> 00:35:32,195
 or what?
 
-652
-00:35:32,651 --> 00:35:34,748
+558
+00:35:32,239 --> 00:35:34,197
 - Yeah, I guess so.
 - Yeah?
 
-653
-00:35:34,753 --> 00:35:36,817
-Well, I'm happy for you, sweetie,
+559
+00:35:34,241 --> 00:35:36,286
+- Well, I'm happy
+for you, sweetie,
 
-654
-00:35:36,822 --> 00:35:38,718
-but now that you have a girlfriend,
+560
+00:35:36,330 --> 00:35:38,158
+but now that you
+have a girlfriend,
 
-655
-00:35:38,723 --> 00:35:40,453
-your dad and I are gonna have to have
+561
+00:35:38,201 --> 00:35:39,812
+your dad and I
+are gonna have to have
 
-656
-00:35:40,458 --> 00:35:42,689
-a little chitchat with you
-about what we expect.
+562
+00:35:39,855 --> 00:35:41,857
+a little chitchat
+with you about what we expect.
 
-657
-00:35:42,694 --> 00:35:44,024
-[WHOOSHES]
+563
+00:35:43,729 --> 00:35:44,730
+- Guess Dad's home.
 
-658
-00:35:44,029 --> 00:35:45,262
-Guess Dad's home.
-
-659
-00:35:46,565 --> 00:35:48,161
-[OMINOUS MUSIC]
-
-660
-00:35:48,166 --> 00:35:50,564
-Your father won't be
+564
+00:35:47,863 --> 00:35:49,952
+- Your father won't be
 returning any time soon,
 
-661
-00:35:50,569 --> 00:35:53,938
+565
+00:35:49,996 --> 00:35:53,477
 which is why Uncle Morgan
 decided to come pay a visit.
 
-662
-00:35:58,500 --> 00:36:00,931
-So this is the life Kal-El chose.
+566
+00:35:58,569 --> 00:36:00,789
+- So this is the life
+Kal-El chose.
 
-663
-00:36:00,936 --> 00:36:04,200
-It's even more disappointing up close.
+567
+00:36:00,833 --> 00:36:03,879
+It's even more
+disappointing up close.
 
-664
-00:36:04,205 --> 00:36:05,668
-You're not welcome here.
+568
+00:36:03,923 --> 00:36:05,228
+- You're not welcome here.
 
-665
-00:36:05,673 --> 00:36:09,205
-That's no way to speak to family, Lois,
+569
+00:36:05,272 --> 00:36:08,884
+- That's no way
+to speak to family, Lois,
 
-666
-00:36:09,210 --> 00:36:11,274
-especially with young boys around.
+570
+00:36:08,928 --> 00:36:10,625
+especially
+with young boys around.
 
-667
-00:36:11,279 --> 00:36:12,442
-Where's our dad?
+571
+00:36:10,669 --> 00:36:11,931
+- Where's our dad?
 
-668
-00:36:12,447 --> 00:36:14,143
-When I left him, he was a crumpled heap
+572
+00:36:11,974 --> 00:36:13,802
+- When I left him,
+he was a crumpled heap
 
-669
-00:36:14,148 --> 00:36:15,645
+573
+00:36:13,846 --> 00:36:15,064
 in his little ice castle.
 
-670
-00:36:15,650 --> 00:36:17,513
-Peculiar place to build a fortress.
+574
+00:36:15,108 --> 00:36:16,892
+Peculiar place
+to build a fortress.
 
-671
-00:36:17,518 --> 00:36:18,848
+575
+00:36:16,936 --> 00:36:18,459
 I chose the desert.
 
-672
-00:36:18,853 --> 00:36:21,388
-Like to feel the sun on my face.
+576
+00:36:18,502 --> 00:36:20,896
+Like to feel the sun
+on my face.
 
-673
-00:36:22,523 --> 00:36:25,521
+577
+00:36:22,071 --> 00:36:25,031
 - Leave, now.
 - Jordan, stop.
 
-674
-00:36:25,526 --> 00:36:28,491
-Oh, I see your son's
+578
+00:36:25,074 --> 00:36:27,990
+- Oh, I see your son's
 inherited your false bravado.
 
-675
-00:36:28,496 --> 00:36:31,594
-[DRAMATIC MUSIC]
+579
+00:36:31,167 --> 00:36:32,473
+- Jordan!
 
-676
-00:36:31,599 --> 00:36:32,799
-Jordan!
-
-677
-00:36:33,868 --> 00:36:37,367
+580
+00:36:33,517 --> 00:36:36,825
 - Stay away from my sons!
 - This is all your doing.
 
-678
-00:36:37,372 --> 00:36:39,035
-It was your influence that made him
+581
+00:36:36,869 --> 00:36:38,566
+It was your influence
+that made him
 
-679
-00:36:39,040 --> 00:36:40,737
-turn his back on his own people.
+582
+00:36:38,609 --> 00:36:40,307
+turn his back
+on his own people.
 
-680
-00:36:40,742 --> 00:36:43,406
-Let them go. This is between you and me.
+583
+00:36:40,350 --> 00:36:42,744
+- Let them go.
+This is between you and me.
 
-681
-00:36:43,411 --> 00:36:46,042
-I'm afraid we've passed
+584
+00:36:42,788 --> 00:36:45,704
+- I'm afraid we've passed
 that point, Ms. Lane,
 
-682
-00:36:46,047 --> 00:36:50,252
-but I will let them live long
-enough to watch you die.
+585
+00:36:45,747 --> 00:36:49,751
+but I will let them live
+long enough to watch you die.
 
-683
-00:36:50,257 --> 00:36:52,854
-[SUSPENSEFUL MUSIC]
-
-684
-00:36:52,859 --> 00:36:56,052
-♪ ♪
-
-685
-00:36:56,057 --> 00:36:59,559
+586
+00:36:55,757 --> 00:36:59,108
 Impressive, Kal-El.
 But this changes nothing.
 
-686
-00:37:01,957 --> 00:37:06,462
-I'll do whatever you ask.
+587
+00:37:01,589 --> 00:37:05,941
+- I'll do whatever you ask.
 Just leave my family alone.
 
-687
-00:37:06,467 --> 00:37:09,465
-[SOFT DRAMATIC MUSIC]
+588
+00:37:10,424 --> 00:37:13,819
+- Pledge to me
+that you will submit,
 
-688
-00:37:09,470 --> 00:37:10,800
-♪ ♪
+589
+00:37:13,862 --> 00:37:16,865
+and I promise
+to let them live unharmed.
 
-689
-00:37:10,805 --> 00:37:14,370
-Pledge to me that you will submit,
+590
+00:37:16,909 --> 00:37:19,346
+- Clark, please don't do this.
 
-690
-00:37:14,375 --> 00:37:17,407
-and I promise to let them live unharmed.
+591
+00:37:20,913 --> 00:37:22,653
+- I submit.
 
-691
-00:37:17,412 --> 00:37:19,746
-Clark, please don't do this.
+592
+00:37:26,527 --> 00:37:28,921
+- Take a good look
+at the man you knew,
 
-692
-00:37:21,416 --> 00:37:22,983
-I submit.
-
-693
-00:37:26,788 --> 00:37:29,452
-Take a good look at the man you knew,
-
-694
-00:37:29,457 --> 00:37:31,825
+593
+00:37:28,964 --> 00:37:31,445
 'cause it will be your last.
 
-695
-00:37:33,761 --> 00:37:36,059
-I'm sorry.
+594
+00:37:33,490 --> 00:37:35,710
+- I'm sorry.
 
-696
-00:37:36,064 --> 00:37:37,560
+595
+00:37:35,754 --> 00:37:37,059
 We needed more time.
 
-697
-00:37:37,565 --> 00:37:39,829
-♪ ♪
-
-698
-00:37:39,834 --> 00:37:41,468
+596
+00:37:39,453 --> 00:37:41,107
 He was right.
 
-699
-00:37:44,472 --> 00:37:47,470
-[EERIE MUSIC]
-
-700
-00:37:47,475 --> 00:37:51,680
-♪ ♪
-
-701
-00:37:58,386 --> 00:38:01,251
-- This is...
+597
+00:37:57,863 --> 00:38:00,909
+- This is--
 - My home.
 
-702
-00:38:01,256 --> 00:38:05,461
-♪ ♪
-
-703
-00:38:10,898 --> 00:38:13,600
+598
+00:38:10,527 --> 00:38:13,139
 I'm ready, Father.
 
-704
-00:38:20,174 --> 00:38:24,379
-♪ ♪
+599
+00:38:41,907 --> 00:38:44,605
+- Finally.
 
-705
-00:38:42,430 --> 00:38:44,994
-Finally.
-
-706
-00:38:44,999 --> 00:38:46,633
+600
+00:38:44,648 --> 00:38:46,172
 My son.
 
-707
-00:38:47,735 --> 00:38:50,333
+601
+00:38:47,303 --> 00:38:50,002
 What year is it on this Earth?
 
-708
-00:38:50,338 --> 00:38:52,735
-By their measurements, 1987.
+602
+00:38:50,045 --> 00:38:52,265
+- By their measurements, 1987.
 
-709
-00:38:52,740 --> 00:38:55,876
-And the Eradicator, you possess it?
+603
+00:38:52,308 --> 00:38:55,485
+- And the Eradicator,
+you possess it?
 
-710
-00:38:57,011 --> 00:38:58,474
-Not yet.
+604
+00:38:56,660 --> 00:38:58,053
+- Not yet.
 
-711
-00:38:58,479 --> 00:39:01,177
-Did I birth a fool for a son?
+605
+00:38:58,097 --> 00:39:00,839
+- Did I birth a fool
+for a son?
 
-712
-00:39:01,182 --> 00:39:03,179
+606
+00:39:00,882 --> 00:39:02,841
 Your mission was simple!
 
-713
-00:39:03,184 --> 00:39:06,553
-I've spent years searching,
+607
+00:39:02,884 --> 00:39:06,061
+- I've spent years searching,
 but it is still yet to arrive.
 
-714
-00:39:08,022 --> 00:39:09,585
-I see.
+608
+00:39:07,671 --> 00:39:09,064
+- I see.
 
-715
-00:39:09,590 --> 00:39:12,521
+609
+00:39:09,108 --> 00:39:12,111
 Well, we must prepare
 
-716
-00:39:12,526 --> 00:39:13,623
+610
+00:39:12,154 --> 00:39:13,242
 in the interim.
 
-717
-00:39:13,628 --> 00:39:15,725
+611
+00:39:13,286 --> 00:39:15,244
 I will train you myself.
 
-718
-00:39:15,730 --> 00:39:17,193
-Thank you, Father.
+612
+00:39:15,288 --> 00:39:16,855
+- Thank you, Father.
 
-719
-00:39:17,198 --> 00:39:19,796
-We must root out all weakness
+613
+00:39:16,898 --> 00:39:19,335
+- We must root out
+all weakness
 
-720
-00:39:19,801 --> 00:39:23,800
+614
+00:39:19,379 --> 00:39:23,339
 so that you can gain power
 in this world.
 
-721
-00:39:23,805 --> 00:39:27,036
-Were there any other
+615
+00:39:23,383 --> 00:39:26,647
+- Were there any other
 Kryptonians sent to join me?
 
-722
-00:39:27,041 --> 00:39:28,771
-[SIGHS]
-
-723
-00:39:28,776 --> 00:39:31,140
+616
+00:39:28,344 --> 00:39:30,999
 There's that weakness.
 
-724
-00:39:31,145 --> 00:39:33,109
+617
+00:39:31,043 --> 00:39:32,958
 You need no one, son.
 
-725
-00:39:33,114 --> 00:39:35,378
+618
+00:39:33,001 --> 00:39:35,047
 Only me. Is that understood?
 
-726
-00:39:35,383 --> 00:39:36,879
-Yes, sir.
+619
+00:39:35,090 --> 00:39:36,526
+- Yes, sir.
 
-727
-00:39:36,884 --> 00:39:40,016
-The first lesson is the measure of pain.
+620
+00:39:36,570 --> 00:39:39,616
+- The first lesson
+is the measure of pain.
 
-728
-00:39:40,021 --> 00:39:44,226
+621
+00:39:39,660 --> 00:39:44,143
 Its application being a tool
 of great strategic value.
 
-729
-00:39:44,659 --> 00:39:47,623
+622
+00:39:44,186 --> 00:39:47,102
 Although, in your case,
 
-730
-00:39:47,628 --> 00:39:51,433
+623
+00:39:47,146 --> 00:39:51,585
 it is necessary that you
 be able to withstand it.
 
-731
-00:39:51,999 --> 00:39:54,130
-♪ ♪
-
-732
-00:39:54,135 --> 00:39:56,870
-[SCREAMING]
-
-733
-00:40:01,776 --> 00:40:05,875
-- Here he is, Father.
+624
+00:40:01,334 --> 00:40:05,425
+Here he is, Father.
 - Son of Jor-El.
 
-734
-00:40:05,880 --> 00:40:09,078
+625
+00:40:05,468 --> 00:40:08,689
 The worst of Krypton.
 
-735
-00:40:09,083 --> 00:40:13,015
+626
+00:40:08,732 --> 00:40:12,606
 - You don't have to do this.
 - See how he begs?
 
-736
-00:40:13,020 --> 00:40:16,085
-His own weakness never stamped out.
+627
+00:40:12,649 --> 00:40:15,696
+His own weakness
+never stamped out.
 
-737
-00:40:16,090 --> 00:40:19,121
-He has vowed his submission, Father.
+628
+00:40:15,739 --> 00:40:18,742
+- He has vowed
+his submission, Father.
 
-738
-00:40:19,126 --> 00:40:23,131
+629
+00:40:18,786 --> 00:40:23,138
 - And the Eradicator?
 - Taken from his possession.
 
-739
-00:40:23,664 --> 00:40:26,495
-Then let us begin.
+630
+00:40:23,182 --> 00:40:26,185
+- Then let us begin.
 
-740
-00:40:26,500 --> 00:40:29,498
-[SOFT DRAMATIC MUSIC]
+631
+00:41:06,268 --> 00:41:08,967
+- John, it's happening.
 
-741
-00:40:29,503 --> 00:40:33,708
-♪ ♪
-
-742
-00:40:50,057 --> 00:40:53,093
-[DEVICE WHIRRING]
-
-743
-00:40:55,463 --> 00:40:57,564
-[DIAL TONE TRILLING]
-
-744
-00:40:59,567 --> 00:41:02,465
-[GROANING IN PAIN]
-
-745
-00:41:02,470 --> 00:41:06,535
-♪ ♪
-
-746
-00:41:06,540 --> 00:41:09,305
-John, it's happening.
-
-747
-00:41:09,310 --> 00:41:10,673
+632
+00:41:09,010 --> 00:41:10,142
 Just like you said it would.
 
-748
-00:41:10,678 --> 00:41:12,975
-♪ ♪
+633
+00:41:12,579 --> 00:41:14,973
+I think
+Superman's been turned.
 
-749
-00:41:12,980 --> 00:41:15,282
-I think Superman's been turned.
+634
+00:41:15,219 --> 00:41:40,219
+- Greg, move your head.
 
-750
-00:41:44,480 --> 00:41:46,280
-Greg, move your head.
-
-751
-00:41:46,285 --> 00:41:50,285
-- Synced and corrected by Firefly -
-- www.addic7ed.com -
