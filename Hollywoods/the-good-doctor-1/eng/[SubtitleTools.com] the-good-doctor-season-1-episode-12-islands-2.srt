@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,516 --> 00:00:02,414
-<i>Previously on "The Good Doctor"...</i>
+Previously on "The Good Doctor"...
 
 2
 00:00:02,469 --> 00:00:04,960
@@ -97,7 +97,7 @@ I'm going to Harvard, you know.
 
 25
 00:01:08,494 --> 00:01:16,233
-93, 86, 79, 72, 65.
+93. 86. 79. 72. 65.
 
 26
 00:01:16,235 --> 00:01:17,768
@@ -513,8 +513,8 @@ I would like to give two-weeks notice.
 
 122
 00:05:23,549 --> 00:05:26,550
-<font color="#0080ff">Synced & corrected by</font> kinglouisxx
-<font color="#0080ff">www.</font>addic7ed<font color="#0080ff">.com</font>
+Synced & corrected by kinglouisxx
+www.addic7ed.com
 
 123
 00:05:26,552 --> 00:05:33,590
@@ -854,7 +854,7 @@ We understand.
 
 202
 00:09:43,776 --> 00:09:45,909
-You <i>can't</i> understand.
+You can't understand.
 
 203
 00:09:45,911 --> 00:09:47,277
@@ -1539,7 +1539,7 @@ normal brain stem function, correct?
 359
 00:18:05,863 --> 00:18:08,404
 When a ventilator is removed,
-life <i>can</i> continue.
+life can continue.
 
 360
 00:18:08,475 --> 00:18:10,174
@@ -2714,7 +2714,7 @@ Katie will clot and die.
 
 636
 00:34:57,766 --> 00:35:00,301
-NURSE: Bring 10,000 units on board.
+NURSE: Bring 10.000 units on board.
 
 637
 00:35:00,303 --> 00:35:02,904
@@ -3183,7 +3183,7 @@ you were helpless ♪
 
 746
 00:41:32,803 --> 00:41:35,963
-- Remember, I said <i>borrow.</i>
+- Remember, I said borrow.
 - ♪ Can you love me? ♪
 
 747
@@ -3231,6 +3231,5 @@ you were helpless ♪
 
 757
 00:42:19,197 --> 00:42:23,397
-<font color="#0080ff">Synced & corrected by</font> kinglouisxx
-<font color="#0080ff">www.</font>addic7ed<font color="#0080ff">.com</font>
-
+Synced & corrected by kinglouisxx
+www.addic7ed.com

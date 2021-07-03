@@ -46,7 +46,7 @@ the second edition
 10
 00:00:24,957 --> 00:00:27,026
 of Chaikof's
-<i>Atlas of Vascular Therapy</i>
+Atlas of Vascular Therapy
 
 11
 00:00:27,093 --> 00:00:28,560
@@ -289,34 +289,34 @@ Subtitles by explosiveskull
 
 62
 00:02:24,911 --> 00:02:28,548
-<i>♪ When I saw the break of day</i>
+♪ When I saw the break of day
 
 63
 00:02:28,615 --> 00:02:32,585
-<i>♪ I wished that
-I could fly away</i>
+♪ I wished that
+I could fly away
 
 64
 00:02:32,651 --> 00:02:36,321
-<i>♪ Instead of kneeling
-in the sand</i>
+♪ Instead of kneeling
+in the sand
 
 65
 00:02:36,389 --> 00:02:41,427
-<i>♪ Catching teardrops
-in my hand</i>
+♪ Catching teardrops
+in my hand
 
 66
 00:02:41,493 --> 00:02:48,435
-<i>♪ My heart is drenched in wine</i>
+♪ My heart is drenched in wine
 
 67
 00:02:48,501 --> 00:02:54,441
-<i>♪ But you'll be on my mind</i>
+♪ But you'll be on my mind
 
 68
 00:02:54,507 --> 00:02:57,575
-<i>♪ Forever ♪</i>
+♪ Forever ♪
 
 69
 00:02:57,643 --> 00:02:58,645
@@ -501,7 +501,7 @@ like a lot of my friends had,
 
 108
 00:04:44,716 --> 00:04:47,853
-so I saved up 1,000 bucks.
+so I saved up 1.000 bucks.
 
 109
 00:04:48,454 --> 00:04:49,723
@@ -567,7 +567,7 @@ spinal cord injury
 123
 00:05:32,130 --> 00:05:35,901
 from the motorcycle accident that
-caused his paralysis was at T1,
+caused his paralysis was at T1.
 
 124
 00:05:35,968 --> 00:05:38,605
@@ -967,7 +967,7 @@ trying to prove that we belong.
 
 210
 00:09:17,249 --> 00:09:18,384
-EMMA: <i>I'm fine.</i>
+EMMA: I'm fine.
 
 211
 00:09:18,451 --> 00:09:20,319
@@ -1853,8 +1853,8 @@ She'll be back.
 
 399
 00:18:16,156 --> 00:18:18,325
-WOMAN: (ON PA) <i>Dr. Tolles to Obstetrics,
-please. Dr. Tolles to Obstetrics.</i>
+WOMAN: (ON PA) Dr. Tolles to Obstetrics,
+please. Dr. Tolles to Obstetrics.
 
 400
 00:18:18,390 --> 00:18:20,060
@@ -3320,8 +3320,8 @@ like you did for me.
 
 720
 00:37:29,771 --> 00:37:32,708
-<i>♪ Set your dreams
-where nobody hides</i>
+♪ Set your dreams
+where nobody hides
 
 721
 00:37:32,775 --> 00:37:35,144
@@ -3351,7 +3351,7 @@ I love it.
 
 727
 00:37:46,956 --> 00:37:50,292
-<i>♪ Give your tears to the tide</i>
+♪ Give your tears to the tide
 
 728
 00:37:50,360 --> 00:37:52,628
@@ -3386,7 +3386,7 @@ first and last.
 
 735
 00:38:09,378 --> 00:38:11,547
-<i>♪ No time</i>
+♪ No time
 
 736
 00:38:12,748 --> 00:38:14,016
@@ -3402,7 +3402,7 @@ How much do you need?
 
 739
 00:38:20,757 --> 00:38:22,659
-$2,500.
+$2.500.
 
 740
 00:38:22,726 --> 00:38:25,662
@@ -3438,8 +3438,8 @@ I'm good for it.
 
 747
 00:38:58,494 --> 00:39:01,965
-<i>♪ Set your dreams
-where nobody hides</i>
+♪ Set your dreams
+where nobody hides
 
 748
 00:39:02,032 --> 00:39:04,834
@@ -3490,8 +3490,8 @@ Ma Jong's Kung Pao.
 
 758
 00:39:26,789 --> 00:39:31,094
-<i>♪ Set your dreams
-where nobody hides</i>
+♪ Set your dreams
+where nobody hides
 
 759
 00:39:31,161 --> 00:39:32,994
@@ -3536,7 +3536,7 @@ Plain white rice?
 
 768
 00:39:51,847 --> 00:39:53,916
-<i>♪ No time</i>
+♪ No time
 
 769
 00:39:53,983 --> 00:39:55,618
@@ -3551,7 +3551,7 @@ your bad boy over there.
 771
 00:39:57,586 --> 00:39:58,987
 We can play some
-<i>Mortal Kombat.</i>
+Mortal Kombat.
 
 772
 00:39:59,054 --> 00:40:01,190
@@ -3563,7 +3563,7 @@ Come on.
 
 774
 00:40:05,293 --> 00:40:07,029
-<i>♪ No time ♪</i>
+♪ No time ♪
 
 775
 00:40:07,096 --> 00:40:09,132
@@ -3637,4 +3637,3 @@ SHAUN: You died.
 790
 00:40:46,594 --> 00:40:49,585
 Subtitles by explosiveskull
-

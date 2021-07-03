@@ -553,7 +553,7 @@ inside your house...
 
 131
 00:05:44,264 --> 00:05:46,898
-called 911, saved your life.
+called 911. saved your life.
 
 132
 00:05:47,581 --> 00:05:50,802
@@ -569,7 +569,7 @@ Me?
 
 135
 00:05:57,144 --> 00:05:59,778
-I know how old <i>I</i> am.
+I know how old I am.
 
 136
 00:05:59,780 --> 00:06:01,678
@@ -762,7 +762,7 @@ Yes. Lots of things.
 
 181
 00:08:25,992 --> 00:08:30,361
-32 and 8. 32, 8.
+32 and 8. 32. 8.
 
 182
 00:08:30,363 --> 00:08:33,498
@@ -984,12 +984,12 @@ Guess he has an idea.
 
 232
 00:10:39,557 --> 00:10:41,023
-LOUDSPEAKER: <i>We have a code green.</i>
+LOUDSPEAKER: We have a code green.
 
 233
 00:10:41,025 --> 00:10:44,092
-<i>Patient is a Caucasian male,
-73 years of age.</i>
+Patient is a Caucasian male,
+73 years of age.
 
 234
 00:10:46,729 --> 00:10:48,548
@@ -1010,7 +1010,7 @@ Why?
 
 238
 00:10:54,705 --> 00:10:58,240
-I want $1,643.
+I want $1.643.
 
 239
 00:10:58,242 --> 00:11:00,042
@@ -1028,7 +1028,7 @@ What do you want the money for?
 242
 00:11:05,616 --> 00:11:08,851
 - I want to buy a television.
-- $1,600 for a television?
+- $1.600 for a television?
 
 243
 00:11:08,853 --> 00:11:11,453
@@ -1054,11 +1054,11 @@ I'm not a child, pal.
 
 248
 00:11:20,431 --> 00:11:22,631
-How 'bout $1,000 for a television?
+How 'bout $1.000 for a television?
 
 249
 00:11:22,633 --> 00:11:25,567
-No. The one I want is $1,643, okay?
+No. The one I want is $1.643. okay?
 
 250
 00:11:25,569 --> 00:11:27,402
@@ -1199,11 +1199,11 @@ if they found your code green.
 
 281
 00:13:05,234 --> 00:13:08,537
-<i>Uh, this is Doctor...</i>
+Uh, this is Doctor...
 
 282
 00:13:08,896 --> 00:13:10,339
-<i>This is Shaun.</i>
+This is Shaun.
 
 283
 00:13:10,341 --> 00:13:12,641
@@ -1211,12 +1211,12 @@ I an hear you when you speak.
 
 284
 00:13:12,643 --> 00:13:14,944
-<i>I was thinking about something.</i>
+I was thinking about something.
 
 285
 00:13:15,512 --> 00:13:20,148
-<i>There are 24 steps
-from the ambulance to the E.R.</i>
+There are 24 steps
+from the ambulance to the E.R.
 
 286
 00:13:22,685 --> 00:13:25,620
@@ -1243,7 +1243,7 @@ Yes.
 
 291
 00:13:44,182 --> 00:13:47,843
-There are <i>22</i> steps
+There are 22 steps
 from the ambulance to the E.R.
 
 292
@@ -1265,7 +1265,7 @@ from the elevator to room 405.
 
 296
 00:14:06,897 --> 00:14:11,700
-In room 405,
+In room 405.
 there are 6 steps to the sink...
 
 297
@@ -1295,7 +1295,7 @@ Three steps to...
 
 303
 00:14:26,283 --> 00:14:27,449
-<i>Three...</i>
+Three...
 
 304
 00:14:27,451 --> 00:14:29,751
@@ -1303,8 +1303,8 @@ Three steps to...
 
 305
 00:14:29,753 --> 00:14:33,755
-<i>It's seven steps...
-It's seven steps to the door.</i>
+It's seven steps...
+It's seven steps to the door.
 
 306
 00:14:33,757 --> 00:14:36,818
@@ -1333,7 +1333,7 @@ Seven... You're doing wonderfully, honey.
 
 312
 00:14:45,436 --> 00:14:49,304
-<i>Just breathe. Just breathe.</i>
+Just breathe. Just breathe.
 
 313
 00:14:49,306 --> 00:14:52,441
@@ -1398,7 +1398,7 @@ I broke my pacer on purpose.
 
 328
 00:15:54,438 --> 00:15:56,771
-I <i>want</i> to die.
+I want to die.
 
 329
 00:15:56,773 --> 00:16:00,375
@@ -1975,7 +1975,7 @@ from whatever school they sent me off to.
 
 464
 00:22:20,129 --> 00:22:23,492
-When I was 18,
+When I was 18.
 I decided that I was fed up.
 
 465
@@ -2420,7 +2420,7 @@ I mean, I can do
 
 567
 00:27:20,699 --> 00:27:23,533
-the <i>New York Times</i> crossword
+the New York Times crossword
 puzzle in one sitting.
 
 568
@@ -2646,7 +2646,7 @@ everyone responds differently.
 
 620
 00:30:16,841 --> 00:30:20,677
-The thing is everyone <i>responds.</i>
+The thing is everyone responds.
 
 621
 00:30:21,579 --> 00:30:23,012
@@ -2827,12 +2827,12 @@ Time of incision... 2:05 P.M.
 663
 00:32:37,897 --> 00:32:39,630
 - [CELLPHONE VIBRATES]
-- LOUDSPEAKER: <i>We have a code green...</i>
+- LOUDSPEAKER: We have a code green...
 
 664
 00:32:39,632 --> 00:32:41,802
-<i>- patient is a Caucasian male,
-- [CELLPHONE BEEPS]</i>
+- patient is a Caucasian male,
+- [CELLPHONE BEEPS]
 
 665
 00:32:41,802 --> 00:32:42,809
@@ -3451,7 +3451,7 @@ and... get rid of the ball!
 813
 00:40:48,926 --> 00:40:52,060
 He was the first quarterback
-picked in 2013,
+picked in 2013.
 
 814
 00:40:52,062 --> 00:40:55,830
@@ -3552,4 +3552,3 @@ www.addic7ed.com
 836
 00:41:53,966 --> 00:41:57,780
 [TVS PLAY INDISTINCTLY]
-
