@@ -1,0 +1,2935 @@
+﻿1
+00:00:11,670 --> 00:00:13,540
+<i>Previously on "The Walking Dead"...</i>
+
+2
+00:00:13,540 --> 00:00:15,950
+Alexandria is willing
+to grant asylum to Lydia.
+
+3
+00:00:15,950 --> 00:00:17,160
+She's one of us now.
+
+4
+00:00:17,160 --> 00:00:19,020
+<font color="#138ce9">LYDIA:</font> Hilltop's in
+danger, it's 'cause of me.
+
+5
+00:00:19,020 --> 00:00:22,020
+Please, Mama, I just want you to go.
+
+6
+00:00:22,030 --> 00:00:24,550
+I was just trying to make you strong.
+
+7
+00:00:24,550 --> 00:00:26,730
+But you're not one of us.
+
+8
+00:00:26,730 --> 00:00:28,530
+You never were.
+
+9
+00:00:28,530 --> 00:00:30,900
+I've marked the border to the north.
+
+10
+00:00:30,900 --> 00:00:32,530
+You'll see it as you leave.
+
+11
+00:00:32,540 --> 00:00:34,900
+Your friends will be waiting
+for you in a field due north.
+
+12
+00:00:34,910 --> 00:00:36,040
+<font color="#ffff00">♪</font>
+
+13
+00:00:36,040 --> 00:00:37,910
+<font color="#ff00ff">[HEADS GROANING]</font>
+
+14
+00:00:37,910 --> 00:00:39,610
+No! Don't look.
+
+15
+00:00:39,610 --> 00:00:41,380
+Don't look.
+
+16
+00:00:43,880 --> 00:00:48,850
+<font color="#ff00ff">[RADIO STATIC]</font>
+
+17
+00:00:48,850 --> 00:00:51,850
+<font color="#138ce9">EZEKIEL:</font> <i>Finally broke.</i>
+
+18
+00:00:51,860 --> 00:00:53,570
+<i>And we can't fix it.</i>
+
+19
+00:00:56,570 --> 00:01:00,500
+I kept trying to hold on.
+
+20
+00:01:00,500 --> 00:01:02,300
+We did.
+
+21
+00:01:06,070 --> 00:01:08,140
+But things fall apart.
+
+22
+00:01:08,140 --> 00:01:10,070
+<font color="#ff00ff">[PIPES HISSING, PIPES RATTLING]</font>
+
+23
+00:01:10,070 --> 00:01:13,910
+<font color="#ffff00">♪</font>
+
+24
+00:01:13,910 --> 00:01:15,250
+<i>The cold set in.</i>
+
+25
+00:01:16,380 --> 00:01:18,550
+<i>Fires raged.</i>
+
+26
+00:01:20,620 --> 00:01:22,090
+<i>The rot spread.</i>
+
+27
+00:01:22,090 --> 00:01:28,520
+<font color="#ffff00">♪</font>
+
+28
+00:01:28,530 --> 00:01:30,130
+<i>It's knowing when to keep fighting</i>
+
+29
+00:01:30,130 --> 00:01:34,490
+<i>and knowing when it's over.</i>
+
+30
+00:01:34,500 --> 00:01:40,370
+<font color="#ffff00">♪</font>
+
+31
+00:01:40,370 --> 00:01:42,700
+<i>If only for now.</i>
+
+32
+00:01:42,710 --> 00:01:48,380
+<font color="#ffff00">♪</font>
+
+33
+00:01:48,380 --> 00:01:49,640
+<i>We need help.</i>
+
+34
+00:01:49,650 --> 00:01:52,850
+<font color="#ffff00">♪</font>
+
+35
+00:01:52,850 --> 00:01:54,550
+<i>Shelter.</i>
+
+36
+00:01:55,720 --> 00:01:58,290
+<i>From the storms to come.</i>
+
+37
+00:01:58,950 --> 00:02:00,550
+<font color="#138ce9">DARYL:</font> Make sure you eat something.
+
+38
+00:02:00,560 --> 00:02:03,720
+We gotta get these folks to Hilltop.
+
+39
+00:02:03,730 --> 00:02:09,110
+<font color="#ffff00">♪</font>
+
+40
+00:02:09,200 --> 00:02:14,420
+<font color="#ffff00">♪</font>
+
+41
+00:02:14,420 --> 00:02:16,570
+<i>But we'll never forget</i>
+
+42
+00:02:16,570 --> 00:02:19,070
+<i>the magic we felt in this place.</i>
+
+43
+00:02:19,070 --> 00:02:25,380
+<font color="#ffff00">♪</font>
+
+44
+00:02:25,440 --> 00:02:31,720
+<font color="#ffff00">♪</font>
+
+45
+00:02:31,720 --> 00:02:33,520
+<i>The love.</i>
+
+46
+00:02:33,520 --> 00:02:41,530
+<font color="#ffff00">♪</font>
+
+47
+00:02:41,600 --> 00:02:49,560
+<font color="#ffff00">♪</font>
+
+48
+00:02:49,670 --> 00:02:57,740
+<font color="#ffff00">♪</font>
+
+49
+00:02:57,750 --> 00:03:01,210
+<i>The acts of courage.</i>
+
+50
+00:03:01,220 --> 00:03:02,950
+<font color="#ffff00">♪</font>
+
+51
+00:03:02,950 --> 00:03:05,780
+<i>Cowards die many times
+before their deaths.</i>
+
+52
+00:03:05,790 --> 00:03:14,290
+<font color="#ffff00">♪</font>
+
+53
+00:03:14,290 --> 00:03:19,530
+<i>The valiant never taste of death but once.</i>
+
+54
+00:03:19,530 --> 00:03:23,770
+<font color="#ffff00">♪</font>
+
+55
+00:03:23,770 --> 00:03:25,870
+<i>They were the valiant.</i>
+
+56
+00:03:25,870 --> 00:03:28,610
+<font color="#138ce9">EZEKIEL:</font> <font color="#ff00ff">[BLOWS]</font>
+
+57
+00:03:28,610 --> 00:03:37,840
+<font color="#ffff00">♪</font>
+
+58
+00:03:37,920 --> 00:03:47,080
+<font color="#ffff00">♪</font>
+
+59
+00:03:47,160 --> 00:03:56,400
+<font color="#ffff00">♪</font>
+
+60
+00:03:56,470 --> 00:04:05,700
+<font color="#ffff00">♪</font>
+
+61
+00:04:05,780 --> 00:04:15,010
+<font color="#ffff00">♪</font>
+
+62
+00:04:15,090 --> 00:04:24,330
+<font color="#ffff00">♪</font>
+
+63
+00:04:24,390 --> 00:04:33,640
+<font color="#ffff00">♪</font>
+
+64
+00:04:33,640 --> 00:04:37,440
+<i>As we head into an uncertain future,</i>
+
+65
+00:04:37,440 --> 00:04:40,040
+<i>we must be valiant, too...</i>
+
+66
+00:04:40,040 --> 00:04:41,600
+<i>All of us.</i>
+
+67
+00:04:41,610 --> 00:04:43,280
+<font color="#ffff00">♪</font>
+
+68
+00:04:43,280 --> 00:04:44,880
+<i>Together.</i>
+
+69
+00:04:44,880 --> 00:04:49,620
+<font color="#ffff00">♪</font>
+
+70
+00:04:49,670 --> 00:04:53,410
+<font color="#ffff00">♪</font>
+
+71
+00:05:18,360 --> 00:05:33,460
+<font color="#ff00ff">- Sync and corrections by VitoSilans</font><font color="#138ce9"> - www.addic7ed.com -</font>
+<font color="#ffff00">Colored HI by </font><font color="#f0100f">GoldBerg_44</font>
+
+72
+00:05:42,670 --> 00:05:45,370
+<font color="#ff00ff">[HORSES WHINNY]</font>
+
+73
+00:05:47,950 --> 00:05:50,210
+<font color="#ff00ff">[WOMAN COUGHS]</font>
+
+74
+00:05:50,220 --> 00:05:52,580
+<font color="#138ce9">MICHONNE:</font> No one can
+agree on what to do next.
+
+75
+00:05:52,590 --> 00:05:57,520
+And the Council cannot come
+to any security resolutions?
+
+76
+00:05:57,520 --> 00:05:59,890
+Everyone's still reeling,
+
+77
+00:05:59,890 --> 00:06:03,060
+between Jesus, Tara,
+and the others we lost.
+
+78
+00:06:03,060 --> 00:06:05,370
+And still nothing from Maggie.
+
+79
+00:06:05,370 --> 00:06:07,150
+The Council sent another letter,
+
+80
+00:06:07,150 --> 00:06:11,210
+but... we haven't heard anything back.
+
+81
+00:06:11,210 --> 00:06:12,970
+Well...
+
+82
+00:06:12,980 --> 00:06:15,080
+<font color="#ff00ff">[HORSES WHINNY]</font>
+
+83
+00:06:15,080 --> 00:06:17,580
+<font color="#ff00ff">[HORSE SNORTS]</font>
+
+84
+00:06:17,580 --> 00:06:20,820
+<font color="#ff00ff">[HORSE WHINNIES]</font>
+
+85
+00:06:23,020 --> 00:06:26,350
+<font color="#ff00ff">[HORSE WHINNIES]</font>
+
+86
+00:06:26,360 --> 00:06:29,390
+<font color="#ff00ff">[PEOPLE WHISPERING INDISTINCTLY]</font>
+
+87
+00:06:29,390 --> 00:06:31,990
+<font color="#138ce9">ALDEN:</font> Is that them?
+
+88
+00:06:31,990 --> 00:06:34,530
+People watching us now, huh?
+
+89
+00:06:36,600 --> 00:06:39,070
+Well, we followed their rules.
+
+90
+00:06:39,070 --> 00:06:40,870
+Haven't they done enough to us?
+
+91
+00:06:40,870 --> 00:06:42,540
+<font color="#138ce9">DARYL:</font> Hey.
+
+92
+00:06:42,540 --> 00:06:44,710
+Why don't you lay off.
+
+93
+00:06:50,510 --> 00:06:53,250
+You don't have to protect me.
+
+94
+00:06:53,250 --> 00:06:55,420
+I know how they feel about me.
+
+95
+00:06:55,420 --> 00:06:58,250
+No. Don't mean they get
+to talk to you like that.
+
+96
+00:07:01,690 --> 00:07:04,050
+Just I don't want to
+cause any more problems.
+
+97
+00:07:07,750 --> 00:07:10,200
+It's their problem, not yours.
+
+98
+00:07:14,140 --> 00:07:19,370
+<font color="#ffff00">♪</font>
+
+99
+00:07:19,370 --> 00:07:28,550
+<font color="#ff00ff">[WALKER GROWLING]</font>
+
+100
+00:07:28,550 --> 00:07:35,460
+<font color="#ffff00">♪</font>
+
+101
+00:07:35,540 --> 00:07:42,390
+<font color="#ffff00">♪</font>
+
+102
+00:07:42,400 --> 00:07:46,100
+Henry wanted her here.
+
+103
+00:07:46,100 --> 00:07:48,400
+When no one else did.
+
+104
+00:07:48,400 --> 00:07:50,640
+<font color="#ffff00">♪</font>
+
+105
+00:07:50,640 --> 00:07:53,610
+She's a good kid.
+
+106
+00:07:53,610 --> 00:07:56,840
+Every time I look at
+her, all I see is him.
+
+107
+00:07:56,840 --> 00:08:02,020
+<font color="#ffff00">♪</font>
+
+108
+00:08:02,020 --> 00:08:04,020
+Who do you see when you look at me?
+
+109
+00:08:08,690 --> 00:08:10,420
+I see you.
+
+110
+00:08:10,430 --> 00:08:14,760
+<font color="#ffff00">♪</font>
+
+111
+00:08:14,760 --> 00:08:16,160
+<font color="#138ce9">JERRY:</font> Hey, boss?
+
+112
+00:08:16,160 --> 00:08:19,430
+Barometer's taking a nosedive.
+
+113
+00:08:19,430 --> 00:08:22,870
+We've got a mother of a storm coming.
+
+114
+00:08:22,870 --> 00:08:24,540
+We'll have to travel through the night
+
+115
+00:08:24,540 --> 00:08:26,820
+if we have any hope of making
+it to the next way station
+
+116
+00:08:26,820 --> 00:08:27,840
+before it hits.
+
+117
+00:08:27,840 --> 00:08:36,210
+<font color="#ffff00">♪</font>
+
+118
+00:08:36,220 --> 00:08:39,150
+<font color="#ff00ff">[TUNING KNOB RATTLES]</font>
+
+119
+00:08:39,150 --> 00:08:41,290
+<font color="#ff00ff">[SIGHS]</font> They're both dead.
+
+120
+00:08:41,290 --> 00:08:43,790
+Well...
+
+121
+00:08:45,390 --> 00:08:47,530
+We could keep each other warm.
+
+122
+00:08:47,530 --> 00:08:50,130
+Uh, the peanut's listening. <font color="#ff00ff">[CHUCKLES]</font>
+
+123
+00:08:50,130 --> 00:08:52,490
+<font color="#ff00ff">[DOOR OPENS, CLOSES]</font>
+
+124
+00:08:52,490 --> 00:08:53,890
+<font color="#138ce9">EUGENE:</font> I did the systems check
+
+125
+00:08:53,890 --> 00:08:55,700
+on the state of the array, as requested,
+
+126
+00:08:55,700 --> 00:08:57,800
+and the solar panels are no bueno.
+
+127
+00:08:57,800 --> 00:09:00,140
+Best bet is to go old
+school to keep toasty.
+
+128
+00:09:00,140 --> 00:09:02,810
+I'd advise initiating winter
+one ice-storm protocol.
+
+129
+00:09:05,860 --> 00:09:08,620
+<font color="#138ce9">GABRIEL:</font> The meeting room,
+Aaron's house, and Barbara's
+
+130
+00:09:08,630 --> 00:09:10,150
+have the largest working fireplaces.
+
+131
+00:09:10,150 --> 00:09:11,300
+We'll divide into those.
+
+132
+00:09:11,300 --> 00:09:12,320
+I'll get the word out.
+
+133
+00:09:12,330 --> 00:09:13,960
+We'll gather up dry firewood, stock up,
+
+134
+00:09:13,960 --> 00:09:15,550
+get cozy, and ride it out.
+
+135
+00:09:15,560 --> 00:09:17,590
+We can't leave Negan.
+
+136
+00:09:18,860 --> 00:09:21,490
+He'll freeze down there.
+
+137
+00:09:22,900 --> 00:09:25,500
+We have to let him out.
+
+138
+00:09:25,500 --> 00:09:28,830
+<font color="#ff00ff">[HORSES WHINNYING]</font>
+
+139
+00:09:34,570 --> 00:09:41,510
+<font color="#ff00ff">[HORSES WHINNYING]</font>
+
+140
+00:09:41,510 --> 00:09:48,590
+<font color="#ff00ff">[GROWLING]</font>
+
+141
+00:10:01,930 --> 00:10:03,790
+Keep going.
+
+142
+00:10:03,800 --> 00:10:05,270
+We'll catch up.
+
+143
+00:10:39,830 --> 00:10:42,640
+<font color="#138ce9">EZEKIEL:</font> You given much thought
+to your plans after this?
+
+144
+00:10:42,640 --> 00:10:43,910
+No, unh-unh.
+
+145
+00:10:43,910 --> 00:10:45,270
+Why?
+
+146
+00:10:45,280 --> 00:10:46,810
+The past few months
+
+147
+00:10:46,810 --> 00:10:49,750
+have been difficult for Carol and I.
+
+148
+00:10:49,750 --> 00:10:52,950
+I'm hoping for a fresh
+start with her at Hilltop,
+
+149
+00:10:52,950 --> 00:10:55,580
+and it'd be easier if it was just us.
+
+150
+00:10:58,490 --> 00:11:00,850
+You think that's what Carol wants?
+
+151
+00:11:00,850 --> 00:11:03,690
+Carol wants the same thing I do.
+
+152
+00:11:03,700 --> 00:11:05,430
+To hold our son again.
+
+153
+00:11:10,530 --> 00:11:12,250
+Shit.
+
+154
+00:11:12,260 --> 00:11:15,520
+I'm not trying to be
+a bad guy here, man.
+
+155
+00:11:15,530 --> 00:11:19,470
+I just want to get back
+a piece of what I lost.
+
+156
+00:11:19,480 --> 00:11:21,040
+What we lost.
+
+157
+00:11:24,980 --> 00:11:27,320
+After everything,
+
+158
+00:11:27,320 --> 00:11:30,220
+you think you could give me that?
+
+159
+00:11:46,240 --> 00:11:53,240
+<font color="#ff00ff">[BREATHING SHAKILY]</font>
+
+160
+00:11:59,220 --> 00:12:05,490
+<font color="#ffff00">♪</font>
+
+161
+00:12:05,490 --> 00:12:09,560
+<font color="#ff00ff">[BREATHING SHAKILY]</font>
+
+162
+00:12:12,260 --> 00:12:17,500
+<font color="#ff00ff">[GROWLING]</font>
+
+163
+00:12:17,500 --> 00:12:26,490
+<font color="#ffff00">♪</font>
+
+164
+00:12:26,560 --> 00:12:34,350
+<font color="#ffff00">♪</font>
+
+165
+00:12:34,350 --> 00:12:40,120
+<font color="#ff00ff">[GROWLING CONTINUES]</font>
+
+166
+00:12:40,120 --> 00:12:48,960
+<font color="#ffff00">♪</font>
+
+167
+00:12:49,020 --> 00:12:57,830
+<font color="#ffff00">♪</font>
+
+168
+00:12:57,910 --> 00:13:06,690
+<font color="#ffff00">♪</font>
+
+169
+00:13:06,780 --> 00:13:15,660
+<font color="#ffff00">♪</font>
+
+170
+00:13:15,740 --> 00:13:24,510
+<font color="#ffff00">♪</font>
+
+171
+00:13:24,570 --> 00:13:33,440
+<font color="#ffff00">♪</font>
+
+172
+00:13:33,510 --> 00:13:42,310
+<font color="#ffff00">♪</font>
+
+173
+00:13:42,400 --> 00:13:51,190
+<font color="#ffff00">♪</font>
+
+174
+00:13:51,190 --> 00:13:52,920
+<font color="#ff00ff">[BRANCHES RUSTLE]</font>
+
+175
+00:13:52,930 --> 00:13:56,660
+<font color="#ffff00">♪</font>
+
+176
+00:13:56,660 --> 00:14:06,240
+<font color="#ff00ff">[GROWLING CONTINUES]</font>
+
+177
+00:14:06,240 --> 00:14:11,250
+<font color="#ffff00">♪</font>
+
+178
+00:14:11,310 --> 00:14:16,350
+<font color="#ffff00">♪</font>
+
+179
+00:14:16,350 --> 00:14:17,820
+<font color="#ff00ff">[GROWLING CONTINUES]</font>
+
+180
+00:14:17,820 --> 00:14:19,150
+<font color="#ffff00">♪</font>
+
+181
+00:14:19,150 --> 00:14:20,820
+<font color="#138ce9">JERRY:</font> Weather's already kicking in.
+
+182
+00:14:20,820 --> 00:14:23,020
+Even if we hauled ass
+overnight, we'd never make it.
+
+183
+00:14:23,020 --> 00:14:24,520
+<font color="#138ce9">AARON:</font> We need to get off the roads,
+
+184
+00:14:24,520 --> 00:14:26,630
+find shelter between here
+and the next way station.
+
+185
+00:14:28,360 --> 00:14:31,330
+You have a place in mind?
+
+186
+00:14:31,330 --> 00:14:32,600
+Yeah.
+
+187
+00:14:32,600 --> 00:14:34,600
+<font color="#ff00ff">[DOOR CLANGS]</font>
+
+188
+00:14:34,600 --> 00:14:39,740
+<font color="#ff00ff">[ALL BREATHING HEAVILY]</font>
+
+189
+00:14:39,740 --> 00:14:41,570
+<font color="#ffff00">♪</font>
+
+190
+00:14:41,570 --> 00:14:44,780
+<font color="#138ce9">MAGNA:</font> People actually lived here?
+
+191
+00:14:44,780 --> 00:14:48,080
+Welcome to the Sanctuary.
+
+192
+00:14:48,080 --> 00:14:52,170
+<font color="#ffff00">♪</font>
+
+193
+00:14:56,790 --> 00:14:59,690
+<font color="#ff00ff">[WIND HOWLING]</font>
+
+194
+00:14:59,690 --> 00:15:01,380
+I swear to God,
+
+195
+00:15:01,380 --> 00:15:08,600
+I have memorized every
+square inch of this room.
+
+196
+00:15:08,600 --> 00:15:11,000
+And it still feels like a party.
+
+197
+00:15:11,000 --> 00:15:13,370
+<font color="#ff00ff">[LAUGHS]</font>
+
+198
+00:15:13,370 --> 00:15:15,470
+A never-ending party from hell.
+
+199
+00:15:16,540 --> 00:15:18,040
+I mean, sure, all right.
+
+200
+00:15:18,040 --> 00:15:20,610
+It smells like a goddamn barn in here,
+
+201
+00:15:20,610 --> 00:15:21,880
+all bored shitless, but...
+
+202
+00:15:21,880 --> 00:15:23,510
+Language!
+
+203
+00:15:23,520 --> 00:15:25,280
+Sorry.
+
+204
+00:15:25,280 --> 00:15:27,220
+Sorry, kiddo.
+
+205
+00:15:27,220 --> 00:15:29,100
+But, I mean, we've got ourselves
+
+206
+00:15:29,100 --> 00:15:31,950
+this hot little love quadrangle here
+
+207
+00:15:31,960 --> 00:15:33,890
+to entertain us.
+
+208
+00:15:33,890 --> 00:15:36,240
+It's like Christmas to me.
+
+209
+00:15:36,240 --> 00:15:37,890
+<font color="#138ce9">SIDDIQ:</font> Well, maybe
+they're just as miserable
+
+210
+00:15:37,900 --> 00:15:39,230
+at Aaron's or Barbara's.
+
+211
+00:15:39,230 --> 00:15:40,830
+<font color="#138ce9">ROSITA:</font> Mm.
+
+212
+00:15:40,830 --> 00:15:44,630
+Gabe, your girl's doc
+
+213
+00:15:44,640 --> 00:15:47,240
+is also your girl's baby daddy,
+
+214
+00:15:47,240 --> 00:15:49,370
+which kind of begs the question...
+
+215
+00:15:49,370 --> 00:15:50,670
+Do you ever wonder
+
+216
+00:15:50,680 --> 00:15:52,640
+what the hell was going on in there
+
+217
+00:15:52,640 --> 00:15:54,400
+when she has her "appointments"?
+
+218
+00:15:56,080 --> 00:15:58,150
+You could try to be a
+little less predictable.
+
+219
+00:15:58,150 --> 00:15:59,340
+Ahh.
+
+220
+00:15:59,350 --> 00:16:01,580
+That hurts, Gabe, truly.
+
+221
+00:16:01,590 --> 00:16:03,720
+You know, we're all grown-ups here.
+
+222
+00:16:03,720 --> 00:16:05,920
+And none of us would ever let that ruin
+
+223
+00:16:05,920 --> 00:16:09,890
+the longstanding friendships
+and mutual respect we have.
+
+224
+00:16:09,890 --> 00:16:12,760
+You know what? You're right.
+
+225
+00:16:12,760 --> 00:16:17,540
+That is a very mature attitude,
+Father "Not The Father."
+
+226
+00:16:17,540 --> 00:16:18,670
+<font color="#ff00ff">[LAUGHS]</font>
+
+227
+00:16:18,670 --> 00:16:20,540
+Ha!
+
+228
+00:16:20,540 --> 00:16:23,340
+Is that unpredictable enough for you?
+
+229
+00:16:25,940 --> 00:16:30,110
+Jude, don't sit so close to the window.
+
+230
+00:16:33,310 --> 00:16:36,730
+Hey, kiddo, you still
+worried about that mutt?
+
+231
+00:16:36,730 --> 00:16:38,670
+<font color="#138ce9">JUDITH:</font> Daryl told
+me to take care of him
+
+232
+00:16:38,670 --> 00:16:43,360
+while he helped the
+Kingdom move to Hilltop.
+
+233
+00:16:43,360 --> 00:16:45,230
+I don't know where he is.
+
+234
+00:16:50,340 --> 00:16:52,100
+Does anybody else smell something?
+
+235
+00:16:52,100 --> 00:16:54,070
+Can you stop being such an asshole?
+
+236
+00:16:54,070 --> 00:16:55,140
+<font color="#138ce9">ROSITA:</font> No, he's right.
+
+237
+00:16:55,140 --> 00:16:56,710
+Something does smell funky in here.
+
+238
+00:16:59,910 --> 00:17:01,440
+Get away from there.
+
+239
+00:17:01,450 --> 00:17:03,650
+<font color="#ffff00">♪</font>
+
+240
+00:17:03,650 --> 00:17:06,050
+<font color="#ff00ff">[EXPLOSION]</font>
+
+241
+00:17:08,550 --> 00:17:11,250
+<font color="#138ce9">EUGENE:</font> As I suspected.
+
+242
+00:17:11,260 --> 00:17:13,220
+The chimney flue is
+completely gunkified.
+
+243
+00:17:13,230 --> 00:17:14,570
+What singed your nostrils earlier
+
+244
+00:17:14,570 --> 00:17:17,350
+was no doubt a toxic
+mixture of creosote and H2O.
+
+245
+00:17:22,540 --> 00:17:24,470
+Blizzard's done some
+tearing and blaring.
+
+246
+00:17:24,470 --> 00:17:26,960
+And our chimney's ventilation
+capabilities are nil to none.
+
+247
+00:17:26,960 --> 00:17:29,400
+It'd be unwise to spark up another blaze
+
+248
+00:17:29,410 --> 00:17:31,840
+lest we plan on ceasing
+all respiratory functions,
+
+249
+00:17:31,840 --> 00:17:34,310
+a.k.a. smoking and choking.
+
+250
+00:17:34,310 --> 00:17:37,480
+God, I missed you, Eugene.
+
+251
+00:17:37,480 --> 00:17:39,250
+I can't say the same.
+
+252
+00:17:49,430 --> 00:17:50,920
+You know, without a fire,
+
+253
+00:17:50,930 --> 00:17:53,030
+we'll never get these
+people warm enough.
+
+254
+00:17:53,030 --> 00:17:54,860
+<font color="#ff00ff">[SIGHS]</font> Yeah, we should leave
+
+255
+00:17:54,860 --> 00:17:56,760
+before the temperature drops any lower.
+
+256
+00:17:56,770 --> 00:18:01,270
+Okay, folks, contingency plan.
+
+257
+00:18:01,270 --> 00:18:03,970
+We're going to Aaron's house.
+
+258
+00:18:03,970 --> 00:18:07,710
+It'll be tight quarters,
+but we'll make it work.
+
+259
+00:18:15,890 --> 00:18:17,180
+Seriously?
+
+260
+00:18:18,790 --> 00:18:22,660
+Not one of you assholes
+is gonna untie me?
+
+261
+00:18:22,660 --> 00:18:26,290
+We could tell Michonne
+it was an accident.
+
+262
+00:18:26,300 --> 00:18:32,800
+<font color="#ffff00">♪</font>
+
+263
+00:18:32,800 --> 00:18:34,500
+<font color="#138ce9">GABRIEL:</font> Okay, okay.
+
+264
+00:18:34,500 --> 00:18:39,810
+<font color="#ffff00">♪</font>
+
+265
+00:18:39,870 --> 00:18:45,140
+<font color="#ffff00">♪</font>
+
+266
+00:18:45,150 --> 00:18:50,520
+<font color="#ff00ff">[WIND HOWLING]</font>
+
+267
+00:18:50,520 --> 00:18:57,160
+<font color="#ffff00">♪</font>
+
+268
+00:18:57,260 --> 00:19:04,030
+<font color="#ffff00">♪</font>
+
+269
+00:19:04,120 --> 00:19:10,770
+<font color="#ffff00">♪</font>
+
+270
+00:19:10,770 --> 00:19:12,440
+<font color="#ff00ff">[EXHALES SHARPLY]</font>
+
+271
+00:19:20,750 --> 00:19:22,120
+You okay?
+
+272
+00:19:22,120 --> 00:19:23,550
+Mm.
+
+273
+00:19:26,960 --> 00:19:28,820
+Yeah.
+
+274
+00:19:31,660 --> 00:19:33,960
+We're gonna make it.
+
+275
+00:19:33,970 --> 00:19:35,760
+All right?
+
+276
+00:19:35,760 --> 00:19:36,900
+We will.
+
+277
+00:19:36,900 --> 00:19:38,760
+Yeah.
+
+278
+00:19:42,440 --> 00:19:45,500
+Something happened back
+there with you and Ezekiel?
+
+279
+00:19:45,510 --> 00:19:47,110
+No.
+
+280
+00:19:54,010 --> 00:19:55,210
+He only blames you
+
+281
+00:19:55,220 --> 00:19:57,880
+because he can't let himself blame me.
+
+282
+00:20:06,260 --> 00:20:08,600
+I feel like I'm losing myself again.
+
+283
+00:20:13,590 --> 00:20:15,600
+<font color="#ff00ff">[VOICE BREAKING]</font>
+I'm really trying to hang on,
+
+284
+00:20:15,600 --> 00:20:18,020
+but I don't...
+
+285
+00:20:18,030 --> 00:20:19,670
+I don't know what I'm doing.
+
+286
+00:20:23,540 --> 00:20:25,040
+<font color="#ff00ff">[EXHALES SHARPLY]</font>
+
+287
+00:20:30,270 --> 00:20:33,340
+I could take her away from here.
+
+288
+00:20:33,340 --> 00:20:35,410
+I can keep her safe on my own.
+
+289
+00:20:36,200 --> 00:20:37,660
+You want to go?
+
+290
+00:20:40,360 --> 00:20:42,060
+No.
+
+291
+00:20:44,960 --> 00:20:48,900
+No, I don't.
+
+292
+00:20:48,900 --> 00:20:51,200
+What do you want me to do?
+
+293
+00:21:00,410 --> 00:21:02,880
+The snow's never hit
+this hard this early.
+
+294
+00:21:02,880 --> 00:21:05,380
+Yeah.
+
+295
+00:21:05,380 --> 00:21:08,180
+It could last for days, but we can't.
+
+296
+00:21:08,190 --> 00:21:09,250
+Not here.
+
+297
+00:21:09,250 --> 00:21:11,090
+We don't have enough.
+
+298
+00:21:11,090 --> 00:21:12,590
+Maybe if I head to the way station,
+
+299
+00:21:12,590 --> 00:21:13,720
+bring back supplies.
+
+300
+00:21:13,730 --> 00:21:15,990
+Yeah, I thought of that, too.
+
+301
+00:21:15,990 --> 00:21:18,070
+But we might get
+caught out there in this
+
+302
+00:21:18,070 --> 00:21:19,900
+and leave them worse off.
+
+303
+00:21:19,900 --> 00:21:23,200
+Let me see your map.
+
+304
+00:21:23,200 --> 00:21:24,710
+The next way station is here,
+
+305
+00:21:24,720 --> 00:21:25,800
+right across the river
+
+306
+00:21:25,800 --> 00:21:27,460
+that runs alongside the old route B.
+
+307
+00:21:27,460 --> 00:21:29,260
+I thought the only crossing
+was back along
+
+308
+00:21:29,260 --> 00:21:31,080
+- the route we were on.
+- <font color="#138ce9">AARON:</font> It is.
+
+309
+00:21:31,080 --> 00:21:32,440
+There's no way we'll make it,
+
+310
+00:21:32,440 --> 00:21:34,690
+not in these conditions.
+
+311
+00:21:34,690 --> 00:21:36,410
+Rick's bridge would've saved us.
+
+312
+00:21:36,410 --> 00:21:38,560
+It could've cut half a
+day off our travel time.
+
+313
+00:21:38,560 --> 00:21:40,670
+But we don't need a bridge.
+
+314
+00:21:40,670 --> 00:21:42,540
+The creeks and ponds are frozen over.
+
+315
+00:21:42,540 --> 00:21:44,000
+As long as we don't all go at once,
+
+316
+00:21:44,000 --> 00:21:46,790
+we could probably just walk across.
+
+317
+00:21:46,790 --> 00:21:49,660
+There, through our old hunting grounds.
+
+318
+00:21:49,660 --> 00:21:50,930
+It's a straight shot.
+
+319
+00:21:50,930 --> 00:21:53,020
+A straight shot through
+Alpha's territory.
+
+320
+00:21:54,300 --> 00:21:56,370
+We didn't agree to those borders.
+
+321
+00:21:56,380 --> 00:21:58,690
+Those borders are hers, not ours.
+
+322
+00:21:58,700 --> 00:22:01,560
+That's cold comfort if we trigger a war.
+
+323
+00:22:01,570 --> 00:22:03,640
+We don't even know
+how to fight them yet.
+
+324
+00:22:03,640 --> 00:22:05,020
+It's only a couple miles...
+
+325
+00:22:05,030 --> 00:22:06,880
+Hey, we can cross at night.
+
+326
+00:22:06,880 --> 00:22:08,410
+They won't know that we're there.
+
+327
+00:22:08,420 --> 00:22:09,830
+What if they already know?
+
+328
+00:22:09,830 --> 00:22:11,950
+They could've been watching
+us in that field back there.
+
+329
+00:22:11,950 --> 00:22:13,810
+It's all the more reason to move now.
+
+330
+00:22:15,520 --> 00:22:16,880
+<font color="#138ce9">AARON:</font> We can do this.
+
+331
+00:22:16,890 --> 00:22:17,950
+<font color="#138ce9">EZEKIEL:</font> With the elderly?
+
+332
+00:22:17,950 --> 00:22:19,920
+With the children?
+
+333
+00:22:19,920 --> 00:22:22,250
+We can't take horses and
+wagons across the ice.
+
+334
+00:22:22,250 --> 00:22:23,560
+Then we'll have to go by foot.
+
+335
+00:22:23,560 --> 00:22:25,950
+Yes, it's risky,
+
+336
+00:22:25,950 --> 00:22:27,800
+but we're only carrying enough food
+
+337
+00:22:27,810 --> 00:22:29,570
+to last us another day or two,
+
+338
+00:22:29,580 --> 00:22:31,900
+and this storm could dump enough snow
+
+339
+00:22:31,900 --> 00:22:34,440
+to make these roads
+impassable for weeks.
+
+340
+00:22:34,440 --> 00:22:36,800
+It's either we make it
+to the next way station
+
+341
+00:22:36,810 --> 00:22:38,240
+or we die.
+
+342
+00:22:40,240 --> 00:22:48,350
+<font color="#ffff00">♪</font>
+
+343
+00:22:57,670 --> 00:23:02,400
+<font color="#ff00ff">[SIGHS]</font>
+
+344
+00:23:02,400 --> 00:23:04,370
+I'm sorry.
+
+345
+00:23:04,370 --> 00:23:07,610
+I wish there was another way.
+
+346
+00:23:07,610 --> 00:23:12,540
+I just want to do right by them.
+
+347
+00:23:12,550 --> 00:23:16,410
+The Kingdom fell.
+
+348
+00:23:16,420 --> 00:23:20,050
+I should've seen it coming,
+gotten us out sooner.
+
+349
+00:23:20,060 --> 00:23:22,090
+My people wouldn't be here like this
+
+350
+00:23:22,090 --> 00:23:23,450
+if it wasn't for me.
+
+351
+00:23:23,460 --> 00:23:26,290
+No, they wouldn't be.
+
+352
+00:23:26,290 --> 00:23:29,630
+'Cause they wouldn't be here at all.
+
+353
+00:23:33,070 --> 00:23:38,170
+All this time we spent apart...
+
+354
+00:23:38,170 --> 00:23:41,910
+I thought it made us stronger.
+
+355
+00:23:41,910 --> 00:23:44,980
+It didn't.
+
+356
+00:23:44,980 --> 00:23:49,010
+That... woman...
+
+357
+00:23:49,020 --> 00:23:50,650
+was able to walk amongst us
+
+358
+00:23:50,650 --> 00:23:53,780
+because we didn't know each other.
+
+359
+00:23:53,790 --> 00:23:57,320
+<font color="#ff00ff">[SIGHS]</font>
+
+360
+00:23:57,320 --> 00:23:59,820
+We can never let that happen again.
+
+361
+00:24:04,630 --> 00:24:08,300
+And we've come too far to give up.
+
+362
+00:24:08,300 --> 00:24:10,670
+The Kingdom hasn't fallen.
+
+363
+00:24:10,670 --> 00:24:12,670
+It's right here.
+
+364
+00:24:12,670 --> 00:24:17,370
+And that charter we
+signed, it means something.
+
+365
+00:24:17,380 --> 00:24:19,530
+It means that these people
+aren't just yours anymore.
+
+366
+00:24:19,530 --> 00:24:21,540
+They're ours.
+
+367
+00:24:21,550 --> 00:24:23,260
+And we're gonna get them home.
+
+368
+00:24:23,260 --> 00:24:25,290
+If they see us crossing that border,
+
+369
+00:24:25,300 --> 00:24:26,700
+it could start something.
+
+370
+00:24:28,520 --> 00:24:31,490
+So we make sure that they don't.
+
+371
+00:24:35,030 --> 00:24:43,950
+<font color="#ffff00">♪</font>
+
+372
+00:24:44,040 --> 00:24:53,010
+<font color="#ffff00">♪</font>
+
+373
+00:24:53,100 --> 00:25:02,020
+<font color="#ffff00">♪</font>
+
+374
+00:25:02,090 --> 00:25:11,030
+<font color="#ffff00">♪</font>
+
+375
+00:25:11,080 --> 00:25:20,000
+<font color="#ffff00">♪</font>
+
+376
+00:25:20,050 --> 00:25:28,980
+<font color="#ffff00">♪</font>
+
+377
+00:25:29,040 --> 00:25:37,990
+<font color="#ffff00">♪</font>
+
+378
+00:25:38,070 --> 00:25:46,960
+<font color="#ffff00">♪</font>
+
+379
+00:25:46,960 --> 00:25:52,830
+<font color="#ff00ff">[WIND HOWLING]</font>
+
+380
+00:26:03,010 --> 00:26:09,120
+<font color="#ff00ff">[DOG BARKING]</font>
+
+381
+00:26:09,120 --> 00:26:12,690
+Dog!
+
+382
+00:26:12,690 --> 00:26:13,950
+Wait!
+
+383
+00:26:15,020 --> 00:26:16,620
+Dog! No!
+
+384
+00:26:16,630 --> 00:26:18,190
+<font color="#138ce9">SIDDIQ:</font> Judith!
+
+385
+00:26:18,190 --> 00:26:21,330
+<font color="#138ce9">NEGAN:</font> Judith!
+
+386
+00:26:21,330 --> 00:26:23,200
+<font color="#138ce9">ROSITA:</font> No!
+
+387
+00:26:23,200 --> 00:26:24,360
+Negan!
+
+388
+00:26:24,360 --> 00:26:25,650
+<font color="#138ce9">ROSITA:</font> Do not let go!
+
+389
+00:26:25,650 --> 00:26:26,770
+<font color="#138ce9">NEGAN:</font> Judith!
+
+390
+00:26:26,780 --> 00:26:29,540
+Keep going! Hold the rope!
+
+391
+00:26:29,540 --> 00:26:31,240
+Judith!
+
+392
+00:26:31,240 --> 00:26:37,750
+<font color="#ffff00">♪</font>
+
+393
+00:26:37,820 --> 00:26:44,320
+<font color="#ffff00">♪</font>
+
+394
+00:26:44,390 --> 00:26:52,390
+<font color="#ffff00">♪</font>
+
+395
+00:26:52,470 --> 00:27:00,500
+<font color="#ffff00">♪</font>
+
+396
+00:27:00,560 --> 00:27:08,610
+<font color="#ffff00">♪</font>
+
+397
+00:27:08,690 --> 00:27:16,720
+<font color="#ffff00">♪</font>
+
+398
+00:27:16,780 --> 00:27:24,790
+<font color="#ffff00">♪</font>
+
+399
+00:27:27,130 --> 00:27:36,600
+<font color="#ff00ff">[GROWLING]</font>
+
+400
+00:27:36,600 --> 00:27:42,070
+<font color="#ffff00">♪</font>
+
+401
+00:27:42,140 --> 00:27:47,550
+<font color="#ffff00">♪</font>
+
+402
+00:27:47,550 --> 00:27:49,780
+<font color="#ff00ff">[WHISTLES]</font>
+
+403
+00:27:49,780 --> 00:27:57,790
+<font color="#ffff00">♪</font>
+
+404
+00:27:57,790 --> 00:28:02,560
+<font color="#ff00ff">[WIND HOWLING]</font>
+
+405
+00:28:02,560 --> 00:28:04,960
+<font color="#ffff00">♪</font>
+
+406
+00:28:04,960 --> 00:28:09,100
+<font color="#138ce9">EZEKIEL:</font> There's the river. We made it.
+
+407
+00:28:09,100 --> 00:28:12,170
+<font color="#138ce9">DARYL:</font> I'm gonna check the ice.
+
+408
+00:28:12,170 --> 00:28:13,770
+<font color="#138ce9">MICHONNE:</font> I'm right behind you.
+
+409
+00:28:35,660 --> 00:28:37,130
+Yeah, I think we're good.
+
+410
+00:28:49,710 --> 00:28:51,820
+We have to assume they
+have eyes on the borders.
+
+411
+00:28:51,820 --> 00:28:54,400
+Make sure the others are ready to go.
+
+412
+00:28:54,410 --> 00:28:55,850
+<font color="#138ce9">JERRY:</font> Done and done.
+
+413
+00:29:01,450 --> 00:29:03,020
+Hey, where's Lydia?
+
+414
+00:29:03,020 --> 00:29:04,390
+I'm gonna go find her.
+
+415
+00:29:04,390 --> 00:29:05,860
+You get everyone across.
+
+416
+00:29:05,860 --> 00:29:07,860
+I'll be right back.
+
+417
+00:29:07,860 --> 00:29:09,690
+<font color="#138ce9">EZEKIEL:</font> All right, let's move.
+
+418
+00:29:09,690 --> 00:29:14,160
+<font color="#ffff00">♪</font>
+
+419
+00:29:14,160 --> 00:29:15,400
+Hey!
+
+420
+00:29:15,400 --> 00:29:18,230
+<font color="#ff00ff">[GROWLING]</font>
+
+421
+00:29:18,240 --> 00:29:26,480
+<font color="#ffff00">♪</font>
+
+422
+00:29:26,480 --> 00:29:29,410
+<font color="#ff00ff">[GROWLING]</font>
+
+423
+00:29:29,410 --> 00:29:32,520
+<font color="#ffff00">♪</font>
+
+424
+00:29:32,520 --> 00:29:34,080
+<font color="#138ce9">MICHONNE:</font> Move!
+
+425
+00:29:38,960 --> 00:29:40,700
+- <font color="#ff00ff">[GROWLING]</font>
+-<font color="#138ce9"> MICHONNE:</font> Come on!
+
+426
+00:29:40,700 --> 00:29:42,900
+<font color="#ff00ff">[GROWLING]</font>
+
+427
+00:29:42,900 --> 00:29:44,470
+<font color="#ff00ff">[INDISTINCT CONVERSATIONS]</font>
+
+428
+00:29:44,470 --> 00:29:46,000
+Come on!
+
+429
+00:29:46,000 --> 00:29:50,310
+<font color="#ffff00">♪</font>
+
+430
+00:29:50,310 --> 00:29:51,340
+<font color="#138ce9">MICHONNE:</font> <font color="#ff00ff">[GRUNTS]</font>
+
+431
+00:29:51,340 --> 00:29:56,730
+<font color="#ffff00">♪</font>
+
+432
+00:29:56,810 --> 00:30:02,250
+<font color="#ffff00">♪</font>
+
+433
+00:30:02,250 --> 00:30:04,180
+<font color="#138ce9">YUMIKO:</font> Come on. Let's go.
+
+434
+00:30:04,190 --> 00:30:06,050
+<font color="#138ce9">ALDEN:</font> Let's go. Let's get off this.
+
+435
+00:30:06,060 --> 00:30:07,890
+- One at a time!
+- Nice and easy.
+
+436
+00:30:07,890 --> 00:30:09,560
+- Nice and easy.
+- Not too many at once.
+
+437
+00:30:09,560 --> 00:30:12,330
+- Come on.
+- Come on. Here we go.
+
+438
+00:30:12,330 --> 00:30:13,760
+- Watch it.
+- There. There.
+
+439
+00:30:13,760 --> 00:30:16,030
+<font color="#ff00ff">[GROWLING]</font>
+
+440
+00:30:16,030 --> 00:30:17,450
+<font color="#138ce9">MAGNA:</font> Daryl, incoming.
+
+441
+00:30:17,460 --> 00:30:19,070
+- Keep moving.
+- One at a time.
+
+442
+00:30:19,070 --> 00:30:20,430
+<font color="#138ce9">YUMIKO:</font> We got to get
+across to the other side now!
+
+443
+00:30:20,430 --> 00:30:22,380
+- Not too much weight on the ice.
+- Stay alert!
+
+444
+00:30:22,380 --> 00:30:26,410
+<font color="#ffff00">♪</font>
+
+445
+00:30:26,410 --> 00:30:28,110
+- Stay together.
+- Come on, come on.
+
+446
+00:30:28,110 --> 00:30:30,090
+Hold up. Not too many at once.
+
+447
+00:30:30,100 --> 00:30:31,280
+Not too many at once.
+
+448
+00:30:31,280 --> 00:30:32,880
+<font color="#ff00ff">[GROWLING]</font>
+
+449
+00:30:32,880 --> 00:30:34,580
+<font color="#ff00ff">[GRUNTS]</font>
+
+450
+00:30:34,580 --> 00:30:37,620
+<font color="#ffff00">♪</font>
+
+451
+00:30:37,620 --> 00:30:39,250
+Is it them?
+
+452
+00:30:39,250 --> 00:30:40,980
+No.
+
+453
+00:30:40,980 --> 00:30:42,290
+Not here.
+
+454
+00:30:42,290 --> 00:30:44,760
+Not in this.
+
+455
+00:30:44,760 --> 00:30:47,060
+<font color="#ff00ff">[WALKER GROWLING]</font>
+
+456
+00:30:47,060 --> 00:30:50,200
+<font color="#ffff00">♪</font>
+
+457
+00:30:50,200 --> 00:30:52,430
+<font color="#138ce9">EZEKIEL:</font> Get them across.
+We'll hold 'em back.
+
+458
+00:30:52,430 --> 00:30:56,200
+- Come on.
+- Come on.
+
+459
+00:30:56,200 --> 00:31:03,240
+<font color="#ffff00">♪</font>
+
+460
+00:31:12,850 --> 00:31:15,420
+<font color="#ff00ff">[FOOSTEPS, BREATHING HEAVILY]</font>
+
+461
+00:31:19,050 --> 00:31:21,520
+What the hell are you doing?
+
+462
+00:31:23,630 --> 00:31:25,100
+I don't know.
+
+463
+00:31:27,330 --> 00:31:29,370
+I just know I can't cross that river.
+
+464
+00:31:29,370 --> 00:31:30,570
+Why not?
+
+465
+00:31:30,570 --> 00:31:32,670
+Because I know
+what's on the other side.
+
+466
+00:31:34,210 --> 00:31:37,200
+It's the same thing that's on this side.
+
+467
+00:31:37,210 --> 00:31:39,380
+Everyone's acting like
+getting to Hilltop's
+
+468
+00:31:39,380 --> 00:31:42,400
+gonna make all our problems go away,
+
+469
+00:31:42,400 --> 00:31:44,020
+like it's gonna make everything better,
+
+470
+00:31:44,020 --> 00:31:45,860
+but it's not gonna change shit.
+
+471
+00:31:51,280 --> 00:31:53,060
+They're not gonna want me back.
+
+472
+00:31:53,060 --> 00:31:54,990
+If they hadn't taken
+me in to begin with,
+
+473
+00:31:55,000 --> 00:31:56,830
+all those people would still be alive.
+
+474
+00:32:00,900 --> 00:32:03,000
+Your son's dead 'cause of me.
+
+475
+00:32:08,570 --> 00:32:12,240
+Henry said I was a... A good person.
+
+476
+00:32:12,240 --> 00:32:13,980
+But he was wrong.
+
+477
+00:32:13,980 --> 00:32:18,720
+As long as I'm one of
+you, it's never gonna stop.
+
+478
+00:32:18,720 --> 00:32:22,020
+You know I'm right.
+
+479
+00:32:22,020 --> 00:32:25,390
+<font color="#ffff00">♪</font>
+
+480
+00:32:25,390 --> 00:32:27,220
+There's only one way to fix this.
+
+481
+00:32:30,620 --> 00:32:33,790
+You see it.
+
+482
+00:32:33,790 --> 00:32:35,150
+It can be you.
+
+483
+00:32:38,100 --> 00:32:39,700
+No one else has to know.
+
+484
+00:32:39,710 --> 00:32:44,540
+<font color="#ffff00">♪</font>
+
+485
+00:32:44,540 --> 00:32:47,010
+<font color="#ff00ff">[WALKER GROWLING]</font>
+
+486
+00:32:47,010 --> 00:32:49,210
+<font color="#ffff00">♪</font>
+
+487
+00:32:49,220 --> 00:32:52,050
+<font color="#ff00ff">[WALKER GROWLING]</font>
+
+488
+00:32:52,050 --> 00:32:53,520
+<font color="#ff00ff">[GRUNTS]</font>
+
+489
+00:32:53,520 --> 00:32:59,860
+<font color="#ff00ff">[WALKERS GROWLING]</font>
+
+490
+00:32:59,860 --> 00:33:09,640
+<font color="#ffff00">♪</font>
+
+491
+00:33:09,650 --> 00:33:10,870
+<font color="#ff00ff">[GRUNTS]</font>
+
+492
+00:33:17,440 --> 00:33:19,860
+<font color="#138ce9">LYDIA:</font> Please, Carol,
+
+493
+00:33:19,860 --> 00:33:22,380
+everything's gonna be
+better when I'm gone.
+
+494
+00:33:22,380 --> 00:33:28,780
+<font color="#ffff00">♪</font>
+
+495
+00:33:28,840 --> 00:33:35,080
+<font color="#ffff00">♪</font>
+
+496
+00:33:35,080 --> 00:33:37,460
+This is how you keep
+from losing anyone else.
+
+497
+00:33:37,460 --> 00:33:44,630
+<font color="#ffff00">♪</font>
+
+498
+00:33:44,640 --> 00:33:48,140
+<font color="#ff00ff">[CRYING]</font> Please, Carol.
+
+499
+00:33:48,140 --> 00:33:50,240
+Please, just do it.
+
+500
+00:33:50,240 --> 00:33:52,280
+Do it for Henry.
+
+501
+00:33:52,280 --> 00:33:56,100
+<font color="#ffff00">♪</font>
+
+502
+00:33:56,100 --> 00:33:57,850
+<font color="#ff00ff">[VOICE BREAKING]</font>
+I'm sorry it has to be you,
+
+503
+00:33:57,850 --> 00:33:59,780
+but it does.
+
+504
+00:33:59,780 --> 00:34:03,590
+I'm too weak.
+
+505
+00:34:03,590 --> 00:34:05,150
+Just like my mother said.
+
+506
+00:34:05,160 --> 00:34:13,400
+<font color="#ffff00">♪</font>
+
+507
+00:34:13,500 --> 00:34:21,780
+<font color="#ffff00">♪</font>
+
+508
+00:34:21,840 --> 00:34:26,610
+<font color="#ffff00">♪</font>
+
+509
+00:34:26,610 --> 00:34:27,940
+You're not weak.
+
+510
+00:34:27,950 --> 00:34:29,910
+<font color="#ffff00">♪</font>
+
+511
+00:34:29,910 --> 00:34:31,950
+Come on. We have to go.
+
+512
+00:34:31,950 --> 00:34:35,120
+<font color="#ffff00">♪</font>
+
+513
+00:34:35,120 --> 00:34:36,690
+Come on.
+
+514
+00:34:36,690 --> 00:34:42,790
+<font color="#ffff00">♪</font>
+
+515
+00:34:42,790 --> 00:34:44,560
+<font color="#138ce9">ROSITA:</font> Judith!
+
+516
+00:34:44,630 --> 00:34:45,860
+<font color="#138ce9">NEGAN:</font> Judith!
+
+517
+00:34:45,920 --> 00:34:47,630
+<font color="#138ce9">SIDDIQ:</font> Judith!
+
+518
+00:34:47,720 --> 00:34:50,030
+Judith!
+
+519
+00:34:52,840 --> 00:34:54,370
+Judith!
+
+520
+00:34:56,010 --> 00:34:57,570
+<font color="#ff00ff">[GRUNTS]</font>
+
+521
+00:34:57,570 --> 00:35:01,580
+Aah!
+
+522
+00:35:01,580 --> 00:35:03,240
+Goddammit!
+
+523
+00:35:03,250 --> 00:35:06,090
+<font color="#138ce9">SIDDIQ:</font> <font color="#ff00ff">[IN DISTANCE]</font> Judith!
+
+524
+00:35:06,180 --> 00:35:07,520
+<font color="#138ce9">ROSITA:</font> <font color="#ff00ff">[IN DISTANCE]</font> Judith!
+
+525
+00:35:09,690 --> 00:35:11,850
+<font color="#ff00ff">[DOG BARKS]</font>
+
+526
+00:35:11,850 --> 00:35:13,990
+Judith!
+
+527
+00:35:15,260 --> 00:35:19,560
+<font color="#ff00ff">[DOG BARKING]</font>
+
+528
+00:35:19,560 --> 00:35:22,200
+Judith!
+
+529
+00:35:22,200 --> 00:35:23,930
+<font color="#ff00ff">[DOG BARKING]</font>
+
+530
+00:35:25,770 --> 00:35:29,500
+<font color="#ff00ff">[DOG WHIMPERS]</font>
+
+531
+00:35:29,510 --> 00:35:33,210
+Hey. Hey, hey, hey.
+
+532
+00:35:33,210 --> 00:35:34,940
+Oh, okay.
+
+533
+00:35:34,940 --> 00:35:38,680
+<font color="#ff00ff">[GRUNTS]</font> I gotcha, I gotcha.
+
+534
+00:35:40,050 --> 00:35:43,720
+<font color="#ff00ff">[GRUNTS]</font>
+
+535
+00:35:43,720 --> 00:35:47,860
+<font color="#ff00ff">[DOG WHIMPERING]</font>
+
+536
+00:35:51,030 --> 00:35:54,530
+<font color="#ff00ff">[WHIMPERING CONTINUES]</font>
+
+537
+00:35:54,530 --> 00:36:00,030
+<font color="#ff00ff">[WIND HOWLING]</font>
+
+538
+00:36:02,140 --> 00:36:03,640
+<font color="#138ce9">NEGAN:</font> <font color="#ff00ff">[GROANS]</font>
+
+539
+00:36:03,640 --> 00:36:06,410
+<font color="#ff00ff">[DOG WHIMPERS]</font>
+
+540
+00:36:09,150 --> 00:36:11,040
+<font color="#ff00ff">[GRUNTS]</font>
+
+541
+00:36:11,050 --> 00:36:14,080
+Hey, hey, hey.
+
+542
+00:36:14,080 --> 00:36:15,550
+You okay?
+
+543
+00:36:15,550 --> 00:36:17,250
+I'm okay.
+
+544
+00:36:17,250 --> 00:36:21,290
+<font color="#ff00ff">[EXHALES SHARPLY]</font>
+
+545
+00:36:21,290 --> 00:36:22,790
+<font color="#ff00ff">[GROANS]</font>
+
+546
+00:36:22,790 --> 00:36:24,960
+Here you go.
+
+547
+00:36:24,960 --> 00:36:27,060
+You know, I know why you're doing this.
+
+548
+00:36:27,060 --> 00:36:30,030
+You're just trying to get
+a little extra Negan time,
+
+549
+00:36:30,040 --> 00:36:31,430
+aren't you?
+
+550
+00:36:31,430 --> 00:36:32,670
+<font color="#ff00ff">[CHUCKLES]</font>
+
+551
+00:36:32,670 --> 00:36:34,100
+Can I tell you something, kid?
+
+552
+00:36:34,100 --> 00:36:35,780
+That dog,
+
+553
+00:36:35,780 --> 00:36:38,140
+he better poop little golden nuggets.
+
+554
+00:36:38,140 --> 00:36:40,030
+You know what I'm saying?
+
+555
+00:36:44,970 --> 00:36:47,450
+Your leg looks like shit.
+
+556
+00:36:47,450 --> 00:36:51,420
+Language, Miss Grimes.
+
+557
+00:36:51,420 --> 00:36:52,790
+<font color="#ff00ff">[GROANS]</font>
+
+558
+00:36:52,790 --> 00:36:55,750
+You noticed, huh?
+
+559
+00:36:55,760 --> 00:36:58,960
+It doesn't feel great,
+to tell you the truth.
+
+560
+00:36:58,960 --> 00:37:00,630
+<font color="#ff00ff">[COUGHS]</font>
+
+561
+00:37:00,630 --> 00:37:02,130
+It'll be all right.
+
+562
+00:37:05,530 --> 00:37:07,130
+I'm real glad I found you.
+
+563
+00:37:07,130 --> 00:37:09,840
+<font color="#ff00ff">[GROANS LOUDLY]</font>
+
+564
+00:37:09,840 --> 00:37:12,710
+Okay, kiddo, we gotta
+get out of this weather.
+
+565
+00:37:12,720 --> 00:37:15,310
+All right?
+
+566
+00:37:15,310 --> 00:37:17,640
+<font color="#ff00ff">[EXHALES SHARPLY]</font>
+
+567
+00:37:17,650 --> 00:37:19,650
+<font color="#ff00ff">[GRUNTS]</font>
+
+568
+00:37:19,650 --> 00:37:20,910
+<font color="#ff00ff">[GROANS]</font>
+
+569
+00:37:20,920 --> 00:37:23,220
+Okay.
+
+570
+00:37:23,220 --> 00:37:25,150
+- Dog, too.
+- What?
+
+571
+00:37:25,150 --> 00:37:26,450
+We have to get him back.
+
+572
+00:37:26,460 --> 00:37:28,020
+Oh, the dog.
+
+573
+00:37:28,020 --> 00:37:30,160
+Okay. All right.
+
+574
+00:37:30,160 --> 00:37:32,120
+- <font color="#ff00ff">[DOG WHIMPERING]</font>
+- All right.
+
+575
+00:37:32,130 --> 00:37:33,440
+Come on, Dog.
+
+576
+00:37:33,450 --> 00:37:34,530
+<font color="#ff00ff">[GRUNTS]</font>
+
+577
+00:37:34,530 --> 00:37:36,490
+<font color="#ff00ff">[DOG BARKS]</font>
+
+578
+00:37:41,580 --> 00:37:49,980
+<font color="#ffff00">♪</font>
+
+579
+00:37:50,070 --> 00:37:58,540
+<font color="#ffff00">♪</font>
+
+580
+00:37:58,650 --> 00:38:07,080
+<font color="#ffff00">♪</font>
+
+581
+00:38:07,150 --> 00:38:15,630
+<font color="#ffff00">♪</font>
+
+582
+00:38:15,710 --> 00:38:24,100
+<font color="#ffff00">♪</font>
+
+583
+00:38:24,100 --> 00:38:27,510
+It's like our new
+Kingdom, only it's Hilltop.
+
+584
+00:38:27,510 --> 00:38:28,770
+Hey, if we call it "Kingtop,"
+
+585
+00:38:28,780 --> 00:38:30,840
+maybe we could make that a thing.
+
+586
+00:38:30,840 --> 00:38:34,710
+<font color="#ffff00">♪</font>
+
+587
+00:38:34,710 --> 00:38:36,280
+You should try to get some sleep.
+
+588
+00:38:36,280 --> 00:38:38,830
+We're gonna head to
+Alexandria in the morning.
+
+589
+00:38:38,830 --> 00:38:40,020
+<font color="#138ce9">LYDIA:</font> Okay.
+
+590
+00:38:41,890 --> 00:38:43,650
+Seems nice there.
+
+591
+00:38:43,660 --> 00:38:45,990
+Yeah, it is.
+
+592
+00:38:45,990 --> 00:38:48,390
+Why'd you leave?
+
+593
+00:38:48,390 --> 00:38:49,490
+<font color="#ff00ff">[SIGHS]</font>
+
+594
+00:38:51,130 --> 00:38:53,000
+One day.
+
+595
+00:38:53,830 --> 00:38:55,200
+Try to get some sleep.
+
+596
+00:38:58,300 --> 00:39:04,070
+<font color="#ffff00">♪</font>
+
+597
+00:39:04,130 --> 00:39:09,850
+<font color="#ffff00">♪</font>
+
+598
+00:39:09,850 --> 00:39:11,880
+We made it.
+
+599
+00:39:11,880 --> 00:39:15,650
+<font color="#ffff00">♪</font>
+
+600
+00:39:15,650 --> 00:39:17,990
+Did we?
+
+601
+00:39:17,990 --> 00:39:22,900
+<font color="#ffff00">♪</font>
+
+602
+00:39:22,900 --> 00:39:25,760
+I'm going to Alexandria
+tomorrow with the others.
+
+603
+00:39:25,760 --> 00:39:30,270
+<font color="#ff00ff">[SIGHS]</font>
+
+604
+00:39:30,270 --> 00:39:32,370
+I know you have to do this.
+
+605
+00:39:32,370 --> 00:39:38,110
+<font color="#ffff00">♪</font>
+
+606
+00:39:38,110 --> 00:39:41,110
+But I will never stop loving you.
+
+607
+00:39:41,110 --> 00:39:45,210
+<font color="#ffff00">♪</font>
+
+608
+00:39:45,220 --> 00:39:49,180
+And I'll never regret the fairy tale.
+
+609
+00:39:49,190 --> 00:39:56,790
+<font color="#ffff00">♪</font>
+
+610
+00:39:56,860 --> 00:40:04,530
+<font color="#ffff00">♪</font>
+
+611
+00:40:04,540 --> 00:40:09,070
+<font color="#ff00ff">[DOOR OPENS, CLOSES]</font>
+
+612
+00:40:09,070 --> 00:40:15,640
+<font color="#ffff00">♪</font>
+
+613
+00:40:15,680 --> 00:40:21,960
+<font color="#ffff00">♪</font>
+
+614
+00:40:21,960 --> 00:40:23,250
+Hi!
+
+615
+00:40:23,250 --> 00:40:25,820
+Oh.
+
+616
+00:40:25,820 --> 00:40:27,560
+How are you?
+
+617
+00:40:27,560 --> 00:40:29,920
+Are you good?
+
+618
+00:40:29,930 --> 00:40:31,060
+What happened?
+
+619
+00:40:31,060 --> 00:40:33,240
+It's cold.
+
+620
+00:40:33,240 --> 00:40:34,800
+<font color="#ff00ff">[LAUGHS]</font>
+
+621
+00:40:34,800 --> 00:40:41,300
+<font color="#ffff00">♪</font>
+
+622
+00:40:41,390 --> 00:40:47,810
+<font color="#ffff00">♪</font>
+
+623
+00:40:47,810 --> 00:40:50,480
+Hey. R.J.
+
+624
+00:40:50,480 --> 00:40:53,350
+<font color="#ffff00">♪</font>
+
+625
+00:40:53,350 --> 00:40:55,250
+Oh!
+
+626
+00:40:55,250 --> 00:41:02,660
+<font color="#ffff00">♪</font>
+
+627
+00:41:02,730 --> 00:41:10,100
+<font color="#ffff00">♪</font>
+
+628
+00:41:10,210 --> 00:41:17,540
+<font color="#ffff00">♪</font>
+
+629
+00:41:17,610 --> 00:41:24,980
+<font color="#ffff00">♪</font>
+
+630
+00:41:24,980 --> 00:41:26,310
+<font color="#ff00ff">[EXHALES SHARPLY]</font>
+
+631
+00:41:26,310 --> 00:41:27,650
+All right.
+
+632
+00:41:29,120 --> 00:41:31,220
+Well, look who's here.
+
+633
+00:41:35,120 --> 00:41:38,290
+<font color="#ff00ff">[SIGHS]</font>
+
+634
+00:41:38,290 --> 00:41:42,730
+Thank you. For saving her.
+
+635
+00:41:42,730 --> 00:41:44,300
+<font color="#ff00ff">[CHUCKLES]</font>
+
+636
+00:41:44,300 --> 00:41:47,330
+You always did have a
+flair for the dramatic.
+
+637
+00:41:47,340 --> 00:41:49,870
+<font color="#ff00ff">[CHUCKLES]</font>
+
+638
+00:41:49,870 --> 00:41:51,580
+Well, last time we were here together,
+
+639
+00:41:51,580 --> 00:41:53,870
+Rick had just slit my throat open.
+
+640
+00:41:53,880 --> 00:41:56,340
+- Mm.
+- So this...
+
+641
+00:41:56,340 --> 00:42:00,510
+Hell, this ain't nothin'.
+
+642
+00:42:00,520 --> 00:42:03,180
+She's a special girl.
+
+643
+00:42:03,180 --> 00:42:05,850
+A damn spitfire.
+
+644
+00:42:05,850 --> 00:42:09,420
+And you...
+
+645
+00:42:09,420 --> 00:42:12,060
+You've been through enough.
+
+646
+00:42:17,230 --> 00:42:19,200
+Get better.
+
+647
+00:42:19,200 --> 00:42:20,900
+You know, Dr. Babydaddy said
+
+648
+00:42:20,900 --> 00:42:22,900
+that you got caught in the storm
+
+649
+00:42:22,900 --> 00:42:26,040
+with the Royalty Brigade.
+
+650
+00:42:26,040 --> 00:42:27,740
+Is everyone okay?
+
+651
+00:42:33,280 --> 00:42:34,850
+Do you care?
+
+652
+00:42:36,420 --> 00:42:41,090
+Look, I don't know any
+of those people from Adam.
+
+653
+00:42:41,090 --> 00:42:43,560
+I do know what it's
+like to lose a kingdom,
+
+654
+00:42:43,560 --> 00:42:46,190
+see things fall apart.
+
+655
+00:42:46,190 --> 00:42:48,260
+And it sucks ass.
+
+656
+00:42:48,260 --> 00:42:52,200
+The Sanctuary's a shithole now.
+
+657
+00:42:52,200 --> 00:42:54,770
+Well, hell, I could've told you that.
+
+658
+00:42:54,770 --> 00:42:56,470
+All you had to do was ask.
+
+659
+00:42:58,970 --> 00:43:03,410
+So, you cut through their territory.
+
+660
+00:43:03,420 --> 00:43:05,720
+Ballsy.
+
+661
+00:43:08,650 --> 00:43:12,150
+<font color="#ff00ff">[CHAIR MOVING, CREAKS]</font>
+
+662
+00:43:15,160 --> 00:43:16,990
+<font color="#ff00ff">[SIGHS]</font>
+
+663
+00:43:16,990 --> 00:43:20,320
+We don't even know if they were there.
+
+664
+00:43:20,330 --> 00:43:23,160
+The point is, we came together,
+
+665
+00:43:23,160 --> 00:43:27,170
+and we made it.
+
+666
+00:43:27,170 --> 00:43:29,730
+Common enemy, common goal.
+
+667
+00:43:29,740 --> 00:43:33,740
+Or facing evil brings
+good people together.
+
+668
+00:43:33,740 --> 00:43:36,810
+Same thing.
+
+669
+00:43:36,810 --> 00:43:39,440
+It's just that no one ever thinks
+
+670
+00:43:39,450 --> 00:43:42,250
+that they're the evil one.
+
+671
+00:43:42,250 --> 00:43:49,200
+<font color="#ffff00">♪</font>
+
+672
+00:43:49,260 --> 00:43:56,210
+<font color="#ffff00">♪</font>
+
+673
+00:43:56,250 --> 00:44:03,260
+<font color="#ffff00">♪</font>
+
+674
+00:44:03,270 --> 00:44:08,040
+The time away has been good for the pack.
+
+675
+00:44:08,040 --> 00:44:10,110
+And for you.
+
+676
+00:44:10,110 --> 00:44:15,180
+<font color="#ffff00">♪</font>
+
+677
+00:44:15,180 --> 00:44:16,510
+<font color="#138ce9">ALPHA:</font> It has.
+
+678
+00:44:19,120 --> 00:44:21,450
+But I've made mistakes...
+
+679
+00:44:21,450 --> 00:44:24,190
+Mistakes I can't make again.
+
+680
+00:44:24,190 --> 00:44:26,890
+And you won't.
+
+681
+00:44:26,890 --> 00:44:28,590
+You're strong.
+
+682
+00:44:31,360 --> 00:44:34,700
+I'll need to be stronger
+for what comes next.
+
+683
+00:44:34,700 --> 00:44:37,570
+<font color="#ffff00">♪</font>
+
+684
+00:44:37,570 --> 00:44:40,170
+You will be.
+
+685
+00:44:40,170 --> 00:44:46,270
+<font color="#ffff00">♪</font>
+
+686
+00:44:46,320 --> 00:44:52,410
+<font color="#ffff00">♪</font>
+
+687
+00:44:52,420 --> 00:44:58,090
+<font color="#ff00ff">[BRANCH WHIPS]</font>
+
+688
+00:44:58,090 --> 00:45:03,780
+<font color="#ffff00">♪</font>
+
+689
+00:45:03,860 --> 00:45:09,710
+<font color="#ffff00">♪</font>
+
+690
+00:45:11,740 --> 00:45:15,070
+We'll come back from this.
+
+691
+00:45:15,070 --> 00:45:17,910
+Being here at Hilltop,
+
+692
+00:45:17,910 --> 00:45:22,580
+amongst our family's a start.
+
+693
+00:45:22,580 --> 00:45:25,580
+We'll make it through this
+winter of our discontent.
+
+694
+00:45:25,580 --> 00:45:30,420
+When the snow melts and the winds quiet,
+
+695
+00:45:30,420 --> 00:45:32,860
+who knows what glorious
+summer may bring.
+
+696
+00:45:34,260 --> 00:45:40,270
+Maybe you can even go back
+home to the Kingdom someday.
+
+697
+00:45:40,280 --> 00:45:41,840
+<i>Just because we left our house</i>
+
+698
+00:45:41,850 --> 00:45:45,200
+<i>doesn't mean we lost our home.</i>
+
+699
+00:45:45,200 --> 00:45:46,550
+Roger that.
+
+700
+00:45:46,560 --> 00:45:49,070
+<i>I have to go do my homework now.</i>
+
+701
+00:45:49,070 --> 00:45:51,070
+<i>I'll tell my mom you said hello.</i>
+
+702
+00:45:51,070 --> 00:45:53,690
+<i>Over and out.</i>
+
+703
+00:45:53,740 --> 00:45:55,210
+Over and out.
+
+704
+00:45:55,210 --> 00:46:01,320
+<font color="#ffff00">♪</font>
+
+705
+00:46:01,380 --> 00:46:07,450
+<font color="#ffff00">♪</font>
+
+706
+00:46:07,460 --> 00:46:11,640
+<font color="#ff00ff">[DOOR OPENS, CLOSES]</font>
+
+707
+00:46:17,300 --> 00:46:18,800
+<font color="#ff00ff">[STATIC]</font>
+
+708
+00:46:18,800 --> 00:46:22,250
+<font color="#138ce9">WOMAN:</font> <i><font color="#ff00ff">[GARBLED]</font> Hello? Hello?</i>
+
+709
+00:46:22,260 --> 00:46:25,470
+<i>Calling out live on the open air.</i>
+
+710
+00:46:25,470 --> 00:46:27,510
+<i>Is anybody out there?</i>
+
+711
+00:46:29,230 --> 00:46:44,230
+<font color="#ff00ff">- Sync and corrections by VitoSilans</font><font color="#138ce9"> - www.addic7ed.com -</font>
+<font color="#ffff00">Colored HI by </font><font color="#f0100f">GoldBerg_44</font>
+

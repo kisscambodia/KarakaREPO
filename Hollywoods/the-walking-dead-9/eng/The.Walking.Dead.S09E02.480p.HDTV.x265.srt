@@ -1,0 +1,3453 @@
+﻿1
+00:00:00,001 --> 00:00:01,724
+Justin. Clean that up.
+
+2
+00:00:01,726 --> 00:00:03,607
+<b><font face="Rockwell" color="#808080">ANNOUNCER:</font></b>
+<i>Previously, on "The Walking Dead"...</i>
+
+3
+00:00:03,609 --> 00:00:05,807
+I don't wanna be the one
+leading these people anymore.
+
+4
+00:00:05,809 --> 00:00:07,408
+We're all gonna pitch in
+and make sure
+
+5
+00:00:07,410 --> 00:00:09,310
+that Sanctuary has
+what it needs.
+
+6
+00:00:09,312 --> 00:00:11,645
+I need your help fixing
+the bridge.
+
+7
+00:00:11,647 --> 00:00:15,148
+If the Sanctuary needs
+food, I'll give it to 'em.
+
+8
+00:00:15,150 --> 00:00:16,950
+But they provide
+
+9
+00:00:16,952 --> 00:00:19,152
+most of the labor
+on the bridge for us.
+
+10
+00:00:19,154 --> 00:00:20,854
+- <b><font face="Rockwell" color="#D900D9">(GRUNTS)</font></b>
+- <b><font face="Rockwell" color="#D900D9">(BABY CRYING)</font></b>
+
+11
+00:00:22,724 --> 00:00:24,324
+I made this decision.
+
+12
+00:00:24,326 --> 00:00:27,093
+But this is not the
+beginning of something.
+
+13
+00:00:27,095 --> 00:00:29,296
+I don't want to go through it again.
+
+14
+00:00:30,341 --> 00:00:33,165
+<b><font face="Rockwell" color="#D900D9">(FOOTSTEPS)</font></b>
+
+15
+00:00:33,168 --> 00:00:35,235
+<b><font face="Rockwell" color="#D900D9">(SCRAPING)</font></b>
+
+16
+00:00:35,237 --> 00:00:37,914
+<b><font face="Rockwell" color="#D900D9">(THUD)</font></b>
+
+17
+00:00:40,775 --> 00:00:43,576
+<b><font face="Rockwell" color="#D900D9">(EXHALING HEAVILY)</font></b>
+
+18
+00:00:43,578 --> 00:00:47,379
+It's been a while since
+we had one of these talks.
+
+19
+00:00:47,381 --> 00:00:48,780
+Don't say it.
+
+20
+00:00:48,782 --> 00:00:50,216
+I know.
+
+21
+00:00:50,218 --> 00:00:53,585
+I'm the one who does
+most of the talking.
+
+22
+00:00:53,587 --> 00:00:57,934
+I'll try to keep it short,
+but you're up late anyway,
+
+23
+00:00:57,937 --> 00:01:01,444
+and it's past time I
+get you up to speed.
+
+24
+00:01:01,447 --> 00:01:03,447
+<b><font face="Rockwell" color="#D900D9">(BIRDS CHIRPING)</font></b>
+
+25
+00:01:05,586 --> 00:01:08,888
+Today was day 35.
+
+26
+00:01:08,891 --> 00:01:12,533
+And things are really taking shape.
+
+27
+00:01:17,043 --> 00:01:19,643
+<b><font face="Rockwell" color="#D900D9">(METAL CLICKING)</font></b>
+
+28
+00:01:19,645 --> 00:01:25,383
+It wasn't that long ago we were
+fighting just to stay alive.
+
+29
+00:01:25,385 --> 00:01:28,719
+But it's not like that anymore.
+
+30
+00:01:31,724 --> 00:01:33,824
+We're building.
+
+31
+00:01:33,826 --> 00:01:35,826
+We're growing.
+
+32
+00:01:35,828 --> 00:01:41,064
+We're still ready to deal with
+this world on its own terms.
+
+33
+00:01:41,066 --> 00:01:46,503
+But we're not letting
+it define us anymore.
+
+34
+00:01:46,505 --> 00:01:48,238
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT CONVERSATIONS)</font></b>
+
+35
+00:01:48,240 --> 00:01:50,007
+- Here you go.
+- Thank you.
+
+36
+00:01:50,009 --> 00:01:52,442
+Sure.
+
+37
+00:01:52,444 --> 00:01:56,446
+We're getting back a
+piece of who we used to be,
+
+38
+00:01:56,448 --> 00:02:00,117
+how things were before all this.
+
+39
+00:02:02,454 --> 00:02:06,256
+It's all happening.
+
+40
+00:02:06,258 --> 00:02:11,261
+We're not just fighting
+to survive anymore.
+
+41
+00:02:19,270 --> 00:02:21,670
+We're making a new beginning.
+
+42
+00:03:05,168 --> 00:03:09,689
+<b><font face="Rockwell" color="#FFFF00">Improved By: FidelPerez</font></b>
+<b><font face="Rockwell" color="#00FFFF">Sub Upload Date: October 16, 2018</font></b>
+
+43
+00:03:10,436 --> 00:03:14,429
+<b><font face="Rockwell" color="#D900D9">(HORSES WHINNYING)</font></b>
+
+44
+00:03:14,432 --> 00:03:16,681
+You should be proud, Henry.
+
+45
+00:03:16,684 --> 00:03:18,349
+The work you've done here.
+
+46
+00:03:18,352 --> 00:03:21,580
+Someday you'll cross this
+bridge with your grandchildren
+
+47
+00:03:21,582 --> 00:03:24,693
+and tell them the story
+of how it was built.
+
+48
+00:03:24,696 --> 00:03:26,585
+I'm not gonna bore my grandkids
+
+49
+00:03:26,587 --> 00:03:28,421
+telling them a story about a bridge.
+
+50
+00:03:28,423 --> 00:03:30,623
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+It's not just a bridge.
+
+51
+00:03:30,625 --> 00:03:32,938
+Roads are the lifeblood of civilization.
+
+52
+00:03:32,941 --> 00:03:35,728
+Rome rose and fell with its roads.
+
+53
+00:03:35,730 --> 00:03:38,863
+Without this bridge,
+there'd be no trade.
+
+54
+00:03:38,865 --> 00:03:41,133
+Bullets from Alexandria,
+
+55
+00:03:41,135 --> 00:03:45,037
+grain from Hilltop, fish from Oceanside.
+
+56
+00:03:45,039 --> 00:03:48,040
+This boring structure connects us all.
+
+57
+00:03:49,543 --> 00:03:50,875
+Be proud.
+
+58
+00:03:50,877 --> 00:03:52,972
+And be back in an hour to pack.
+
+59
+00:03:52,975 --> 00:03:54,342
+We're going home.
+
+60
+00:03:54,345 --> 00:03:56,881
+Hey, you forgetting something?
+
+61
+00:03:56,883 --> 00:04:00,919
+<b><font face="Rockwell" color="#D900D9">(BIRDS CHIRPING)</font></b>
+
+62
+00:04:00,921 --> 00:04:02,946
+- <b><font face="Rockwell" color="#D900D9">(SMOOCHES)</font></b>
+- Thanks.
+
+63
+00:04:02,949 --> 00:04:05,283
+Uh, one other thing.
+
+64
+00:04:08,062 --> 00:04:10,162
+Did he get taller?
+
+65
+00:04:10,164 --> 00:04:11,896
+I think he's taller.
+
+66
+00:04:11,898 --> 00:04:14,065
+He'll be off to college
+before we know it.
+
+67
+00:04:17,168 --> 00:04:19,568
+If the Kingdom didn't need me
+
+68
+00:04:19,571 --> 00:04:21,272
+and Henry didn't have school,
+
+69
+00:04:21,274 --> 00:04:24,275
+I'd stay here to drive
+in the last nail myself.
+
+70
+00:04:24,277 --> 00:04:26,077
+Oh?
+
+71
+00:04:26,079 --> 00:04:28,480
+That'd be the only reason you'd stay?
+
+72
+00:04:28,482 --> 00:04:31,082
+There might be one other.
+
+73
+00:04:31,084 --> 00:04:32,684
+Mm?
+
+74
+00:04:36,923 --> 00:04:39,691
+Sanctuary's not ready yet.
+
+75
+00:04:39,693 --> 00:04:42,694
+So I'll be heading back there after.
+
+76
+00:04:42,696 --> 00:04:45,096
+I thought that might be the case.
+
+77
+00:04:46,099 --> 00:04:49,600
+- But it still doesn't mean...
+- I know. I know.
+
+78
+00:04:49,602 --> 00:04:52,703
+Fairy tales end with heroes
+living happily forever,
+
+79
+00:04:52,705 --> 00:04:54,805
+but in the real world, in this world,
+
+80
+00:04:54,807 --> 00:04:58,208
+it's about finding the small moments...
+
+81
+00:04:58,210 --> 00:05:01,378
+and getting to have as many
+of those moments as possible.
+
+82
+00:05:02,961 --> 00:05:04,714
+This is just goodbye for now.
+
+83
+00:05:04,717 --> 00:05:06,977
+I'm not giving up on the fairy tale.
+
+84
+00:05:06,980 --> 00:05:08,931
+Hell, no.
+
+85
+00:05:12,057 --> 00:05:14,324
+In regards to our makeshift levee upstream,
+
+86
+00:05:14,326 --> 00:05:16,126
+given the current rate of spring runoff,
+
+87
+00:05:16,128 --> 00:05:19,530
+I'd put its expiration date
+at another six to nine days.
+
+88
+00:05:19,532 --> 00:05:21,698
+After that, it's slam,
+blam, sayonara cofferdam.
+
+89
+00:05:21,700 --> 00:05:23,633
+How fast can we have
+those supports ready?
+
+90
+00:05:23,635 --> 00:05:24,954
+Well, ditto on the six to nine,
+
+91
+00:05:24,957 --> 00:05:26,736
+but if we boost our
+juice and shed the lead,
+
+92
+00:05:26,738 --> 00:05:28,337
+- I think we can beat it.
+- Good.
+
+93
+00:05:28,339 --> 00:05:30,406
+I'll talk to the
+foreman, make sure we do.
+
+94
+00:05:30,408 --> 00:05:31,674
+Scouts got back.
+
+95
+00:05:31,676 --> 00:05:32,975
+"Horatio's" gonna pass us by,
+
+96
+00:05:32,977 --> 00:05:34,016
+but it'll be close.
+
+97
+00:05:34,019 --> 00:05:36,620
+- We got a head count?
+- 100 and change.
+
+98
+00:05:36,623 --> 00:05:38,446
+What, you think we
+should push the blasting?
+
+99
+00:05:38,449 --> 00:05:41,287
+Nah. If we wait, we'll wind
+up drawing that other herd.
+
+100
+00:05:41,290 --> 00:05:42,718
+"Margaret."
+
+101
+00:05:42,720 --> 00:05:43,986
+Right.
+
+102
+00:05:43,988 --> 00:05:46,071
+And that one's five times as big.
+
+103
+00:05:49,224 --> 00:05:51,591
+- We got the sirens in place?
+- Hell, yeah.
+
+104
+00:05:51,594 --> 00:05:53,313
+Then we blow the rockslide.
+
+105
+00:05:53,316 --> 00:05:55,462
+If the herd comes, we'll redirect.
+
+106
+00:05:55,465 --> 00:05:57,266
+All right, I'll let 'em know.
+
+107
+00:05:57,268 --> 00:05:59,034
+Anything on those walk-offs?
+
+108
+00:05:59,036 --> 00:06:00,769
+As of head count this <i>mañana,</i>
+
+109
+00:06:00,771 --> 00:06:02,485
+we're down one more Savior.
+
+110
+00:06:02,488 --> 00:06:04,479
+That's six in the past month.
+
+111
+00:06:04,482 --> 00:06:07,923
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+I'll talk to Carol about it.
+
+112
+00:06:07,926 --> 00:06:09,970
+Roger that and Wilco.
+
+113
+00:06:09,973 --> 00:06:11,321
+<b><font face="Rockwell" color="#D900D9">(INHALES SHARPLY)</font></b>
+
+114
+00:06:11,324 --> 00:06:13,724
+You're lucky it's not infected.
+
+115
+00:06:13,727 --> 00:06:16,484
+Next time, come see us right away.
+
+116
+00:06:16,487 --> 00:06:18,654
+I know. I just felt stupid.
+
+117
+00:06:18,657 --> 00:06:20,255
+Peeling a potato's a pretty dumb way
+
+118
+00:06:20,257 --> 00:06:21,823
+to end up in the infirmary.
+
+119
+00:06:21,825 --> 00:06:24,560
+Yeah, well, it's an even
+dumber way to get gangrene.
+
+120
+00:06:24,562 --> 00:06:26,228
+How's the star student doing?
+
+121
+00:06:26,230 --> 00:06:28,032
+Ready to take on anything.
+
+122
+00:06:28,035 --> 00:06:29,860
+Good. She's gonna get her chance.
+
+123
+00:06:29,863 --> 00:06:32,017
+I'd like you to head back home.
+
+124
+00:06:32,020 --> 00:06:33,519
+There's a bug going around.
+
+125
+00:06:33,522 --> 00:06:35,668
+Okay. I'll head out
+with the next escort.
+
+126
+00:06:35,671 --> 00:06:36,813
+Wait. He's leaving?
+
+127
+00:06:36,816 --> 00:06:38,439
+- Ow!
+- Sorry.
+
+128
+00:06:38,441 --> 00:06:40,841
+Uh, it's fine.
+
+129
+00:06:40,843 --> 00:06:42,443
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b> I-I've got this.
+
+130
+00:06:42,445 --> 00:06:44,548
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b> Yeah, I know.
+
+131
+00:06:46,082 --> 00:06:48,816
+My final line item is foodstuffs...
+
+132
+00:06:48,818 --> 00:06:50,284
+Or lack thereof.
+
+133
+00:06:50,286 --> 00:06:52,953
+Alexandria is stretched
+wafer-slim supplyin' grub
+
+134
+00:06:52,955 --> 00:06:55,256
+to both the camp and the Sanctuary.
+
+135
+00:06:55,258 --> 00:06:56,665
+Meaning our wafer-slim pickins
+
+136
+00:06:56,668 --> 00:06:58,459
+are getting wafer-slimmer by the day.
+
+137
+00:06:58,461 --> 00:06:59,634
+Yeah.
+
+138
+00:06:59,637 --> 00:07:01,461
+Michonne's on it.
+
+139
+00:07:01,464 --> 00:07:03,079
+<b><font face="Rockwell" color="#D900D9">(HORSE GRUNTING)</font></b>
+
+140
+00:07:03,082 --> 00:07:04,696
+Whoa, whoa!
+
+141
+00:07:04,699 --> 00:07:09,869
+<b><font face="Rockwell" color="#D900D9">(BIRDS CHIRPING)</font></b>
+
+142
+00:07:09,871 --> 00:07:11,871
+- <b><font face="Rockwell" color="#D900D9">(HORSE WHINNYING)</font></b>
+- Easy.
+
+143
+00:07:13,708 --> 00:07:17,544
+<b><font face="Rockwell" color="#D900D9">(GATE CREAKS)</font></b>
+
+144
+00:07:22,317 --> 00:07:25,051
+Good boy.
+
+145
+00:07:30,559 --> 00:07:33,493
+Whoa.
+
+146
+00:07:36,498 --> 00:07:38,397
+Hey.
+
+147
+00:07:38,400 --> 00:07:40,709
+You came out alone?
+
+148
+00:07:40,712 --> 00:07:42,701
+From Sanctuary, yeah.
+
+149
+00:07:42,703 --> 00:07:44,306
+You find out anything?
+
+150
+00:07:44,309 --> 00:07:46,482
+They're saying they sent
+the ethanol out last week,
+
+151
+00:07:46,485 --> 00:07:47,748
+like they promised.
+
+152
+00:07:47,751 --> 00:07:49,009
+Well, it's still not here.
+
+153
+00:07:49,012 --> 00:07:50,742
+Yeah. Jesus mentioned that.
+
+154
+00:07:50,744 --> 00:07:53,179
+- I don't know what happened.
+- They could be lying.
+
+155
+00:07:53,181 --> 00:07:54,846
+I don't think they are.
+
+156
+00:07:54,848 --> 00:07:57,876
+Maybe the guys who made the delivery
+
+157
+00:07:57,879 --> 00:08:02,321
+were taken down by walkers
+or they went AWOL, but...
+
+158
+00:08:02,323 --> 00:08:04,190
+we need the food.
+
+159
+00:08:04,192 --> 00:08:06,925
+I was hoping you might send
+enough to tide them over
+
+160
+00:08:06,927 --> 00:08:08,727
+while we figure this out.
+
+161
+00:08:08,729 --> 00:08:10,396
+<b><font face="Rockwell" color="#808080">JESUS:</font></b> We could do it.
+
+162
+00:08:10,398 --> 00:08:11,730
+We have the surpluses.
+
+163
+00:08:11,732 --> 00:08:13,231
+Yeah, but for how long?
+
+164
+00:08:13,233 --> 00:08:14,866
+Till we get that fuel...
+
+165
+00:08:16,737 --> 00:08:19,537
+...that tractor's not moving...
+
+166
+00:08:19,539 --> 00:08:22,007
+which means the big
+fields don't get plowed
+
+167
+00:08:22,009 --> 00:08:23,575
+and the yield comes in short.
+
+168
+00:08:23,577 --> 00:08:25,998
+What about the plow we
+brought back from the museum?
+
+169
+00:08:26,001 --> 00:08:27,399
+I need a blacksmith to fix it,
+
+170
+00:08:27,402 --> 00:08:29,298
+and I don't have one right now.
+
+171
+00:08:31,157 --> 00:08:33,457
+How long is Earl gonna be locked up?
+
+172
+00:08:33,460 --> 00:08:35,060
+I don't know.
+
+173
+00:08:35,063 --> 00:08:36,888
+I haven't decided.
+
+174
+00:08:36,890 --> 00:08:39,057
+First time we've had to deal
+with something like this.
+
+175
+00:08:39,059 --> 00:08:40,959
+It might be time, then,
+
+176
+00:08:40,961 --> 00:08:43,261
+to start talking about
+making some rules.
+
+177
+00:08:43,263 --> 00:08:46,602
+Do you think he'd ever do
+something like this again?
+
+178
+00:08:46,605 --> 00:08:48,265
+I didn't think that he'd
+do it the first time.
+
+179
+00:08:48,267 --> 00:08:49,700
+Well, you didn't hang
+him like you did Gregory.
+
+180
+00:08:49,702 --> 00:08:51,102
+There must be a reason for that.
+
+181
+00:08:51,104 --> 00:08:52,970
+So, should I let him walk
+like nothing happened?
+
+182
+00:08:52,972 --> 00:08:54,705
+No.
+
+183
+00:08:54,707 --> 00:08:59,210
+I hate what he did to you, to Enid.
+
+184
+00:08:59,212 --> 00:09:01,378
+But if keeping him locked up
+
+185
+00:09:01,380 --> 00:09:03,047
+means that the crops don't get planted,
+
+186
+00:09:03,049 --> 00:09:04,369
+then it's not just
+him that gets punished.
+
+187
+00:09:04,371 --> 00:09:06,817
+Uh, Hilltop will be fine.
+
+188
+00:09:06,819 --> 00:09:09,118
+Until that ethanol shows up,
+
+189
+00:09:09,121 --> 00:09:10,453
+we're holding on to our surpluses
+
+190
+00:09:10,456 --> 00:09:12,156
+because we're gonna need 'em.
+
+191
+00:09:12,158 --> 00:09:14,424
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT CONVERSATIONS)</font></b>
+
+192
+00:09:17,204 --> 00:09:20,248
+It's a long ride back to Alexandria.
+
+193
+00:09:20,251 --> 00:09:22,999
+You're welcome to stay the
+night here if you'd like.
+
+194
+00:09:23,001 --> 00:09:24,601
+Thanks.
+
+195
+00:09:24,603 --> 00:09:26,436
+I will.
+
+196
+00:09:26,438 --> 00:09:28,321
+Come on.
+
+197
+00:09:28,324 --> 00:09:30,908
+I'll get you set up.
+
+198
+00:09:30,911 --> 00:09:34,645
+<b><font face="Rockwell" color="#D900D9">(BIRDS CHIRPING)</font></b>
+
+199
+00:09:34,647 --> 00:09:38,315
+<b><font face="Rockwell" color="#D900D9">(HAMMER POUNDING)</font></b>
+
+200
+00:09:38,317 --> 00:09:41,285
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT CONVERSATIONS)</font></b>
+
+201
+00:09:41,287 --> 00:09:43,313
+<b><font face="Rockwell" color="#D900D9">(EXHALES SHARPLY)</font></b>
+
+202
+00:09:43,316 --> 00:09:49,426
+So, I go in after her
+nap and pick her up,
+
+203
+00:09:49,428 --> 00:09:53,363
+and the diaper just
+explodes all over me.
+
+204
+00:09:53,365 --> 00:09:54,630
+Sounds like good times.
+
+205
+00:09:54,632 --> 00:09:56,999
+Oh, the best. You'll see.
+
+206
+00:09:58,101 --> 00:09:59,985
+- What?
+- <b><font face="Rockwell" color="#D900D9">(HAMMER POUNDS)</font></b>
+
+207
+00:09:59,988 --> 00:10:01,282
+You'd be a great dad.
+
+208
+00:10:01,285 --> 00:10:02,383
+Yeah.
+
+209
+00:10:02,386 --> 00:10:03,885
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+210
+00:10:03,888 --> 00:10:05,337
+<b><font face="Rockwell" color="#D900D9">(HAMMERS POUNDING)</font></b>
+
+211
+00:10:05,340 --> 00:10:07,276
+Thanks, kid.
+
+212
+00:10:07,278 --> 00:10:08,477
+<b><font face="Rockwell" color="#D900D9">(HAMMERS POUNDING)</font></b>
+
+213
+00:10:12,716 --> 00:10:14,415
+<b><font face="Rockwell" color="#D900D9">(EXHALES SHARPLY)</font></b>
+
+214
+00:10:14,418 --> 00:10:17,385
+- Thanks.
+- <b><font face="Rockwell" color="#D900D9">(LIQUID POURING)</font></b>
+
+215
+00:10:22,460 --> 00:10:24,960
+Easy there, buddy. I'm still thirsty.
+
+216
+00:10:24,962 --> 00:10:26,790
+No. No. There's not enough. You can't.
+
+217
+00:10:26,793 --> 00:10:30,798
+- Give it a rest, kid.
+- <b><font face="Rockwell" color="#D900D9">(TOOLS CLATTER)</font></b>
+
+218
+00:10:35,806 --> 00:10:37,472
+Back off.
+
+219
+00:10:37,474 --> 00:10:41,509
+<b><font face="Rockwell" color="#D900D9">(LAUGHTER)</font></b>
+
+220
+00:10:41,511 --> 00:10:43,878
+Ahh. Hey, man, it's cool.
+
+221
+00:10:43,880 --> 00:10:46,681
+I got my ass handed to
+me by a kid one time, too.
+
+222
+00:10:46,683 --> 00:10:48,683
+Of course, I was 6 at the time.
+
+223
+00:10:50,186 --> 00:10:52,554
+Hey. Kid's just doing his job.
+
+224
+00:10:52,556 --> 00:10:54,021
+Get back to work.
+
+225
+00:10:54,023 --> 00:10:56,057
+I don't need your people
+telling me what to do.
+
+226
+00:10:56,059 --> 00:10:58,426
+You're not my babysitter anymore.
+
+227
+00:10:58,428 --> 00:10:59,694
+<b><font face="Rockwell" color="#D900D9">(GRUNTS)</font></b>
+
+228
+00:10:59,696 --> 00:11:03,097
+Ugh!
+
+229
+00:11:03,099 --> 00:11:05,199
+<b><font face="Rockwell" color="#D900D9">(GRUNTS)</font></b>
+
+230
+00:11:05,201 --> 00:11:06,467
+Ahh!
+
+231
+00:11:08,596 --> 00:11:11,274
+I've been schemin' and dreamin'
+'bout padding out our pantry
+
+232
+00:11:11,277 --> 00:11:14,664
+via repurposing expired
+canned goods and condiments.
+
+233
+00:11:14,667 --> 00:11:17,401
+By boiling old ketchup and
+cooling it with new cukes,
+
+234
+00:11:17,403 --> 00:11:20,004
+I bet we can produce
+us a passable gazpacho.
+
+235
+00:11:20,006 --> 00:11:22,907
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT SHOUTING)</font></b>
+
+236
+00:11:22,909 --> 00:11:24,341
+<b><font face="Rockwell" color="#D900D9">(GRUNTING)</font></b>
+
+237
+00:11:24,343 --> 00:11:28,423
+<b><font face="Rockwell" color="#D900D9">(SHOUTING CONTINUES)</font></b>
+
+238
+00:11:28,426 --> 00:11:31,614
+Hey! Hey! Break it up!
+
+239
+00:11:31,617 --> 00:11:34,786
+Break it up right now!
+
+240
+00:11:35,755 --> 00:11:37,855
+Hey!
+
+241
+00:11:37,857 --> 00:11:39,090
+I said enough!
+
+242
+00:11:39,092 --> 00:11:41,792
+I said enough. Enough.
+
+243
+00:11:41,794 --> 00:11:44,094
+<b><font face="Rockwell" color="#D900D9">(ALL MURMURING)</font></b>
+
+244
+00:11:50,969 --> 00:11:53,737
+Go back to work.
+
+245
+00:11:53,739 --> 00:11:57,107
+So, that asshole just gets
+a free pass? Is that it?
+
+246
+00:11:57,109 --> 00:11:59,263
+It's just a few more days.
+
+247
+00:11:59,266 --> 00:12:00,544
+I don't like it, either,
+
+248
+00:12:00,546 --> 00:12:02,879
+but we're in a rush
+to get that work done.
+
+249
+00:12:02,881 --> 00:12:04,063
+He's strong.
+
+250
+00:12:04,066 --> 00:12:05,782
+The Saviors are over half the workforce,
+
+251
+00:12:05,785 --> 00:12:07,418
+and we've had too many walk off already.
+
+252
+00:12:07,420 --> 00:12:09,052
+Yeah. 'Cause that's who they are.
+
+253
+00:12:09,054 --> 00:12:10,887
+Some of them ain't
+ever gonna fall in line
+
+254
+00:12:10,889 --> 00:12:14,120
+- just 'cause you say so.
+- Daryl's right.
+
+255
+00:12:14,123 --> 00:12:16,623
+These people have never
+had to live together.
+
+256
+00:12:16,626 --> 00:12:19,629
+And we can't expect them to
+just forget what's happened.
+
+257
+00:12:19,631 --> 00:12:21,764
+It hasn't been easy. I know.
+
+258
+00:12:21,766 --> 00:12:23,743
+It won't be, not for a while,
+
+259
+00:12:23,746 --> 00:12:25,900
+but it's not about forgetting.
+
+260
+00:12:25,903 --> 00:12:29,605
+It's about moving ahead,
+all of us, together.
+
+261
+00:12:29,607 --> 00:12:31,273
+We keep doing that,
+
+262
+00:12:31,275 --> 00:12:34,910
+they'll see we're all on the same side.
+
+263
+00:12:34,912 --> 00:12:36,646
+Are we, though?
+
+264
+00:12:39,684 --> 00:12:41,651
+Are we on the same side, Rick?
+
+265
+00:12:41,653 --> 00:12:44,086
+Well, you tell me.
+
+266
+00:12:44,088 --> 00:12:46,489
+Thing is, man, I've been tryin' to.
+
+267
+00:12:46,491 --> 00:12:49,191
+But you don't seem to want to hear it.
+
+268
+00:12:51,362 --> 00:12:55,464
+Daryl. <b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+269
+00:12:55,466 --> 00:12:58,099
+It's complicated.
+
+270
+00:12:58,101 --> 00:13:01,169
+It's been different since Gregory,
+
+271
+00:13:01,171 --> 00:13:03,271
+maybe since before that.
+
+272
+00:13:03,273 --> 00:13:05,707
+You should talk to him.
+
+273
+00:13:07,511 --> 00:13:09,544
+And say what?
+
+274
+00:13:12,115 --> 00:13:14,516
+I get what you're trying to do here,
+
+275
+00:13:14,518 --> 00:13:16,284
+and it's the right thing.
+
+276
+00:13:16,286 --> 00:13:18,119
+But maybe for some of them,
+
+277
+00:13:18,121 --> 00:13:19,954
+they're just not ready for it.
+
+278
+00:13:30,633 --> 00:13:33,534
+<b><font face="Rockwell" color="#808080">TAMMY:</font></b> You can't just
+keep him from me like this.
+
+279
+00:13:33,536 --> 00:13:35,969
+She won't even say
+how long he's in there for.
+
+280
+00:13:35,971 --> 00:13:37,337
+Why won't you help me?
+
+281
+00:13:37,339 --> 00:13:38,891
+<b><font face="Rockwell" color="#808080">JESUS:</font></b> I can't let you go
+down there,
+
+282
+00:13:38,894 --> 00:13:41,674
+- not without Maggie's okay.
+- He's my husband.
+
+283
+00:13:41,677 --> 00:13:43,318
+You have to let me see him.
+
+284
+00:13:43,321 --> 00:13:44,812
+Of course you're going to see him,
+
+285
+00:13:44,814 --> 00:13:46,313
+but we can't do this today.
+
+286
+00:13:46,315 --> 00:13:47,709
+So, if not today, when?
+
+287
+00:13:47,712 --> 00:13:48,982
+I deserve a damn answer.
+
+288
+00:13:48,984 --> 00:13:50,751
+- Tammy, please. I'm not...
+- No. Tell me.
+
+289
+00:13:50,753 --> 00:13:52,929
+Tell me when I get to
+see my damn husband!
+
+290
+00:13:52,932 --> 00:13:54,001
+Tammy, I'm sorry.
+
+291
+00:13:54,004 --> 00:13:56,355
+Look, my boy is dead.
+
+292
+00:13:56,358 --> 00:13:57,825
+My husband is locked up.
+
+293
+00:13:57,827 --> 00:13:59,559
+Nobody even talks to me anymore
+
+294
+00:13:59,561 --> 00:14:01,895
+'cause they don't know
+what the hell to say.
+
+295
+00:14:01,897 --> 00:14:04,271
+I don't have much,
+but I've still got rights.
+
+296
+00:14:04,274 --> 00:14:07,100
+Are you gonna take
+those away from me, too?
+
+297
+00:14:07,102 --> 00:14:09,002
+He tried to kill Maggie.
+
+298
+00:14:09,004 --> 00:14:11,171
+He tried to kill her, Tammy.
+
+299
+00:14:12,241 --> 00:14:16,076
+Just give her a little
+bit to figure it out.
+
+300
+00:14:16,078 --> 00:14:18,475
+All right. All right.
+
+301
+00:14:18,478 --> 00:14:21,812
+But you tell her that I am not moving
+
+302
+00:14:21,815 --> 00:14:23,803
+until she lets me in there.
+
+303
+00:14:23,806 --> 00:14:26,886
+You go. Go ahead and tell her that.
+
+304
+00:14:26,888 --> 00:14:28,588
+I got no one else.
+
+305
+00:14:28,590 --> 00:14:31,624
+I got no place else to be, okay?
+
+306
+00:14:31,626 --> 00:14:35,394
+<b><font face="Rockwell" color="#D900D9">(CHAIR CREAKS)</font></b>
+
+307
+00:14:35,397 --> 00:14:39,132
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+308
+00:14:45,909 --> 00:14:47,709
+Are you gonna talk to her about it?
+
+309
+00:14:47,712 --> 00:14:49,408
+Maggie?
+
+310
+00:14:49,410 --> 00:14:51,210
+She'll do what she wants to do.
+
+311
+00:14:51,212 --> 00:14:52,612
+But what do you think?
+
+312
+00:14:52,614 --> 00:14:54,914
+I think it's not my call.
+
+313
+00:14:54,916 --> 00:14:57,216
+But do you agree with it?
+
+314
+00:14:57,218 --> 00:14:59,619
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+315
+00:14:59,621 --> 00:15:02,221
+I don't know if she hanged
+Gregory for everyone
+
+316
+00:15:02,223 --> 00:15:05,224
+or for herself or both.
+
+317
+00:15:05,226 --> 00:15:06,782
+But I'm not against a grieving mother
+
+318
+00:15:06,785 --> 00:15:07,852
+seeing her husband.
+
+319
+00:15:07,855 --> 00:15:09,688
+Then you should talk to her.
+
+320
+00:15:09,691 --> 00:15:12,098
+She trusts you. She listens to you.
+
+321
+00:15:12,100 --> 00:15:14,266
+And I trust her...
+
+322
+00:15:14,268 --> 00:15:17,470
+her instincts, if not her every decision.
+
+323
+00:15:17,472 --> 00:15:19,805
+No one's right all the time,
+
+324
+00:15:19,807 --> 00:15:23,476
+not her, not me, and not you.
+
+325
+00:15:23,478 --> 00:15:25,478
+That's why we need to build something
+
+326
+00:15:25,480 --> 00:15:27,446
+that's bigger than any one of us.
+
+327
+00:15:27,448 --> 00:15:29,448
+<b><font face="Rockwell" color="#D900D9">(BIRDS CHIRPING)</font></b>
+
+328
+00:15:36,157 --> 00:15:40,826
+<b><font face="Rockwell" color="#D900D9">(DISHES CLANKING)</font></b>
+
+329
+00:15:40,828 --> 00:15:44,295
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT CONVERSATIONS)</font></b>
+
+330
+00:15:44,297 --> 00:15:47,298
+Higher, lower?
+
+331
+00:15:47,300 --> 00:15:49,134
+Lower maybe.
+
+332
+00:15:49,136 --> 00:15:51,202
+Like this?
+
+333
+00:15:53,541 --> 00:15:55,473
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b> Yes.
+
+334
+00:15:55,475 --> 00:15:57,543
+That's her.
+
+335
+00:15:59,458 --> 00:16:01,791
+You're very talented.
+
+336
+00:16:03,183 --> 00:16:05,417
+Take it from the half-blind art critic.
+
+337
+00:16:05,419 --> 00:16:07,519
+I like doin' it.
+
+338
+00:16:07,521 --> 00:16:10,889
+It feels intimate, like I'm one of you.
+
+339
+00:16:10,891 --> 00:16:13,089
+You<i> are</i> one of us.
+
+340
+00:16:13,092 --> 00:16:15,092
+Thanks to you...
+
+341
+00:16:15,095 --> 00:16:17,161
+and Rick and Morgan.
+
+342
+00:16:17,163 --> 00:16:19,329
+You're the ones that reached out to me.
+
+343
+00:16:19,331 --> 00:16:21,687
+The others... Mnh.
+
+344
+00:16:21,690 --> 00:16:23,734
+The others will come around.
+
+345
+00:16:23,736 --> 00:16:26,103
+Nobody trusted me at first, either.
+
+346
+00:16:26,105 --> 00:16:30,174
+I gave them good reason not to.
+
+347
+00:16:30,176 --> 00:16:31,909
+Same here.
+
+348
+00:16:31,911 --> 00:16:33,778
+Believe me.
+
+349
+00:16:33,780 --> 00:16:35,843
+But then Rick reached out to me, too.
+
+350
+00:16:35,846 --> 00:16:38,248
+He's, uh...
+
+351
+00:16:38,250 --> 00:16:40,851
+He's good like that.
+
+352
+00:16:43,698 --> 00:16:45,548
+He's not the only one.
+
+353
+00:16:55,101 --> 00:16:57,767
+Well...
+
+354
+00:16:57,769 --> 00:17:02,272
+that's my job... Being there.
+
+355
+00:17:08,981 --> 00:17:11,781
+<b><font face="Rockwell" color="#808080">MAGGIE:</font></b> Maybe we can vent
+that trailer
+
+356
+00:17:11,783 --> 00:17:15,051
+or move the school outside
+till the heat wave's over.
+
+357
+00:17:15,053 --> 00:17:17,154
+I'll let Bertie know.
+
+358
+00:17:17,156 --> 00:17:18,755
+<b><font face="Rockwell" color="#D900D9">(SPEAKING GIBBERISH)</font></b>
+
+359
+00:17:18,757 --> 00:17:20,290
+<b><font face="Rockwell" color="#D900D9">(IMITATES MUNCHING)</font></b>
+
+360
+00:17:20,292 --> 00:17:23,159
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+361
+00:17:24,496 --> 00:17:25,828
+Thank you.
+
+362
+00:17:25,830 --> 00:17:28,498
+Twins drop off another
+letter from Georgie?
+
+363
+00:17:28,500 --> 00:17:33,402
+No. I was just reading one
+of the old ones she sent.
+
+364
+00:17:33,404 --> 00:17:36,005
+Thinking about how
+much she's done for us,
+
+365
+00:17:36,007 --> 00:17:38,141
+how much is still left to do.
+
+366
+00:17:38,143 --> 00:17:40,343
+You thinking about joining her?
+
+367
+00:17:40,345 --> 00:17:43,412
+You know she'll never
+get tired of asking.
+
+368
+00:17:43,414 --> 00:17:46,115
+I like her ideas, but not that much.
+
+369
+00:17:46,117 --> 00:17:48,917
+I'll bet she's got a killer
+record collection by now.
+
+370
+00:17:48,919 --> 00:17:52,821
+I'm plenty busy building
+a future right here.
+
+371
+00:17:52,823 --> 00:17:55,159
+Aren't we?
+
+372
+00:17:55,300 --> 00:17:57,425
+Aren't we?
+
+373
+00:18:00,444 --> 00:18:02,511
+What're you thinkin'?
+
+374
+00:18:02,514 --> 00:18:04,781
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+375
+00:18:04,784 --> 00:18:06,468
+Tammy Rose.
+
+376
+00:18:08,973 --> 00:18:11,840
+She's been asking to see
+Earl for over a month now.
+
+377
+00:18:11,842 --> 00:18:13,208
+<b><font face="Rockwell" color="#D900D9">(BABY COOING)</font></b>
+
+378
+00:18:13,210 --> 00:18:15,510
+You think that's unfair?
+
+379
+00:18:15,512 --> 00:18:19,481
+I think some decisions are
+too big for one person to make.
+
+380
+00:18:19,483 --> 00:18:21,150
+But that's why we used to have laws.
+
+381
+00:18:21,152 --> 00:18:22,651
+You've been talking to Michonne.
+
+382
+00:18:22,653 --> 00:18:24,486
+She's not wrong, Maggie.
+
+383
+00:18:24,488 --> 00:18:28,277
+Negan. Gregory. Earl.
+
+384
+00:18:28,280 --> 00:18:29,513
+You won't say it,
+
+385
+00:18:29,516 --> 00:18:31,124
+but you think I'm wrong about them.
+
+386
+00:18:31,127 --> 00:18:32,459
+<b><font face="Rockwell" color="#D900D9">(BABY COOS)</font></b>
+
+387
+00:18:32,461 --> 00:18:34,729
+I think you're a good person.
+
+388
+00:18:34,731 --> 00:18:37,031
+And good people can disagree.
+
+389
+00:18:38,634 --> 00:18:40,702
+<b><font face="Rockwell" color="#D900D9">(DOOR OPENS)</font></b>
+
+390
+00:18:40,704 --> 00:18:43,304
+<b><font face="Rockwell" color="#D900D9">(CREAKING)</font></b>
+
+391
+00:18:43,306 --> 00:18:46,741
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT CONVERSATIONS)</font></b>
+
+392
+00:18:46,743 --> 00:18:49,877
+<b><font face="Rockwell" color="#D900D9">(FOOTSTEPS APPROACHING)</font></b>
+
+393
+00:19:01,490 --> 00:19:03,157
+I've been tryin' to see you.
+
+394
+00:19:03,159 --> 00:19:05,326
+Every day, I've been tryin' to see you.
+
+395
+00:19:05,328 --> 00:19:06,893
+Oh, it's okay.
+
+396
+00:19:06,895 --> 00:19:08,696
+I'm okay.
+
+397
+00:19:08,698 --> 00:19:11,117
+They're treating me fair.
+
+398
+00:19:11,120 --> 00:19:12,938
+It's more than I deserve.
+
+399
+00:19:12,941 --> 00:19:14,133
+Don't say that.
+
+400
+00:19:14,136 --> 00:19:16,370
+Well, it's true, though. It is.
+
+401
+00:19:16,372 --> 00:19:18,339
+20 years sober.
+
+402
+00:19:18,341 --> 00:19:21,469
+I brought shame to you
+and Kenneth's memory.
+
+403
+00:19:21,472 --> 00:19:22,776
+I-I didn't mean to.
+
+404
+00:19:22,778 --> 00:19:24,331
+Earl, you made a mistake.
+
+405
+00:19:24,334 --> 00:19:26,334
+You... You lost yourself.
+
+406
+00:19:26,337 --> 00:19:28,292
+But... But you came back.
+
+407
+00:19:28,295 --> 00:19:30,351
+You're here now, and I forgive you.
+
+408
+00:19:30,353 --> 00:19:32,886
+You hear me? God forgives you.
+
+409
+00:19:32,888 --> 00:19:34,121
+Oh, Tammy.
+
+410
+00:19:34,123 --> 00:19:38,925
+It's not your forgiveness I need.
+
+411
+00:19:38,927 --> 00:19:41,527
+I just...
+
+412
+00:19:41,529 --> 00:19:43,930
+I miss him so much.
+
+413
+00:19:43,932 --> 00:19:47,634
+Me, too. Me, too.
+
+414
+00:19:47,636 --> 00:19:52,773
+Oh, baby, I miss him.
+
+415
+00:19:52,775 --> 00:19:56,076
+<b><font face="Rockwell" color="#D900D9">(BIRDS CHIRPING)</font></b>
+
+416
+00:19:56,078 --> 00:19:57,944
+<b><font face="Rockwell" color="#D900D9">(METAL SCRAPING)</font></b>
+
+417
+00:19:57,946 --> 00:20:00,747
+Maybe we should be farther back.
+
+418
+00:20:00,749 --> 00:20:02,675
+It's fine. Trust me.
+
+419
+00:20:04,820 --> 00:20:06,953
+Would you trust me?
+
+420
+00:20:06,955 --> 00:20:10,290
+After you sliced my face
+open with a knife? Not really.
+
+421
+00:20:10,292 --> 00:20:12,725
+Fire in the hole!
+
+422
+00:20:14,081 --> 00:20:17,562
+<b><font face="Rockwell" color="#D900D9">(EXPLOSION, WINGS FLUTTERING)</font></b>
+
+423
+00:20:17,564 --> 00:20:20,900
+<b><font face="Rockwell" color="#D900D9">(WALKERS GROWLING)</font></b>
+
+424
+00:20:30,913 --> 00:20:32,946
+<b><font face="Rockwell" color="#D900D9">(WALKERS SNARLING)</font></b>
+
+425
+00:20:35,554 --> 00:20:39,249
+<b><font face="Rockwell" color="#D900D9">(FOOTSTEPS APPROACHING)</font></b>
+
+426
+00:20:39,252 --> 00:20:42,520
+<b><font face="Rockwell" color="#D900D9">(DOOR OPENS, CREAKS)</font></b>
+
+427
+00:20:50,028 --> 00:20:52,929
+I never figured when I asked
+you to build these cells
+
+428
+00:20:52,932 --> 00:20:55,332
+you'd be the first person
+I'd have to stick in one.
+
+429
+00:21:01,741 --> 00:21:03,874
+Tell me about the drinking.
+
+430
+00:21:07,257 --> 00:21:09,013
+What do you want to know?
+
+431
+00:21:09,015 --> 00:21:11,048
+I want to know how you got here.
+
+432
+00:21:14,954 --> 00:21:18,956
+I started drinking right
+after I quit smoking.
+
+433
+00:21:18,958 --> 00:21:21,225
+How's that for ironic?
+
+434
+00:21:21,227 --> 00:21:24,361
+It wasn't something
+that got out of control.
+
+435
+00:21:24,363 --> 00:21:26,863
+It was always bad.
+
+436
+00:21:26,865 --> 00:21:31,968
+I was drunk the day Kenneth was born.
+
+437
+00:21:31,970 --> 00:21:38,069
+Hell, I can't even remember
+the first time I saw him.
+
+438
+00:21:40,954 --> 00:21:43,788
+I joined A.A. after that.
+
+439
+00:21:45,043 --> 00:21:46,905
+But...
+
+440
+00:21:50,073 --> 00:21:52,408
+<b><font face="Rockwell" color="#D900D9">(EXHALES HEAVILY)</font></b>
+
+441
+00:21:52,411 --> 00:21:54,043
+<b><font face="Rockwell" color="#D900D9">(SCRAPING)</font></b>
+
+442
+00:21:54,046 --> 00:21:56,246
+When Kenny was 2,
+
+443
+00:21:56,249 --> 00:22:00,012
+me and Tammy were
+barely making ends meet.
+
+444
+00:22:00,015 --> 00:22:02,598
+I guess the stress of it all got to me.
+
+445
+00:22:02,600 --> 00:22:05,234
+I don't know.
+
+446
+00:22:05,236 --> 00:22:08,237
+I was on my way to pick
+him up from the sitter's,
+
+447
+00:22:08,239 --> 00:22:13,350
+and I saw the sign for
+McDuffy's off the highway.
+
+448
+00:22:19,417 --> 00:22:21,250
+The sitter could smell
+the whiskey on me.
+
+449
+00:22:21,252 --> 00:22:23,252
+She told me.
+
+450
+00:22:23,254 --> 00:22:25,621
+She didn't want to hand him over.
+
+451
+00:22:25,623 --> 00:22:27,290
+She tried to grab my keys.
+
+452
+00:22:27,292 --> 00:22:29,530
+I wouldn't give her a choice.
+
+453
+00:22:29,533 --> 00:22:32,828
+I took my son, and I put him in the truck.
+
+454
+00:22:35,632 --> 00:22:37,432
+The next thing I remember,
+
+455
+00:22:37,435 --> 00:22:42,037
+I was pulled off the
+road and Tammy was there.
+
+456
+00:22:42,039 --> 00:22:45,841
+I called her, I guess,
+
+457
+00:22:45,843 --> 00:22:48,043
+and told her I was drunk.
+
+458
+00:22:48,045 --> 00:22:53,048
+And she came to pick
+us up and take us home.
+
+459
+00:22:53,050 --> 00:22:54,507
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+460
+00:22:54,510 --> 00:22:57,286
+I thought for sure
+she'd be gone after that,
+
+461
+00:22:57,288 --> 00:22:59,054
+but she stuck around.
+
+462
+00:23:02,659 --> 00:23:05,860
+She said I was sick...
+
+463
+00:23:05,863 --> 00:23:09,464
+that we swore to stay
+together no matter what
+
+464
+00:23:09,466 --> 00:23:11,866
+and that's what we were gonna do.
+
+465
+00:23:18,675 --> 00:23:20,675
+I never took a drink after that.
+
+466
+00:23:20,677 --> 00:23:23,478
+I wasn't even tempted.
+
+467
+00:23:23,480 --> 00:23:26,881
+At least, not until...
+
+468
+00:23:26,883 --> 00:23:29,083
+Well, you know the rest.
+
+469
+00:23:37,905 --> 00:23:39,337
+Thank you.
+
+470
+00:23:45,032 --> 00:23:47,333
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+471
+00:23:47,336 --> 00:23:49,765
+Maggie, wait.
+
+472
+00:23:53,909 --> 00:23:56,510
+Why did you hang Gregory and not me?
+
+473
+00:23:57,580 --> 00:24:00,914
+I mean, I was drunk and I was weak,
+
+474
+00:24:00,916 --> 00:24:04,351
+but what I did to you was in me.
+
+475
+00:24:04,353 --> 00:24:06,686
+Gregory didn't make me do anything.
+
+476
+00:24:09,022 --> 00:24:10,924
+You think I made a mistake?
+
+477
+00:24:13,772 --> 00:24:15,361
+No.
+
+478
+00:24:15,363 --> 00:24:17,096
+Good.
+
+479
+00:24:23,237 --> 00:24:27,139
+<b><font face="Rockwell" color="#D900D9">(BIRDS CHIRPING)</font></b>
+
+480
+00:24:41,255 --> 00:24:42,390
+<b><font face="Rockwell" color="#D900D9">(STATIC CRACKLES)</font></b>
+
+481
+00:24:42,393 --> 00:24:45,285
+<b><font face="Rockwell" color="#808080">TARA:</font></b> Mother Goose, this is
+Eye in the Sky. Come in, please.
+
+482
+00:24:45,288 --> 00:24:47,727
+<b><font face="Rockwell" color="#D900D9">(STATIC CRACKLES)</font></b>
+
+483
+00:24:47,729 --> 00:24:49,777
+- <b><font face="Rockwell" color="#D900D9">(STATIC CRACKLES)</font></b>
+- "Mother Goose"?
+
+484
+00:24:49,780 --> 00:24:50,957
+Yeah, no offense,
+
+485
+00:24:50,960 --> 00:24:53,348
+but your call signs
+suck, so we can do better.
+
+486
+00:24:53,351 --> 00:24:54,617
+<b><font face="Rockwell" color="#808080">ALDEN:</font></b> Rick!
+
+487
+00:24:55,245 --> 00:24:58,602
+Tara, you got something to report?
+
+488
+00:24:58,605 --> 00:25:00,105
+<b><font face="Rockwell" color="#D900D9">(BUTTON CLICKS)</font></b>
+
+489
+00:25:00,108 --> 00:25:02,624
+Yeah. "Horatio" just hit
+its mark, right on schedule.
+
+490
+00:25:02,627 --> 00:25:04,176
+<b><font face="Rockwell" color="#D900D9">(STATIC CRACKLES)</font></b>
+
+491
+00:25:04,178 --> 00:25:06,160
+Okay.
+
+492
+00:25:06,163 --> 00:25:07,840
+Let's do this.
+
+493
+00:25:07,843 --> 00:25:09,814
+<b><font face="Rockwell" color="#808080">TARA:</font></b>
+Copy that, Mother Goose.
+
+494
+00:25:09,817 --> 00:25:11,827
+Piper One, crank it up.
+
+495
+00:25:11,830 --> 00:25:13,552
+<b><font face="Rockwell" color="#D900D9">(STATIC CRACKLES, BUTTON CLICKS)</font></b>
+
+496
+00:25:13,554 --> 00:25:14,820
+Copy, Eye in the Sky.
+
+497
+00:25:14,822 --> 00:25:17,022
+Piper One is a go.
+
+498
+00:25:18,874 --> 00:25:21,060
+<b><font face="Rockwell" color="#D900D9">(SIREN BLARING)</font></b>
+
+499
+00:25:24,965 --> 00:25:27,631
+<b><font face="Rockwell" color="#D900D9">(SIREN BLARING IN DISTANCE)</font></b>
+
+500
+00:25:27,633 --> 00:25:29,700
+Rick.
+
+501
+00:25:29,702 --> 00:25:32,636
+Carol asked me to check up on
+the Saviors who've gone AWOL.
+
+502
+00:25:32,638 --> 00:25:33,796
+I just heard back from...
+
+503
+00:25:33,799 --> 00:25:35,639
+Yeah, I wanted to talk to
+you about that. Just hold on.
+
+504
+00:25:35,641 --> 00:25:37,508
+Tara, how's it look?
+
+505
+00:25:37,510 --> 00:25:38,743
+<b><font face="Rockwell" color="#D900D9">(STATIC CRACKLES)</font></b>
+
+506
+00:25:38,745 --> 00:25:40,554
+<b><font face="Rockwell" color="#D900D9">(BUTTON CLICKS)</font></b>
+
+507
+00:25:40,557 --> 00:25:42,347
+Yeah, we got 'em. They're turning.
+
+508
+00:25:42,349 --> 00:25:44,415
+Good. Keep an eye out for stragglers.
+
+509
+00:25:44,417 --> 00:25:46,736
+Let 'em clear the camp,
+then fire up number two
+
+510
+00:25:46,739 --> 00:25:48,238
+before they reach the lumber site.
+
+511
+00:25:48,241 --> 00:25:49,153
+<b><font face="Rockwell" color="#808080">TARA:</font></b> Copy that.
+
+512
+00:25:49,155 --> 00:25:50,413
+Piper Two, on my go.
+
+513
+00:25:50,416 --> 00:25:52,891
+- What about those Saviors?
+- I just heard back from Sanctuary,
+
+514
+00:25:52,893 --> 00:25:54,893
+and none of the guys who
+walked off made it back home.
+
+515
+00:25:54,895 --> 00:25:57,695
+- None of them?
+- No. And some of 'em had families.
+
+516
+00:25:57,697 --> 00:26:00,063
+One guy had a new kid. There's
+no way they just up and left them.
+
+517
+00:26:00,065 --> 00:26:01,265
+Piper Two, do you read?
+
+518
+00:26:01,267 --> 00:26:02,694
+So, what do you think is going on?
+
+519
+00:26:02,697 --> 00:26:04,841
+I don't know, but the Sanctuary
+group's gettin' worried,
+
+520
+00:26:04,843 --> 00:26:06,737
+and they're the only ones
+here without guns, so...
+
+521
+00:26:06,739 --> 00:26:08,873
+Yeah, well, we disarmed
+Sanctuary for a reason.
+
+522
+00:26:08,875 --> 00:26:11,041
+Piper Two, this is Eye in
+the Sky. Come in, please.
+
+523
+00:26:11,043 --> 00:26:13,005
+There are more of them here
+than from anywhere else,
+
+524
+00:26:13,007 --> 00:26:14,111
+and they're scared.
+
+525
+00:26:14,113 --> 00:26:16,213
+If they wind up deciding
+they're safer back home,
+
+526
+00:26:16,215 --> 00:26:17,350
+this whole thing's a wash.
+
+527
+00:26:17,353 --> 00:26:19,353
+Well, I'll make sure they're protected.
+
+528
+00:26:19,356 --> 00:26:22,219
+Oh, so, they work for you,
+and you protect them, huh?
+
+529
+00:26:22,221 --> 00:26:23,929
+Who's that sound like to you?
+
+530
+00:26:23,932 --> 00:26:26,089
+Piper Two, come in. Do you copy?
+
+531
+00:26:26,091 --> 00:26:27,792
+Tara, what's going on out there?
+
+532
+00:26:27,794 --> 00:26:29,894
+That second siren isn't going off.
+
+533
+00:26:29,896 --> 00:26:31,295
+If the herd isn't pulled soon,
+
+534
+00:26:31,297 --> 00:26:33,063
+they're gonna run right into our crew.
+
+535
+00:26:35,134 --> 00:26:38,468
+<b><font face="Rockwell" color="#D900D9">(SAWING)</font></b>
+
+536
+00:26:47,112 --> 00:26:48,979
+<b><font face="Rockwell" color="#D900D9">(GRUNTING)</font></b>
+
+537
+00:26:51,216 --> 00:26:52,916
+<b><font face="Rockwell" color="#D900D9">(MULES BRAYING)</font></b>
+
+538
+00:26:52,918 --> 00:26:55,986
+<b><font face="Rockwell" color="#D900D9">(SAWING STOPS)</font></b>
+
+539
+00:26:57,556 --> 00:27:01,658
+<b><font face="Rockwell" color="#D900D9">(WALKERS GROWLING)</font></b>
+
+540
+00:27:11,522 --> 00:27:13,768
+A herd's comin'!
+
+541
+00:27:13,771 --> 00:27:15,097
+Bug out now!
+
+542
+00:27:15,100 --> 00:27:18,941
+<b><font face="Rockwell" color="#D900D9">(GROWLING CONTINUES)</font></b>
+
+543
+00:27:18,943 --> 00:27:21,677
+Oh, Jesus. We gotta
+get the hell outta here.
+
+544
+00:27:21,679 --> 00:27:23,846
+Look out!
+
+545
+00:27:23,848 --> 00:27:25,781
+<b><font face="Rockwell" color="#D900D9">(WALKER SNARLING)</font></b>
+
+546
+00:27:28,353 --> 00:27:29,585
+<b><font face="Rockwell" color="#D900D9">(GROANING)</font></b>
+
+547
+00:27:29,587 --> 00:27:31,402
+Get them mules out of here!
+
+548
+00:27:31,405 --> 00:27:33,789
+You... get over here right now!
+
+549
+00:27:33,791 --> 00:27:35,957
+Aah!
+
+550
+00:27:35,959 --> 00:27:38,493
+<b><font face="Rockwell" color="#D900D9">(GROANING)</font></b>
+
+551
+00:27:38,495 --> 00:27:41,463
+<b><font face="Rockwell" color="#D900D9">(GROWLING CONTINUES)</font></b>
+
+552
+00:27:43,000 --> 00:27:44,366
+Go!
+
+553
+00:27:44,368 --> 00:27:45,700
+Get out of here!
+
+554
+00:27:45,702 --> 00:27:47,369
+<b><font face="Rockwell" color="#D900D9">(GROANS)</font></b> Go!
+
+555
+00:27:47,371 --> 00:27:49,537
+Keep on him.
+
+556
+00:27:49,539 --> 00:27:53,608
+<b><font face="Rockwell" color="#D900D9">(WALKERS SNARLING)</font></b>
+
+557
+00:27:53,610 --> 00:27:57,812
+<b><font face="Rockwell" color="#D900D9">(GRUNTS)</font></b>
+
+558
+00:27:57,814 --> 00:28:00,766
+Aw, shit!
+
+559
+00:28:00,769 --> 00:28:02,616
+Ugh.
+
+560
+00:28:02,619 --> 00:28:05,320
+Come on. Get up. Get up! Get up!
+
+561
+00:28:08,825 --> 00:28:11,158
+- Come on. Just fine.
+- <b><font face="Rockwell" color="#D900D9">(WALKER GROWLING)</font></b>
+
+562
+00:28:11,160 --> 00:28:12,560
+- Aah!
+- <b><font face="Rockwell" color="#D900D9">(ARROW THUNKS)</font></b>
+
+563
+00:28:12,562 --> 00:28:16,363
+<b><font face="Rockwell" color="#D900D9">(WALKERS GROWLING)</font></b>
+
+564
+00:28:19,736 --> 00:28:21,569
+We've got this. Get him back to camp.
+
+565
+00:28:21,571 --> 00:28:23,971
+On it.
+
+566
+00:28:26,543 --> 00:28:29,844
+<b><font face="Rockwell" color="#D900D9">(WALKERS SNARLING)</font></b>
+
+567
+00:28:35,418 --> 00:28:37,652
+Ah!
+
+568
+00:28:45,727 --> 00:28:47,727
+I thought you left.
+
+569
+00:28:47,729 --> 00:28:49,763
+I heard there was trouble.
+
+570
+00:28:49,765 --> 00:28:51,565
+<b><font face="Rockwell" color="#D900D9">(WALKER GROWLING)</font></b>
+
+571
+00:28:53,569 --> 00:28:55,835
+<b><font face="Rockwell" color="#D900D9">(KNIFE PLUNGES)</font></b>
+
+572
+00:29:01,043 --> 00:29:02,422
+<b><font face="Rockwell" color="#D900D9">(GUNSHOT)</font></b>
+
+573
+00:29:02,425 --> 00:29:04,725
+<b><font face="Rockwell" color="#D900D9">(GUN COCKS)</font></b>
+
+574
+00:29:07,660 --> 00:29:09,641
+<b><font face="Rockwell" color="#D900D9">(GUNSHOT)</font></b>
+
+575
+00:29:09,751 --> 00:29:12,553
+<b><font face="Rockwell" color="#D900D9">(WALKERS GRUNTING)</font></b>
+
+576
+00:29:28,904 --> 00:29:31,071
+<b><font face="Rockwell" color="#D900D9">(GROANING)</font></b>
+
+577
+00:29:31,073 --> 00:29:33,272
+Where's Siddiq?
+
+578
+00:29:33,274 --> 00:29:34,874
+He's gone. It's just me.
+
+579
+00:29:34,876 --> 00:29:36,610
+It's just you, then.
+
+580
+00:29:37,913 --> 00:29:41,547
+<b><font face="Rockwell" color="#D900D9">(GROANING)</font></b>
+
+581
+00:29:46,387 --> 00:29:49,288
+<b><font face="Rockwell" color="#D900D9">(BREATHING HEAVILY)</font></b>
+
+582
+00:29:49,290 --> 00:29:51,757
+I have to amputate.
+
+583
+00:29:51,759 --> 00:29:53,158
+What?
+
+584
+00:29:53,160 --> 00:29:54,426
+There ain't no other way?
+
+585
+00:29:54,428 --> 00:29:55,894
+The only way to stop the bleeding
+
+586
+00:29:55,896 --> 00:29:57,830
+is to amputate and cauterize the wound.
+
+587
+00:29:57,832 --> 00:30:01,299
+- What?
+- Here.
+
+588
+00:30:01,301 --> 00:30:03,802
+Wait. Wait.
+
+589
+00:30:03,804 --> 00:30:06,990
+<b><font face="Rockwell" color="#D900D9">(GROANING)</font></b>
+
+590
+00:30:06,993 --> 00:30:09,052
+You got something for the pain?
+
+591
+00:30:09,055 --> 00:30:10,909
+It wouldn't kick in fast enough.
+
+592
+00:30:10,911 --> 00:30:12,845
+We have to do this now.
+
+593
+00:30:12,847 --> 00:30:14,246
+<b><font face="Rockwell" color="#D900D9">(GROANING INTENSIFIES)</font></b>
+
+594
+00:30:14,248 --> 00:30:15,648
+Oh, sorry, man.
+
+595
+00:30:20,655 --> 00:30:22,921
+I need you to hold him down for me.
+
+596
+00:30:22,923 --> 00:30:26,290
+<b><font face="Rockwell" color="#D900D9">(WHIMPERING)</font></b>
+
+597
+00:30:34,034 --> 00:30:36,500
+You can do it.
+
+598
+00:30:36,502 --> 00:30:39,003
+Do it!
+
+599
+00:30:39,005 --> 00:30:44,508
+<b><font face="Rockwell" color="#D900D9">(GROANING, SCREAMING)</font></b>
+
+600
+00:30:44,510 --> 00:30:48,946
+<b><font face="Rockwell" color="#D900D9">(BREATHING HEAVILY)</font></b>
+
+601
+00:30:50,950 --> 00:30:53,350
+And I don't give a shit
+what you were trying...
+
+602
+00:30:53,352 --> 00:30:55,153
+Who was supposed to turn that herd?
+
+603
+00:30:58,558 --> 00:31:00,957
+Hey, the walkie wasn't charged.
+
+604
+00:31:00,959 --> 00:31:04,118
+Bullshit. It's a solar walkie.
+You didn't think to check it?
+
+605
+00:31:04,121 --> 00:31:06,021
+It's not my fault the
+radio's a piece of shit.
+
+606
+00:31:09,502 --> 00:31:11,235
+Ugh!
+
+607
+00:31:11,237 --> 00:31:13,970
+Daryl, stop!
+
+608
+00:31:13,972 --> 00:31:17,208
+Ugh!
+
+609
+00:31:17,210 --> 00:31:18,909
+- <b><font face="Rockwell" color="#D900D9">(GRUNTING)</font></b>
+- <b><font face="Rockwell" color="#808080">CAROL:</font></b> Daryl!
+
+610
+00:31:20,413 --> 00:31:21,993
+Daryl.
+
+611
+00:31:21,996 --> 00:31:23,979
+I said stop.
+
+612
+00:31:28,721 --> 00:31:32,589
+We'll deal with him, but not like this.
+
+613
+00:31:32,591 --> 00:31:35,491
+There's only way to
+deal with these assholes.
+
+614
+00:31:41,002 --> 00:31:44,705
+<b><font face="Rockwell" color="#D900D9">(BIRDS CHIRPING)</font></b>
+
+615
+00:31:55,056 --> 00:31:57,790
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+616
+00:32:01,595 --> 00:32:05,163
+You've done something
+amazing with this place.
+
+617
+00:32:05,165 --> 00:32:07,966
+And I didn't come to say otherwise.
+
+618
+00:32:07,968 --> 00:32:10,268
+I know what you came to do.
+
+619
+00:32:11,839 --> 00:32:14,239
+And I've thought about it.
+
+620
+00:32:15,776 --> 00:32:19,010
+We can talk about common laws.
+
+621
+00:32:19,012 --> 00:32:21,413
+But I'm not giving up the right
+
+622
+00:32:21,415 --> 00:32:22,981
+to do what I think's best for my people.
+
+623
+00:32:22,983 --> 00:32:24,817
+Neither will we.
+
+624
+00:32:24,819 --> 00:32:27,252
+But I do think what is best for everyone
+
+625
+00:32:27,254 --> 00:32:30,255
+will wind up being what's
+best for Hilltop, too.
+
+626
+00:32:30,257 --> 00:32:32,423
+Maybe.
+
+627
+00:32:32,425 --> 00:32:36,260
+I hope so.
+
+628
+00:32:36,262 --> 00:32:39,630
+I asked Jesus to load up
+the food like we promised...
+
+629
+00:32:39,632 --> 00:32:41,432
+All of it.
+
+630
+00:32:45,037 --> 00:32:48,138
+Earl still owes us a
+debt, but he'll pay it.
+
+631
+00:32:48,140 --> 00:32:51,345
+He'll work under supervision,
+
+632
+00:32:51,348 --> 00:32:52,914
+and a council will help me decide
+
+633
+00:32:52,917 --> 00:32:54,917
+when it's time for that to change.
+
+634
+00:32:56,549 --> 00:32:59,650
+- <b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+- The plow will be fixed,
+
+635
+00:32:59,652 --> 00:33:02,286
+and the fields will get planted.
+
+636
+00:33:02,288 --> 00:33:04,655
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+637
+00:33:04,657 --> 00:33:08,658
+I-If you don't mind me asking,
+
+638
+00:33:08,660 --> 00:33:10,994
+what changed?
+
+639
+00:33:10,996 --> 00:33:14,041
+You know, my daddy drank.
+
+640
+00:33:15,547 --> 00:33:17,868
+He was a good man.
+
+641
+00:33:17,870 --> 00:33:20,837
+And if he hadn't have
+been given a second chance,
+
+642
+00:33:20,839 --> 00:33:23,874
+a lot of people would
+have been worse off for it.
+
+643
+00:33:23,876 --> 00:33:26,309
+I count myself as one of them.
+
+644
+00:33:29,080 --> 00:33:31,681
+But Gregory...
+
+645
+00:33:31,683 --> 00:33:35,886
+He had chance after chance,
+and he wasted them all.
+
+646
+00:33:35,888 --> 00:33:37,687
+Maggie...
+
+647
+00:33:37,689 --> 00:33:40,089
+I don't regret what I did, Michonne.
+
+648
+00:33:42,494 --> 00:33:44,642
+Some people can be redeemed.
+
+649
+00:33:48,931 --> 00:33:51,734
+But others can't.
+
+650
+00:33:53,238 --> 00:33:55,704
+And who makes that decision?
+
+651
+00:33:57,943 --> 00:33:59,876
+I guess that's one of the things
+
+652
+00:33:59,879 --> 00:34:01,911
+we'll have to figure out.
+
+653
+00:34:04,950 --> 00:34:07,350
+<b><font face="Rockwell" color="#D900D9">(CRICKETS CHIRPING)</font></b>
+
+654
+00:34:07,352 --> 00:34:09,955
+Hey, you need to keep
+your dog on his leash.
+
+655
+00:34:09,958 --> 00:34:11,921
+Excuse me?
+
+656
+00:34:11,923 --> 00:34:13,456
+You heard me.
+
+657
+00:34:13,458 --> 00:34:15,538
+That bitch of yours damn
+near killed me over nothing.
+
+658
+00:34:20,729 --> 00:34:23,730
+I know you.
+
+659
+00:34:23,733 --> 00:34:26,201
+See, I used to be a cop.
+
+660
+00:34:26,203 --> 00:34:27,735
+And every Saturday night,
+
+661
+00:34:27,737 --> 00:34:29,737
+I'd pick up some dipshit like you
+
+662
+00:34:29,739 --> 00:34:31,539
+and have to listen to him run his mouth
+
+663
+00:34:31,541 --> 00:34:32,908
+in the back of my car,
+
+664
+00:34:32,911 --> 00:34:35,281
+every one of them tryin'
+to blame someone else
+
+665
+00:34:35,284 --> 00:34:36,717
+for their own damn problems.
+
+666
+00:34:36,720 --> 00:34:38,413
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+I don't need to listen to this.
+
+667
+00:34:38,415 --> 00:34:39,267
+Wrong.
+
+668
+00:34:39,270 --> 00:34:42,705
+You're gonna stand there
+and listen to every word.
+
+669
+00:34:44,595 --> 00:34:47,155
+Now, I gave you the benefit of the doubt.
+
+670
+00:34:47,157 --> 00:34:48,423
+That is done.
+
+671
+00:34:48,425 --> 00:34:50,558
+Now, you pack your shit
+
+672
+00:34:50,560 --> 00:34:52,327
+and get out of here first
+thing in the morning.
+
+673
+00:34:52,329 --> 00:34:54,762
+If I see your face again,
+
+674
+00:34:54,764 --> 00:34:58,500
+stitches won't fix what I do to you.
+
+675
+00:34:58,502 --> 00:35:01,402
+Wouldn't stay if you begged me.
+
+676
+00:35:01,404 --> 00:35:03,972
+I'm not waiting till morning, either.
+
+677
+00:35:03,974 --> 00:35:07,976
+<b><font face="Rockwell" color="#D900D9">(FOOTSTEPS DEPART)</font></b>
+
+678
+00:35:12,472 --> 00:35:14,321
+Thanks.
+
+679
+00:35:17,587 --> 00:35:20,187
+<b><font face="Rockwell" color="#D900D9">(PAPER RUSTLING)</font></b>
+
+680
+00:35:20,189 --> 00:35:25,192
+<b><font face="Rockwell" color="#D900D9">(METAL CLINKING)</font></b>
+
+681
+00:35:25,194 --> 00:35:27,595
+Well-done.
+
+682
+00:35:27,597 --> 00:35:30,797
+He's gonna be all right?
+
+683
+00:35:30,799 --> 00:35:32,266
+Yeah.
+
+684
+00:35:32,268 --> 00:35:35,669
+If we can keep the wound
+from getting infected.
+
+685
+00:35:35,671 --> 00:35:38,172
+But he's still in a lot of pain.
+
+686
+00:35:38,174 --> 00:35:39,970
+He's holding on, though.
+
+687
+00:35:39,973 --> 00:35:42,006
+<b><font face="Rockwell" color="#D900D9">(WEAKLY)</font></b> Damn right I am.
+
+688
+00:35:54,657 --> 00:35:58,592
+I'm so sorry this happened to you.
+
+689
+00:35:58,594 --> 00:36:01,728
+We were all supposed
+to be working together.
+
+690
+00:36:01,731 --> 00:36:04,264
+- I thought we were.
+- You couldn't have known.
+
+691
+00:36:04,266 --> 00:36:06,439
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+692
+00:36:09,671 --> 00:36:12,439
+I've been pushing everyone hard.
+
+693
+00:36:12,441 --> 00:36:14,369
+I know I have.
+
+694
+00:36:19,081 --> 00:36:22,361
+I put this project first.
+
+695
+00:36:22,364 --> 00:36:24,283
+And you paid the price.
+
+696
+00:36:26,688 --> 00:36:28,555
+It was worth it.
+
+697
+00:36:28,557 --> 00:36:30,690
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+698
+00:36:30,692 --> 00:36:33,693
+When the dead started to rise,
+
+699
+00:36:33,695 --> 00:36:35,795
+<b><font face="Rockwell" color="#D900D9">(EXHALES SHARPLY)</font></b>
+
+700
+00:36:35,797 --> 00:36:41,100
+I thought I was seeing
+the end of everything.
+
+701
+00:36:41,102 --> 00:36:45,370
+But you changed all that, Rick.
+
+702
+00:36:45,372 --> 00:36:47,707
+<b><font face="Rockwell" color="#D900D9">(EXHALES SHARPLY)</font></b>
+
+703
+00:36:47,709 --> 00:36:52,311
+It's not the end of the world anymore.
+
+704
+00:36:52,313 --> 00:36:55,280
+It's the start of a whole new one.
+
+705
+00:36:55,282 --> 00:36:57,116
+<b><font face="Rockwell" color="#D900D9">(EXHALES SHARPLY)</font></b>
+
+706
+00:36:57,118 --> 00:37:00,720
+I'll always be glad I was
+here to be a part of that.
+
+707
+00:37:08,596 --> 00:37:11,563
+<b><font face="Rockwell" color="#D900D9">(CRICKETS CHIRPING, FROGS CROAKING)</font></b>
+
+708
+00:37:11,565 --> 00:37:13,932
+<b><font face="Rockwell" color="#808080">GABRIEL:</font></b> You hear that?
+
+709
+00:37:13,934 --> 00:37:17,775
+Those are frog mating calls.
+
+710
+00:37:19,573 --> 00:37:21,140
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+711
+00:37:21,142 --> 00:37:25,577
+Must be one wild frog
+party going on out there.
+
+712
+00:37:25,579 --> 00:37:27,346
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+713
+00:37:27,348 --> 00:37:30,415
+That is a strange thing to know.
+
+714
+00:37:30,417 --> 00:37:33,352
+I grew up playing in the woods.
+
+715
+00:37:33,354 --> 00:37:35,431
+It sounds like home to me.
+
+716
+00:37:38,325 --> 00:37:41,056
+Can I ask you a personal question?
+
+717
+00:37:43,364 --> 00:37:45,964
+If I said no, would it stop you?
+
+718
+00:37:45,967 --> 00:37:48,600
+Who's that woman you had me draw?
+
+719
+00:37:51,770 --> 00:37:53,370
+Come on.
+
+720
+00:37:53,373 --> 00:37:55,439
+We don't talk about your past,
+
+721
+00:37:55,441 --> 00:37:56,774
+but mine's fair game?
+
+722
+00:37:56,776 --> 00:37:59,353
+You can ask me about my past.
+
+723
+00:37:59,356 --> 00:38:02,205
+Just don't ask me to
+tell you my secrets.
+
+724
+00:38:04,384 --> 00:38:07,451
+That what she was... A secret?
+
+725
+00:38:07,453 --> 00:38:10,188
+A forbidden lover, perhaps?
+
+726
+00:38:10,190 --> 00:38:11,789
+No.
+
+727
+00:38:11,791 --> 00:38:14,458
+It was nothing like that.
+
+728
+00:38:14,460 --> 00:38:17,961
+She was my organist in my church.
+
+729
+00:38:23,035 --> 00:38:28,004
+I cared for her very much.
+
+730
+00:38:28,006 --> 00:38:30,807
+But I was afraid.
+
+731
+00:38:30,809 --> 00:38:33,176
+And I lost her.
+
+732
+00:38:34,813 --> 00:38:37,547
+I thought priests were celibate.
+
+733
+00:38:37,549 --> 00:38:39,583
+I'm Episcopalian.
+
+734
+00:38:39,585 --> 00:38:41,651
+I'm not Catholic.
+
+735
+00:38:41,653 --> 00:38:45,555
+My vows don't prohibit me from...
+
+736
+00:38:50,229 --> 00:38:52,696
+Well...
+
+737
+00:38:52,698 --> 00:38:57,234
+if that's not stopping
+you, then what is?
+
+738
+00:38:57,236 --> 00:38:59,502
+You still afraid?
+
+739
+00:38:59,504 --> 00:39:01,275
+If that is the case,
+
+740
+00:39:01,278 --> 00:39:03,691
+I'm gonna be very disappointed.
+
+741
+00:39:16,820 --> 00:39:19,821
+I'm supposed to be on watch.
+
+742
+00:39:19,823 --> 00:39:21,423
+Then watch.
+
+743
+00:39:21,425 --> 00:39:24,059
+<b><font face="Rockwell" color="#D900D9">(BELT BUCKLE CLINKING)</font></b>
+
+744
+00:39:28,783 --> 00:39:32,819
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT CONVERSATIONS, LAUGHTER)</font></b>
+
+745
+00:39:32,822 --> 00:39:36,255
+<b><font face="Rockwell" color="#D900D9">(CRICKETS CHIRPING)</font></b>
+
+746
+00:39:44,017 --> 00:39:46,592
+So, yeah. So, he said,
+"Spit out your cap,
+
+747
+00:39:46,595 --> 00:39:48,673
+and I'll give you back your dollar."
+
+748
+00:39:48,676 --> 00:39:50,570
+Just take a quick look and...
+
+749
+00:39:50,572 --> 00:39:52,931
+- <b><font face="Rockwell" color="#D900D9">(LAUGHS)</font></b>
+- No.
+
+750
+00:39:52,934 --> 00:39:54,708
+No, no, no, no.
+
+751
+00:39:54,710 --> 00:39:56,042
+<b><font face="Rockwell" color="#D900D9">(LAUGHTER)</font></b>
+
+752
+00:39:56,044 --> 00:39:58,853
+You still carrying that old ring around?
+
+753
+00:40:01,884 --> 00:40:03,416
+Oh. Y-Yeah.
+
+754
+00:40:03,418 --> 00:40:04,951
+Oh, I'm... I'm not saying yes.
+
+755
+00:40:04,953 --> 00:40:06,786
+I just thought I'd try it on for awhile,
+
+756
+00:40:06,788 --> 00:40:09,287
+- you know, while you're gone and...
+- Whatever you say.
+
+757
+00:40:09,289 --> 00:40:10,728
+Uh... <b><font face="Rockwell" color="#D900D9">(CLEARS THROAT)</font></b>
+
+758
+00:40:10,731 --> 00:40:12,364
+No, d-d-don't. Don't.
+
+759
+00:40:13,894 --> 00:40:15,025
+Oh, come on.
+
+760
+00:40:15,028 --> 00:40:17,596
+Don't. I'm not kidding.
+
+761
+00:40:17,598 --> 00:40:20,031
+But I...
+
+762
+00:40:20,033 --> 00:40:22,234
+I wrote a speech.
+
+763
+00:40:23,712 --> 00:40:25,404
+I'm sure you did.
+
+764
+00:40:25,406 --> 00:40:28,440
+And you can read it to me later.
+
+765
+00:40:28,442 --> 00:40:32,611
+<b><font face="Rockwell" color="#D900D9">(FIRE CRACKLING)</font></b>
+
+766
+00:40:40,220 --> 00:40:43,821
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+767
+00:40:43,823 --> 00:40:46,624
+<b><font face="Rockwell" color="#D900D9">(CONVERSATIONS CONTINUE)</font></b>
+
+768
+00:40:50,062 --> 00:40:52,563
+<b><font face="Rockwell" color="#808080">RICK:</font></b> It was a hard day.
+
+769
+00:40:56,436 --> 00:40:59,804
+Hardest we've had in awhile.
+
+770
+00:40:59,806 --> 00:41:03,240
+A man lost his arm.
+
+771
+00:41:03,242 --> 00:41:05,843
+Project's behind schedule.
+
+772
+00:41:05,845 --> 00:41:07,645
+<b><font face="Rockwell" color="#D900D9">(INHALES DEEPLY)</font></b>
+
+773
+00:41:07,647 --> 00:41:12,082
+People were at each other's throats.
+
+774
+00:41:12,084 --> 00:41:15,853
+Thing is, though, bad as it was...
+
+775
+00:41:15,855 --> 00:41:19,456
+when the day was done...
+
+776
+00:41:19,458 --> 00:41:22,459
+they came together.
+
+777
+00:41:22,461 --> 00:41:28,098
+Not all of 'em, but enough.
+
+778
+00:41:28,100 --> 00:41:33,103
+They chose to be together.
+
+779
+00:41:33,105 --> 00:41:37,107
+You see what I'm getting at?
+
+780
+00:41:37,109 --> 00:41:39,868
+No matter what happens,
+
+781
+00:41:39,871 --> 00:41:45,241
+it's human nature to come together.
+
+782
+00:41:45,244 --> 00:41:48,645
+That's just what we do.
+
+783
+00:41:48,648 --> 00:41:50,887
+<b><font face="Rockwell" color="#D900D9">(NEGAN SCOFFS)</font></b>
+
+784
+00:41:50,889 --> 00:41:54,790
+That's a real pretty picture
+you paint there, Rick.
+
+785
+00:41:56,361 --> 00:41:58,894
+When do I get to see it?
+
+786
+00:41:58,896 --> 00:42:00,896
+Never.
+
+787
+00:42:00,898 --> 00:42:04,100
+You're gonna die behind these bars.
+
+788
+00:42:04,103 --> 00:42:05,501
+You know that.
+
+789
+00:42:05,503 --> 00:42:09,805
+Well, then, don't I get
+some kind of final request?
+
+790
+00:42:09,807 --> 00:42:11,307
+Why don't you bring me...
+
+791
+00:42:11,309 --> 00:42:13,139
+Don't you ever get tired
+
+792
+00:42:13,142 --> 00:42:15,644
+of acting like you're still in charge?
+
+793
+00:42:15,646 --> 00:42:18,147
+Do <i>you?</i>
+
+794
+00:42:18,149 --> 00:42:21,478
+You think just 'cause they
+had a little weenie roast
+
+795
+00:42:21,481 --> 00:42:24,220
+that you've got all this on lock?
+
+796
+00:42:26,724 --> 00:42:31,159
+When it finally goes to
+shit... And it will...
+
+797
+00:42:31,161 --> 00:42:33,528
+You make sure you come back
+
+798
+00:42:33,530 --> 00:42:36,331
+and you tell me all about that day, too.
+
+799
+00:42:36,333 --> 00:42:40,735
+We're thriving without you,
+
+800
+00:42:40,737 --> 00:42:45,740
+building a future,
+just like I said we would.
+
+801
+00:42:45,742 --> 00:42:48,176
+Building it for who?
+
+802
+00:42:48,178 --> 00:42:50,445
+For Carl?
+
+803
+00:42:53,750 --> 00:42:57,285
+You don't speak his name.
+
+804
+00:42:57,287 --> 00:43:02,357
+Your family's gone, Rick, same as mine.
+
+805
+00:43:02,359 --> 00:43:06,360
+That bridge... It's not the future.
+
+806
+00:43:06,362 --> 00:43:09,597
+It's a monument to the dead.
+
+807
+00:43:11,601 --> 00:43:14,368
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+808
+00:43:14,370 --> 00:43:18,540
+You're not saving the world, Rick.
+
+809
+00:43:18,542 --> 00:43:21,876
+You're just gettin' it ready for me.
+
+810
+00:43:25,916 --> 00:43:28,983
+<b><font face="Rockwell" color="#D900D9">(CRICKETS CHIRPING)</font></b>
+
+811
+00:43:31,621 --> 00:43:36,591
+<b><font face="Rockwell" color="#D900D9">(HELICOPTER BLADES WHIRRING)</font></b>
+
+812
+00:44:04,453 --> 00:44:07,788
+<b><font face="Rockwell" color="#D900D9">(CRICKETS CHIRPING)</font></b>
+
+813
+00:44:11,927 --> 00:44:14,427
+<b><font face="Rockwell" color="#D900D9">(LIQUID SWISHING)</font></b>
+
+814
+00:44:28,143 --> 00:44:30,643
+<b><font face="Rockwell" color="#D900D9">(BOTTLE CLINKS, THUDS)</font></b>
+
+815
+00:44:30,645 --> 00:44:32,712
+<b><font face="Rockwell" color="#D900D9">(SNIFFLES)</font></b>
+
+816
+00:44:32,715 --> 00:44:35,047
+<b><font face="Rockwell" color="#D900D9">(TWIG SNAPS)</font></b>
+
+817
+00:44:35,049 --> 00:44:39,652
+<b><font face="Rockwell" color="#D900D9">(METAL SCRAPES)</font></b>
+
+818
+00:44:39,654 --> 00:44:42,039
+Christ. You damn near
+got yourself killed.
+
+819
+00:44:42,042 --> 00:44:43,253
+What the hell are you...
+
+820
+00:44:43,256 --> 00:44:45,224
+<b><font face="Rockwell" color="#FFFF00">Improved By: FidelPerez</font></b>
+<b><font face="Rockwell" color="#00FFFF">Sub Upload Date: October 16, 2018</font></b>
