@@ -1,0 +1,912 @@
+﻿1
+00:00:38,580 --> 00:00:41,120
+♪Kalau kau buka mata
+dalam mimpi buruk♪
+
+2
+00:00:41,120 --> 00:00:44,000
+♪Menghadapi dunia yang kejam♪
+
+3
+00:00:44,000 --> 00:00:46,500
+♪Hati siapa yang tersentuh angin?♪
+
+4
+00:00:46,500 --> 00:00:49,330
+♪Tak rela pergi, tapi tak sempat
+ucapkan selamat tinggal♪
+
+5
+00:00:49,330 --> 00:00:51,790
+♪Jika akhir hanya tersisa tragedi♪
+
+6
+00:00:51,790 --> 00:00:54,620
+♪Tak takut keluar dari
+kepompong di tengah badai♪
+
+7
+00:00:54,620 --> 00:00:57,040
+♪Bahkan jika sayapku robek♪
+
+8
+00:00:57,040 --> 00:00:59,250
+♪Kembali ke jurang ke-19♪
+
+9
+00:00:59,250 --> 00:01:01,210
+♪Memegang tanganmu♪
+
+10
+00:01:01,790 --> 00:01:03,870
+♪Untuk terus maju♪
+
+11
+00:01:03,870 --> 00:01:06,370
+♪Siang dan malam♪
+
+12
+00:01:06,370 --> 00:01:08,660
+♪Tak berhenti♪
+
+13
+00:01:08,660 --> 00:01:09,910
+♪Lampaui ruang dan waktu♪
+
+14
+00:01:09,910 --> 00:01:12,210
+♪Akan terluka♪
+
+15
+00:01:12,210 --> 00:01:14,620
+♪Akan sakit hati♪
+
+16
+00:01:14,620 --> 00:01:19,410
+♪Masih tetap berani untuk
+pergi bertarung♪
+
+17
+00:01:19,410 --> 00:01:20,660
+♪Itu baru pahlawan♪
+
+18
+00:01:20,660 --> 00:01:21,870
+♪Angkat kepalamu♪
+
+19
+00:01:21,870 --> 00:01:23,500
+♪Tak berhenti bertarung♪
+
+20
+00:01:23,500 --> 00:01:24,620
+♪Menoleh♪
+
+21
+00:01:24,620 --> 00:01:26,160
+♪Kau ada di sampingku♪
+
+22
+00:01:26,160 --> 00:01:29,870
+♪Kalahkan kutukan takdir♪
+
+23
+00:01:29,870 --> 00:01:31,500
+♪Jadikan cerita itu abadi♪
+
+24
+00:01:31,500 --> 00:01:32,500
+♪Roh pelindung♪
+
+25
+00:01:32,500 --> 00:01:34,120
+♪Melonjak dengan liar♪
+
+26
+00:01:34,120 --> 00:01:35,250
+♪Jaga♪
+
+27
+00:01:35,250 --> 00:01:36,750
+♪Keberanianmu♪
+
+28
+00:01:36,750 --> 00:01:40,500
+♪Bahkan jika masa depan
+bak angin topan♪
+
+29
+00:01:40,500 --> 00:01:42,080
+♪Jangan pernah mundur♪
+
+30
+00:01:42,080 --> 00:01:44,790
+♪Ketika kenyataan
+menghadapi jalan buntu♪
+
+31
+00:01:44,790 --> 00:01:47,290
+♪Keputusasaan menjerat harapan♪
+
+32
+00:01:47,290 --> 00:01:51,000
+♪Juga masih tersenyum acuh tak acuh♪
+
+33
+00:01:52,960 --> 00:01:55,410
+♪Palu di kiri melindungi rumput
+di tangan kanan♪
+
+34
+00:01:55,410 --> 00:01:58,160
+♪Roh pelindung ganda dihunuskan♪
+
+35
+00:01:58,160 --> 00:02:01,580
+♪Melawan situasi putus asa♪
+
+36
+00:02:01,580 --> 00:02:03,910
+♪Juga tak akan pernah mundur♪
+
+37
+00:02:06,780 --> 00:02:09,810
+(Animasi ini diadaptasi dari novel
+Tang Jia San Shao "Douluo Dalu")
+
+38
+00:02:11,510 --> 00:02:13,440
+(Cuplikan episode sebelumnya)
+
+39
+00:02:13,440 --> 00:02:14,510
+Kapten Haider.
+
+40
+00:02:14,510 --> 00:02:15,880
+Ini adalah peta laut yang kubuat.
+
+41
+00:02:15,880 --> 00:02:19,410
+Senang bisa melayani kalian,
+silakan ikut aku.
+
+42
+00:02:19,880 --> 00:02:21,710
+Anda tenang saja.
+
+43
+00:02:21,710 --> 00:02:25,840
+Kapten yang berani berlayar jauh
+punya satu peta laut di otaknya.
+
+44
+00:02:26,710 --> 00:02:28,280
+Aku tak mau semua ini.
+
+45
+00:02:28,280 --> 00:02:30,740
+Yang aku inginkan
+adalah bersamamu selamanya.
+
+46
+00:02:31,040 --> 00:02:36,910
+Namun, perasaan yang lebih indah
+masih ada di belakang.
+
+47
+00:02:36,910 --> 00:02:38,580
+Jangan!
+
+48
+00:02:43,180 --> 00:02:48,210
+=Episode 164=
+
+49
+00:02:56,310 --> 00:02:57,340
+Jangan!
+
+50
+00:03:11,450 --> 00:03:13,720
+Bagi orang yang memanfaatkan laut
+untuk berbuat jahat,…
+
+51
+00:03:13,740 --> 00:03:16,040
+…laut akan menghukum mereka.
+
+52
+00:03:23,510 --> 00:03:24,440
+Tidak, tidak.
+
+53
+00:03:24,780 --> 00:03:26,140
+Ampuni aku.
+
+54
+00:03:26,140 --> 00:03:28,580
+Kelompok Bajak Laut Mutiara Ungu
+yang memerintahkanku.
+
+55
+00:03:29,180 --> 00:03:30,910
+Kelompok Bajak Laut Mutiara Ungu?
+
+56
+00:03:32,180 --> 00:03:34,710
+Sepertinya kita harus
+berbicara dengan baik.
+
+57
+00:03:58,630 --> 00:04:00,130
+Permukaan laut begitu tenang.
+
+58
+00:04:01,900 --> 00:04:04,160
+Namun, merasa seperti
+ada yang salah.
+
+59
+00:04:04,330 --> 00:04:04,860
+Xiang Xiang.
+
+60
+00:04:05,560 --> 00:04:07,490
+Kau kembali istirahat saja,
+aku gantikan kamu.
+
+61
+00:04:09,290 --> 00:04:09,790
+Tak perlu.
+
+62
+00:04:10,130 --> 00:04:12,430
+Ini memang misiku,
+aku bisa melakukannya.
+
+63
+00:04:20,980 --> 00:04:22,450
+Tak perlu sungkan padaku.
+
+64
+00:04:22,450 --> 00:04:25,380
+Sebelumnya di arena roh,
+jika bukan kau menangkapku,…
+
+65
+00:04:25,380 --> 00:04:27,580
+…aku pasti sudah terjatuh
+dan terbagi beberapa bagian.
+
+66
+00:04:31,950 --> 00:04:33,210
+Aku tak melakukan apa pun.
+
+67
+00:04:34,350 --> 00:04:36,050
+Pertandingan itu
+semua berkat kamu.
+
+68
+00:04:50,510 --> 00:04:53,240
+Pengalaman bertarungmu
+sungguh sangat banyak.
+
+69
+00:04:53,240 --> 00:04:55,240
+Bahkan bisa memakai api
+melawan air.
+
+70
+00:04:56,980 --> 00:04:58,210
+Tentu saja.
+
+71
+00:04:58,210 --> 00:05:02,010
+Tujuh Monster Shrek tahun itu
+juga terkenal di arena roh.
+
+72
+00:05:03,450 --> 00:05:06,310
+Hehe, mengalahkan semua musuh.
+
+73
+00:05:08,850 --> 00:05:10,180
+Hanya tahu membual.
+
+74
+00:05:10,650 --> 00:05:12,780
+Namun, sungguh iri pada kalian.
+
+75
+00:05:12,780 --> 00:05:15,350
+Bisa melewati banyak
+bahaya bersama teman.
+
+76
+00:05:16,480 --> 00:05:19,250
+Dulu aku juga ingin
+berjalan-jalan ke luar.
+
+77
+00:05:19,250 --> 00:05:21,080
+Namun, Kakek selalu khawatir.
+
+78
+00:05:21,080 --> 00:05:22,680
+Tak mengizinkanku pergi dari rumah.
+
+79
+00:05:25,550 --> 00:05:27,550
+Sekarang kau sudah
+jadi anggota kami.
+
+80
+00:05:29,180 --> 00:05:32,910
+Jadi, bahaya ke depannya
+kita akan hadapi bersama.
+
+81
+00:05:37,680 --> 00:05:40,450
+Jika bisa jadi wanitaku,
+akan lebih baik lagi.
+
+82
+00:06:26,780 --> 00:06:27,850
+Xiao San.
+
+83
+00:06:27,850 --> 00:06:30,150
+Apakah cocok membiarkan
+Haider tetap mengurus kapal?
+
+84
+00:06:31,610 --> 00:06:33,710
+Kita tak menguasai
+perjalanan di air.
+
+85
+00:06:33,710 --> 00:06:36,150
+Hanya bisa membiarkannya
+membawa kita ke Pulau Dewa Laut.
+
+86
+00:06:38,450 --> 00:06:40,280
+Bajak laut yang ingin keuntungan,…
+
+87
+00:06:40,280 --> 00:06:42,780
+…pasti akan menuruti kita
+demi pertahankan nyawanya.
+
+88
+00:06:47,110 --> 00:06:49,580
+Untuk pencegahan,
+kita bergiliran berjaga.
+
+89
+00:06:49,580 --> 00:06:51,580
+Malam ini serahkan padaku dulu.
+
+90
+00:06:56,110 --> 00:06:57,780
+Kalau begitu,
+aku kembali ke kamar dulu.
+
+91
+00:07:40,350 --> 00:07:42,310
+Jangan takut, ada aku.
+
+92
+00:07:43,950 --> 00:07:46,800
+Belum sampai Pulau Dewa Laut,
+sudah terjadi banyak masalah.
+
+93
+00:07:46,800 --> 00:07:48,210
+Xiao San akan berjaga malam ini.
+
+94
+00:07:48,210 --> 00:07:50,750
+Namun, kita juga harus
+tetap waspada.
+
+95
+00:07:53,680 --> 00:07:56,510
+Xiao San menahan Haider pasti
+ada pertimbangannya sendiri.
+
+96
+00:07:56,850 --> 00:08:01,750
+Namun, untuk pencegahan,
+kita juga tak boleh lengah.
+
+97
+00:08:28,550 --> 00:08:29,650
+Ayah.
+
+98
+00:08:34,680 --> 00:08:37,280
+Aku adalah pria yang akan
+jadi Raja Bajak Laut.
+
+99
+00:08:40,650 --> 00:08:41,980
+Anakku.
+
+100
+00:08:41,980 --> 00:08:43,610
+Tenang saja.
+
+101
+00:08:44,410 --> 00:08:47,880
+Aku pasti akan membuat
+mereka mati bersamamu.
+
+102
+00:09:10,680 --> 00:09:11,680
+Ada apa ini?
+
+103
+00:09:12,550 --> 00:09:13,680
+Kita cepat kembali.
+
+104
+00:09:32,110 --> 00:09:33,380
+Apa yang kau lakukan?
+
+105
+00:10:12,050 --> 00:10:13,750
+Anda bilang mau cepat sampai.
+
+106
+00:10:14,250 --> 00:10:17,050
+Saya pertahankan laju kapal
+dengan kecepatan penuh.
+
+107
+00:10:17,310 --> 00:10:20,280
+Sekarang sudah masuk
+ke area Paus Iblis.
+
+108
+00:10:21,350 --> 00:10:22,680
+Area Paus Iblis?
+
+109
+00:10:23,150 --> 00:10:26,110
+Area ini punya palung samudera
+dengan kedalaman ribuan meter.
+
+110
+00:10:26,880 --> 00:10:28,110
+Di palung samudera ini,…
+
+111
+00:10:28,580 --> 00:10:31,810
+…hidup seekor monster roh laut
+ratusan ribu tahun.
+
+112
+00:10:31,810 --> 00:10:33,510
+Paus Iblis Laut Dalam.
+
+113
+00:10:37,810 --> 00:10:39,380
+Kenapa tak menghindarinya?
+
+114
+00:10:40,550 --> 00:10:42,010
+Anda jangan panik.
+
+115
+00:10:43,210 --> 00:10:45,080
+Meski Paus Iblis ini
+adalah penguasa laut,…
+
+116
+00:10:45,080 --> 00:10:46,480
+…namun, sifatnya sangat malas.
+
+117
+00:10:46,480 --> 00:10:48,400
+Biasanya hanya akan
+berdiam di dasar laut.
+
+118
+00:10:48,400 --> 00:10:50,480
+Ia menelan makhluk hidup air
+untuk bertahan hidup.
+
+119
+00:10:50,480 --> 00:10:52,710
+Selain itu, mata kirinya buta.
+
+120
+00:10:52,710 --> 00:10:55,010
+Hanya perlu berlayar mendekati
+arah mata kirinya saja,…
+
+121
+00:10:55,010 --> 00:10:56,550
+…maka tak akan mengganggunya.
+
+122
+00:11:06,880 --> 00:11:08,180
+Terlambat.
+
+123
+00:11:08,650 --> 00:11:10,650
+Sekarang Kapal Laut Iblis ini…
+
+124
+00:11:10,650 --> 00:11:13,480
+…sudah ada di arah mata
+kanan Paus Iblis.
+
+125
+00:11:45,350 --> 00:11:54,710
+=Dunia Roh=
+
+126
+00:12:05,910 --> 00:12:09,710
+Bom ledakan yang kulepaskan sudah
+membuat Paus Iblis marah.
+
+127
+00:12:09,710 --> 00:12:13,410
+Katanya, karena Paus Iblis ini
+terlalu kuat,…
+
+128
+00:12:13,410 --> 00:12:16,010
+…jadi, Dewa Laut
+membutakan mata kirinya.
+
+129
+00:12:16,150 --> 00:12:17,380
+Kau sudah gila?
+
+130
+00:12:17,380 --> 00:12:19,110
+Sudah tak mau hidup lagi?
+
+131
+00:12:19,110 --> 00:12:20,350
+Hidup?
+
+132
+00:12:20,710 --> 00:12:23,110
+Kalian membunuh anakku.
+
+133
+00:12:23,110 --> 00:12:25,380
+Aku mau kalian bayar dengan nyawa.
+
+134
+00:12:25,380 --> 00:12:26,310
+Mari.
+
+135
+00:12:26,310 --> 00:12:27,510
+Bunuh aku.
+
+136
+00:12:27,510 --> 00:12:29,750
+Aku sudah bisa menemui anakku.
+
+137
+00:12:36,750 --> 00:12:37,950
+Terjadi masalah.
+
+138
+00:12:41,110 --> 00:12:42,280
+Hati-hati.
+
+139
+00:12:54,350 --> 00:12:56,450
+Aku bisa memahami hatimu
+sebagai seorang Ayah.
+
+140
+00:12:56,950 --> 00:12:59,810
+Namun, dalam hidupmu
+sebagai bajak laut,…
+
+141
+00:12:59,810 --> 00:13:01,810
+…kau sudah bunuh
+berapa anak orang lain?
+
+142
+00:13:01,810 --> 00:13:03,350
+Hari ini aku tak membunuhmu.
+
+143
+00:13:03,350 --> 00:13:06,080
+Jika kau memang hebat, larilah.
+
+144
+00:13:12,680 --> 00:13:16,150
+Paus Iblis akan segera datang.
+
+145
+00:13:29,780 --> 00:13:30,810
+Apa yang terjadi?
+
+146
+00:13:30,810 --> 00:13:31,550
+Oscar.
+
+147
+00:13:31,550 --> 00:13:32,680
+Sosis Jamur Terbang.
+
+148
+00:13:32,680 --> 00:13:33,480
+Cepat!
+
+149
+00:15:07,510 --> 00:15:08,550
+Oscar!
+
+150
+00:15:09,500 --> 00:15:09,830
+Ayo.
+
+151
+00:15:32,850 --> 00:15:34,980
+Ia adalah Raja Paus Iblis
+Laut Dalam.
+
+152
+00:15:36,350 --> 00:15:37,510
+Tekanan ini…
+
+153
+00:15:37,780 --> 00:15:40,550
+…tak disangka jauh melebihi
+Kera Raksasa Titan ratusan tahun…
+
+154
+00:15:40,550 --> 00:15:42,550
+…dan Sanca Banteng Biru.
+
+155
+00:16:10,650 --> 00:16:11,680
+Ini…
+
+156
+00:16:12,880 --> 00:16:14,310
+…adalah Medan.
+
+157
+00:16:36,650 --> 00:16:37,780
+Garis lurus!
+
+158
+00:16:42,180 --> 00:16:43,950
+Teknik Kelinci Tulang Lunak.
+
+159
+00:16:43,950 --> 00:16:45,550
+Perisai Emas Tak Tertembus.
+
+160
+00:17:00,430 --> 00:17:01,460
+Tak bisa menghindar lagi.
+
+161
+00:17:02,290 --> 00:17:03,860
+Tujuh orang menyatu.
+
+162
+00:17:26,900 --> 00:17:29,190
+Perisai Emas Tak Tertembus!
+
+163
+00:17:42,860 --> 00:17:45,360
+Kak San, kita lawan ia.
+
+164
+00:17:47,500 --> 00:17:50,000
+Serangan Dewa Pembunuh!
+
+165
+00:18:39,330 --> 00:18:41,630
+(Animasi "Dunia Roh" dibuat sejak
+1 April 2017 hingga kini.)
+
+166
+00:18:41,630 --> 00:18:43,400
+(Setelah penayangan
+episode 164 berakhir,…
+
+167
+00:18:43,400 --> 00:18:45,130
+(…total hari pembuatan
+mencapai 1.529 hari.)
+
+168
+00:18:45,130 --> 00:18:46,430
+(Durasi keseluruhan 2.479 menit.)
+
+169
+00:18:46,430 --> 00:18:48,670
+(Total adegan, 60.741 adegan)
+(Pembuatan efek, 28.121 buah)
+
+170
+00:18:48,670 --> 00:18:50,160
+(Rancangan adegan aksi,
+12.624 adegan)
+
+171
+00:18:50,160 --> 00:18:51,550
+(Replika adegan,
+sekitar 569 buah)
+
+172
+00:18:51,550 --> 00:18:53,150
+(Rancangan karakter,
+sekitar 1.035 buah)
+
+173
+00:18:53,150 --> 00:18:54,700
+(Rancangan alat keperluan,
+13.395 buah)
+
+174
+00:18:54,700 --> 00:18:57,200
+(Terima kasih dukungan
+dan perhatiannya, kami akan berusaha.)
+
+175
+00:18:57,200 --> 00:18:59,530
+(Kau menemani masa mudaku,…)
+♪Tetap harus berpisah♪
+
+176
+00:18:59,530 --> 00:19:00,480
+(…aku tak lagi kesepian.)
+
+177
+00:19:00,980 --> 00:19:04,950
+♪Tak punya keberanian
+menahan kepergianmu♪
+
+178
+00:19:06,050 --> 00:19:11,550
+♪Siapa yang menangis di hutan
+menyedihkan ini?♪
+
+179
+00:19:14,490 --> 00:19:17,720
+♪Tetap tak menyerah♪
+
+180
+00:19:17,720 --> 00:19:22,390
+♪Aku tak mau mendengar takdir♪
+
+181
+00:19:23,280 --> 00:19:28,450
+♪Berusaha mencari kabarmu♪
+
+182
+00:19:31,620 --> 00:19:35,300
+♪Hutan Pertarungan Bintang yang
+dingin diterangi cahaya bulan♪
+
+183
+00:19:35,300 --> 00:19:40,140
+♪Dunia ini tak ada artinya
+di matamu♪
+
+184
+00:19:40,550 --> 00:19:45,220
+♪Kerinduan memperlambat masa itu♪
+
+185
+00:19:45,220 --> 00:19:52,100
+♪Banyak yang belum
+kukatakan selain janji♪
+
+186
+00:19:52,530 --> 00:19:56,500
+♪Kau adalah momen yang
+tak ingin kulupakan♪
+
+187
+00:19:56,510 --> 00:20:00,680
+♪Kau juga seseorang yang ingin
+kulindungi apa pun yang terjadi♪
+
+188
+00:20:00,680 --> 00:20:04,600
+♪Apakah kau dengar seruanku?♪
+
+189
+00:20:04,600 --> 00:20:09,300
+♪Ia menembus kesedihan
+untuk datang ke pelukanmu♪
+
+190
+00:20:09,300 --> 00:20:13,600
+♪Kau adalah impian yang ingin
+kucapai setiap kali terbangun♪
+
+191
+00:20:13,600 --> 00:20:17,760
+♪Juga harapan yang
+kupinta setiap kali berdoa♪
+
+192
+00:20:17,760 --> 00:20:22,010
+♪Suatu hari, kau akan
+muncul dengan elegan♪
+
+193
+00:20:22,010 --> 00:20:24,120
+♪Menggandengku♪
+
+194
+00:20:24,120 --> 00:20:29,550
+♪Ke masa depan yang panjang♪
+
+195
+00:20:32,540 --> 00:20:34,100
+(Cuplikan episode selanjutnya)
+
+196
+00:20:34,100 --> 00:20:37,317
+Jika kau ingin rekanmu hidup,
+maka minggirlah.
+
+197
+00:20:37,317 --> 00:20:39,590
+Monster roh laut terkuat sekalipun,…
+
+198
+00:20:39,590 --> 00:20:42,420
+…sepertinya tak ada kemampuan
+memulihkan diri seperti dia.
+
+199
+00:20:42,420 --> 00:20:45,620
+Bagaimana jika aku bisa
+meningkatkan kekuatan rohmu?
+
+200
+00:20:47,220 --> 00:20:48,290
+Kau bilang apa?
+
+201
+00:20:48,650 --> 00:20:49,550
+Xiao Wu.
+
+202
+00:20:49,550 --> 00:20:51,150
+Sudah tak ada artinya lagi.
+
+203
+00:20:52,520 --> 00:20:54,850
+Sisanya, kuserahkan padamu.
+
+204
+00:20:56,650 --> 00:20:59,450
+Tak disangka bocah itu,…
+
+205
+00:20:59,450 --> 00:21:03,290
+…sungguh menyelesaikan
+proses kematangan.
+
+206
+00:21:03,730 --> 00:21:06,383
+=Dunia Roh=
+(Ketenangan Sebelum Badai)
+
+207
+00:21:06,383 --> 00:21:09,730
+(Setiap Sabtu Pukul 10.00 Pagi)
+
