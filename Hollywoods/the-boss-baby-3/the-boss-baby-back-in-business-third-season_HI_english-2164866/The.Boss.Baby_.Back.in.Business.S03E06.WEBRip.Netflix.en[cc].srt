@@ -13,20 +13,20 @@ Hold all my calls.
 -[lullaby plays]
 
 4
-00:00:19,853 --> 00:00:21,438
+00:00:19,894 --> 00:00:21,479
 ♪ Boss Baby ♪
 
 5
-00:00:21,521 --> 00:00:25,483
+00:00:21,563 --> 00:00:25,442
 ♪ I'm the Boss, Boss Baby, boss, boss
 Boss Baby, boss, boss ♪
 
 6
-00:00:25,567 --> 00:00:28,027
+00:00:25,525 --> 00:00:28,069
 ♪ Watch a itty-bitty kid get large ♪
 
 7
-00:00:28,111 --> 00:00:30,697
+00:00:28,153 --> 00:00:30,697
 ♪ I'm the big Boss Baby in charge ♪
 
 8
@@ -39,16 +39,16 @@ Up and down the boulevard ♪
 ♪ I'm the big Boss Baby in charge ♪
 
 10
-00:00:36,161 --> 00:00:38,955
+00:00:36,202 --> 00:00:39,080
 ♪ I run this house, I rule this crib ♪
 
 11
-00:00:39,039 --> 00:00:41,666
+00:00:39,164 --> 00:00:41,624
 ♪ Change my diaper, son
 Where's my bib? ♪
 
 12
-00:00:41,750 --> 00:00:44,419
+00:00:41,708 --> 00:00:44,419
 ♪ Don't pacify
 You just got to pay me ♪
 
@@ -58,2192 +58,2251 @@ You just got to pay me ♪
 -♪ Me, the Boss Baby ♪
 
 14
-00:00:48,923 --> 00:00:51,926
-I suppose I thrive
-in a world of predictability, you know?
+00:00:48,047 --> 00:00:50,049
+[mobile whirring]
 
 15
-00:00:52,010 --> 00:00:53,887
-With this playgroup, it-it's fun.
+00:00:56,306 --> 00:00:58,850
+-Ooh!
+-Ooh, look, look, look, look, look!
 
 16
-00:00:53,970 --> 00:00:56,389
-They're good kids,
-but everything's chaos.
+00:00:59,225 --> 00:01:02,896
+-Oh, wow!
+-Whoo, boy! Look at this!
 
 17
-00:00:56,473 --> 00:00:58,099
-It throws me off my game.
+00:01:02,979 --> 00:01:08,109
+-[parents exclaiming]
+-[Mayor] Whoa-ho-ho, that's nice!
 
 18
-00:00:58,183 --> 00:01:01,644
-Up is white, black is down, one plus one
-equals Saginaw, Michigan.
+00:01:08,193 --> 00:01:09,861
+[Marsha] Everything's state-of-the-art,
 
 19
-00:01:01,728 --> 00:01:03,354
-[Tim] Mm-hmm. Mm-hmm.
+00:01:09,944 --> 00:01:12,697
+from safety features
+like soft-edged tables...
 
 20
-00:01:03,438 --> 00:01:06,357
-I know how to lead, but do I know
-how to lead them?
+00:01:13,239 --> 00:01:15,408
+[giggling, grunts]
 
 21
-00:01:06,441 --> 00:01:08,902
-And if I did, wouldn't I be back
-at Baby Corp by now?
+00:01:16,159 --> 00:01:18,787
+-...to Santino the Sanitizing Elephant...
+-[sneezes]
 
 22
-00:01:08,985 --> 00:01:09,819
-Mm-hmm.
+00:01:19,162 --> 00:01:20,288
+[giggling]
 
 23
-00:01:10,320 --> 00:01:12,363
--Are you even paying attention?
--Mm-hmm.
+00:01:21,623 --> 00:01:24,084
+...to Argie the Friendly Cyclops!
 
 24
-00:01:12,447 --> 00:01:15,366
-I'm going through
-an existential crisis, Templeton!
+00:01:24,167 --> 00:01:26,628
+He's actually a smell sensor
+for when it's time to change
 
 25
-00:01:15,700 --> 00:01:17,827
--Do you know what that means?
--Mm-hmm.
+00:01:26,711 --> 00:01:28,630
+those disgusting baby droppings.
 
 26
-00:01:18,453 --> 00:01:20,163
--Poop.
--[laughs] Poop.
+00:01:28,838 --> 00:01:29,714
+Love it!
 
 27
-00:01:20,413 --> 00:01:22,082
-[sighs] What are you so focused on
+00:01:30,173 --> 00:01:32,342
+Oh, I love my new Bubbeezee playroom!
 
 28
-00:01:22,165 --> 00:01:24,459
-that you can't help me ponder
-my place on this planet?
+00:01:32,425 --> 00:01:33,843
+What do you think, Boss Baby?
 
 29
-00:01:25,251 --> 00:01:27,921
--Blueprints for an invention?
--Hey, I'm not done!
+00:01:33,927 --> 00:01:37,013
+Anything that reduces parental stress
+is good for baby love.
 
 30
-00:01:28,004 --> 00:01:30,131
--Ah!
--A flying bed! Nacho toothpaste!
+00:01:37,096 --> 00:01:39,641
+-[giggles]
+-Safety, sanitation, edutainment...
 
 31
-00:01:30,215 --> 00:01:32,425
-No, it's something dumb for school. Aah!
+00:01:39,849 --> 00:01:41,768
+Way to cover the bases, Bubbeezee.
 
 32
-00:01:32,509 --> 00:01:35,053
--No! When it's done, I'll show you, okay?
--Not okay!
+00:01:42,227 --> 00:01:43,436
+What are the penguins for?
 
 33
-00:01:35,136 --> 00:01:37,222
--Baby wanna know now!
--S-Stop it!
+00:01:43,686 --> 00:01:46,105
+For waddling around
+and making me giggle all day.
 
 34
-00:01:37,555 --> 00:01:40,767
-I can't. I haven't developed
-coping strategies for my impulsivity!
+00:01:46,189 --> 00:01:47,398
+Oh! [giggling]
 
 35
-00:01:40,850 --> 00:01:41,935
--It's not ready!
--Give me!
+00:01:47,482 --> 00:01:48,650
+Oh, look at that!
 
 36
-00:01:42,018 --> 00:01:44,103
-[both shouting, grunting]
+00:01:49,025 --> 00:01:51,277
+[softly] Ooh, the penguins
+are the best part.
 
 37
-00:01:44,187 --> 00:01:47,065
--What do we have here?
--I said it's not done. Give it!
+00:01:51,361 --> 00:01:53,196
+They're little security guards.
 
 38
-00:01:47,315 --> 00:01:49,400
--Ah, the solar system.
--Hey!
+00:01:53,279 --> 00:01:55,490
+-Kel, look at your boy over there.
+-[penguins screeching]
 
 39
-00:01:49,901 --> 00:01:52,529
-Very impressive--
-the scale, the color coordination,
+00:01:55,573 --> 00:01:57,367
+Jarreau, no! Electricity is real!
 
 40
-00:01:52,612 --> 00:01:55,365
-the... [gasps] organization!
+00:01:57,450 --> 00:02:00,745
+-[cooing]
+-[penguins screeching, chirping]
 
 41
-00:01:57,283 --> 00:02:00,036
-Are you about to cry
-over the solar system?
+00:02:01,538 --> 00:02:04,624
+Oh, that's what they're for!
 
 42
-00:02:01,246 --> 00:02:03,373
--[gasps]
--You heliocentric genius!
+00:02:04,958 --> 00:02:07,836
+I'm never a naughty baby,
+so I wouldn't have known.
 
 43
-00:02:03,456 --> 00:02:05,583
-You just solved my existential crisis!
+00:02:08,503 --> 00:02:12,549
+Parenting is so easy with Bubbeezee.
 
 44
-00:02:05,750 --> 00:02:06,793
--Mwah!
--Ew!
+00:02:13,007 --> 00:02:16,177
+But wouldn't it be cheaper just to,
+you know, watch them?
 
 45
-00:02:06,876 --> 00:02:09,420
-Solved your what--
-Hey, what the heck are you doing?
+00:02:16,261 --> 00:02:19,973
+[sucks in breath] Ooh, remind me
+how your baby broke his arm again, Ted.
 
 46
-00:02:09,504 --> 00:02:12,132
-That's a school project!
-It's due tomorrow!
+00:02:20,056 --> 00:02:22,517
+Was it from watching him too much?
 
 47
-00:02:12,966 --> 00:02:14,551
-It's not me, it's them.
-
-48
-00:02:14,634 --> 00:02:17,387
-They need a leadership model
-even babies can understand,
-
-49
-00:02:17,470 --> 00:02:19,514
-like this crude depiction
-of the solar system.
-
-50
-00:02:19,681 --> 00:02:22,267
-Structure, workflow, chain of command.
-
-51
-00:02:22,350 --> 00:02:25,019
-Bright colors for baby attention grabbing.
-We need...
-
-52
-00:02:25,478 --> 00:02:26,896
-An org chart...
-
-53
-00:02:27,147 --> 00:02:32,110
-aka organizational chart,
-aka the Cleopatra of task allocation.
-
-54
-00:02:32,193 --> 00:02:33,069
-[purrs]
-
-55
-00:02:33,153 --> 00:02:35,697
-Let's spin this up and take a ride! Whoo!
-
-56
-00:02:36,364 --> 00:02:39,242
-As I will continue to handle
-the lion's share of strategic planning,
-
-57
-00:02:39,325 --> 00:02:42,203
-I have assumed the role
-of leader/president/CEO,
-
-58
-00:02:42,287 --> 00:02:43,913
-backslash president is fine for now.
-
-59
-00:02:43,997 --> 00:02:46,374
--Agreed?
--[babbling]
-
-60
-00:02:46,624 --> 00:02:48,376
-Great! Working our way down.
-
-61
-00:02:48,459 --> 00:02:50,461
-Jarreau, good looks, charisma.
-
-62
-00:02:50,545 --> 00:02:51,963
-You're on public relations.
-
-63
-00:02:53,798 --> 00:02:56,301
-Mega Fat, you cover HR and wellness.
-
-64
-00:02:56,509 --> 00:02:59,304
--Dakota will run acquisitions.
--Mine!
-
-65
-00:03:00,555 --> 00:03:02,807
-Quiet Psycho will be in-house legal rep.
-
-66
-00:03:02,891 --> 00:03:06,227
-I want that face staring across the table
-in every deposition.
-
-67
-00:03:07,312 --> 00:03:09,606
--Shover handles security.
--[yelps]
-
-68
-00:03:10,106 --> 00:03:11,900
-Sticky Fingers, office supplies.
-
-69
-00:03:12,442 --> 00:03:13,276
-[coos]
-
-70
-00:03:13,359 --> 00:03:16,070
-Finally, we have Scooter Buskie.
-This was tough.
-
-71
-00:03:16,571 --> 00:03:20,617
-How do you categorize someone
-whose very essence is his indefinability?
-
-72
-00:03:20,700 --> 00:03:22,577
-Short answer: you don't.
-
-73
-00:03:22,911 --> 00:03:26,331
-You let them be... miscellaneous!
-Questions?
-
-74
-00:03:26,664 --> 00:03:28,249
-[babbling]
-
-75
-00:03:28,333 --> 00:03:30,126
-Uh, the-- the org chart
-doesn't come in pink.
-
-76
-00:03:30,418 --> 00:03:32,045
-[babbling]
-
-77
-00:03:32,128 --> 00:03:35,298
--Because I didn't make it in pink!
--Let HR handle this.
-
-78
-00:03:35,798 --> 00:03:38,176
-All in favor of making the org chart pink?
-
-79
-00:03:38,593 --> 00:03:40,929
--[babies squeal]
--It's never going to be pink!
-
-80
-00:03:41,012 --> 00:03:44,349
-[inhales] What's most important
-is that I am in charge
-
-81
-00:03:44,432 --> 00:03:49,020
-because I am at the top of the org chart,
-so whatever it takes to make that sink in.
-
-82
-00:03:49,103 --> 00:03:50,521
--[door slides open]
--[gasps]
-
-83
-00:03:50,605 --> 00:03:52,357
-[Marsha] Everybody, look at me!
-
-84
-00:03:52,774 --> 00:03:55,526
-Breaking news:
-the perks of being in a playgroup
-
-85
-00:03:55,610 --> 00:03:58,363
-with yours truly just got perkier.
-
-86
-00:03:58,446 --> 00:04:01,616
-You're finally going to confess
-that all TV weather reports are made up?
-
-87
-00:04:01,699 --> 00:04:03,117
-I just-- Eh, what?
-
-88
-00:04:03,201 --> 00:04:07,247
-My father taught me
-"Never trust anything you can't touch."
-
-89
-00:04:07,330 --> 00:04:08,373
-Well, he sounds fun.
-
-90
-00:04:08,665 --> 00:04:11,417
-No, ma'am.
-Fun is another thing you cannot touch.
-
-91
-00:04:11,501 --> 00:04:13,670
-Well, tell him to touch this!
-
-92
-00:04:13,962 --> 00:04:16,839
-I just got off the phone
-with my friends at Bubbeezee,
-
-93
-00:04:16,923 --> 00:04:20,510
-and guess who they want to photograph
-for their product catalog.
-
-94
-00:04:20,593 --> 00:04:22,387
--Our babies!
--[excited chatter]
-
-95
-00:04:22,470 --> 00:04:24,222
-Product catalog photo shoot?
-
-96
-00:04:24,681 --> 00:04:28,851
-It's like I come up with this org chart,
-and everything falls into place!
-
-97
-00:04:28,935 --> 00:04:31,562
-Just picture it:
-a widely circulated mailer
-
-98
-00:04:31,771 --> 00:04:34,399
-filled with all these adorable mugs.
-
-99
-00:04:34,482 --> 00:04:36,818
-Oh! It's a baby love jack pot!
-
-100
-00:04:36,985 --> 00:04:38,945
-My ticket back to the big leagues!
-
-101
-00:04:39,028 --> 00:04:41,948
-And if we get the cover? Oh!
-
-102
-00:04:42,031 --> 00:04:44,909
--Oh, man! Would you take a look at that?
--Look at that cute baby!
-
-103
-00:04:44,993 --> 00:04:47,662
--[applause]
--World's cutest? Oh, I don't know, Jack.
-
-104
-00:04:47,745 --> 00:04:51,332
-All babies are cute.
-I just happen to be on a catalog cover.
-
-105
-00:04:51,541 --> 00:04:53,918
--What's your secret?
--Two words.
-
-106
-00:04:54,002 --> 00:04:55,086
-[coos]
-
-107
-00:04:55,461 --> 00:04:57,505
-[audience] Aw!
-
-108
-00:05:05,221 --> 00:05:07,181
-[Mega Fat] Hello? Uh, Boss Baby?
-
-109
-00:05:07,598 --> 00:05:10,059
-Will you please tell me what would happen
-if we get the cover?
-
-110
-00:05:10,143 --> 00:05:10,977
-You'll see.
-
-111
-00:05:11,227 --> 00:05:13,146
-Oh, they'll all see.
-
-112
-00:05:15,898 --> 00:05:16,983
-The mission is simple.
-
-113
-00:05:17,066 --> 00:05:19,736
-Adorable the baby snot
-out of this photo shoot.
-
-114
-00:05:19,819 --> 00:05:22,905
-You might not know this,
-but, uh, heh, I actually got my start
-
-115
-00:05:22,989 --> 00:05:24,824
-in posters and greeting cards
-at Baby Corp.
-
-116
-00:05:24,907 --> 00:05:25,825
-I knew that!
-
-117
-00:05:26,326 --> 00:05:28,953
-I know exactly
-what these marketing hyenas expect,
-
-118
-00:05:29,037 --> 00:05:33,416
-so follow my lead and let the org chart
-guide us to baby love glory!
-
-119
-00:05:33,499 --> 00:05:34,500
-Hyah!
-
-120
-00:05:37,337 --> 00:05:41,507
-People, pupils up,
-retinas down, eyes forward.
-
-121
-00:05:41,591 --> 00:05:42,675
-I am...
-
-122
-00:05:43,593 --> 00:05:44,802
-Travis Le Duque.
-
-123
-00:05:45,136 --> 00:05:46,679
-[groans]
-
-124
-00:05:46,763 --> 00:05:49,265
-Looks like we're dealing with an "artist."
-
-125
-00:05:49,348 --> 00:05:51,142
-I really love what you do.
-
-126
-00:05:51,309 --> 00:05:53,644
--Your favorite work of mine, go.
--[Mrs. Buskie] Oh!
-
-127
-00:05:53,853 --> 00:05:57,148
-[stammering] Well, I was talking about
-photography in general.
-
-128
-00:05:57,231 --> 00:05:59,776
-Have you done something I might have seen?
-
-129
-00:05:59,859 --> 00:06:00,902
-Well, that depends.
-
-130
-00:06:01,194 --> 00:06:03,154
-Do you ever use coupons?
-
-131
-00:06:03,738 --> 00:06:05,156
-Twenty-five cents off pudding mix.
-
-132
-00:06:05,239 --> 00:06:08,076
-Buy one, get one at Fatso Phantom's
-Ghostburger To Go.
-
-133
-00:06:08,159 --> 00:06:10,870
-Anybody here remember
-Mulch International's
-
-134
-00:06:10,953 --> 00:06:13,414
-autumn envelope stuffer with the cheetahs?
-
-135
-00:06:13,539 --> 00:06:15,958
-Oh, yes! I shot that, too.
-
-136
-00:06:16,459 --> 00:06:18,711
--[all gasping]
--Such a savings!
-
-137
-00:06:18,795 --> 00:06:19,629
-I take it back.
-
-138
-00:06:20,296 --> 00:06:24,217
-He sold his artist's soul
-for crass commerce, and I dig that!
-
-139
-00:06:24,550 --> 00:06:26,094
-What are we waiting for?
-
-140
-00:06:26,177 --> 00:06:30,681
-My camera is flypaper upon which
-we will trap this infestation of cute!
-
-141
-00:06:30,765 --> 00:06:32,308
-[dramatic breath, snaps fingers]
-
-142
-00:06:32,433 --> 00:06:33,851
-[gasping]
-
-143
-00:06:37,063 --> 00:06:39,607
-[babies cooing]
-
-144
-00:06:39,774 --> 00:06:41,901
-I prefer my grown-ups no-nonsense,
-
-145
-00:06:41,984 --> 00:06:45,238
-but this Travis is all-nonsense,
-and I fully approve.
-
-146
-00:06:45,321 --> 00:06:46,531
-Remember the org chart.
-
-147
-00:06:46,614 --> 00:06:49,367
-Keep the runway clear
-and I'll take the lead.
-
-148
-00:06:49,909 --> 00:06:52,703
-[camera shutter clicking]
-
-149
-00:06:55,039 --> 00:06:55,915
-[coos]
-
-150
-00:06:58,668 --> 00:07:00,086
-[giggling, babbling]
-
-151
-00:07:00,169 --> 00:07:03,047
-Yes, I love it. I hate it!
-I wanna marry it and never see it again.
-
-152
-00:07:03,714 --> 00:07:04,882
-[whispers indistinctly]
-
-153
-00:07:08,553 --> 00:07:11,889
-Well, you certainly have the spark,
-but do you have the fire?
-
-154
-00:07:11,973 --> 00:07:14,433
--[giggling]
--Yes? Now give me more and less.
-
-155
-00:07:14,517 --> 00:07:16,310
-[cooing]
-
-156
-00:07:17,645 --> 00:07:19,522
-[Travis] Look at the camera. Don't look!
-
-157
-00:07:19,605 --> 00:07:22,859
-Look at me, but also away!
-What are you looking at?
-
-158
-00:07:22,942 --> 00:07:26,612
-Use your body to define
-the word "definition."
-
-159
-00:07:26,696 --> 00:07:29,073
-[grunting]
-
-160
-00:07:29,157 --> 00:07:30,324
-[camera shutter clicks]
-
-161
-00:07:31,117 --> 00:07:34,579
-[sighs] I am bored of being bored by you.
-
-162
-00:07:35,079 --> 00:07:36,289
--[grunts]
--[coos]
-
-163
-00:07:37,206 --> 00:07:38,040
-[gasps]
-
-164
-00:07:38,374 --> 00:07:39,834
--[laughing]
--[lens whirs]
-
-165
-00:07:40,042 --> 00:07:40,877
-You!
-
-166
-00:07:41,544 --> 00:07:46,549
-You are the personification of perfection!
-
-167
-00:07:46,716 --> 00:07:48,342
-What? Buskie?
-
-168
-00:07:48,426 --> 00:07:50,970
-He is the personification
-of lawless bedlam!
-
-169
-00:07:51,262 --> 00:07:52,263
-[Scooter cooing]
-
-170
-00:07:52,346 --> 00:07:55,224
-[Travis] I don't deserve your greatness.
-
-171
-00:07:55,516 --> 00:07:56,767
-You are my new cheetah.
-
-172
-00:07:57,268 --> 00:08:00,646
-Oh! So jealous
-Scooter gets to hang with Trav.
-
-173
-00:08:01,439 --> 00:08:03,900
-Oh, I see you are jealous, too!
-
-174
-00:08:03,983 --> 00:08:05,443
--[starts]
--Or-- Or maybe it's envy.
-
-175
-00:08:05,526 --> 00:08:07,278
--Wait-- Yeah, I--
--I always confuse those.
-
-176
-00:08:07,361 --> 00:08:09,947
-Can you please define the word "envy"
-with your body?
-
-177
-00:08:10,239 --> 00:08:12,158
-Aah! [groans]
-
-178
-00:08:12,492 --> 00:08:13,451
-[Mrs. Buskie] Oh!
-
-179
-00:08:13,534 --> 00:08:16,579
-My little Scooter's a star! [laughing]
-
-180
-00:08:16,913 --> 00:08:19,790
-That came straight
-from my friends at Bubbeezee.
-
-181
-00:08:19,999 --> 00:08:23,002
-Now, it's just a mockup,
-but the catalog prints tomorrow,
-
-182
-00:08:23,085 --> 00:08:24,629
-and that is your cover.
-
-183
-00:08:24,712 --> 00:08:27,089
-[squeals] I feel like celebrating!
-
-184
-00:08:27,298 --> 00:08:29,133
--I'm gonna make fudge!
--[excited chatter]
-
-185
-00:08:29,217 --> 00:08:31,761
--Now it's a party!
--Mama does love the fudge.
-
-186
-00:08:34,722 --> 00:08:37,517
-Hooraysies!
-Mission accomplished, right?
-
-187
-00:08:37,600 --> 00:08:39,977
-Now will you tell me
-what will happen with baby love
-
-188
-00:08:40,061 --> 00:08:41,896
-since we got the cover, Boss Baby?
-
-189
-00:08:41,979 --> 00:08:43,898
-[sighs] Let the initial shock pass.
-
-190
-00:08:43,981 --> 00:08:44,815
-Focus.
-
-191
-00:08:44,899 --> 00:08:47,985
-Pros and cons of the world's worst baby
-on the cover of a major--
-
-192
-00:08:48,069 --> 00:08:49,987
--[clanging]
--[grunting]
-
-193
-00:08:50,071 --> 00:08:51,322
-Not now, Buskie, please.
-
-194
-00:08:51,989 --> 00:08:55,159
-[sighs] Pros: we did get a baby
-on the cover.
-
-195
-00:08:55,243 --> 00:08:56,661
-Should be good for baby love.
-
-196
-00:08:56,744 --> 00:08:58,829
--Cons-- Scooter, please! I am--
--[clanging, grunting]
-
-197
-00:08:58,913 --> 00:09:00,831
-[babbling, giggling]
-
-198
-00:09:02,083 --> 00:09:05,086
-May I ask you
-a tiny HR something-something?
-
-199
-00:09:05,169 --> 00:09:07,004
-Now that Scooter Buskie is so popular,
-
-200
-00:09:07,296 --> 00:09:10,299
-do we move him up only a few spots
-on the org chart
-
-201
-00:09:10,383 --> 00:09:12,009
-or all the way to head honcho?
-
-202
-00:09:12,218 --> 00:09:13,386
-We move nothing!
-
-203
-00:09:13,594 --> 00:09:15,429
-So what if Scooter got the cover page?
-
-204
-00:09:15,513 --> 00:09:17,056
-I'm still this team's leader.
-
-205
-00:09:17,139 --> 00:09:20,184
-I think maybe the playgroup
-begs, perhaps, to differ.
-
-206
-00:09:20,268 --> 00:09:23,729
--[babies giggling]
--[Boss gasps]
-
-207
-00:09:26,816 --> 00:09:28,859
-[giggling]
-
-208
-00:09:28,943 --> 00:09:30,444
-Ha, aren't rocks fun?
-
-209
-00:09:30,528 --> 00:09:32,488
-Listen, Scoot-Scoot.
-Can I call you Scoot-Scoot?
-
-210
-00:09:32,572 --> 00:09:36,200
-I'm concerned this cover photo
-is creating some leadership confusion.
-
-211
-00:09:36,701 --> 00:09:40,079
-Now, I'm sure you don't want
-a bunch of babies copycatting you
-
-212
-00:09:40,371 --> 00:09:41,831
-just as much as I don't want to waste
-
-213
-00:09:41,914 --> 00:09:44,792
-all the effort I've put into training
-this new field team,
-
-214
-00:09:44,875 --> 00:09:49,130
-so let's remind the babies
-I'm still top of the org chart, m-kay?
-
-215
-00:09:49,213 --> 00:09:50,381
-[giggles, grunts]
-
-216
-00:09:50,715 --> 00:09:52,383
-What do you mean "it's funny"?
-
-217
-00:09:52,466 --> 00:09:54,677
--This is not funny!
--[grunting]
-
-218
-00:09:55,970 --> 00:09:56,804
-[babies grunting]
-
-219
-00:09:57,013 --> 00:09:59,390
-Scooter Buskie, leader of babies?
-
-220
-00:09:59,765 --> 00:10:01,642
-We're off the edge of the map now.
-
-221
-00:10:02,685 --> 00:10:05,271
-[babbling, giggling]
-
-222
-00:10:06,439 --> 00:10:07,273
-[parents gasp]
-
-223
-00:10:09,442 --> 00:10:10,401
-[slurping]
-
-224
-00:10:10,484 --> 00:10:12,153
--[burps, giggling]
--[gasps]
-
-225
-00:10:12,361 --> 00:10:13,904
--[man] Jarreau, no!
--[woman] Watch out!
-
-226
-00:10:13,988 --> 00:10:17,533
-[all shouting]
-
-227
-00:10:17,617 --> 00:10:20,036
-[giggling, grunting]
-
-228
-00:10:20,119 --> 00:10:22,038
--[banging]
--[growls]
-
-229
-00:10:22,121 --> 00:10:23,539
-Dang babies!
-
-230
-00:10:23,664 --> 00:10:25,583
--Can't a man read a paper?
--[woman 2] Knock it off!
-
-231
-00:10:25,666 --> 00:10:28,127
-[woman 3] What is wrong with these babies?
-
-232
-00:10:28,336 --> 00:10:32,381
-You still haven't told me what happens
-when we have a baby on the catalog cover.
-
-233
-00:10:32,465 --> 00:10:36,218
-Is the plan that everybody hates babies
-and Baby Corp hates you?
-
-234
-00:10:36,302 --> 00:10:40,097
-Because if so, as your HR rep
-and spirit guide to better living,
-
-235
-00:10:40,181 --> 00:10:41,140
-great job!
-
-236
-00:10:41,265 --> 00:10:42,558
-Catalog hasn't printed yet!
-
-237
-00:10:42,767 --> 00:10:44,977
-We can stop the spread of toxic Buskie-ism
-
-238
-00:10:45,061 --> 00:10:47,146
-while it's still flying
-under Baby Corp's radar.
-
-239
-00:10:47,229 --> 00:10:50,900
--[all screaming]
--What the heck just flew into our radar?
-
-240
-00:10:52,151 --> 00:10:54,236
-Oh, man! It's the doomsday scenario!
-
-241
-00:10:54,487 --> 00:10:56,489
-We got a small army of Scooter Buskies.
-
-242
-00:10:56,572 --> 00:10:58,699
--Did we ever come up with a plan for that?
--Sort of.
-
-243
-00:10:58,783 --> 00:11:01,661
-But I don't think it got
-any farther than... [screaming]
-
-244
-00:11:01,744 --> 00:11:04,455
--We're all going to die!
--[screams]
-
-245
-00:11:04,538 --> 00:11:05,498
-I'm in denial!
-
-246
-00:11:05,706 --> 00:11:07,416
-♪ Doopy, dooty, doopity-doo ♪
-
-247
-00:11:07,667 --> 00:11:09,502
-♪ Dooty, dooty, doopity-dah ♪
-
-248
-00:11:10,127 --> 00:11:14,215
-Even if we had a plan,
-we'd need a CEO to sign off on it.
-
-249
-00:11:14,298 --> 00:11:16,676
-Man, I hope we get a smart one this time.
-
-250
-00:11:16,759 --> 00:11:19,220
-Hey, guys. Buddy from HR.
-
-251
-00:11:19,303 --> 00:11:21,639
-How's everybody doing?
-Tell me later, m-kay?
-
-252
-00:11:21,722 --> 00:11:25,309
-Because right now,
-I want you to welcome our new CEO...
-
-253
-00:11:25,684 --> 00:11:28,062
-Board Baby Emiliano...
-
-254
-00:11:28,229 --> 00:11:30,815
-The chair of the board is our CEO?
-
-255
-00:11:30,898 --> 00:11:35,027
--Only the smartest of the smart!
--A savior sent from Mount Olympus!
-
-256
-00:11:35,319 --> 00:11:40,282
-...'s twin brother,
-Hermano Menor CEO Baby.
-
-257
-00:11:40,366 --> 00:11:43,285
--[chiming]
--[screaming]
-
-258
-00:11:43,828 --> 00:11:46,997
-It's making alarm flashes!
-Is there a fire?
-
-259
-00:11:47,081 --> 00:11:50,209
--Is a baby on fire? Are we on fire?
--Aw!
-
-260
-00:11:50,376 --> 00:11:51,752
-[both groan]
-
-261
-00:11:51,961 --> 00:11:54,713
-When my brother called and said,
-"Hey, wanna be CEO?"
-
-262
-00:11:54,797 --> 00:11:57,091
-Maybe he felt sorry for me. I don't know.
-
-263
-00:11:57,383 --> 00:12:01,262
-I thought it would be a breeze,
-but this looks really, really hard!
-
-264
-00:12:01,345 --> 00:12:02,638
-[panting] What do I do?
-
-265
-00:12:02,721 --> 00:12:04,056
-Chuh!
-
-266
-00:12:04,557 --> 00:12:05,808
-Give orders?
-
-267
-00:12:07,017 --> 00:12:10,604
-Anybody, get me a glass of water!
-
-268
-00:12:16,277 --> 00:12:17,153
-[groans]
-
-269
-00:12:17,862 --> 00:12:20,489
-Jimbo and me are what's left
-of the field team, sir.
-
-270
-00:12:20,573 --> 00:12:21,866
-Permission to deal with this?
-
-271
-00:12:22,074 --> 00:12:24,368
-Yes! Oh, oh, yes!
-
-272
-00:12:24,452 --> 00:12:25,661
-[chuckles] Thank you!
-
-273
-00:12:25,911 --> 00:12:27,329
-Was that the right thing to say?
-
-274
-00:12:27,413 --> 00:12:29,498
-[muffled screaming]
-
-275
-00:12:29,623 --> 00:12:31,667
-Scooter Buskie's ruined everything!
-
-276
-00:12:31,917 --> 00:12:33,252
-Are you even listening?
-
-277
-00:12:33,335 --> 00:12:35,754
-I have to get the playgroup back.
-I need your help!
-
-278
-00:12:35,838 --> 00:12:36,755
-Help yourself.
-
-279
-00:12:37,214 --> 00:12:39,049
-You pledge the allegiance with that mouth?
-
-280
-00:12:39,133 --> 00:12:42,261
-You cut up my solar system project
-to make your dumb orb chart!
-
-281
-00:12:42,344 --> 00:12:43,762
-Org chart.
-
-282
-00:12:44,096 --> 00:12:47,600
-Orb, orb, orb, orb, orb, orb.
-
-283
-00:12:47,975 --> 00:12:49,226
-Huh, touché.
-
-284
-00:12:49,477 --> 00:12:50,644
-I had to start over!
-
-285
-00:12:50,728 --> 00:12:53,272
-And all I had time to make
-was the sun and Earth
-
-286
-00:12:53,355 --> 00:12:57,067
-and a new huge-normous ball I invented
-called "Planet The Rest of the Planets."
-
-287
-00:12:57,151 --> 00:12:58,235
-It got an F.
-
-288
-00:12:58,319 --> 00:13:00,279
-So now I have to do it over again!
-
-289
-00:13:00,362 --> 00:13:02,072
-A do-over... that's it!
-
-290
-00:13:02,364 --> 00:13:05,034
-[growls] Did I accidentally help you
-when I'm mad at you?
-
-291
-00:13:05,451 --> 00:13:08,787
-This cover photo's the reason
-I'm in this Scooter Buskie nightmare.
-
-292
-00:13:08,871 --> 00:13:13,042
-But if I get Bubbeezee to redo the shoot
-with the right cover baby,
-
-293
-00:13:13,292 --> 00:13:14,752
-I go back to being in charge,
-
-294
-00:13:14,835 --> 00:13:17,838
-ending the reign of Scooter
-and restoring baby love!
-
-295
-00:13:18,297 --> 00:13:20,508
-What makes you think a do-over
-would be any different?
-
-296
-00:13:20,758 --> 00:13:25,971
-Because this time, I'll be trained
-by Lil' Dumpling Baby Pageant veteran
-
-297
-00:13:26,222 --> 00:13:27,973
-Tim Templeton.
-
-298
-00:13:28,182 --> 00:13:31,560
-[growls] You know my secret weakness
-is giving pageant tips!
-
-299
-00:13:31,644 --> 00:13:32,478
-Fine.
-
-300
-00:13:32,895 --> 00:13:35,564
-But you gotta help me
-with the solar system do-over.
-
-301
-00:13:35,648 --> 00:13:36,899
--Deal!
--[whooshes]
-
-302
-00:13:37,191 --> 00:13:39,735
-Yo, Boss, you got a serious problem with--
-
-303
-00:13:39,818 --> 00:13:42,821
-I know, I know. Scooter Buskie
-is leading a cult of disaster babies.
-
-304
-00:13:42,905 --> 00:13:44,865
-My bad. I have a plan
-and you're recruited.
-
-305
-00:13:44,949 --> 00:13:47,034
-Congratulations.
-Thank you for your service.
-
-306
-00:13:47,117 --> 00:13:47,952
-[gasps]
-
-307
-00:13:48,035 --> 00:13:49,245
--Cool.
--Hold on.
-
-308
-00:13:49,411 --> 00:13:52,998
-Even if you're able to master
-a pinky's worth of my pageant skills,
-
-309
-00:13:53,082 --> 00:13:54,917
-why would Bubbeezee agree to a reshoot?
-
-310
-00:13:55,000 --> 00:13:56,085
-They have their cover.
-
-311
-00:13:56,585 --> 00:13:58,671
-Have you seen the look Scooter's giving?
-
-312
-00:13:58,754 --> 00:14:00,881
-You know that in Brazil,
-that one-toothed smile
-
-313
-00:14:00,965 --> 00:14:02,716
-means a very offensive no-no word.
-
-314
-00:14:02,883 --> 00:14:04,426
--Which one?
--[whispers indistinctly]
-
-315
-00:14:04,510 --> 00:14:06,095
-[yelps, grunts]
-
-316
-00:14:06,178 --> 00:14:07,680
-Easy, big guy.
-
-317
-00:14:07,763 --> 00:14:11,475
-That smile doesn't really mean anything,
-here or in Brazil.
-
-318
-00:14:11,559 --> 00:14:13,644
-It's cheap, phony gossip I made up.
-
-319
-00:14:13,852 --> 00:14:16,021
-But if we get enough people
-to believe it's true...
-
-320
-00:14:16,105 --> 00:14:18,607
-Bubbeezee will have to redo the shoot!
-
-321
-00:14:18,691 --> 00:14:21,944
-Let's spread nasty rumors
-and take modeling photos. Yay!
-
-322
-00:14:22,027 --> 00:14:25,072
-♪ We can't stop, we won't stop ♪
-
-323
-00:14:25,155 --> 00:14:28,117
-♪ Till we get to the top ♪
-
-324
-00:14:28,492 --> 00:14:31,704
-♪ So we climb and crawl, then we do it ♪
-
-325
-00:14:32,288 --> 00:14:35,207
-♪ We get to the top ♪
-
-326
-00:14:35,291 --> 00:14:36,959
-♪ We're at the top ♪
-
-327
-00:14:37,042 --> 00:14:41,881
-♪ But then it feels like
-Maybe there's more to go ♪
-
-328
-00:14:42,172 --> 00:14:45,092
-♪ Like there's a top on top of this top ♪
-
-329
-00:14:45,593 --> 00:14:49,179
-♪ So we try to climb and we try to crawl ♪
-
-330
-00:14:49,263 --> 00:14:52,016
-♪ But there's nowhere left to go ♪
-
-331
-00:14:52,766 --> 00:14:55,269
-♪ So maybe we're at the top ♪
-
-332
-00:14:56,395 --> 00:14:59,231
-♪ And that feeling before
-When we thought there was more ♪
-
-333
-00:14:59,315 --> 00:15:02,484
-♪ Was something else
-Like hunger or thirst ♪
-
-334
-00:15:02,776 --> 00:15:06,572
-♪ Which makes sense
-Because we use a lot... ♪
-
-335
-00:15:06,655 --> 00:15:09,450
-♪ Of energy ♪ [echoes]
-
-336
-00:15:10,075 --> 00:15:17,082
-♪ To get to the top ♪
-
-337
-00:15:18,542 --> 00:15:21,253
-Why do I feel like we're
-completely ignoring my solar system?
-
-338
-00:15:22,171 --> 00:15:24,506
-Not gonna lie.
-Completely forgot about that.
-
-339
-00:15:24,590 --> 00:15:25,966
-All hands on deck!
-
-340
-00:15:26,383 --> 00:15:29,553
--The universe is cool!
--The universe is big!
-
-341
-00:15:29,637 --> 00:15:32,556
-The universe makes me question
-my own existence.
-
-342
-00:15:32,932 --> 00:15:35,893
-And I have an answer!
-My existence is fun!
-
-343
-00:15:35,976 --> 00:15:37,978
-♪ Doopy, dooty, doopity-doo ♪
-
-344
-00:15:38,062 --> 00:15:40,105
-♪ Dooty, dooty, doopity-dah ♪
-
-345
-00:15:40,189 --> 00:15:41,398
-Project's ready.
-
-346
-00:15:41,482 --> 00:15:43,067
-So's this project.
-
-347
-00:15:45,986 --> 00:15:47,363
-[babies cheering]
-
-348
-00:15:47,821 --> 00:15:50,449
-Scooter Buskie does not speak
-for this town!
-
-349
-00:15:50,532 --> 00:15:52,701
-I do! And I love Brazil.
-
-350
-00:15:52,785 --> 00:15:57,039
-And I love the large number of voters
-in this town with Brazilian heritage.
-
-351
-00:15:57,122 --> 00:16:00,501
--Now, who wants homemade coxinhas?
--[babbling]
-
-352
-00:16:00,584 --> 00:16:02,127
-[giggling]
-
-353
-00:16:02,211 --> 00:16:03,212
--Aah!
--Oh!
-
-354
-00:16:03,504 --> 00:16:04,588
-Bubbeezee called.
-
-355
-00:16:04,838 --> 00:16:06,507
-They want a reshoot.
-
-356
-00:16:07,091 --> 00:16:07,925
-Yes!
-
-357
-00:16:08,884 --> 00:16:11,720
-Oh, Mr. Le Duque, I'm mortified!
-
-358
-00:16:12,012 --> 00:16:16,392
-He must have learned that smile
-from inappropriate television shows.
-
-359
-00:16:16,475 --> 00:16:19,853
-Apologies are like pygmy marmosets.
-
-360
-00:16:22,648 --> 00:16:25,943
-Are-- Are you just not going
-to explain what that--
-
-361
-00:16:26,026 --> 00:16:28,278
-Please enjoy snacks, go away,
-I'm making corporate art.
-
-362
-00:16:28,445 --> 00:16:29,905
--What?
--Is it all you can eat?
-
-363
-00:16:29,989 --> 00:16:31,240
--O-Okay, yeah.
--Oh!
-
-364
-00:16:35,619 --> 00:16:37,913
-Your face is a beautiful weapon.
-
-365
-00:16:38,205 --> 00:16:40,207
-I was wrong to ever unsheathe it.
-
-366
-00:16:40,290 --> 00:16:43,836
-Get out of my spotlight,
-exquisite monster.
-
-367
-00:16:44,169 --> 00:16:45,045
-What's that?
-
-368
-00:16:45,129 --> 00:16:47,589
-Time for an upper management
-paradigm shift?
-
-369
-00:16:47,673 --> 00:16:49,174
-Don't mind if I do.
-
-370
-00:16:50,968 --> 00:16:51,802
-[Boss yelps]
-
-371
-00:16:52,136 --> 00:16:53,220
-Huh? Oh!
-
-372
-00:16:53,303 --> 00:16:54,638
-Again?
-
-373
-00:16:55,055 --> 00:16:58,100
-Uh, should I be updating
-this org chart in real time
-
-374
-00:16:58,183 --> 00:16:59,601
-now that Shover's leading?
-
-375
-00:16:59,810 --> 00:17:01,437
-Shover is not leading the--
-
-376
-00:17:01,520 --> 00:17:02,396
--Oh!
--[thuds]
-
-377
-00:17:02,479 --> 00:17:05,524
-[Travis] Yes, talk to the camera,
-silently, with words.
-
-378
-00:17:05,607 --> 00:17:08,444
-[babies giggling, babbling]
-
-379
-00:17:09,611 --> 00:17:11,405
-Yes! Nature versus nurture!
-
-380
-00:17:11,572 --> 00:17:13,532
-Dance like nobody is dancing!
-
-381
-00:17:14,616 --> 00:17:15,492
--Ugh!
--Ugh!
-
-382
-00:17:15,701 --> 00:17:17,828
-[babies babbling]
-
-383
-00:17:18,120 --> 00:17:21,081
-Hey, remind me if I ever want
-to have a baby, to not.
-
-384
-00:17:21,165 --> 00:17:23,917
-Let's go shopping
-for wicker furniture instead.
-
-385
-00:17:24,501 --> 00:17:26,920
--[chiming]
--[screaming]
-
-386
-00:17:27,004 --> 00:17:28,422
-Oh, I'm sorry!
-
-387
-00:17:28,505 --> 00:17:32,885
-I'm busting my butt, but I have no idea
-if I'm busting it the right way!
-
-388
-00:17:32,968 --> 00:17:34,678
-What is happening down there, BB?
-
-389
-00:17:34,762 --> 00:17:37,765
-How is Scooter Buskie
-still running that playgroup?
-
-390
-00:17:37,848 --> 00:17:39,641
--[giggles, grunts]
--Aah! Ow!
-
-391
-00:17:39,725 --> 00:17:42,352
-He isn't! But his replacement
-is no improvement.
-
-392
-00:17:43,437 --> 00:17:45,606
--[gasps] Oh, my goodness!
--Whoa!
-
-393
-00:17:46,106 --> 00:17:47,191
-My baby!
-
-394
-00:17:47,274 --> 00:17:48,901
-Back off and keep snacking.
-
-395
-00:17:48,984 --> 00:17:53,322
-Time is art, and art is money, and money
-is how I afford my custody lawyer.
-
-396
-00:17:53,405 --> 00:17:56,283
-Maxine is not getting those cheetahs.
-
-397
-00:17:56,575 --> 00:17:58,243
-You gotta hurry, man!
-
-398
-00:17:58,327 --> 00:18:00,204
-Things are getting bad around here.
-
-399
-00:18:00,287 --> 00:18:02,915
-Sir, it's not the computer that's broken.
-
-400
-00:18:02,998 --> 00:18:04,333
--Drop the screwdriver!
--[screams]
-
-401
-00:18:04,416 --> 00:18:06,919
-Jimbo, fire extinguisher!
-
-402
-00:18:07,252 --> 00:18:09,797
--I love it! I'm over it.
--[babies grunting]
-
-403
-00:18:09,880 --> 00:18:11,298
-Here we go.
-
-404
-00:18:11,924 --> 00:18:12,758
-Oy vey.
-
-405
-00:18:13,050 --> 00:18:15,010
-Snacks. Snack-snacks.
-Snack-snack-snacks.
-
-406
-00:18:15,219 --> 00:18:16,595
--Well, then...
--Okay, well...
-
-407
-00:18:16,678 --> 00:18:19,598
--...guess I'll go back to the snack table.
--...I could go for a muffin.
-
-408
-00:18:20,432 --> 00:18:21,266
-[Dakota] Mine!
-
-409
-00:18:22,434 --> 00:18:24,812
-Was I swapping out lenses? Weird!
-
-410
-00:18:24,895 --> 00:18:27,397
-Art is such a beguiling mystery.
-
-411
-00:18:28,524 --> 00:18:29,900
-Hee! [squeals]
-
-412
-00:18:34,404 --> 00:18:36,073
-[babies laughing]
-
-413
-00:18:36,865 --> 00:18:38,659
--Oh, no. Aah!
--[Dakota] Mine!
-
-414
-00:18:41,870 --> 00:18:42,955
-[coos]
-
-415
-00:18:44,623 --> 00:18:47,000
-[coos, laughs]
-
-416
-00:18:47,084 --> 00:18:48,377
-No, no, no, no, no!
-
-417
-00:18:48,460 --> 00:18:50,587
-Grand larceny is terrible for baby love!
-
-418
-00:18:50,671 --> 00:18:52,923
-Dakota is not in charge, I am.
-
-419
-00:18:53,423 --> 00:18:54,258
-Go time!
-
-420
-00:18:55,300 --> 00:18:56,844
--[squeals]
--[Travis] Stop time!
-
-421
-00:18:57,177 --> 00:18:58,303
-I love you, you're over.
-
-422
-00:18:59,513 --> 00:19:01,306
-You are a present. Unwrap yourself.
-
-423
-00:19:01,390 --> 00:19:02,933
--Don't lose your receipt!
--Wait.
-
-424
-00:19:03,183 --> 00:19:05,811
-You are it, and by "it," I mean bad at it.
-
-425
-00:19:06,019 --> 00:19:07,479
-Too much! Too little!
-
-426
-00:19:07,980 --> 00:19:09,982
-Pass a geometry test using only your eyes.
-
-427
-00:19:10,065 --> 00:19:12,734
-Think of the capital of New Mexico
-and move it to another state!
-
-428
-00:19:12,818 --> 00:19:14,736
-I'm hungry, you're thirsty, live!
-
-429
-00:19:16,697 --> 00:19:19,032
--Find your truth and lie to it.
--[muttering]
-
-430
-00:19:19,616 --> 00:19:20,534
-Ah!
-
-431
-00:19:20,617 --> 00:19:23,370
-Imagine a pool, make it smaller,
-take out the water.
-
-432
-00:19:23,453 --> 00:19:25,038
--You have a bowl!
--[sighs] Oh!
-
-433
-00:19:25,414 --> 00:19:27,374
-[Travis] Babies, take five.
-
-434
-00:19:27,457 --> 00:19:29,710
--Emotionally, take ten.
--[snoring]
-
-435
-00:19:31,712 --> 00:19:32,838
-[Mega Fat murmuring]
-
-436
-00:19:35,340 --> 00:19:39,136
-Look at us, desperately trying to impress
-this coupon peddler.
-
-437
-00:19:39,469 --> 00:19:41,513
-For what?
-A chance to feel important?
-
-438
-00:19:41,597 --> 00:19:44,141
--To feel in charge? Well, guess what.
--[camera shutter clicks]
-
-439
-00:19:44,474 --> 00:19:47,227
-It doesn't matter
-how many doe-eyed poses you strike...
-
-440
-00:19:47,436 --> 00:19:49,730
-or how many Bubbeezee products
-you cuddle with...
-
-441
-00:19:50,063 --> 00:19:51,982
-or how many cover pages you get.
-
-442
-00:19:52,232 --> 00:19:55,027
-In the end, we're nothing more than props,
-
-443
-00:19:55,402 --> 00:19:58,280
-shiny shills
-for the real person in charge,
-
-444
-00:19:58,363 --> 00:19:59,948
-the one who's always been on top.
-
-445
-00:20:00,032 --> 00:20:01,325
-[snores] Snacks!
-
-446
-00:20:03,202 --> 00:20:05,204
-Travis Le Duque.
-
-447
-00:20:06,079 --> 00:20:07,039
+00:02:22,892 --> 00:02:24,018
 Uh...
 
-448
-00:20:07,122 --> 00:20:10,876
-Wait, are we taking down Trav?
-Cool Trav, for realsies?
+48
+00:02:24,102 --> 00:02:26,312
+Mm, it's all right. Babies wander.
 
-449
-00:20:11,084 --> 00:20:14,713
-As long we let Travis call the shots,
-we'll never be in charge.
+49
+00:02:26,396 --> 00:02:29,524
+Anytime I turn my back,
+this little piggy tries to go to market,
 
-450
-00:20:14,796 --> 00:20:17,466
-And worse, we'll never be a team.
+50
+00:02:29,607 --> 00:02:31,526
+if you know what I mean. [laughs]
 
-451
-00:20:17,549 --> 00:20:18,675
-[grunts]
+51
+00:02:31,609 --> 00:02:32,819
+But no more.
 
-452
-00:20:18,759 --> 00:20:20,636
--Buskie?
--[Scooter shrieks]
+52
+00:02:33,111 --> 00:02:34,821
+The pièce de résistance.
 
-453
-00:20:20,719 --> 00:20:23,222
-We don't need a leader.
-We need to stick together.
+53
+00:02:35,029 --> 00:02:38,616
+With these Invisiblocker bracelets,
+you can rest assured
 
-454
-00:20:23,972 --> 00:20:27,893
-So, who feels like impressing me
-by disappointing me
+54
+00:02:38,700 --> 00:02:42,078
+that baby will always stay
+where baby belongs.
 
-455
-00:20:27,976 --> 00:20:29,603
-with how impressive they are?
+55
+00:02:42,162 --> 00:02:43,079
+Just watch!
 
-456
-00:20:33,232 --> 00:20:34,608
-Very cute...
+56
+00:02:43,163 --> 00:02:44,164
+[squealing]
 
-457
-00:20:35,025 --> 00:20:37,945
-but this is a catalog shoot,
-not a prom photo.
+57
+00:02:44,247 --> 00:02:47,083
+-[Marsha] Baby want a cookie?
+-[cooing]
 
-458
-00:20:38,403 --> 00:20:40,239
-[Travis grunting]
+58
+00:02:48,710 --> 00:02:50,420
+-[alarm blaring]
+-[laughing]
 
-459
-00:20:41,073 --> 00:20:43,325
+59
+00:02:50,503 --> 00:02:52,255
+Oh, gets me every time.
+
+60
+00:02:52,338 --> 00:02:54,132
+I love falling for that. [grunts]
+
+61
+00:02:54,299 --> 00:02:56,885
+[Marsha shouting] Just punch in
+the code to release!
+
+62
+00:02:56,968 --> 00:02:59,012
+-[alarm stops]
+-Then grab your baby...
+
+63
+00:02:59,846 --> 00:03:02,932
+put them back in the room,
+waggle your finger...
+
+64
+00:03:04,058 --> 00:03:07,478
+and feel good knowing
+your babies are safer than they'd be
+
+65
+00:03:07,562 --> 00:03:09,314
+in your droppy arms.
+
+66
+00:03:09,606 --> 00:03:12,025
+Now, cuff up those wrists! [laughs]
+
+67
+00:03:12,525 --> 00:03:13,776
+Just kidding. They love it!
+
+68
+00:03:13,860 --> 00:03:15,945
+-It's like fun jewelry for them.
+-[growling]
+
+69
+00:03:17,238 --> 00:03:21,618
+I know it's kind of silly,
+but if it stops another broken arm...
+
+70
+00:03:21,701 --> 00:03:23,494
+-[bracelet chirps]
+-[Ted] Cool.
+
+71
+00:03:23,745 --> 00:03:27,206
+You look like a sweet space businessman
+from the future.
+
+72
+00:03:28,249 --> 00:03:29,250
+Follow me.
+
+73
+00:03:29,334 --> 00:03:32,712
+I have the scoop
+on all the latest Bubbeezee products.
+
+74
+00:03:32,795 --> 00:03:33,838
+[keypad beeping]
+
+75
+00:03:35,465 --> 00:03:38,927
+Boss Baby, come meet
+Clangclang the Rhythm Bear-or-Monkey.
+
+76
+00:03:39,010 --> 00:03:41,804
+No one knows what he is,
+but he's super-fun, most def!
+
+77
+00:03:41,888 --> 00:03:44,641
+-When in baby Rome...
+-[monitor chiming]
+
+78
+00:03:45,016 --> 00:03:45,934
+Make it quick, Stace.
+
+79
+00:03:46,017 --> 00:03:48,311
+You're gonna wanna hear this now, Boss!
+
+80
+00:03:48,394 --> 00:03:52,482
+You know how bad Hermano Menor
+CEO Baby's been struggling?
+
+81
+00:03:52,565 --> 00:03:53,816
+[Hermano] What is that?
+
+82
+00:03:53,900 --> 00:03:56,236
+Someone doesn't like a baby?
+
+83
+00:03:56,736 --> 00:03:57,779
+What are our options?
+
+84
+00:03:57,862 --> 00:03:59,364
+Do we have options?
+
+85
+00:03:59,572 --> 00:04:02,784
+Staci! Tell me Boss Baby
+is coming in for that interview!
+
+86
+00:04:02,909 --> 00:04:04,702
+[gasps] Cream of rice!
+
+87
+00:04:04,869 --> 00:04:07,747
+Dang it! I wanted
+to break the news myself.
+
+88
+00:04:07,830 --> 00:04:10,208
+But, yeah, that Dr. Kevin mission
+you pulled off
+
+89
+00:04:10,291 --> 00:04:12,293
+really wowed the CEO and the board.
+
+90
+00:04:12,543 --> 00:04:14,545
+And now they want you back at Baby Corp!
+
+91
+00:04:14,629 --> 00:04:17,840
+[inhales] I mean,
+if you're still interested.
+
+92
+00:04:17,924 --> 00:04:20,927
+Um, let me think. Yes, of course!
+Give me! I wanna be productive!
+
+93
+00:04:21,010 --> 00:04:24,722
+CEO still has to give you
+an official job interview,
+
+94
+00:04:24,806 --> 00:04:26,432
+but that's just a formality.
+
+95
+00:04:26,516 --> 00:04:27,976
+Appointment's in 20 minutes.
+
+96
+00:04:28,059 --> 00:04:29,602
+Where can we chupie in and get you?
+
+97
+00:04:29,686 --> 00:04:31,396
+Krinkle's house, upstairs playroom.
+
+98
+00:04:31,479 --> 00:04:32,522
+[Staci] Copy that!
+
+99
+00:04:33,523 --> 00:04:34,732
+Fellow playgroupers--
+
+100
+00:04:34,816 --> 00:04:36,567
+-[rhythmic clapping]
+-[cymbals clanging]
+
+101
+00:04:39,320 --> 00:04:40,321
+-[Mega Fat] Oh!
+-Good.
+
+102
+00:04:40,405 --> 00:04:41,447
+[penguins chirping]
+
+103
+00:04:41,531 --> 00:04:42,782
+I have an announcement.
+
+104
+00:04:42,865 --> 00:04:44,117
+A thank-you, really.
+
+105
+00:04:44,742 --> 00:04:45,785
+I got the call.
+
+106
+00:04:46,286 --> 00:04:48,204
+I'm going back to Baby Corp!
+
+107
+00:04:48,705 --> 00:04:49,914
+[babbles]
+
+108
+00:04:50,039 --> 00:04:51,040
+No need to miss me.
+
+109
+00:04:51,124 --> 00:04:54,043
+I'm not out of the playgroup,
+I'll merely be employed.
+
+110
+00:04:54,127 --> 00:04:57,505
+Whoo! Just saying that turns my blood
+into electric gold!
+
+111
+00:04:57,588 --> 00:05:00,550
+So, you're super-excited
+to go back to the place
+
+112
+00:05:00,633 --> 00:05:03,469
+that was foolish enough
+to fire you in the first place?
+
+113
+00:05:03,553 --> 00:05:05,805
+And you're sure
+that's where your spiritual
+
+114
+00:05:05,888 --> 00:05:08,224
+and emotional life's journey
+is taking you?
+
+115
+00:05:08,308 --> 00:05:09,767
+Yes, of course I'm sure.
+
+116
+00:05:09,851 --> 00:05:11,644
+-I--
+-[monitor chiming]
+
+117
+00:05:12,186 --> 00:05:14,022
+Guys? I thought you were on your way.
+
+118
+00:05:14,397 --> 00:05:15,606
+[Jimbo] Small hiccup.
+
+119
+00:05:15,690 --> 00:05:17,692
+Our chupies won't let us chupie
+to where you are.
+
+120
+00:05:17,775 --> 00:05:19,694
+We've got interference.
+
+121
+00:05:19,777 --> 00:05:22,739
+You guys running
+any electromagnetic gizmos over there?
+
+122
+00:05:22,822 --> 00:05:25,158
+-[penguins chirping]
+-Oh, yeah, big-time.
+
+123
+00:05:25,241 --> 00:05:29,120
+Well, we got spit out downtown,
+and your interview's in 18 minutes.
+
+124
+00:05:29,203 --> 00:05:30,580
+I'll be there in five.
+
+125
+00:05:30,955 --> 00:05:32,457
+Sayonara, loyal friends!
+
+126
+00:05:32,540 --> 00:05:34,167
+See you at the closing bell--
+
+127
+00:05:34,250 --> 00:05:35,793
+-[grunts]
+-[alarm blaring]
+
+128
+00:05:35,877 --> 00:05:38,379
+-[penguins screeching]
+-Hang on, buddy! Daddy's here!
+
+129
+00:05:38,755 --> 00:05:41,174
+Type the deactivation code
+into the keypad.
+
+130
+00:05:41,257 --> 00:05:43,885
+-It's so easy!
+-[beeping]
+
+131
+00:05:43,968 --> 00:05:45,678
+-[keypad buzzes]
+-Shoot! I messed up!
+
+132
+00:05:45,762 --> 00:05:49,640
+To start over, hit two-five seven times,
+followed by the star key.
+
+133
+00:05:49,724 --> 00:05:52,018
+-What? Uh...
+-[stammers] Here, I'll do it.
+
+134
+00:05:52,310 --> 00:05:53,269
+[beeping]
+
+135
+00:05:53,811 --> 00:05:57,231
+-[Ted shouts]
+-Like I said, it's so easy with Bubbeezee!
+
+136
+00:05:57,565 --> 00:05:58,733
+For most people.
+
+137
+00:06:00,151 --> 00:06:04,739
+Okay, now you chill out right here
+where it's safe, little dude.
+
+138
+00:06:05,531 --> 00:06:06,741
+[keypad beeps, chimes]
+
+139
+00:06:07,075 --> 00:06:08,743
+[Mega Fat babbles]
+
+140
+00:06:08,826 --> 00:06:11,162
+The magnetic fence, the penguins...
+
+141
+00:06:11,454 --> 00:06:13,414
+the cyclops that spies on your poos,
+
+142
+00:06:13,498 --> 00:06:16,459
+which, when I say it out loud,
+sounds incredibly invasive.
+
+143
+00:06:16,584 --> 00:06:18,127
+This is no playroom.
+
+144
+00:06:18,836 --> 00:06:21,297
+This is a maximum security baby prison!
+
+145
+00:06:21,839 --> 00:06:25,468
+Or... are you just projecting, Boss Baby?
+
+146
+00:06:25,676 --> 00:06:28,596
+Perhaps the real prison
+is the one built around your heart
+
+147
+00:06:28,679 --> 00:06:30,139
+when Baby Corp fired you.
+
+148
+00:06:30,306 --> 00:06:32,225
+And happy good playtime is your key!
+
+149
+00:06:32,308 --> 00:06:34,811
+-What kind of prison is this fun?
+-[Taffeta giggling]
+
+150
+00:06:35,019 --> 00:06:37,605
+One where they don't want you
+to realize you're in prison.
+
+151
+00:06:37,688 --> 00:06:39,649
+Huh, well played, Bubbeezee.
+
+152
+00:06:39,899 --> 00:06:42,568
+Buskie, gonna need you
+to chew off my wristband.
+
+153
+00:06:42,652 --> 00:06:44,362
+[shouts, babbles]
+
+154
+00:06:44,445 --> 00:06:45,738
+[penguins chirping]
+
+155
+00:06:47,198 --> 00:06:48,074
+[Buskie grunts]
+
+156
+00:06:48,157 --> 00:06:49,408
+Security's too tight.
+
+157
+00:06:51,953 --> 00:06:52,870
+We can use that.
+
+158
+00:06:52,954 --> 00:06:55,039
+Mega Fat, how good's that poop detector?
+
+159
+00:06:55,331 --> 00:06:59,001
+My uh-oh-covered heinie
+has never been attended to so quickly.
+
+160
+00:06:59,168 --> 00:07:01,796
+Perfect. Shover, make it sloppy.
+
+161
+00:07:05,550 --> 00:07:06,425
+[squeals]
+
+162
+00:07:06,509 --> 00:07:08,719
+-What do you mean you can't go?
+-[crying]
+
+163
+00:07:08,803 --> 00:07:11,222
+That's good you're scared of the cyclops.
+
+164
+00:07:11,305 --> 00:07:14,308
+Use that! Let the fear
+push everything out of you.
+
+165
+00:07:14,600 --> 00:07:16,727
+-Give me a 20-wipe mess!
+-[whimpers]
+
+166
+00:07:18,229 --> 00:07:20,857
+-[whimpers, screams]
+-[wet farting]
+
+167
+00:07:20,940 --> 00:07:22,316
+-Yes!
+-[farting continues]
+
+168
+00:07:22,400 --> 00:07:23,776
+-[alarm blaring]
+-[Marsha] Whuh-oh!
+
+169
+00:07:23,860 --> 00:07:27,738
+Cyclops' alarm says Hae-Sook's baby
+dropped a clanger!
+
+170
+00:07:28,781 --> 00:07:32,660
+[Hae-Sook] I heard a rumor
+my big boy baked an order of tushy tots!
+
+171
+00:07:33,870 --> 00:07:34,871
+[gasps]
+
+172
+00:07:35,830 --> 00:07:37,915
+Baby gate? [scoffs] Child's play.
+
+173
+00:07:38,124 --> 00:07:40,251
+[grunts] Ha! [grunting] Oh!
+
+174
+00:07:41,169 --> 00:07:43,421
 [grunting]
 
-460
-00:20:43,575 --> 00:20:45,661
-This is not my vision!
+175
+00:07:44,505 --> 00:07:46,215
+What the goo-gah? [grunts]
 
-461
-00:20:46,203 --> 00:20:47,246
-[Travis grunting]
+176
+00:07:46,591 --> 00:07:49,260
+-It's like baby flypaper!
+-[monitor chiming]
 
-462
-00:20:47,579 --> 00:20:50,040
--[grunting continues]
--[babbles, shrieks]
+177
+00:07:49,552 --> 00:07:50,845
+Yo, Boss, where are you?
 
-463
-00:20:50,499 --> 00:20:53,252
--Aah!
--[Scooter babbles, giggles]
+178
+00:07:50,928 --> 00:07:52,263
+You said five minutes!
 
-464
-00:20:53,335 --> 00:20:55,420
-Are we in this together or what?
+179
+00:07:52,346 --> 00:07:53,514
+I'm stuck.
 
-465
-00:20:55,879 --> 00:20:59,341
+180
+00:07:53,848 --> 00:07:57,101
+This Bubbeezee baby-proofing
+is the toughest I've ever seen.
+
+181
+00:07:57,393 --> 00:07:59,061
+Windows-- all code locked.
+
+182
+00:07:59,145 --> 00:08:02,482
+Front door-- a brutal-looking
+spinny knob cover.
+
+183
+00:08:02,899 --> 00:08:04,192
+No baby could beat this.
+
+184
+00:08:04,775 --> 00:08:07,361
+Wait! Mail slot's in doorknob range.
+
+185
+00:08:07,778 --> 00:08:09,530
+If you had a long enough arm...
+
+186
+00:08:10,281 --> 00:08:11,824
+Get Templeton out of school!
+
+187
+00:08:12,033 --> 00:08:15,328
+Bubbeezee never banked
+on babies working with big kids.
+
+188
+00:08:15,620 --> 00:08:18,039
+-[line rings]
+-[man] Kulkelka Canyon School.
+
+189
+00:08:18,122 --> 00:08:19,457
+Go, Kazooers!
+
+190
+00:08:19,540 --> 00:08:22,502
+[in deep voice] Yes, hello.
+This is Janice Templeton.
+
+191
+00:08:22,585 --> 00:08:25,963
+I'm afraid Timmy's Uncle Max
+got mangled by a bobcat
+
+192
+00:08:26,047 --> 00:08:28,508
+and I need him to meet me ASAP.
+
+193
+00:08:28,591 --> 00:08:31,302
+Also this is his dad,
+and he's gotta see the butt doctor!
+
+194
+00:08:31,969 --> 00:08:32,845
+Oh! Oof!
+
+195
+00:08:33,221 --> 00:08:36,140
+[gasps, straining] Hmm?
+
+196
+00:08:38,309 --> 00:08:40,436
+[keypad beeping]
+
+197
+00:08:40,520 --> 00:08:41,854
+-[chimes, alarm blaring]
+-Huh?
+
+198
+00:08:42,271 --> 00:08:43,189
+Oh! [strains]
+
+199
+00:08:43,981 --> 00:08:46,567
+Knock it off, snitches!
+What did I do wrong?
+
+200
+00:08:46,817 --> 00:08:48,528
+Aah! Oh!
+
+201
+00:08:49,153 --> 00:08:50,947
+-Jinjja?
+-[keypad beeping]
+
+202
+00:08:51,030 --> 00:08:52,740
+-[Boss yelps]
+-[Ted] That's my boy's alarm!
+
+203
+00:08:52,823 --> 00:08:54,242
+Anything wrong, Hae-Sook?
+
+204
+00:08:54,617 --> 00:08:55,910
+False alarm!
+
+205
+00:08:56,786 --> 00:08:59,872
+Sorry, kid. Let it make you tough,
+like an animal.
+
+206
+00:09:00,248 --> 00:09:01,207
+Bones, Aegi.
+
+207
+00:09:02,959 --> 00:09:04,085
+[keypad beeps, chimes]
+
+208
+00:09:05,086 --> 00:09:08,714
+I got a job interview that evaporates
+in under 15 minutes.
+
+209
+00:09:10,007 --> 00:09:14,178
+You've come through big for me before,
+but this baby versus Bubbeezee breakout
+
+210
+00:09:14,262 --> 00:09:16,264
+may be this playgroup's
+toughest test yet.
+
+211
+00:09:16,347 --> 00:09:18,432
+Oh, I love tests! Here's one.
+
+212
+00:09:18,724 --> 00:09:20,893
+Boss Baby takes Baby Corp off his plate.
+
+213
+00:09:20,977 --> 00:09:23,271
+Now he has an empty plate.
+
+214
+00:09:23,354 --> 00:09:25,439
+Question: what do you call that?
+
+215
+00:09:25,773 --> 00:09:27,441
+-Off-topic.
+-[imitates buzzer]
+
+216
+00:09:27,525 --> 00:09:29,652
+The answer is freedom!
+
+217
+00:09:29,735 --> 00:09:30,903
+So, you're not helping me?
+
+218
+00:09:31,153 --> 00:09:35,366
+I am helping you... by not helping you.
+
+219
+00:09:35,449 --> 00:09:39,120
+-[scatting]
+-[babies babble]
+
+220
+00:09:39,203 --> 00:09:40,538
+No, ignore Mega Fat!
+
+221
+00:09:40,621 --> 00:09:42,164
+I'm leaving this house.
+
+222
+00:09:42,248 --> 00:09:44,709
+If you're wondering why you should
+stick your neck out for me,
+
+223
+00:09:44,792 --> 00:09:48,921
+just remember, what's good for Baby Corp
+is good for all babies.
+
+224
+00:09:49,005 --> 00:09:50,923
+And I'm good for Baby Corp.
+
+225
+00:09:51,215 --> 00:09:52,174
+Now, who's got my back?
+
+226
+00:09:53,509 --> 00:09:54,343
+[shouts]
+
+227
+00:09:54,427 --> 00:09:56,596
+Jarreau, love the initiative,
+still need a plan.
+
+228
+00:09:56,679 --> 00:09:58,556
+-[alarm blaring]
+-[gasps] No, no, no, no!
+
+229
+00:09:58,639 --> 00:10:00,725
+You're just going to get
+the parents up here.
+
+230
+00:10:00,808 --> 00:10:02,226
+[penguins chirping]
+
+231
+00:10:02,310 --> 00:10:03,144
 [screaming]
 
-466
-00:21:00,384 --> 00:21:03,178
--Well, I guess that's art.
--He sort of had it coming.
+232
+00:10:03,561 --> 00:10:04,395
+[Kel] Jarreau!
 
-467
-00:21:03,553 --> 00:21:05,597
--Ah, no-- [grunting]
--[camera shutter clicks]
+233
+00:10:05,062 --> 00:10:07,773
+-[Jarreau crying]
+-Shut this noise down!
 
-468
-00:21:08,433 --> 00:21:10,894
-[Mrs. Buskie] Tim, this is amazing!
+234
+00:10:07,982 --> 00:10:12,111
+We've got to protect his hearing.
+He has a future in the percussive arts!
 
-469
-00:21:11,144 --> 00:21:14,398
-Finally, a solar system I can believe in!
+235
+00:10:12,403 --> 00:10:15,197
+Deactivating is so easy with Bubbe--
 
-470
-00:21:14,481 --> 00:21:17,109
-And you did this all by yourself?
+236
+00:10:15,281 --> 00:10:17,992
+-Just shut it off!
+-Okay, jeez.
 
-471
-00:21:17,401 --> 00:21:20,904
--No "comet."
--[parents laugh]
+237
+00:10:18,200 --> 00:10:19,702
+-[alarm stops]
+-Are you okay?
 
-472
-00:21:21,947 --> 00:21:23,407
-Oh, who cares about the catalog?
+238
+00:10:19,785 --> 00:10:21,078
+Do your ears work?
 
-473
-00:21:23,573 --> 00:21:25,575
-We'll find some other way
-to boost baby love.
+239
+00:10:21,579 --> 00:10:23,706
+Drumroll my face if you can hear me.
 
-474
-00:21:25,867 --> 00:21:28,161
-The important thing is we're a team again.
+240
+00:10:24,290 --> 00:10:25,124
+[sighs] Oh!
 
-475
-00:21:28,328 --> 00:21:30,122
-Go, enjoy the day.
+241
+00:10:25,207 --> 00:10:28,002
+Lock up when you're done
+comforting your little runaway.
 
-476
-00:21:30,372 --> 00:21:32,499
-Take all the naps
-and fill all the diapers.
+242
+00:10:28,461 --> 00:10:30,254
+Seal the deal, Showbiz.
 
-477
-00:21:32,582 --> 00:21:34,376
-Tomorrow, we get back to work.
+243
+00:10:38,512 --> 00:10:40,598
+You don't want this back on, do you?
 
-478
-00:21:34,459 --> 00:21:36,044
+244
+00:10:41,057 --> 00:10:42,058
+I hear you.
+
+245
+00:10:42,725 --> 00:10:43,684
+Uh...
+
+246
+00:10:43,893 --> 00:10:45,394
+no one has to know, right?
+
+247
+00:10:45,811 --> 00:10:48,814
+That sticky baby gate
+should hold you guys plenty fine.
+
+248
+00:10:49,774 --> 00:10:50,650
+Bones.
+
+249
+00:10:50,733 --> 00:10:51,817
+One obstacle down.
+
+250
+00:10:52,193 --> 00:10:53,277
+Let's get to work.
+
+251
+00:10:54,236 --> 00:10:55,821
+Mom! Where are you?
+
+252
+00:10:56,155 --> 00:10:59,033
+Please tell me Uncle Max is okay
+before we go to the butt doctor!
+
+253
+00:10:59,116 --> 00:11:00,785
+-[zaps]
+-[Staci] Psst!
+
+254
+00:11:02,286 --> 00:11:04,497
+What are you guys doing here?
+Have you seen my mom?
+
+255
+00:11:04,664 --> 00:11:06,290
+There is no "your mom."
+
+256
+00:11:06,374 --> 00:11:08,209
+I called to get you out of school.
+
+257
+00:11:08,292 --> 00:11:10,920
+You had me worried about
+my second favorite uncle for nothing?
+
+258
+00:11:11,170 --> 00:11:12,004
+Yeah?
+
+259
+00:11:12,380 --> 00:11:13,547
+And on kabob day?
+
+260
+00:11:13,756 --> 00:11:17,176
+That means I miss the school-wide
+hamburger sword fight! [grunts]
+
+261
+00:11:17,259 --> 00:11:19,637
+Calm down, man!
+Your brother needs you.
+
+262
+00:11:19,720 --> 00:11:21,305
+Get this to him.
+He's stuck at Krinkle's.
+
+263
+00:11:21,389 --> 00:11:24,517
+And he needs to get to Baby Corp
+for a job-back interview.
+
+264
+00:11:24,683 --> 00:11:25,643
+Wait, really?
+
+265
+00:11:26,018 --> 00:11:28,813
+-That's awesome. What's the plan?
+-[vocalizes "I don't know"]
+
+266
+00:11:28,896 --> 00:11:32,191
+We gotta get back to make sure
+the CEO doesn't blow the office to bits
+
+267
+00:11:32,274 --> 00:11:34,235
+before your brother
+even gets his interview.
+
+268
+00:11:34,318 --> 00:11:36,529
+Have fun fixing everything. Bye!
+
+269
+00:11:36,612 --> 00:11:38,406
+But what if I get caught skipping?
+
+270
+00:11:38,823 --> 00:11:40,533
+-[monitor chiming]
+-Oh!
+
+271
+00:11:40,991 --> 00:11:42,535
+Hey, it's me. This better be quick.
+
+272
+00:11:42,618 --> 00:11:43,494
+It's kabob day.
+
+273
+00:11:43,911 --> 00:11:45,371
+You're a lifesaver, Templeton.
+
+274
+00:11:45,454 --> 00:11:48,749
+And don't worry, I'll have you back
+burger fencing in no time.
+
+275
+00:11:48,833 --> 00:11:50,626
+[groans] Time's running out!
+
+276
+00:11:50,709 --> 00:11:52,378
+You got those penguins corralled?
+
+277
+00:11:52,461 --> 00:11:55,256
+[penguins chirping]
+
+278
+00:11:55,965 --> 00:11:58,467
+And everybody's good not pooping
+for the next ten to 20 minutes?
+
+279
+00:11:58,551 --> 00:12:00,344
+-[babies whimper]
+-[Buskie farts]
+
+280
+00:12:00,428 --> 00:12:02,847
+[groans] Taffeta, block the sensor.
+
+281
+00:12:04,473 --> 00:12:05,349
+[Dakota shouts]
+
+282
+00:12:10,563 --> 00:12:13,065
+-Nice work.
+-[Mega Fat] Mm, is it?
+
+283
+00:12:13,482 --> 00:12:14,859
+Is work nice?
+
+284
+00:12:14,942 --> 00:12:16,360
+Not getting into this right now.
+
+285
+00:12:16,569 --> 00:12:18,821
+Your journey is your own, of course,
+
+286
+00:12:19,155 --> 00:12:21,449
+but if baby love
+is all about happy babies,
+
+287
+00:12:21,615 --> 00:12:24,660
+then may-perhaps
+I would invite you to ask yourself,
+
+288
+00:12:24,743 --> 00:12:27,288
+"Was I happier then or now?"
+
+289
+00:12:30,332 --> 00:12:31,333
+Joy-- Aah!
+
+290
+00:12:32,334 --> 00:12:33,377
+Your turn to shine.
+
+291
+00:12:33,461 --> 00:12:34,712
+Get us over that gate.
+
+292
+00:12:35,796 --> 00:12:37,089
+[squealing]
+
+293
+00:12:37,173 --> 00:12:38,382
+-[thuds]
+-[sighs]
+
+294
+00:12:40,134 --> 00:12:41,927
+Dakota, Buskie, let's move out.
+
+295
+00:12:43,679 --> 00:12:45,848
+-You sure this is okay?
+-[grunts]
+
+296
+00:12:45,931 --> 00:12:46,765
+Here goes.
+
+297
+00:12:47,391 --> 00:12:48,601
+Sorry! Sorry!
+
+298
+00:12:50,936 --> 00:12:52,146
+-[shouts]
+-[coos]
+
+299
+00:12:53,731 --> 00:12:55,483
+-I'm at the door. You here?
+-[Buskie giggles]
+
+300
+00:12:56,567 --> 00:12:57,902
+I'm trying to be like a ninja,
+
+301
+00:12:57,985 --> 00:13:00,863
+but turns out I'm a pretty slow ninja,
+so I'll need a minute.
+
+302
+00:13:01,739 --> 00:13:03,199
 [slurping]
 
+303
+00:13:03,282 --> 00:13:04,283
+Aah! [muffled shout]
+
+304
+00:13:04,366 --> 00:13:06,577
+-[burps]
+-Danny, what are you doing here?
+
+305
+00:13:06,660 --> 00:13:07,870
+Had a dentist appointment.
+
+306
+00:13:07,953 --> 00:13:10,247
+My dad let me stay out of school,
+so I parked myself
+
+307
+00:13:10,331 --> 00:13:13,250
+near the jaggedest sidewalk crack
+I could find to watch people trip.
+
+308
+00:13:14,001 --> 00:13:15,377
+[both shout]
+
+309
+00:13:15,920 --> 00:13:17,463
+[laughing]
+
+310
+00:13:17,546 --> 00:13:18,380
+[muffled laugh]
+
+311
+00:13:19,006 --> 00:13:20,716
+I have to bring my baby brother
+his chupie,
+
+312
+00:13:20,799 --> 00:13:22,927
+so I got out of school on a lie
+and I can't get caught
+
+313
+00:13:23,010 --> 00:13:25,137
+because today is kabob day,
+and I want to--
+
+314
+00:13:25,221 --> 00:13:27,473
+Why didn't you tell me it was kabob day?
+
+315
+00:13:27,848 --> 00:13:29,183
+-Whoa! [grunts]
+-[thuds]
+
+316
+00:13:29,475 --> 00:13:30,768
+[laughs]
+
+317
+00:13:30,851 --> 00:13:32,228
+I'm so ironic.
+
+318
+00:13:37,274 --> 00:13:38,859
+-I brought your chupie.
+-Excellent.
+
+319
+00:13:38,943 --> 00:13:41,695
+But I can't use it here.
+Too much Bubbeezee interference.
+
+320
+00:13:41,779 --> 00:13:42,947
+You need to bust me out.
+
+321
+00:13:43,030 --> 00:13:44,323
+You see that mail slot?
+
+322
+00:13:44,532 --> 00:13:45,407
+Slot spotted.
+
+323
+00:13:45,491 --> 00:13:47,535
+Slide your arm in and unlock the door.
+
+324
+00:13:47,618 --> 00:13:50,955
+-It's got a spinny knob protector, so--
+-The mail slot's locked!
+
+325
+00:13:51,038 --> 00:13:52,665
+-Bubbeezee!
+-[thuds]
+
+326
+00:13:52,748 --> 00:13:53,832
+[groans] Focus.
+
+327
+00:13:54,124 --> 00:13:55,209
+Still got a few minutes.
+
+328
+00:13:55,292 --> 00:13:56,710
+Maybe we can crack it on our end.
+
+329
+00:13:56,794 --> 00:13:59,380
+Reminder: it's kabob day
+and I'm starving.
+
+330
+00:13:59,463 --> 00:14:00,548
+[stomach growls]
+
+331
+00:14:00,923 --> 00:14:02,758
+Hang on. Let me try the back door.
+
+332
+00:14:04,885 --> 00:14:06,971
+[penguin chirping]
+
+333
+00:14:07,263 --> 00:14:09,390
+You've probably seen these
+around the neighborhood.
+
+334
+00:14:09,473 --> 00:14:13,143
+-I've sold Bubbeezee packages...
+-[Boss groans] Parents everywhere!
+
+335
+00:14:13,227 --> 00:14:15,020
+There's no way I could slip past all of...
+
+336
+00:14:15,396 --> 00:14:17,565
+"Bubbeezee A to Zeezee."
+
+337
+00:14:17,815 --> 00:14:20,901
+-We need that book.
+-[penguin screeching]
+
+338
+00:14:21,443 --> 00:14:23,112
+No! No, no, no, no! Shh!
+
+339
+00:14:23,195 --> 00:14:24,864
+-[Boss shouts]
+-[screams]
+
+340
+00:14:25,030 --> 00:14:26,907
+-[parents murmur]
+-How'd they get out?
+
+341
+00:14:29,410 --> 00:14:31,912
+They must have climbed
+right over this baby.
+
+342
+00:14:32,204 --> 00:14:37,251
+But only because someone forgot
+to turn the Invisiblocker back on.
+
+343
+00:14:37,585 --> 00:14:41,881
+[sucks in breath] Ooh, I heard climbing
+can give babies permanent vertigo.
+
+344
+00:14:43,299 --> 00:14:48,220
+Don't worry, everyone,
+Bubbeezee products, when used properly,
+
+345
+00:14:48,470 --> 00:14:51,891
+can keep babies safer
+than napping on a bed of marshmallows.
+
+346
+00:14:51,974 --> 00:14:53,100
+Look at my baby!
+
+347
+00:14:53,183 --> 00:14:55,436
+He's been exposed to 24-7 Bubbeezee,
+
+348
+00:14:55,519 --> 00:14:58,230
+and he's the only one
+who didn't wander off.
+
+349
+00:14:58,314 --> 00:15:01,984
+[chuckles] So, let me just turn
+everything back on.
+
+350
+00:15:02,067 --> 00:15:04,194
+Wait! I say we vote.
+
+351
+00:15:04,278 --> 00:15:07,114
+This whole system is a little over the top
+if you ask me.
+
+352
+00:15:07,573 --> 00:15:08,991
+I vote no. Who's with me?
+
+353
+00:15:10,075 --> 00:15:11,660
+One, two.
+
+354
+00:15:14,038 --> 00:15:15,789
+And I vote yes.
+
+355
+00:15:15,873 --> 00:15:16,957
+Who's with me?
+
+356
+00:15:18,125 --> 00:15:19,418
+One, two.
+
+357
+00:15:21,128 --> 00:15:22,254
+Make up your minds, you two.
+
+358
+00:15:22,796 --> 00:15:24,173
+I'll vote how Ted votes.
+
+359
+00:15:24,798 --> 00:15:27,217
+-I'm a political coward.
+-Um...
+
+360
+00:15:27,301 --> 00:15:28,177
+Come on!
+
+361
+00:15:31,847 --> 00:15:34,558
+I think we should turn it back on?
+
+362
+00:15:35,100 --> 00:15:38,812
+I just can't shake that feeling I had
+when my guy broke his wrist.
+
+363
+00:15:41,023 --> 00:15:42,942
+[beeping, chimes]
+
+364
+00:15:43,025 --> 00:15:46,403
+Time for the exciting conclusion
+of our presentation.
+
+365
+00:15:46,695 --> 00:15:47,905
+Then scones.
+
+366
+00:15:49,823 --> 00:15:51,742
+[Ted] Oh, boy, I can go
+for some scones.
+
+367
+00:15:52,117 --> 00:15:53,243
+D'aah!
+
+368
+00:15:53,452 --> 00:15:55,287
+I'm minutes from the interview of my life
+
+369
+00:15:55,371 --> 00:15:58,707
+and I'm being held captive
+by a multilevel marketing scheme!
+
+370
+00:16:00,918 --> 00:16:01,752
+Take it.
+
+371
+00:16:02,044 --> 00:16:05,881
+Clangclang will teach you rhythm skills
+and smiling and conformity.
+
+372
+00:16:06,340 --> 00:16:07,424
+-[Boss] Yah!
+-[gasps]
+
+373
+00:16:07,800 --> 00:16:08,759
+[Mega Fat gasps] Oh!
+
+374
+00:16:08,968 --> 00:16:11,470
+I need out!
+
+375
+00:16:11,762 --> 00:16:15,057
+How? How? How? How?
+How? How? How?
+
+376
+00:16:15,766 --> 00:16:17,393
+[gasps] You took it?
+
+377
+00:16:17,851 --> 00:16:20,396
+You took it! You conniving little thief!
+
+378
+00:16:20,479 --> 00:16:21,438
+Ha ha!
+
+379
+00:16:21,981 --> 00:16:23,983
+-Watch.
+-Mine.
+
+380
+00:16:26,318 --> 00:16:27,528
+Six minutes to go.
+
+381
+00:16:28,529 --> 00:16:30,406
+Now, how do I remove this?
+
+382
+00:16:31,407 --> 00:16:32,449
+-Aha!
+-[bracelet beeps]
+
+383
+00:16:32,992 --> 00:16:33,993
+[chirping]
+
+384
+00:16:34,284 --> 00:16:36,829
+"The queen is larger than the rest."
+
+385
+00:16:38,872 --> 00:16:40,499
+[chirping stops]
+
+386
+00:16:44,628 --> 00:16:45,754
+[beeps]
+
+387
+00:16:46,338 --> 00:16:47,339
+[powers down]
+
+388
+00:16:47,548 --> 00:16:50,884
+-You may poop at will!
+-[babies cheering]
+
+389
+00:16:51,969 --> 00:16:53,053
+"I am an adult.
+
+390
+00:16:53,137 --> 00:16:56,056
+-Acknowledge my voice and disengage."
+-[beeps]
+
+391
+00:16:56,640 --> 00:16:57,474
+[grunts]
+
+392
+00:17:00,102 --> 00:17:03,397
+It's so easy with Boss Bab-eezee.
+
+393
+00:17:04,148 --> 00:17:05,274
+Still there, Templeton?
+
+394
+00:17:05,357 --> 00:17:07,484
+-[Tim] How much longer?
+-Matter of seconds.
+
+395
+00:17:07,568 --> 00:17:10,696
+I have the manual, so I'll be able
+to unlock this mail slot in...
+
+396
+00:17:11,155 --> 00:17:11,989
+[gasps]
+
+397
+00:17:13,198 --> 00:17:14,825
+-[shouts]
+-[Tim] Unlock it when?
+
+398
+00:17:15,367 --> 00:17:17,494
+[stomach growls]
+
+399
+00:17:17,578 --> 00:17:19,663
+I'm so hungry, I'm getting light-headed.
+
+400
+00:17:19,747 --> 00:17:20,581
+[groans]
+
+401
+00:17:21,165 --> 00:17:21,999
+Timothy!
+
+402
+00:17:23,792 --> 00:17:24,626
+[gasps]
+
+403
+00:17:25,085 --> 00:17:26,837
+Are you a little kabob man?
+
+404
+00:17:26,920 --> 00:17:28,672
+That's irrelevant. Follow me.
+
+405
+00:17:29,757 --> 00:17:31,300
+[chickens clucking]
+
+406
+00:17:31,383 --> 00:17:34,428
+Our leader, Queen Fried Chicken Drumstick,
+
+407
+00:17:34,511 --> 00:17:37,097
+was slain in battle against Lord Mouth.
+
+408
+00:17:37,765 --> 00:17:40,100
+Pull the sword
+from this giant filet mignon...
+
+409
+00:17:40,184 --> 00:17:43,020
+-[gasps]
+-...and you will be crowned King of Lunch!
+
+410
+00:17:44,897 --> 00:17:46,899
+[grunting]
+
+411
+00:17:47,441 --> 00:17:49,693
+-It won't budge!
+-[Kabob Man] Don't give up!
+
+412
+00:17:49,777 --> 00:17:51,737
+I'm quite sure you're the chosen one.
+
+413
+00:17:51,820 --> 00:17:53,030
+-I think.
+-[grunting]
+
+414
+00:17:53,113 --> 00:17:54,907
+Let me double-check my notes.
+
+415
+00:17:54,990 --> 00:17:57,159
+Well, someone named Tim is, for sure...
+
+416
+00:17:57,534 --> 00:18:00,120
+-Mega Fat Regular Baby!
+-That's my name.
+
+417
+00:18:00,204 --> 00:18:02,289
+Keep saying it
+because I love being acknowledged.
+
+418
+00:18:02,372 --> 00:18:04,500
+You ripped a page out of the manual.
+
+419
+00:18:04,583 --> 00:18:07,002
+The page I needed to clear the front door!
+
+420
+00:18:07,294 --> 00:18:10,714
+It's not enough trying to get in my head?
+You also have to sabotage me?
+
+421
+00:18:10,923 --> 00:18:14,927
+No, I'm a good boy baby
+on a path of righteousness.
+
+422
+00:18:15,010 --> 00:18:18,514
+How would my taking that page
+help your journey to personal fulfillment?
+
+423
+00:18:18,597 --> 00:18:21,391
+I don't know! I just know you took it.
+
+424
+00:18:21,642 --> 00:18:23,102
+-Not me.
+-You.
+
+425
+00:18:23,393 --> 00:18:24,520
+-Not me.
+-You!
+
+426
+00:18:24,603 --> 00:18:26,021
+-Not me.
+-[Buskie laughs]
+
+427
+00:18:27,689 --> 00:18:28,565
+[coos]
+
+428
+00:18:28,816 --> 00:18:29,775
+Told you it wasn't me.
+
+429
+00:18:30,484 --> 00:18:31,318
+Scooter...
+
+430
+00:18:31,652 --> 00:18:33,195
+give me that page.
+
+431
+00:18:33,403 --> 00:18:34,404
+Please?
+
+432
+00:18:34,488 --> 00:18:35,364
+-[screams]
+-D'oh!
+
+433
+00:18:35,531 --> 00:18:39,535
+No, nothing bad will happen to you,
+especially if you give me the page.
+
+434
+00:18:39,618 --> 00:18:41,495
+Then cookies will happen to you!
+
+435
+00:18:41,578 --> 00:18:43,497
+-[Buskie babbles]
+-Huh! That's ridiculous!
+
+436
+00:18:43,789 --> 00:18:47,292
+Of course I'll still use all of you
+for missions once I'm back at Baby Corp.
+
+437
+00:18:47,376 --> 00:18:49,253
+-Why would you think-- Oh!
+-[Buskie babbles]
+
+438
+00:18:49,545 --> 00:18:51,130
+Stronger language than I would've used,
+
+439
+00:18:51,213 --> 00:18:54,299
+but, yes, I know you've all been
+busting your butts for me.
+
+440
+00:18:54,800 --> 00:18:55,634
+[shouts]
+
+441
+00:18:57,177 --> 00:18:58,428
+[crying]
+
+442
+00:18:59,054 --> 00:18:59,888
+Wha--?
+
+443
+00:19:03,767 --> 00:19:04,768
+Never.
+
+444
+00:19:04,852 --> 00:19:07,020
+-[Buskie sniffling, crying]
+-Scooter...
+
+445
+00:19:07,104 --> 00:19:08,021
+All of you...
+
+446
+00:19:08,438 --> 00:19:10,107
+I will never forget you.
+
+447
+00:19:10,190 --> 00:19:11,316
+You're my team.
+
+448
+00:19:11,608 --> 00:19:12,818
+And that's forever.
+
+449
+00:19:12,901 --> 00:19:14,069
+No matter what happens,
+
+450
+00:19:14,153 --> 00:19:17,698
+no matter where I hang my bronze booties
+and performance awards,
+
+451
+00:19:18,031 --> 00:19:20,325
+I ride with the babies who got me here.
+
+452
+00:19:20,951 --> 00:19:22,870
+-[babbles]
+-[laughs]
+
+453
+00:19:22,953 --> 00:19:24,413
+Same to you, Scoot-Scoot.
+
+454
+00:19:24,663 --> 00:19:28,125
+Now, please, my friend, give me the page.
+
+455
+00:19:28,375 --> 00:19:30,460
+-[babbles]
+-You ate it?
+
+456
+00:19:31,712 --> 00:19:33,964
+Aaah!
+
+457
+00:19:35,340 --> 00:19:39,219
+[grunting]
+
+458
+00:19:39,303 --> 00:19:40,762
+[panting, sighs]
+
+459
+00:19:41,013 --> 00:19:41,972
+Four minutes.
+
+460
+00:19:42,264 --> 00:19:43,640
+I'm not gonna make it.
+
+461
+00:19:44,016 --> 00:19:45,142
+[Mega Fat] You know what?
+
+462
+00:19:45,225 --> 00:19:48,187
+I think I saw my mommy lady
+open this one or two times.
+
+463
+00:19:48,270 --> 00:19:49,396
+[Boss] Are you...
+
+464
+00:19:49,563 --> 00:19:50,522
+helping me?
+
+465
+00:19:50,606 --> 00:19:54,484
+I thought going back to Baby Corp
+was a huge boo-boo for you-you,
+
+466
+00:19:54,568 --> 00:19:58,280
+but if you can whip that place into shape
+the way you whipped our playgroup
+
+467
+00:19:58,363 --> 00:20:02,492
+into a Bubbeezee-busting cooly-cool force,
+then I was wrong.
+
+468
+00:20:02,743 --> 00:20:03,702
+Thank you.
+
+469
+00:20:03,994 --> 00:20:05,913
+I think you have to press that.
+
+470
+00:20:06,163 --> 00:20:09,374
+-Like this?
+-Yep, and then I twist this, and...
+
+471
+00:20:10,375 --> 00:20:11,293
+Ha ha!
+
+472
+00:20:12,127 --> 00:20:13,128
+Templeton?
+
+473
+00:20:13,921 --> 00:20:17,382
+Listen, man, I don't wanna rush you,
+but I double-checked the prophecy,
+
+474
+00:20:17,466 --> 00:20:21,929
+and, yeah, it does say the chosen one's
+supposed to be Timothy Leslie--
+
+475
+00:20:22,012 --> 00:20:23,305
+-[Boss] Templeton!
+-Huh?
+
+476
+00:20:24,181 --> 00:20:25,015
+What the heck?
+
+477
+00:20:25,724 --> 00:20:27,517
+-You got it open!
+-[doorknob rattles]
+
+478
+00:20:29,311 --> 00:20:31,063
+You truly are a good baby.
+
 479
-00:21:36,837 --> 00:21:39,506
--[babbling]
--Yeah, Boss, what is the plan?
+00:20:31,146 --> 00:20:33,732
+-Oh! [cooing]
+-[yelps]
 
 480
-00:21:40,674 --> 00:21:41,508
-"Boss"?
+00:20:33,815 --> 00:20:35,484
+[cooing continues]
 
 481
-00:21:42,175 --> 00:21:44,970
-Well, if you need a plan,
-plan on having no idea
+00:20:35,567 --> 00:20:37,194
+Seriously, can we go?
 
 482
-00:21:45,053 --> 00:21:47,764
-what's gonna happen tomorrow,
-and plan on winning.
+00:20:38,570 --> 00:20:40,113
+We're in a huge interference bubble.
 
 483
-00:21:47,848 --> 00:21:50,267
-[baby monitor ringing, buzzing]
+00:20:40,197 --> 00:20:42,449
+Krinkle's got
+this entire neighborhood Bubbeezeed.
 
 484
-00:21:52,519 --> 00:21:53,937
-[ringing, buzzing continue]
+00:20:42,532 --> 00:20:44,451
+-Not our house.
+-Go!
 
 485
-00:21:55,439 --> 00:21:56,815
-You did it, Boss!
+00:20:47,371 --> 00:20:50,082
+-[chirps]
+-It's working! Thank you, Templeton!
 
 486
-00:21:57,607 --> 00:21:59,443
-[chiming]
+00:20:50,457 --> 00:20:52,084
+-Good luck!
+-[zaps]
 
 487
-00:21:59,526 --> 00:22:02,404
-[Hermano] My brother just called!
-He said I did okay!
+00:20:52,834 --> 00:20:54,002
+Sorry, kabobs.
 
 488
-00:22:02,487 --> 00:22:05,991
-And I said, "Does this mean
-we could have Thanksgiving at my place?"
+00:20:54,336 --> 00:20:56,338
+[tires screech]
 
 489
-00:22:06,074 --> 00:22:07,659
-And you know what he said?
+00:20:56,797 --> 00:20:58,590
+There you are! Hop in!
 
 490
-00:22:08,368 --> 00:22:11,121
-Nothing, but that wasn't a no!
+00:20:58,757 --> 00:21:00,550
+Why aren't you playing hamburger swords?
 
 491
-00:22:11,747 --> 00:22:13,123
-Baby love's back to normal, huh?
+00:21:00,759 --> 00:21:05,180
+Bro, I ride with the bro who reminded me
+it was kabob day, always.
 
 492
-00:22:13,206 --> 00:22:15,042
-Higher than normal, actually,
+00:21:06,473 --> 00:21:07,432
+One for the road?
 
 493
-00:22:15,125 --> 00:22:18,462
-thanks to that brilliant catalog cover
-you orchestrated.
+00:21:08,267 --> 00:21:09,101
+En garde!
 
 494
-00:22:18,545 --> 00:22:19,838
--What cover?
--[Marsha] We did it!
+00:21:13,480 --> 00:21:14,398
+[elevator bell dings]
 
 495
-00:22:19,921 --> 00:22:23,216
-We did it, people!
-Holy guacamole, we did it!
+00:21:16,900 --> 00:21:18,277
+[babies gasp]
 
 496
-00:22:23,300 --> 00:22:26,178
-Ha ha! Look at that,
-advertising in the flesh.
+00:21:18,568 --> 00:21:21,196
+I-It's Dale from Accounting!
 
 497
-00:22:26,261 --> 00:22:27,179
-[parents exclaiming]
+00:21:21,280 --> 00:21:24,116
+[babies cheering]
 
 498
-00:22:27,262 --> 00:22:30,807
--[Mayor] Oh, look at that, look at that!
--[Boss] They doctored the photo.
+00:21:24,950 --> 00:21:27,536
+You've got, like,
+20 seconds till your interview!
 
 499
-00:22:31,016 --> 00:22:32,684
-[Mega Fat] So, what do you think?
+00:21:29,454 --> 00:21:32,624
+Um, my job is on the line
+if you don't come back and help me.
 
 500
-00:22:33,268 --> 00:22:35,812
-I think they're a bunch
-of sneaky marketing wizards
+00:21:32,708 --> 00:21:35,252
+But, you know, we still gotta do
+this interview, okay?
 
 501
-00:22:35,896 --> 00:22:37,147
-over at Bubbeezee,
+00:21:35,794 --> 00:21:36,920
+O-kay.
 
 502
-00:22:37,230 --> 00:22:41,234
-and I'd like find who's at the top
-of their org chart and shake their hand.
+00:21:37,379 --> 00:21:38,755
+[clears throat] Okay.
 
 503
-00:22:43,361 --> 00:22:45,697
-[theme music playing]
+00:21:39,214 --> 00:21:41,174
+Mmm, here is a question:
 
 504
-00:23:05,175 --> 00:23:06,927
+00:21:41,425 --> 00:21:44,594
+what plans do you have
+for increasing baby love?
+
+505
+00:21:44,678 --> 00:21:46,847
+Well, I haven't really thought about it.
+
+506
+00:21:46,930 --> 00:21:51,435
+Uh, obviously, baby love rises
+when babies are happy, so whatever...
+
+507
+00:21:54,062 --> 00:21:57,941
+[Marsha, echoing] Everything's easy
+with Bubbeezee!
+
+508
+00:22:01,403 --> 00:22:04,031
+We need to take down Bubbeezee.
+
+509
+00:22:04,239 --> 00:22:06,158
+Whaaat?
+
+510
+00:22:07,492 --> 00:22:09,411
+They're making babies miserable.
+
+511
+00:22:10,037 --> 00:22:12,205
+But they're making parents ecstatic.
+
+512
+00:22:12,289 --> 00:22:15,250
+Bubbeezee's been the best thing
+for baby love since spit curls.
+
+513
+00:22:15,334 --> 00:22:16,710
+You want to take them down?
+
+514
+00:22:17,461 --> 00:22:19,171
+Is... that a problem?
+
+515
+00:22:19,463 --> 00:22:22,382
+Can I get you to n-not want
+to do that? [chuckles]
+
+516
+00:22:22,466 --> 00:22:24,968
+Because I can't
+give your job back if you do.
+
+517
+00:22:26,094 --> 00:22:27,596
+[whining] Please?
+
+518
+00:22:33,643 --> 00:22:35,479
+You turned down the job?
+
+519
+00:22:36,271 --> 00:22:37,314
+Sorry, Stace.
+
+520
+00:22:37,647 --> 00:22:40,192
+-I've got Bubbigger fish to fry.
+-[elevator bell dings]
+
+521
+00:22:43,361 --> 00:22:45,363
+[theme music playing]
+
+522
+00:23:05,133 --> 00:23:07,052
 ♪ Boss Baby ♪
