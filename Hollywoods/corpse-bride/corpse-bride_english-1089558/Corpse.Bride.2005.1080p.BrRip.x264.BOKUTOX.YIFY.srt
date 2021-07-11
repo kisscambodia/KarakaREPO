@@ -1,0 +1,3737 @@
+﻿1
+00:01:52,345 --> 00:01:54,108
+- Good morning.
+- Good morning.
+
+2
+00:01:55,481 --> 00:02:01,852
+Here ye, here ye, 10 minutes to go
+till Van Dort's wedding rehearsal.
+
+3
+00:02:18,137 --> 00:02:19,570
+Watch it!
+
+4
+00:02:27,814 --> 00:02:30,647
+<i>♪ - It's a beautiful day ♪
+♪ - It's a rather nice day ♪</i>
+
+5
+00:02:30,817 --> 00:02:32,978
+<i>♪ A day for a glorious wedding ♪</i>
+
+6
+00:02:33,152 --> 00:02:35,916
+<i>♪ A rehearsal, my dear
+To be perfectly clear ♪</i>
+
+7
+00:02:36,089 --> 00:02:38,489
+<i>♪ A rehearsal for a glorious wedding ♪</i>
+
+8
+00:02:38,658 --> 00:02:41,593
+<i>♪ Assuming nothing happens
+That we don't really know ♪</i>
+
+9
+00:02:41,761 --> 00:02:44,161
+<i>♪ That nothing unexpected
+Interferes with the show ♪</i>
+
+10
+00:02:44,330 --> 00:02:46,730
+<i>♪ And that's why everything
+Every last little thing ♪</i>
+
+11
+00:02:46,999 --> 00:02:51,732
+<i>♪ Every single, tiny, microscopic little thing
+Must go ♪</i>
+
+12
+00:02:51,904 --> 00:02:54,805
+<i>♪ - According to plan ♪
+♪ - Our son will be married ♪</i>
+
+13
+00:02:54,974 --> 00:02:57,067
+<i>♪ - According to plan ♪
+♪ - Our family carried ♪</i>
+
+14
+00:02:57,243 --> 00:03:01,043
+<i>♪ Elevated to the heights of society ♪</i>
+
+15
+00:03:01,347 --> 00:03:03,838
+<i>♪ - To the costume balls ♪
+♪ - In the hallowed halls ♪</i>
+
+16
+00:03:04,016 --> 00:03:06,177
+<i>♪ Rubbing elbows with the finest ♪</i>
+
+17
+00:03:06,352 --> 00:03:08,980
+<i>♪ Having crumpets with Her Highness ♪</i>
+
+18
+00:03:09,422 --> 00:03:11,947
+<i>♪ We'll be there, we'll be seen
+Having tea with the queen ♪</i>
+
+19
+00:03:12,125 --> 00:03:15,754
+<i>♪ We'll forget everything
+That we've ever, ever been ♪</i>
+
+20
+00:03:17,763 --> 00:03:21,130
+- Blimey! It's my dress is caught.
+- Begging your pardon, ma'am.
+
+21
+00:03:21,300 --> 00:03:24,758
+- Come on, dear.
+- It's not me. It's my dress is caught.
+
+22
+00:03:24,937 --> 00:03:27,770
+Where is Victor? We might be late.
+
+23
+00:03:32,745 --> 00:03:34,679
+Fish merchants.
+
+24
+00:03:35,114 --> 00:03:37,810
+<i>♪ - It's a terrible day ♪
+♪ - Now, don't be that way ♪</i>
+
+25
+00:03:37,984 --> 00:03:40,509
+<i>♪ It's a terrible day for a wedding ♪</i>
+
+26
+00:03:40,686 --> 00:03:43,678
+<i>♪ It's a sad, sad state
+of affairs we're in ♪</i>
+
+27
+00:03:43,856 --> 00:03:47,053
+<i>♪ That has led to this ominous wedding ♪</i>
+
+28
+00:03:47,226 --> 00:03:49,387
+<i>♪ How could our family have come to this? ♪</i>
+
+29
+00:03:50,062 --> 00:03:52,553
+<i>♪ To marry off our daughter
+To the nouveau riche ♪</i>
+
+30
+00:03:52,732 --> 00:03:54,222
+<i>♪ - They're so common ♪
+♪ - So coarse ♪</i>
+
+31
+00:03:54,400 --> 00:03:58,200
+<i>♪ - Oh, it couldn't be worse ♪
+♪ - Couldn't be worse? I'm afraid I disagree ♪</i>
+
+32
+00:03:58,371 --> 00:04:01,033
+<i>♪ They could be land-rich,
+Bankrupt aristocracy ♪</i>
+
+33
+00:04:01,207 --> 00:04:02,606
+<i>♪ Without a penny to their name ♪</i>
+
+34
+00:04:02,775 --> 00:04:06,176
+<i>♪ Just like you and me ♪</i>
+
+35
+00:04:06,345 --> 00:04:08,108
+Oh, dear.
+
+36
+00:04:08,714 --> 00:04:11,581
+<i>♪ And that's why everything
+Every last little thing ♪</i>
+
+37
+00:04:11,751 --> 00:04:16,518
+<i>♪ Every single, tiny, microscopic little thing
+Must go ♪</i>
+
+38
+00:04:18,958 --> 00:04:21,756
+<i>♪ - According to plan ♪
+♪ - Our daughter will wed ♪</i>
+
+39
+00:04:21,928 --> 00:04:24,829
+<i>♪ - According to plan ♪
+♪ - Our family led ♪</i>
+
+40
+00:04:24,997 --> 00:04:29,798
+<i>♪ From the depths of deepest poverty ♪</i>
+
+41
+00:04:30,736 --> 00:04:33,728
+<i>♪ - To the noble realm ♪
+♪ - Of our ancestry ♪</i>
+
+42
+00:04:33,906 --> 00:04:36,739
+<i>♪ And who would have guessed
+In a million years ♪</i>
+
+43
+00:04:36,909 --> 00:04:40,106
+<i>♪ - That our daughter with a face ♪
+♪ - Of an otter in disgrace ♪</i>
+
+44
+00:04:40,279 --> 00:04:44,807
+<i>♪ Would provide our ticket
+To a rightful place ♪</i>
+
+45
+00:04:51,324 --> 00:04:52,689
+Oh, Hildegarde.
+
+46
+00:04:52,858 --> 00:04:56,487
+What if Victor and I
+don't like each other?
+
+47
+00:04:57,530 --> 00:05:00,124
+As if that has anything
+to do with marriage.
+
+48
+00:05:00,299 --> 00:05:03,928
+Do you suppose your father and I
+like each other?
+
+49
+00:05:04,103 --> 00:05:05,627
+Surely you must a little?
+
+50
+00:05:06,372 --> 00:05:07,737
+- Of course not.
+- Of course not.
+
+51
+00:05:07,907 --> 00:05:09,841
+Get those corsets laced properly.
+
+52
+00:05:10,009 --> 00:05:12,876
+I can hear you speak without gasping.
+
+53
+00:05:19,218 --> 00:05:21,550
+You've certainly hooked a winner
+this time, Victor.
+
+54
+00:05:21,721 --> 00:05:25,487
+- Now, all you have to do is reel her in.
+- I'm already reeling, Mother.
+
+55
+00:05:25,658 --> 00:05:28,786
+Shouldn't Victoria Everglot
+be marrying a lord or something?
+
+56
+00:05:28,961 --> 00:05:32,294
+Oh, nonsense! We're every bit
+as good as the Everglots.
+
+57
+00:05:32,465 --> 00:05:36,834
+I always knew I deserved better
+than a fish merchant's life.
+
+58
+00:05:37,003 --> 00:05:39,301
+But I've never even spoken to her.
+
+59
+00:05:39,472 --> 00:05:42,066
+Well, at least we have that
+in our favour.
+
+60
+00:05:43,209 --> 00:05:46,235
+Mayhew! Silence that blasted coughing.
+
+61
+00:05:51,684 --> 00:05:55,245
+Marriage is a partnership,
+a little tit for tat.
+
+62
+00:05:55,755 --> 00:05:58,189
+You'd think a lifetime watching us...
+
+63
+00:05:58,357 --> 00:06:01,053
+<i>♪ Might have taught her that ♪</i>
+
+64
+00:06:01,227 --> 00:06:04,355
+<i>♪ - Might have taught her that ♪
+♪ - Everything must be perfect ♪</i>
+
+65
+00:06:04,530 --> 00:06:07,363
+<i>♪ - Everything must be perfect ♪
+♪ - Everything must be perfect ♪</i>
+
+66
+00:06:07,533 --> 00:06:09,194
+<i>♪ Perfect
+That's why everything ♪</i>
+
+67
+00:06:09,368 --> 00:06:10,767
+<i>♪ Every last little thing ♪</i>
+
+68
+00:06:10,936 --> 00:06:15,100
+<i>♪ Every single, tiny, microscopic little thing
+Must go ♪</i>
+
+69
+00:06:15,274 --> 00:06:19,233
+<i>♪ According to plan ♪</i>
+
+70
+00:06:21,447 --> 00:06:22,937
+Look at the way you're standing.
+
+71
+00:06:23,115 --> 00:06:25,879
+You look like you got rickets
+or something...
+
+72
+00:06:33,893 --> 00:06:39,627
+Oh, my goodness. Oh, such grandeur!
+Such impeccable taste!
+
+73
+00:06:39,799 --> 00:06:41,664
+Oh, beautiful, innit?
+
+74
+00:06:43,803 --> 00:06:45,430
+It's not as big as our place, dear.
+
+75
+00:06:48,941 --> 00:06:51,307
+- Bit shabby really, isn't it?
+- Shut up.
+
+76
+00:06:51,477 --> 00:06:54,241
+Lord and Lady Everglot...
+
+77
+00:06:54,413 --> 00:06:58,076
+...Mr. And Mrs. Van Dort.
+
+78
+00:06:58,250 --> 00:07:00,741
+Why, you must be Miss Victoria.
+
+79
+00:07:01,387 --> 00:07:05,619
+Yes, I must say, you don't look
+a day over 20. No. Oh, yes.
+
+80
+00:07:06,692 --> 00:07:09,422
+Smile, darling, smile.
+
+81
+00:07:13,999 --> 00:07:18,561
+Well, hello. What a pleasure.
+Welcome to our home.
+
+82
+00:07:19,105 --> 00:07:20,333
+Thank you.
+
+83
+00:07:20,506 --> 00:07:23,839
+We'll be taking tea
+in the west drawing room.
+
+84
+00:07:25,311 --> 00:07:27,871
+Oh, do come this way,
+it's just through there.
+
+85
+00:07:28,047 --> 00:07:32,279
+Oh, I love what you've done with the place.
+Who is your decorator?
+
+86
+00:07:32,451 --> 00:07:34,476
+Nice tiles, shame about the drapes.
+
+87
+00:07:34,653 --> 00:07:38,145
+My husband says such foolish things.
+Ignore him.
+
+88
+00:07:38,657 --> 00:07:40,750
+Yes, it's usually best.
+
+89
+00:09:09,181 --> 00:09:12,742
+- Do forgive me.
+- You play beautifully.
+
+90
+00:09:12,918 --> 00:09:18,185
+I... I... I do apologize, Miss Everglot.
+How rude of me to... Well...
+
+91
+00:09:18,924 --> 00:09:20,414
+Excuse me.
+
+92
+00:09:22,361 --> 00:09:24,124
+Mother won't let me near the piano.
+
+93
+00:09:24,864 --> 00:09:28,129
+Music is improper for a young lady.
+
+94
+00:09:28,300 --> 00:09:29,858
+Too passionate, she says.
+
+95
+00:09:30,035 --> 00:09:34,836
+If I may ask, Miss Everglot...
+
+96
+00:09:35,007 --> 00:09:37,305
+...where is your chaperon?
+
+97
+00:09:37,843 --> 00:09:42,177
+Perhaps, in...
+In view of the circumstances...
+
+98
+00:09:42,748 --> 00:09:45,512
+...you could call me Victoria.
+
+99
+00:09:45,985 --> 00:09:47,646
+Yes, of course. Well...
+
+100
+00:09:48,454 --> 00:09:51,890
+- Victoria...
+- Yes, Victor.
+
+101
+00:09:53,125 --> 00:09:55,787
+Tomorrow, we are to be m...
+
+102
+00:09:57,396 --> 00:09:58,727
+M... M...
+
+103
+00:09:59,164 --> 00:10:03,294
+- Married.
+- Yes. Married.
+
+104
+00:10:04,737 --> 00:10:08,798
+Since I was a child, I've...
+I've dreamt of my wedding day.
+
+105
+00:10:09,408 --> 00:10:12,343
+I always hoped to find someone
+I was deeply in love with.
+
+106
+00:10:12,878 --> 00:10:15,711
+Someone to spend
+the rest of my life with.
+
+107
+00:10:16,248 --> 00:10:19,046
+- Silly, isn't it?
+- Yes, silly.
+
+108
+00:10:19,585 --> 00:10:22,520
+No. No, not at all, no.
+
+109
+00:10:23,155 --> 00:10:25,680
+Oh, dear. I'm sorry.
+
+110
+00:10:31,630 --> 00:10:34,292
+What impropriety is this?
+
+111
+00:10:34,466 --> 00:10:36,457
+You shouldn't be alone together.
+
+112
+00:10:36,635 --> 00:10:41,163
+Here it is, one minute before 5,
+and you're not at the rehearsal.
+
+113
+00:10:41,340 --> 00:10:45,800
+Pastor Galswells is waiting.
+Come at once.
+
+114
+00:10:48,514 --> 00:10:51,415
+<i>Master Van Dort,
+from the beginning. Again.</i>
+
+115
+00:10:51,584 --> 00:10:56,851
+"With this hand,
+I will lift your sorrows."
+
+116
+00:10:57,189 --> 00:11:03,059
+"Your cup will never empty,
+for I will be your wine."
+
+117
+00:11:03,228 --> 00:11:09,258
+"With this candle,
+I will light your way in darkness."
+
+118
+00:11:09,435 --> 00:11:14,498
+"With this ring, I ask you to be mine."
+
+119
+00:11:15,841 --> 00:11:19,106
+- Let's try it again.
+- Yes. Yes, sir.
+
+120
+00:11:19,278 --> 00:11:21,678
+With this candle...
+
+121
+00:11:24,083 --> 00:11:25,914
+This candle...
+
+122
+00:11:27,386 --> 00:11:29,013
+This candle.
+
+123
+00:11:29,855 --> 00:11:33,814
+- Shall I get up there and do it for him?
+- Don't get all aflutter, dear.
+
+124
+00:11:39,632 --> 00:11:41,759
+With this candle...
+
+125
+00:11:43,636 --> 00:11:44,864
+Continue!
+
+126
+00:11:47,272 --> 00:11:49,137
+Get the door, Emil.
+
+127
+00:11:49,908 --> 00:11:53,537
+Let's just pick it up at the candle bit.
+
+128
+00:11:55,614 --> 00:11:57,980
+A Lord Barkis, sir.
+
+129
+00:12:01,820 --> 00:12:04,186
+I haven't a head for dates.
+
+130
+00:12:04,356 --> 00:12:07,348
+Apparently,
+I'm a day early for the ceremony.
+
+131
+00:12:08,560 --> 00:12:12,656
+- Is he from your side of the family?
+- I can't recall.
+
+132
+00:12:12,831 --> 00:12:15,459
+Emil, a seat for Lord Barkis.
+
+133
+00:12:20,906 --> 00:12:22,635
+Do carry on.
+
+134
+00:12:23,342 --> 00:12:28,211
+Let's try it again, shall we,
+Master Van Dort?
+
+135
+00:12:28,380 --> 00:12:32,578
+- Yes. Yes, sir. Certainly.
+- Right.
+
+136
+00:12:32,751 --> 00:12:35,652
+Right. Oh, right!
+
+137
+00:12:35,821 --> 00:12:39,985
+- With this... This...
+- Hand.
+
+138
+00:12:40,159 --> 00:12:43,060
+With this hand...
+
+139
+00:12:43,228 --> 00:12:44,718
+...I... With...
+
+140
+00:12:44,897 --> 00:12:47,161
+Three steps, three!
+
+141
+00:12:47,332 --> 00:12:51,792
+Can you not count? Do you not wish
+to be married, Master Van Dort?
+
+142
+00:12:51,970 --> 00:12:53,665
+- No! No.
+- You do not?
+
+143
+00:12:53,839 --> 00:12:57,832
+No! I meant, no,
+I do not, not wish to be married.
+
+144
+00:12:58,010 --> 00:13:00,410
+That is, I want very much to...
+
+145
+00:13:00,579 --> 00:13:04,845
+Pay attention! Have you
+even remembered to bring the ring?
+
+146
+00:13:05,017 --> 00:13:07,645
+The ring? Yes. Of course.
+
+147
+00:13:11,190 --> 00:13:13,454
+- Dropping the ring.
+- Oh, no, he's dropped the ring!
+
+148
+00:13:13,625 --> 00:13:17,356
+- This boy doesn't want to get married.
+- How disgraceful!
+
+149
+00:13:17,763 --> 00:13:19,424
+Excuse me. Got it!
+
+150
+00:13:23,102 --> 00:13:25,332
+Out of the way, you ninny.
+
+151
+00:13:26,171 --> 00:13:30,835
+Oh, dear! Oh, my! Giddy on, there's a
+woman on fire! Help! Emergency!
+
+152
+00:13:32,144 --> 00:13:36,877
+- Oh, I hope it doesn't stain.
+- Stop fanning it, you fool.
+
+153
+00:13:40,219 --> 00:13:44,815
+- Get a bucket, get a bucket.
+- I'm on my way, dear. Yes. Oh, dear!
+
+154
+00:13:52,865 --> 00:13:58,770
+Enough! This wedding cannot take place
+until he is properly prepared.
+
+155
+00:14:00,372 --> 00:14:05,901
+Young man, learn your vows.
+
+156
+00:14:20,259 --> 00:14:24,593
+Well, he's quite the catch, isn't he?
+
+157
+00:14:39,344 --> 00:14:41,039
+Oh, Victoria.
+
+158
+00:14:41,513 --> 00:14:45,449
+She must think I'm such a fool.
+This day couldn't get any worse.
+
+159
+00:14:45,617 --> 00:14:51,715
+Hear ye, hear ye! Rehearsal in ruins
+as Van Dort boy causes chaos!
+
+160
+00:14:52,825 --> 00:14:56,784
+Fishy Tuesday could be canned!
+
+161
+00:14:56,962 --> 00:15:02,628
+Everglots all fired up as
+Van Dort disaster ruins rehearsal!
+
+162
+00:15:04,236 --> 00:15:06,796
+It really shouldn't be all that difficult.
+
+163
+00:15:06,972 --> 00:15:09,133
+It's just a few simple vows.
+
+164
+00:15:09,308 --> 00:15:13,369
+With this hand, I will take your wine.
+
+165
+00:15:13,545 --> 00:15:14,944
+No.
+
+166
+00:15:16,215 --> 00:15:17,876
+With this hand...
+
+167
+00:15:18,050 --> 00:15:19,711
+...I will cup your...
+
+168
+00:15:19,885 --> 00:15:21,443
+Oh, goodness, no.
+
+169
+00:15:23,255 --> 00:15:25,519
+With this...
+
+170
+00:15:26,024 --> 00:15:27,582
+With this...
+
+171
+00:15:27,759 --> 00:15:30,319
+With this candle, I will...
+
+172
+00:15:32,064 --> 00:15:33,588
+I will...
+
+173
+00:15:34,266 --> 00:15:36,393
+I will set your mother on fire.
+
+174
+00:15:38,303 --> 00:15:39,998
+Oh, it's no use.
+
+175
+00:15:52,584 --> 00:15:57,180
+With this hand,
+I will lift your sorrows.
+
+176
+00:15:57,356 --> 00:16:02,020
+Your cup will never empty,
+for I will be your wine.
+
+177
+00:16:03,729 --> 00:16:04,991
+Mrs. Everglot.
+
+178
+00:16:05,631 --> 00:16:07,861
+You look ravishing this evening.
+
+179
+00:16:08,700 --> 00:16:13,797
+What's that, Mr. Everglot?
+Call you "Dad"? If you insist, sir.
+
+180
+00:16:13,972 --> 00:16:18,466
+With this candle,
+I will light your way in darkness.
+
+181
+00:16:18,977 --> 00:16:20,638
+With this ring...
+
+182
+00:16:21,413 --> 00:16:25,008
+...I ask you to be mine.
+
+183
+00:17:18,470 --> 00:17:19,664
+I do.
+
+184
+00:18:48,326 --> 00:18:51,295
+You may kiss the bride.
+
+185
+00:18:58,336 --> 00:19:01,499
+- A new arrival.
+- He must've fainted.
+
+186
+00:19:01,673 --> 00:19:04,471
+- Are you all right?
+- What...? What happened?
+
+187
+00:19:04,643 --> 00:19:07,703
+By Jove, man. Looks like
+we've got ourselves a breather.
+
+188
+00:19:08,146 --> 00:19:11,013
+- Does he have a dead brother?
+- He's still soft.
+
+189
+00:19:14,019 --> 00:19:15,646
+A toast, then.
+
+190
+00:19:21,359 --> 00:19:22,951
+To the newlyweds.
+
+191
+00:19:23,128 --> 00:19:24,356
+Newlyweds?
+
+192
+00:19:25,330 --> 00:19:29,426
+In the woods,
+you said your vows so perfectly.
+
+193
+00:19:29,601 --> 00:19:31,193
+I did?
+
+194
+00:19:31,369 --> 00:19:32,802
+I did.
+
+195
+00:19:32,971 --> 00:19:35,201
+Wake up! Wake up! Wake up!
+
+196
+00:19:37,242 --> 00:19:40,268
+Coming through, coming through.
+
+197
+00:19:40,445 --> 00:19:43,312
+My name is Paul, I am the head waiter.
+
+198
+00:19:44,382 --> 00:19:47,442
+I will be creating your wedding feast.
+
+199
+00:19:47,686 --> 00:19:50,052
+Wedding feast! I'm salivating.
+
+200
+00:19:51,022 --> 00:19:52,250
+Maggots.
+
+201
+00:19:55,160 --> 00:19:56,752
+Keep away!
+
+202
+00:20:02,033 --> 00:20:05,400
+I've got a...
+I've got a dwarf.
+
+203
+00:20:05,570 --> 00:20:08,869
+And I'm not afraid to use him.
+I want some questions. Now!
+
+204
+00:20:09,040 --> 00:20:12,999
+- Answers. I think you mean "answers."
+- Thank you, yes, answers.
+
+205
+00:20:13,178 --> 00:20:16,773
+I need answers.
+What's going on here? Where am I?
+
+206
+00:20:16,948 --> 00:20:18,074
+Who are you?
+
+207
+00:20:18,250 --> 00:20:21,617
+Well, that's kind of a long story.
+
+208
+00:20:22,053 --> 00:20:24,385
+What a story it is.
+
+209
+00:20:24,556 --> 00:20:28,117
+A tragic tale of romance, passion...
+
+210
+00:20:28,293 --> 00:20:30,090
+...and murder most foul.
+
+211
+00:20:30,262 --> 00:20:31,854
+This is gonna be good.
+
+212
+00:20:33,965 --> 00:20:35,626
+Hit it, boys.
+
+213
+00:20:46,278 --> 00:20:49,873
+<i>♪ Hey, give me a listen
+You corpses of cheer ♪</i>
+
+214
+00:20:50,048 --> 00:20:52,778
+<i>♪ At least those of you
+Who still got an ear ♪</i>
+
+215
+00:20:52,951 --> 00:20:55,749
+<i>♪ I'll tell you a story
+Make a skeleton cry ♪</i>
+
+216
+00:20:55,921 --> 00:20:59,413
+<i>♪ Of our own jubiliciously
+Lovely Corpse Bride ♪</i>
+
+217
+00:20:59,591 --> 00:21:01,991
+<i>♪ Die, die, we all pass away ♪</i>
+
+218
+00:21:02,160 --> 00:21:04,924
+<i>♪ But don't wear a frown
+Because it's really okay ♪</i>
+
+219
+00:21:05,096 --> 00:21:07,621
+<i>♪ You might try and hide
+And you might try and pray ♪</i>
+
+220
+00:21:07,799 --> 00:21:10,893
+<i>♪ But we all end up
+The remains of the day ♪</i>
+
+221
+00:21:12,137 --> 00:21:13,468
+That's right.
+
+222
+00:21:16,308 --> 00:21:19,800
+<i>♪ Well, our girl was a beauty
+Known for miles around ♪</i>
+
+223
+00:21:19,978 --> 00:21:22,913
+<i>♪ When a mysterious stranger
+Came into town ♪</i>
+
+224
+00:21:23,081 --> 00:21:25,709
+<i>♪ He was plenty good-looking
+But down on his cash ♪</i>
+
+225
+00:21:25,884 --> 00:21:28,785
+<i>♪ And our poor little baby
+She fell hard and fast ♪</i>
+
+226
+00:21:28,954 --> 00:21:31,787
+<i>♪ When her daddy said no
+She just couldn't cope ♪</i>
+
+227
+00:21:31,957 --> 00:21:34,517
+<i>♪ So our lovers came up
+With a plan to elope ♪</i>
+
+228
+00:21:35,227 --> 00:21:37,661
+<i>♪ Die, die, we all pass away ♪</i>
+
+229
+00:21:37,829 --> 00:21:40,923
+<i>♪ But don't wear a frown
+Because it's really okay ♪</i>
+
+230
+00:21:41,099 --> 00:21:43,624
+<i>♪ You might try and hide
+And you might try and pray ♪</i>
+
+231
+00:21:43,802 --> 00:21:46,965
+<i>♪ But we all end up
+The remains of the day ♪</i>
+
+232
+00:22:03,755 --> 00:22:05,245
+That's right.
+
+233
+00:22:05,790 --> 00:22:09,487
+Okay. Oh, yeah.
+Come on, boys, pick it up.
+
+234
+00:22:10,362 --> 00:22:13,422
+Yeah. Like it.
+
+235
+00:22:13,598 --> 00:22:15,498
+Okay, Chancy, take it.
+
+236
+00:22:17,736 --> 00:22:18,998
+Yeah.
+
+237
+00:22:28,647 --> 00:22:30,205
+Yeah!
+
+238
+00:22:34,152 --> 00:22:36,052
+That's nice.
+
+239
+00:22:37,856 --> 00:22:40,654
+<i>♪ So they conjured up a plan
+To meet late at night ♪</i>
+
+240
+00:22:40,825 --> 00:22:43,191
+<i>♪ They told not a soul
+Kept the whole thing tight ♪</i>
+
+241
+00:22:43,361 --> 00:22:45,886
+<i>♪ Now, her mother's wedding dress
+Fit like a glove ♪</i>
+
+242
+00:22:46,064 --> 00:22:48,624
+<i>♪ You don't need much
+When you're really in love ♪</i>
+
+243
+00:22:48,800 --> 00:22:51,132
+<i>♪ Except for a few things
+Or so I'm told ♪</i>
+
+244
+00:22:51,303 --> 00:22:53,897
+<i>♪ Like the family jewels
+And a satchel of gold ♪</i>
+
+245
+00:22:54,072 --> 00:22:56,563
+<i>♪ Then next to the graveyard
+By the old oak tree ♪</i>
+
+246
+00:22:56,741 --> 00:22:59,005
+<i>♪ On a dark foggy night
+At a quarter to 3 ♪</i>
+
+247
+00:22:59,177 --> 00:23:02,613
+<i>♪ She was ready to go
+But where was he? ♪</i>
+
+248
+00:23:03,281 --> 00:23:04,612
+<i>♪ And then? ♪</i>
+
+249
+00:23:04,883 --> 00:23:06,714
+<i>♪ - She waited ♪
+♪ - And then? ♪</i>
+
+250
+00:23:06,885 --> 00:23:09,752
+<i>♪ - There in the shadows, was it her man? ♪
+♪ - And then? ♪</i>
+
+251
+00:23:09,921 --> 00:23:13,357
+<i>♪ - Her little heart beat so loud ♪
+♪ - And then? ♪</i>
+
+252
+00:23:13,825 --> 00:23:17,659
+<i>♪ And then, baby, everything went black ♪</i>
+
+253
+00:23:18,129 --> 00:23:21,155
+<i>♪ Now, when she opened her eyes
+She was dead as dust ♪</i>
+
+254
+00:23:21,333 --> 00:23:24,200
+<i>♪ Her jewels were missing
+And her heart was bust ♪</i>
+
+255
+00:23:24,369 --> 00:23:26,929
+<i>♪ So she made a vow
+Lying under that tree ♪</i>
+
+256
+00:23:27,105 --> 00:23:29,903
+<i>♪ That she'd wait for her true love
+To come set her free ♪</i>
+
+257
+00:23:30,075 --> 00:23:32,908
+<i>♪ Always waiting for someone
+To ask for her hand ♪</i>
+
+258
+00:23:33,545 --> 00:23:36,412
+<i>♪ Then out of the blue
+Comes this groovy young man ♪</i>
+
+259
+00:23:36,581 --> 00:23:39,311
+<i>♪ Who vows forever
+To be by her side ♪</i>
+
+260
+00:23:39,484 --> 00:23:43,318
+<i>♪ And that's the story
+Of our Corpse Bride ♪</i>
+
+261
+00:23:43,488 --> 00:23:45,251
+<i>♪ Die, die, we all pass away ♪</i>
+
+262
+00:23:45,423 --> 00:23:48,187
+<i>♪ But don't wear a frown,
+Because it's really okay ♪</i>
+
+263
+00:23:48,360 --> 00:23:51,158
+<i>♪ You might try and hide
+And you might try and pray ♪</i>
+
+264
+00:23:51,329 --> 00:23:56,926
+<i>♪ But we all end up
+The remains of the day ♪</i>
+
+265
+00:23:57,402 --> 00:23:58,699
+Yeah.
+
+266
+00:24:10,382 --> 00:24:13,044
+Victoria, come away from the window.
+
+267
+00:24:14,319 --> 00:24:16,344
+Oh, I'm sure he'll be back shortly.
+
+268
+00:24:16,521 --> 00:24:19,718
+He's terrified of the dark.
+In fact, when he was a boy...
+
+269
+00:24:19,891 --> 00:24:23,952
+...he used to wet his combinations
+regularly, didn't he, William?
+
+270
+00:24:24,129 --> 00:24:25,323
+Enter.
+
+271
+00:24:29,200 --> 00:24:33,296
+Lord Barkis.
+I trust the room is to your liking.
+
+272
+00:24:33,471 --> 00:24:37,032
+Thank you,
+you are a most gracious hostess.
+
+273
+00:24:37,208 --> 00:24:43,340
+Which is why it pains me
+to be the bearer of such bad news.
+
+274
+00:24:47,485 --> 00:24:51,114
+Would you care
+to repeat tonight's headline for us?
+
+275
+00:24:51,289 --> 00:24:53,280
+Hear ye, hear ye!
+
+276
+00:24:53,591 --> 00:24:58,051
+Victor Van Dort seen this night on the
+bridge in the arms of a mystery woman!
+
+277
+00:24:58,229 --> 00:25:02,689
+The dark-haired temptress and Master
+Van Dort slipped away into the night!
+
+278
+00:25:02,867 --> 00:25:04,732
+And now, the weather.
+Scattered showers...
+
+279
+00:25:04,903 --> 00:25:07,371
+Enough! That will be all.
+
+280
+00:25:10,341 --> 00:25:13,868
+Mystery woman?
+He doesn't even know any women!
+
+281
+00:25:14,045 --> 00:25:16,104
+Or so you thought.
+
+282
+00:25:16,981 --> 00:25:19,381
+Do call for me
+if you need my assistance...
+
+283
+00:25:20,752 --> 00:25:22,617
+...in any way.
+
+284
+00:25:24,122 --> 00:25:27,057
+Good heavens, Finis,
+what should we do?
+
+285
+00:25:27,225 --> 00:25:28,715
+Fetch me musket.
+
+286
+00:25:28,893 --> 00:25:30,326
+William, do something.
+
+287
+00:25:30,495 --> 00:25:33,020
+The town crier
+probably just had a slow news day.
+
+288
+00:25:33,198 --> 00:25:35,996
+You know how it is,
+you need a little something to cry about.
+
+289
+00:25:36,167 --> 00:25:40,661
+Regardless, we are one groom short
+for the wedding tomorrow.
+
+290
+00:25:40,839 --> 00:25:44,002
+Not to mention
+the financial implications.
+
+291
+00:25:44,175 --> 00:25:46,973
+A most scandalous embarrassment
+for us all.
+
+292
+00:25:47,145 --> 00:25:50,581
+Oh, give us a chance to find him,
+we beg of you.
+
+293
+00:25:50,748 --> 00:25:54,582
+- Just give us until dawn.
+- Very well. Till dawn.
+
+294
+00:25:55,286 --> 00:25:58,744
+Victor, darling, where are you?
+
+295
+00:25:59,190 --> 00:26:02,853
+<i>If you ask me,
+your boyfriend is kind of jumpy.</i>
+
+296
+00:26:03,027 --> 00:26:05,427
+He's not my boyfriend,
+he's my husband.
+
+297
+00:26:05,597 --> 00:26:08,031
+Victor, where have you gone?
+
+298
+00:26:08,366 --> 00:26:10,061
+I'll keep an eye out for him.
+
+299
+00:26:10,535 --> 00:26:11,524
+Victor?
+
+300
+00:26:15,773 --> 00:26:18,765
+There he goes, there he goes!
+He's... He's getting away!
+
+301
+00:26:18,943 --> 00:26:21,002
+Quick, quick, after him!
+
+302
+00:26:21,179 --> 00:26:22,407
+Victor.
+
+303
+00:26:28,086 --> 00:26:29,075
+Thank you.
+
+304
+00:26:29,420 --> 00:26:30,819
+Victor!
+
+305
+00:26:31,356 --> 00:26:33,347
+Where are you?
+
+306
+00:26:35,360 --> 00:26:36,884
+Victor?
+
+307
+00:26:37,562 --> 00:26:39,587
+Where have you gone?
+
+308
+00:26:40,131 --> 00:26:42,691
+Married, huh? I'm a widow.
+
+309
+00:26:42,867 --> 00:26:45,665
+Oh, how rude. He went that way!
+
+310
+00:26:47,372 --> 00:26:49,067
+Victor.
+
+311
+00:26:50,341 --> 00:26:52,104
+Victor, darling.
+
+312
+00:26:53,645 --> 00:26:57,342
+Please. There's been a mistake.
+I'm not dead.
+
+313
+00:27:01,052 --> 00:27:03,850
+Excuse me. Excuse me.
+
+314
+00:27:04,789 --> 00:27:05,915
+- Excuse me.
+- Excuse me.
+
+315
+00:27:06,457 --> 00:27:07,981
+- Thank you.
+- Thank you.
+
+316
+00:27:08,793 --> 00:27:10,260
+Victor.
+
+317
+00:27:12,230 --> 00:27:15,290
+- Dead end.
+- Victor!
+
+318
+00:27:15,600 --> 00:27:17,033
+Hello!
+
+319
+00:27:25,610 --> 00:27:28,135
+Could have used the stairs, silly.
+
+320
+00:27:30,615 --> 00:27:34,813
+Isn't the view beautiful?
+It takes my breath away.
+
+321
+00:27:36,020 --> 00:27:38,284
+Well, it would if I had any.
+
+322
+00:27:39,958 --> 00:27:42,153
+Isn't it romantic?
+
+323
+00:27:49,601 --> 00:27:52,832
+Look, I am terribly sorry
+about what's happened to you...
+
+324
+00:27:53,004 --> 00:27:56,303
+...and I'd like to help,
+but I really need to get home.
+
+325
+00:27:56,474 --> 00:27:59,637
+- This is your home now.
+- But I don't even know your name.
+
+326
+00:27:59,811 --> 00:28:03,269
+<i>Well, that's a great way
+to start a marriage.</i>
+
+327
+00:28:03,448 --> 00:28:04,847
+Shut up!
+
+328
+00:28:06,851 --> 00:28:09,718
+- It's Emily.
+- Emily.
+
+329
+00:28:09,887 --> 00:28:13,721
+Oh, I almost forgot.
+I have something for you.
+
+330
+00:28:14,692 --> 00:28:16,683
+It's a wedding present.
+
+331
+00:28:29,807 --> 00:28:31,104
+Thank you.
+
+332
+00:28:53,031 --> 00:28:54,293
+Scraps?
+
+333
+00:28:56,701 --> 00:28:58,134
+Scraps!
+
+334
+00:28:58,703 --> 00:29:00,261
+My dog, Scraps!
+
+335
+00:29:02,774 --> 00:29:05,743
+Oh, Scraps, what a good boy.
+
+336
+00:29:05,910 --> 00:29:08,071
+I knew you'd be happy to see him.
+
+337
+00:29:08,246 --> 00:29:12,444
+Who's my good boy?
+Sit. Sit, Scraps, sit.
+
+338
+00:29:12,617 --> 00:29:15,882
+Good boy, Scraps.
+Roll over. Roll over.
+
+339
+00:29:16,054 --> 00:29:18,955
+Good boy, Scraps.
+Play dead.
+
+340
+00:29:20,725 --> 00:29:22,124
+Sorry.
+
+341
+00:29:22,560 --> 00:29:24,187
+Oh, what a cutie.
+
+342
+00:29:24,362 --> 00:29:26,421
+You should have seen him with fur.
+
+343
+00:29:27,265 --> 00:29:30,132
+Mother never approved
+of Scraps jumping up like this.
+
+344
+00:29:30,301 --> 00:29:33,737
+But then again,
+she never approved of anything.
+
+345
+00:29:34,238 --> 00:29:36,729
+Do you think
+she would have approved of me?
+
+346
+00:29:37,041 --> 00:29:39,441
+You're lucky
+you'll never have to meet her.
+
+347
+00:29:41,679 --> 00:29:42,976
+Well, actually...
+
+348
+00:29:44,415 --> 00:29:48,249
+...now that you mention it,
+I think you should.
+
+349
+00:29:48,419 --> 00:29:51,411
+In fact, since we're, you know...
+
+350
+00:29:52,457 --> 00:29:55,153
+...married,
+you should definitely meet her.
+
+351
+00:29:55,560 --> 00:29:58,324
+And my father too. We should go
+and see them right now.
+
+352
+00:29:58,496 --> 00:30:01,260
+What a fantastic idea!
+Where are they buried?
+
+353
+00:30:03,167 --> 00:30:06,330
+- What? What is it?
+- They're not from around here.
+
+354
+00:30:06,504 --> 00:30:08,028
+Where are they?
+
+355
+00:30:08,973 --> 00:30:10,668
+Oh, they're still alive.
+
+356
+00:30:10,842 --> 00:30:12,969
+- I'm afraid so.
+- Well, that is a problem.
+
+357
+00:30:13,144 --> 00:30:14,509
+What's that, Scraps?
+
+358
+00:30:15,847 --> 00:30:17,815
+Oh, no, we couldn't possibly.
+
+359
+00:30:19,717 --> 00:30:23,483
+- Oh, well, if you put it like that.
+- What?
+
+360
+00:30:23,821 --> 00:30:25,379
+Elder Gutknecht.
+
+361
+00:30:34,832 --> 00:30:35,821
+Scraps.
+
+362
+00:30:36,000 --> 00:30:38,332
+Elder Gutknecht...
+
+363
+00:30:38,736 --> 00:30:40,226
+...are you there?
+
+364
+00:30:43,274 --> 00:30:46,209
+Hello? Is anyone home?
+
+365
+00:30:47,078 --> 00:30:48,545
+Hello?
+
+366
+00:30:59,924 --> 00:31:01,653
+There you are!
+
+367
+00:31:02,326 --> 00:31:04,726
+Oh, my dear. There you are.
+
+368
+00:31:04,896 --> 00:31:07,330
+I've brought my husband, Victor.
+
+369
+00:31:07,498 --> 00:31:10,296
+What's that? Husband?
+
+370
+00:31:10,668 --> 00:31:12,898
+Pleasure to meet you, sir.
+
+371
+00:31:13,704 --> 00:31:18,141
+We need to go up. Upstairs?
+To visit the land of the living.
+
+372
+00:31:18,309 --> 00:31:20,539
+Land of the living?
+
+373
+00:31:23,111 --> 00:31:24,578
+Oh, my dear.
+
+374
+00:31:24,746 --> 00:31:26,543
+Please, Elder Gutknecht.
+
+375
+00:31:26,715 --> 00:31:30,549
+Now, why go up there, when
+people are dying to get down here?
+
+376
+00:31:30,719 --> 00:31:33,779
+Sir, I beg you to help.
+It means so much to me...
+
+377
+00:31:34,923 --> 00:31:39,019
+- Us.
+- I don't know, it's just not natural.
+
+378
+00:31:39,194 --> 00:31:41,094
+Please, Elder Gutknecht.
+
+379
+00:31:41,263 --> 00:31:43,891
+Surely there must be something
+you can do.
+
+380
+00:31:45,868 --> 00:31:48,462
+Let me see what I can do.
+
+381
+00:31:48,804 --> 00:31:51,705
+Where did I put that book?
+
+382
+00:31:58,380 --> 00:32:00,610
+I left it here somewhere.
+
+383
+00:32:04,019 --> 00:32:06,112
+There's the one.
+
+384
+00:32:19,835 --> 00:32:21,427
+I have it.
+
+385
+00:32:21,837 --> 00:32:26,501
+A Ukrainian haunting spell.
+Just the thing for these quick trips.
+
+386
+00:32:27,142 --> 00:32:30,908
+- So glad you thought of this.
+- Me too.
+
+387
+00:32:54,503 --> 00:32:55,902
+Now, then...
+
+388
+00:32:57,105 --> 00:32:58,504
+...where were we?
+
+389
+00:32:59,741 --> 00:33:01,800
+The Ukrainian haunting spell?
+
+390
+00:33:10,986 --> 00:33:13,887
+Here we have it. Ready?
+
+391
+00:33:14,056 --> 00:33:17,992
+Just remember, when you
+want to come back, say "Hopscotch."
+
+392
+00:33:18,160 --> 00:33:20,890
+- Hopscotch?
+- That's it.
+
+393
+00:33:37,412 --> 00:33:39,642
+I spent so long in the darkness...
+
+394
+00:33:39,815 --> 00:33:44,514
+...I'd almost forgotten how beautiful
+the moonlight is.
+
+395
+00:34:11,780 --> 00:34:14,078
+Hey, I think you dropped something.
+
+396
+00:34:33,235 --> 00:34:34,827
+Hold on, hold on.
+
+397
+00:34:36,838 --> 00:34:41,172
+I think I should prepare Mother
+and Father for the big news.
+
+398
+00:34:42,878 --> 00:34:44,812
+I'll go ahead and you...
+
+399
+00:34:45,647 --> 00:34:47,114
+...wait here.
+
+400
+00:34:47,716 --> 00:34:50,310
+- Perfect.
+- I won't be long.
+
+401
+00:34:51,186 --> 00:34:54,087
+Stay right here. I'll be right back.
+
+402
+00:34:54,256 --> 00:34:55,814
+Okay.
+
+403
+00:34:56,558 --> 00:34:58,253
+No peeking.
+
+404
+00:35:17,512 --> 00:35:20,447
+If ever I see that Van Dort boy...
+
+405
+00:35:20,615 --> 00:35:23,880
+...I'll strangle him with my bare hands.
+
+406
+00:35:24,052 --> 00:35:28,216
+Your hands are too fat,
+and his neck is too thin.
+
+407
+00:35:28,390 --> 00:35:30,756
+You'll have to use a rope.
+
+408
+00:35:40,635 --> 00:35:45,470
+<i>This is the voice of your conscience.
+Listen to what I say.</i>
+
+409
+00:35:45,640 --> 00:35:49,838
+<i>I have a bad feeling about that boy.
+You know he is no...</i>
+
+410
+00:35:51,947 --> 00:35:54,313
+Go chew someone else's ear for a while.
+
+411
+00:35:54,483 --> 00:35:58,214
+Victor has gone to see his parents,
+just like he said.
+
+412
+00:35:58,854 --> 00:36:02,722
+If I hadn't just been sitting in it,
+I would say that you had lost your mind!
+
+413
+00:36:02,891 --> 00:36:07,351
+I'm sure he has a perfectly
+good reason for taking so long.
+
+414
+00:36:07,529 --> 00:36:10,726
+I am sure he does.
+Why don't you go ask him?
+
+415
+00:36:10,899 --> 00:36:11,957
+All right, I will.
+
+416
+00:36:12,134 --> 00:36:16,696
+After all, he couldn't get far
+with those cold feet.
+
+417
+00:36:55,177 --> 00:36:59,170
+- Victoria.
+- Victor? I'm so happy to see you.
+
+418
+00:36:59,347 --> 00:37:03,340
+Come by the fire. Where have you been?
+Are you all right?
+
+419
+00:37:03,885 --> 00:37:05,546
+I... I...
+
+420
+00:37:05,754 --> 00:37:07,085
+Oh, dear.
+
+421
+00:37:07,923 --> 00:37:11,518
+You're as cold as death.
+What's happened to you?
+
+422
+00:37:11,693 --> 00:37:13,558
+Your coat.
+
+423
+00:37:14,362 --> 00:37:17,263
+Victoria, I confess.
+
+424
+00:37:18,500 --> 00:37:21,628
+This morning
+I was terrified of marriage.
+
+425
+00:37:23,171 --> 00:37:27,665
+But then, on meeting you,
+I felt I should be with you always...
+
+426
+00:37:27,842 --> 00:37:32,040
+...and that our wedding
+could not come soon enough.
+
+427
+00:37:35,016 --> 00:37:38,452
+Victor, I feel the same.
+
+428
+00:37:43,358 --> 00:37:45,986
+Victoria, I se... I se...
+
+429
+00:37:46,161 --> 00:37:48,721
+I seem to find myself married.
+
+430
+00:37:48,897 --> 00:37:51,627
+And you should know it's unexpected.
+
+431
+00:37:55,503 --> 00:37:57,801
+My darling,
+I just wanted to meet...
+
+432
+00:38:00,575 --> 00:38:03,237
+Darling? Who's this?
+
+433
+00:38:03,411 --> 00:38:06,847
+- Who is she?
+- I'm his wife.
+
+434
+00:38:08,283 --> 00:38:10,808
+- Victor?
+- Victoria, wait. You don't understand.
+
+435
+00:38:11,286 --> 00:38:13,516
+She's dead. Look.
+
+436
+00:38:17,192 --> 00:38:18,489
+Hopscotch.
+
+437
+00:38:21,363 --> 00:38:24,161
+No! No! Victoria!
+
+438
+00:38:29,037 --> 00:38:31,005
+You lied to me!
+
+439
+00:38:31,172 --> 00:38:33,663
+Just to get back to that other woman.
+
+440
+00:38:33,842 --> 00:38:36,777
+Don't you understand?
+You're the other woman.
+
+441
+00:38:36,945 --> 00:38:41,473
+No! You're married to me.
+She's the other woman.
+
+442
+00:38:45,120 --> 00:38:46,883
+She's got a point.
+
+443
+00:38:47,555 --> 00:38:52,720
+And I thought... I thought
+this was all going so well.
+
+444
+00:39:01,569 --> 00:39:04,868
+Look, I'm sorry, but...
+
+445
+00:39:05,040 --> 00:39:06,507
+...this just can't work.
+
+446
+00:39:06,675 --> 00:39:08,609
+Why not?
+
+447
+00:39:09,611 --> 00:39:11,806
+It's my eye, isn't it?
+
+448
+00:39:11,980 --> 00:39:13,641
+No. Your eye is...
+
+449
+00:39:14,749 --> 00:39:16,046
+...lovely.
+
+450
+00:39:16,951 --> 00:39:21,285
+Listen, under different circumstances,
+well, who knows?
+
+451
+00:39:21,690 --> 00:39:26,059
+But we're just too different.
+I mean, you're dead.
+
+452
+00:39:26,227 --> 00:39:29,253
+You should've thought about that
+before you asked me to marry you.
+
+453
+00:39:29,431 --> 00:39:32,958
+Why can't you understand? It was
+a mistake. I would never marry you.
+
+454
+00:40:03,365 --> 00:40:06,061
+Roses for eternal love.
+
+455
+00:40:07,135 --> 00:40:09,535
+Lilies for sweetness.
+
+456
+00:40:12,307 --> 00:40:13,865
+Baby's breath.
+
+457
+00:40:19,681 --> 00:40:21,273
+Why so blue?
+
+458
+00:40:21,449 --> 00:40:24,509
+Maybe he's right.
+Maybe we are too different.
+
+459
+00:40:24,686 --> 00:40:27,280
+<i>Maybe he should
+have his head examined.</i>
+
+460
+00:40:28,823 --> 00:40:30,620
+I could do it.
+
+461
+00:40:30,792 --> 00:40:34,284
+Or perhaps he does belong with her.
+Little Miss Living.
+
+462
+00:40:34,462 --> 00:40:37,829
+With her rosy cheeks and beating heart.
+
+463
+00:40:38,333 --> 00:40:42,531
+Oh, those girls are ten a penny.
+You've got so much more.
+
+464
+00:40:42,704 --> 00:40:45,002
+You've got... You've got...
+
+465
+00:40:45,173 --> 00:40:47,664
+You've got a wonderful personality.
+
+466
+00:40:54,749 --> 00:40:59,186
+<i>♪ What does that wispy little brat have
+That you don't have double? ♪</i>
+
+467
+00:40:59,354 --> 00:41:02,983
+<i>♪ She can't hold a candle
+To the beauty of your smile ♪</i>
+
+468
+00:41:03,158 --> 00:41:04,420
+How about a pulse?
+
+469
+00:41:04,592 --> 00:41:05,923
+<i>♪ Overrated by a mile ♪</i>
+
+470
+00:41:06,094 --> 00:41:07,356
+<i>♪ - Overvalued ♪
+♪ - Overblown ♪</i>
+
+471
+00:41:07,595 --> 00:41:11,361
+<i>♪ If he only knew
+The you that we know ♪</i>
+
+472
+00:41:12,667 --> 00:41:15,636
+<i>♪ And that silly little creature
+Isn't wearing his ring ♪</i>
+
+473
+00:41:15,804 --> 00:41:19,205
+<i>♪ And she doesn't play piano
+Or dance, or sing ♪</i>
+
+474
+00:41:19,374 --> 00:41:21,137
+<i>♪ No, she doesn't compare ♪</i>
+
+475
+00:41:21,309 --> 00:41:23,573
+<i>♪ - But she still breathes air ♪
+♪ - Who cares? ♪</i>
+
+476
+00:41:23,745 --> 00:41:25,007
+<i>♪ - Unimportant ♪
+♪ - Overrated ♪</i>
+
+477
+00:41:25,180 --> 00:41:27,375
+<i>♪ - Overblown ♪
+♪ - If only he could see ♪</i>
+
+478
+00:41:27,549 --> 00:41:29,176
+<i>♪ How special you can be ♪</i>
+
+479
+00:41:29,350 --> 00:41:33,377
+<i>♪ If he only knew
+The you that we know ♪</i>
+
+480
+00:41:39,227 --> 00:41:44,164
+<i>♪ If I touch a burning candle
+I can feel no pain ♪</i>
+
+481
+00:41:44,899 --> 00:41:48,630
+<i>♪ If you cut me with a knife
+It's still the same ♪</i>
+
+482
+00:41:50,371 --> 00:41:53,340
+<i>♪ And I know her heart is beating ♪</i>
+
+483
+00:41:53,875 --> 00:41:56,275
+<i>♪ And I know that I am dead ♪</i>
+
+484
+00:41:56,744 --> 00:41:59,110
+<i>♪ Yet the pain here that I feel ♪</i>
+
+485
+00:41:59,781 --> 00:42:02,341
+<i>♪ Try and tell me it's not real ♪</i>
+
+486
+00:42:02,951 --> 00:42:07,388
+<i>♪ And it seems that I still have
+A tear to shed ♪</i>
+
+487
+00:42:11,860 --> 00:42:15,125
+<i>♪ The sole redeeming feature
+From that little creature ♪</i>
+
+488
+00:42:15,296 --> 00:42:16,661
+<i>♪ Is that she's alive ♪</i>
+
+489
+00:42:16,831 --> 00:42:18,458
+<i>♪ - Overrated ♪
+♪ - Overblown ♪</i>
+
+490
+00:42:18,633 --> 00:42:21,659
+<i>♪ Everybody knows
+That's just a temporary state ♪</i>
+
+491
+00:42:21,836 --> 00:42:25,033
+<i>♪ Which is cured very quickly
+When we meet our fate ♪</i>
+
+492
+00:42:25,206 --> 00:42:26,730
+<i>♪ - Who cares? ♪
+♪ - Unimportant ♪</i>
+
+493
+00:42:26,908 --> 00:42:28,273
+<i>♪ - Overrated ♪
+♪ - Overblown ♪</i>
+
+494
+00:42:28,443 --> 00:42:31,708
+<i>♪ If only he could see
+How special you can be ♪</i>
+
+495
+00:42:31,880 --> 00:42:36,340
+<i>♪ If he only knew
+The you that we know ♪</i>
+
+496
+00:42:41,623 --> 00:42:46,959
+<i>♪ If I touch a burning candle
+I can feel no pain ♪</i>
+
+497
+00:42:47,362 --> 00:42:51,389
+<i>♪ In the ice or in the sun
+It's all the same ♪</i>
+
+498
+00:42:53,167 --> 00:42:55,829
+<i>♪ Yet I feel my heart is aching ♪</i>
+
+499
+00:42:56,337 --> 00:42:59,135
+<i>♪ Though it doesn't beat, it's breaking ♪</i>
+
+500
+00:42:59,307 --> 00:43:01,832
+<i>♪ And the pain here that I feel ♪</i>
+
+501
+00:43:02,277 --> 00:43:04,541
+<i>♪ Try and tell me it's not real ♪</i>
+
+502
+00:43:05,346 --> 00:43:08,008
+<i>♪ I know that I am dead ♪</i>
+
+503
+00:43:08,950 --> 00:43:13,410
+<i>♪ Yet it seems that I still have
+Some tears to shed ♪</i>
+
+504
+00:43:22,530 --> 00:43:24,464
+It's true, Mother!
+
+505
+00:43:24,632 --> 00:43:27,396
+Victor is married to a dead woman.
+
+506
+00:43:27,569 --> 00:43:32,336
+I saw her. A corpse!
+Standing right here with Victor.
+
+507
+00:43:32,507 --> 00:43:34,065
+Victor was in your room?
+
+508
+00:43:34,242 --> 00:43:35,607
+I have to help him.
+
+509
+00:43:35,777 --> 00:43:37,301
+The scandal!
+
+510
+00:43:37,478 --> 00:43:41,312
+Come sit in your chair, dearie.
+You're shaking like a leaf.
+
+511
+00:43:41,482 --> 00:43:43,507
+Let Hilde fetch you a blanket.
+
+512
+00:43:43,685 --> 00:43:47,086
+Fetch her a straitjacket!
+She's completely mad!
+
+513
+00:43:47,255 --> 00:43:49,120
+Come, Hildegarde.
+
+514
+00:44:22,390 --> 00:44:25,325
+Finis, come to bed at once.
+
+515
+00:44:46,080 --> 00:44:49,049
+What in heaven's name?
+
+516
+00:44:51,653 --> 00:44:54,645
+Who could that be at this hour?
+
+517
+00:44:56,190 --> 00:44:57,452
+Miss Everglot.
+
+518
+00:44:57,892 --> 00:45:02,158
+What are you doing here? You should be
+at home, prostrate with grief.
+
+519
+00:45:02,330 --> 00:45:05,026
+Pastor Galswells,
+I have to ask you something.
+
+520
+00:45:05,199 --> 00:45:08,600
+- This is most irregular.
+- Please, I beg of you.
+
+521
+00:45:08,770 --> 00:45:13,264
+You are the only one in the village who
+knows of what awaits beyond the grave.
+
+522
+00:45:13,441 --> 00:45:16,171
+A grim topic for a bride-to-be.
+
+523
+00:45:16,477 --> 00:45:21,312
+It is a bride I fear,
+which is why I must know:
+
+524
+00:45:21,849 --> 00:45:24,044
+Can the living marry the dead?
+
+525
+00:45:24,318 --> 00:45:27,082
+What on earth are you speaking about?
+
+526
+00:45:27,255 --> 00:45:30,224
+Please, it's Victor.
+He's married to a corpse.
+
+527
+00:45:30,658 --> 00:45:32,888
+He has a corpse bride!
+
+528
+00:45:33,061 --> 00:45:36,758
+There must be some way
+to undo what's been done.
+
+529
+00:45:39,167 --> 00:45:42,136
+I believe I know the thing to do.
+
+530
+00:45:42,837 --> 00:45:44,168
+Come with me.
+
+531
+00:45:46,974 --> 00:45:49,465
+Victoria? Where are your corsets?
+
+532
+00:45:49,644 --> 00:45:53,341
+She's speaking in tongues.
+Of unholy alliances.
+
+533
+00:45:53,514 --> 00:45:55,778
+Her mind has come undone, I fear.
+
+534
+00:45:55,950 --> 00:45:58,077
+It's not true! Let me go! Let me go!
+
+535
+00:45:58,252 --> 00:46:02,951
+Thank you, Pastor Galswells.
+Thank you so very much.
+
+536
+00:46:03,591 --> 00:46:04,922
+Take her to her room!
+
+537
+00:46:05,093 --> 00:46:07,527
+No, I'm telling the truth.
+
+538
+00:46:07,695 --> 00:46:09,560
+Victor needs my help.
+
+539
+00:46:09,731 --> 00:46:11,961
+Hildegarde, you believe me, don't you?
+
+540
+00:46:12,133 --> 00:46:15,068
+- Mother, Father, please.
+- Seal the doors...
+
+541
+00:46:15,236 --> 00:46:19,696
+...and bar the windows. See to it that
+she doesn't escape again.
+
+542
+00:46:19,974 --> 00:46:24,274
+He needs our help! Oh, let me go!
+Let me go!
+
+543
+00:46:24,445 --> 00:46:28,472
+Will the mortification never cease?
+
+544
+00:46:28,649 --> 00:46:31,846
+It will be years before we can show
+ourselves in public again.
+
+545
+00:46:32,019 --> 00:46:33,281
+What shall we do?
+
+546
+00:46:33,454 --> 00:46:37,083
+We shall continue as planned,
+with or without Vincent.
+
+547
+00:46:37,258 --> 00:46:39,522
+- Victor.
+- Whatever.
+
+548
+00:46:39,694 --> 00:46:44,427
+For that boy to toss aside
+a young woman like Victoria...
+
+549
+00:46:44,599 --> 00:46:46,624
+...it's positively criminal.
+
+550
+00:46:46,801 --> 00:46:50,999
+Why, if I had a woman
+like your daughter on my arm...
+
+551
+00:46:51,172 --> 00:46:55,768
+...I would lavish her with riches
+befitting royalty.
+
+552
+00:46:55,943 --> 00:46:59,606
+Your lady wife
+is a most fortunate woman.
+
+553
+00:46:59,781 --> 00:47:02,648
+Alas, I am not married.
+
+554
+00:47:02,817 --> 00:47:04,682
+I was betrothed some years ago...
+
+555
+00:47:04,852 --> 00:47:08,788
+...but tragedy snatched
+my young bride away.
+
+556
+00:47:09,023 --> 00:47:13,016
+When one lives alone,
+wealth counts for naught.
+
+557
+00:47:21,135 --> 00:47:25,037
+Marvelous news, Victoria,
+there'll be a wedding after all.
+
+558
+00:47:25,206 --> 00:47:26,503
+You found him?
+
+559
+00:47:26,674 --> 00:47:30,132
+Make haste, my dear,
+our relatives will arrive at any moment.
+
+560
+00:47:30,311 --> 00:47:34,111
+We must have you looking presentable
+for Lord Barkis.
+
+561
+00:47:35,783 --> 00:47:37,045
+Lord Barkis?
+
+562
+00:47:37,218 --> 00:47:38,742
+He will make a fine husband.
+
+563
+00:47:38,920 --> 00:47:42,253
+Aye. A fortuitous turn of events indeed.
+
+564
+00:47:42,423 --> 00:47:44,687
+A far better prospect this time.
+
+565
+00:47:44,859 --> 00:47:48,556
+But I do not love him.
+You cannot make me do this.
+
+566
+00:47:48,729 --> 00:47:51,596
+- We must.
+- Please, I beg of you.
+
+567
+00:47:51,766 --> 00:47:53,199
+There must be another way.
+
+568
+00:47:53,367 --> 00:47:55,301
+Without your marriage to Lord Barkis...
+
+569
+00:47:55,469 --> 00:47:57,960
+...we shall be forced,
+penniless, into the street.
+
+570
+00:47:58,139 --> 00:47:59,572
+We are destitute.
+
+571
+00:48:00,007 --> 00:48:01,702
+But Victor...
+
+572
+00:48:01,876 --> 00:48:04,401
+Victor Van Dort has gone, child.
+
+573
+00:48:04,579 --> 00:48:07,605
+You shall marry Lord Barkis tomorrow.
+
+574
+00:48:10,351 --> 00:48:12,546
+- According to plan.
+- According to plan.
+
+575
+00:48:41,282 --> 00:48:44,945
+Oh, my dear.
+Oh, don't look at me that way.
+
+576
+00:48:45,119 --> 00:48:49,453
+You have only to suffer this union
+until death do us part.
+
+577
+00:48:49,790 --> 00:48:53,453
+And that will come sooner
+than you think.
+
+578
+00:48:56,764 --> 00:48:58,732
+Oh, it's almost dawn!
+Where could he be?
+
+579
+00:48:58,900 --> 00:49:01,960
+Victor Van Dort elopes with corpse!
+
+580
+00:49:02,136 --> 00:49:05,833
+Heartbroken bride to wed
+wealthy newcomer!
+
+581
+00:49:06,007 --> 00:49:08,669
+Wealthy newcomer? It cannot be.
+
+582
+00:49:08,843 --> 00:49:10,606
+Did he say corpse?
+
+583
+00:49:10,778 --> 00:49:14,612
+Oh, don't be ridiculous. What corpse
+would marry our Victor?
+
+584
+00:49:14,782 --> 00:49:20,778
+Oh, Mayhew!
+Silence that blasted coughing.
+
+585
+00:49:37,338 --> 00:49:39,932
+Mayhew, are you trying to kill us?
+
+586
+00:49:40,107 --> 00:49:42,371
+I think he's trying to kill us.
+
+587
+00:50:21,549 --> 00:50:22,880
+I...
+
+588
+00:50:24,118 --> 00:50:25,949
+...think you dropped this.
+
+589
+00:50:35,062 --> 00:50:36,393
+I'm sorry.
+
+590
+00:50:36,831 --> 00:50:40,528
+I'm sorry I lied to you
+about wanting to see my parents.
+
+591
+00:50:40,835 --> 00:50:45,033
+It's just this whole day
+hasn't gone quite, well...
+
+592
+00:50:47,675 --> 00:50:49,336
+...according to plan.
+
+593
+00:51:54,909 --> 00:51:56,501
+Pardon my enthusiasm.
+
+594
+00:51:56,844 --> 00:51:58,903
+I like your enthusiasm.
+
+595
+00:52:03,551 --> 00:52:07,009
+- New arrival! New arrival!
+- Lights up!
+
+596
+00:52:10,491 --> 00:52:11,890
+Hurry up, boys!
+
+597
+00:52:14,829 --> 00:52:16,456
+Drinks for everyone.
+
+598
+00:52:16,630 --> 00:52:17,722
+Another pint, sir?
+
+599
+00:52:17,898 --> 00:52:19,923
+- No, no. Just a half.
+- No, no. Just a half.
+
+600
+00:52:25,172 --> 00:52:27,834
+It is impossible
+to get good help anymore.
+
+601
+00:52:28,008 --> 00:52:30,738
+Welcoming committee, coming through!
+Coming through!
+
+602
+00:52:30,911 --> 00:52:35,712
+- My name's Plum. Miss Plum.
+- Mayhew?
+
+603
+00:52:37,218 --> 00:52:39,652
+Mayhew! How nice to see...
+
+604
+00:52:41,889 --> 00:52:43,083
+I'm so sorry.
+
+605
+00:52:43,257 --> 00:52:47,626
+Oh, yeah. Actually, though, I feel great.
+
+606
+00:52:49,697 --> 00:52:53,565
+Hurry up, boys. Can you not see
+the gentleman is parched?
+
+607
+00:52:54,502 --> 00:52:57,403
+Mayhew, I have to get back.
+
+608
+00:52:57,571 --> 00:53:00,131
+They all must be worried sick.
+How is everyone?
+
+609
+00:53:00,307 --> 00:53:04,266
+Well, they're still wondering
+where you slipped off to.
+
+610
+00:53:04,445 --> 00:53:06,640
+Oh, and Miss Victoria...
+
+611
+00:53:06,814 --> 00:53:08,372
+Yes? Yes, how is she?
+
+612
+00:53:08,549 --> 00:53:11,484
+Well, she's getting married
+this evening.
+
+613
+00:53:11,652 --> 00:53:13,643
+What? Married to who?
+
+614
+00:53:13,821 --> 00:53:17,484
+Some newcomer,
+Lord Somebody-or-Other.
+
+615
+00:53:17,658 --> 00:53:18,989
+But that's impossible!
+
+616
+00:53:19,160 --> 00:53:21,321
+Yeah, with you gone and all...
+
+617
+00:53:21,495 --> 00:53:24,862
+I guess they didn't wanna
+waste the cake.
+
+618
+00:53:26,734 --> 00:53:27,928
+But how could she?
+
+619
+00:53:28,102 --> 00:53:31,003
+Women, you can't live with them.
+
+620
+00:53:31,172 --> 00:53:33,436
+You can't live with...
+
+621
+00:53:35,409 --> 00:53:40,506
+Time to pick up the pieces and...
+You know, and move on, I suppose.
+
+622
+00:53:41,615 --> 00:53:43,742
+Speaking of picking up the pieces?
+
+623
+00:53:47,188 --> 00:53:50,453
+Victor? Where are you going?
+
+624
+00:53:53,627 --> 00:53:58,462
+Miss Victoria, we must leave
+for the church now.
+
+625
+00:53:58,866 --> 00:54:02,324
+Yesterday I thought my wedding
+would be happy.
+
+626
+00:54:02,536 --> 00:54:06,529
+Now I feel like I'm caught
+in the tide, pulled out to sea.
+
+627
+00:54:06,707 --> 00:54:10,404
+The sea leads to many places, dearie.
+
+628
+00:54:11,345 --> 00:54:14,837
+Maybe you'll land somewhere better.
+
+629
+00:54:20,654 --> 00:54:25,216
+With this candle, I will light
+your way in darkness.
+
+630
+00:54:31,265 --> 00:54:36,931
+With this ring,
+I ask you to be mine.
+
+631
+00:54:40,741 --> 00:54:45,337
+I now pronounce you man and wife.
+
+632
+00:54:45,946 --> 00:54:47,914
+Oh, oh, dear.
+
+633
+00:55:03,864 --> 00:55:05,798
+I'm too late.
+
+634
+00:55:10,037 --> 00:55:12,528
+Oh, Mrs. Plum, what am I to do?
+
+635
+00:55:12,706 --> 00:55:16,938
+He just walked off without saying
+a word. Are all men like this?
+
+636
+00:55:17,111 --> 00:55:19,978
+Well, I'm afraid none of them
+are very bright.
+
+637
+00:55:20,147 --> 00:55:22,047
+They get something stuck
+in their heads...
+
+638
+00:55:22,216 --> 00:55:24,776
+...and you can't do a thing with them.
+
+639
+00:55:25,786 --> 00:55:28,220
+My dear, we have to talk.
+
+640
+00:55:28,389 --> 00:55:32,723
+- Let me tell her, please. Let me tell her.
+- What?
+
+641
+00:55:32,893 --> 00:55:35,953
+There is a complication
+with your marriage.
+
+642
+00:55:36,463 --> 00:55:37,953
+I don't understand.
+
+643
+00:55:38,132 --> 00:55:42,569
+The vows are binding
+only until death do you part.
+
+644
+00:55:42,970 --> 00:55:44,232
+What are you saying?
+
+645
+00:55:44,972 --> 00:55:47,702
+Death has already parted you.
+
+646
+00:55:48,942 --> 00:55:50,773
+If he finds out, he'll leave.
+
+647
+00:55:50,944 --> 00:55:52,969
+There must be something you can do.
+
+648
+00:55:53,147 --> 00:55:55,911
+Well, there is one way.
+
+649
+00:55:56,083 --> 00:55:57,983
+Oh, please, please, let me tell her.
+
+650
+00:55:58,152 --> 00:56:01,178
+It requires the greatest sacrifice.
+
+651
+00:56:01,789 --> 00:56:05,156
+- Go on, get to the good part.
+- What is it?
+
+652
+00:56:05,326 --> 00:56:08,022
+- We have to kill him!
+- What?
+
+653
+00:56:08,195 --> 00:56:12,928
+Victor would have to give up
+the life he had forever.
+
+654
+00:56:13,334 --> 00:56:17,168
+He would need to repeat his vows
+in the land of the living...
+
+655
+00:56:17,338 --> 00:56:20,603
+...and drink from the wine of ages.
+
+656
+00:56:21,442 --> 00:56:22,704
+Poison!
+
+657
+00:56:22,976 --> 00:56:26,104
+This would stop his heart forever.
+
+658
+00:56:26,280 --> 00:56:29,545
+Only then would he be free
+to give it to you.
+
+659
+00:56:32,619 --> 00:56:35,179
+I could never ask him.
+
+660
+00:56:37,658 --> 00:56:39,455
+You don't have to.
+
+661
+00:56:41,995 --> 00:56:43,257
+I'll do it.
+
+662
+00:56:43,697 --> 00:56:46,632
+My boy, if you choose this path...
+
+663
+00:56:46,800 --> 00:56:49,667
+...you may never return
+to the world above.
+
+664
+00:56:49,837 --> 00:56:51,395
+Do you understand?
+
+665
+00:56:54,842 --> 00:56:56,810
+I do.
+
+666
+00:56:57,177 --> 00:57:00,044
+Gather round. Gather round, everybody.
+
+667
+00:57:03,784 --> 00:57:06,344
+We've decided to do this thing properly.
+
+668
+00:57:06,520 --> 00:57:08,920
+So grab what you can and follow us.
+
+669
+00:57:09,089 --> 00:57:11,649
+We're moving this wedding party upstairs.
+
+670
+00:57:11,825 --> 00:57:15,989
+Upstairs? I didn't know
+we had an upstairs.
+
+671
+00:57:16,163 --> 00:57:18,723
+- Sounds creepy.
+- Let's go!
+
+672
+00:57:19,166 --> 00:57:22,226
+<i>♪ A wedding, a wedding
+We're going to have a wedding ♪</i>
+
+673
+00:57:24,905 --> 00:57:27,066
+Hold on, Victor.
+
+674
+00:57:27,241 --> 00:57:30,438
+You can't get married looking like that.
+
+675
+00:57:30,611 --> 00:57:33,910
+<i>♪ The spiders think you're very cute
+But goodness knows you need a suit ♪</i>
+
+676
+00:57:34,081 --> 00:57:37,949
+<i>♪ But have no fears, we're quite adept
+We'll have you looking lovely, lovely, lovely ♪</i>
+
+677
+00:57:38,118 --> 00:57:40,484
+<i>♪ Lovely, lovely, lovely,
+lovely, lovely yet ♪</i>
+
+678
+00:57:41,321 --> 00:57:44,484
+<i>♪ A little stitch, a little tuck
+Some tender loving care ♪</i>
+
+679
+00:57:44,658 --> 00:57:47,786
+<i>♪ A little thread will fix you up
+And we've got plenty as you see ♪</i>
+
+680
+00:57:47,961 --> 00:57:51,328
+<i>♪ And personally guarantee
+Our quality repairs ♪</i>
+
+681
+00:57:51,498 --> 00:57:54,934
+<i>♪ A little here, I'll fix the mess
+We're going to do our very best ♪</i>
+
+682
+00:57:55,102 --> 00:57:57,696
+<i>♪ When everybody sees you
+They will all be quite impressed ♪</i>
+
+683
+00:57:57,871 --> 00:58:01,773
+<i>♪ They will all be quite impressed ♪</i>
+
+684
+00:58:01,942 --> 00:58:03,637
+<i>♪ A wedding, we're going to have ♪</i>
+
+685
+00:58:03,811 --> 00:58:06,871
+<i>♪ A wedding cake is no mistake
+It must be quite sublime ♪</i>
+
+686
+00:58:07,047 --> 00:58:08,810
+<i>♪ - We're missing something ♪
+♪ - Try some dust ♪</i>
+
+687
+00:58:08,982 --> 00:58:10,313
+<i>♪ I wish I had more time ♪</i>
+
+688
+00:58:10,484 --> 00:58:13,385
+<i>♪ Perhaps there's something I can do
+These bones might help a bit ♪</i>
+
+689
+00:58:13,554 --> 00:58:15,385
+- Oh, my nose.
+- Sorry.
+
+690
+00:58:15,556 --> 00:58:16,818
+<i>♪ Wait a minute, that's it ♪</i>
+
+691
+00:58:16,990 --> 00:58:18,389
+<i>♪ - A little of that ♪
+♪ - A little of this ♪</i>
+
+692
+00:58:18,559 --> 00:58:20,254
+<i>♪ The perfect cake is hard to miss ♪</i>
+
+693
+00:58:20,461 --> 00:58:22,725
+<i>♪ A wedding, a wedding
+We're going to have ♪</i>
+
+694
+00:58:22,896 --> 00:58:24,193
+<i>♪ A wedding ♪</i>
+
+695
+00:58:24,364 --> 00:58:25,991
+<i>♪ Huzzah, huzzah ♪</i>
+
+696
+00:58:26,166 --> 00:58:28,691
+<i>♪ We're going to have a wedding
+A wedding ♪</i>
+
+697
+00:58:29,336 --> 00:58:35,138
+<i>♪ Let's all give out a cheer
+'Cause the bride is getting married today ♪</i>
+
+698
+00:58:36,410 --> 00:58:39,345
+<i>♪ One thing you can surely say
+Is we will stand beside ♪</i>
+
+699
+00:58:39,513 --> 00:58:42,414
+<i>♪ Until the end we will defend
+Our one and only bride ♪</i>
+
+700
+00:58:42,583 --> 00:58:45,780
+<i>♪ Our bride-to-be, our bride-to-be
+Our lovely Corpse Bride ♪</i>
+
+701
+00:58:45,953 --> 00:58:47,750
+<i>♪ Huzzah! Hooray! Huzzah! Hooray! ♪</i>
+
+702
+00:58:47,921 --> 00:58:52,153
+<i>♪ Our bride is getting married today ♪</i>
+
+703
+00:58:52,326 --> 00:58:54,351
+- Oh, there she is.
+- Here she comes.
+
+704
+00:58:59,566 --> 00:59:03,229
+<i>♪ Oh, oh, the bride is here ♪</i>
+
+705
+00:59:03,403 --> 00:59:07,203
+<i>♪ She's waited for this day
+For many a year ♪</i>
+
+706
+00:59:07,374 --> 00:59:11,538
+<i>♪ For this day, for this day
+Our hopes and our pride ♪</i>
+
+707
+00:59:11,712 --> 00:59:17,912
+<i>♪ The bride is here
+Here comes the bride ♪</i>
+
+708
+00:59:18,118 --> 00:59:22,077
+<i>♪ Here comes the bride
+Here comes the bride ♪</i>
+
+709
+00:59:22,322 --> 00:59:26,258
+<i>♪ For this day, for this day
+Will last forever ♪</i>
+
+710
+00:59:26,426 --> 00:59:30,226
+<i>♪ And all of her friends
+Will work together ♪</i>
+
+711
+00:59:30,397 --> 00:59:34,094
+<i>♪ To make it the perfect day
+She's always dreamed ♪</i>
+
+712
+00:59:34,268 --> 00:59:41,504
+<i>♪ Our hopes and our pride
+Our bride, our lovely bride ♪</i>
+
+713
+00:59:42,142 --> 00:59:44,906
+<i>♪ We're going to have a party
+Like nobody's ever seen ♪</i>
+
+714
+00:59:45,078 --> 00:59:48,775
+<i>♪ The living in the land above
+Will not know where they've been ♪</i>
+
+715
+00:59:48,949 --> 00:59:55,582
+<i>♪ The land above
+The party of the bride ♪</i>
+
+716
+00:59:56,423 --> 01:00:02,225
+<i>♪ Here comes the bride
+On this glorious day of days ♪</i>
+
+717
+01:00:02,396 --> 01:00:07,129
+<i>♪ Up to the land of the living ♪</i>
+
+718
+01:00:07,301 --> 01:00:15,106
+<i>♪ To celebrate ♪</i>
+
+719
+01:00:17,544 --> 01:00:20,035
+Oh, dear.
+
+720
+01:00:31,491 --> 01:00:34,892
+Quiet down now, everyone.
+
+721
+01:00:39,399 --> 01:00:40,866
+Thank you.
+
+722
+01:00:41,902 --> 01:00:46,396
+Elegant, cultured, radiant.
+
+723
+01:00:47,040 --> 01:00:49,804
+Victoria has found a husband...
+
+724
+01:00:49,977 --> 01:00:54,141
+...with all these qualities and more.
+
+725
+01:00:54,314 --> 01:00:56,908
+Serendipity brought us together...
+
+726
+01:00:57,084 --> 01:01:02,386
+...and no force on earth
+could tear us apart.
+
+727
+01:01:22,909 --> 01:01:25,241
+There's an eye in me soup.
+
+728
+01:01:34,755 --> 01:01:35,744
+Oh, sorry.
+
+729
+01:01:42,829 --> 01:01:44,023
+Fetch me musket!
+
+730
+01:01:44,197 --> 01:01:46,324
+Fetch your own musket. I'm off!
+
+731
+01:01:46,500 --> 01:01:48,730
+Coming through. Coming through.
+
+732
+01:01:52,005 --> 01:01:56,738
+Excuse me, you don't know me,
+but I used to live in your dead mother.
+
+733
+01:01:58,045 --> 01:01:59,672
+Hey, hold on there.
+
+734
+01:02:00,180 --> 01:02:03,707
+I love a woman with meat on her bones.
+
+735
+01:02:04,951 --> 01:02:07,511
+Finis, who invited these people?
+
+736
+01:02:08,488 --> 01:02:10,581
+They must be from your side
+of the family.
+
+737
+01:02:10,757 --> 01:02:12,019
+Certainly not.
+
+738
+01:02:12,192 --> 01:02:16,151
+Why, if my Grandfather Everglot could
+see this, he'd be turning in his grave.
+
+739
+01:02:16,329 --> 01:02:18,263
+Finis.
+
+740
+01:02:19,766 --> 01:02:21,961
+Where do you keep the spirits?
+
+741
+01:02:30,844 --> 01:02:34,974
+In other news, the dead walk the earth!
+
+742
+01:02:39,720 --> 01:02:43,417
+Get back! Don't try
+and sneak up on me!
+
+743
+01:02:43,590 --> 01:02:45,057
+Get back!
+
+744
+01:02:46,426 --> 01:02:48,257
+I'll give you such a wallop.
+
+745
+01:02:59,806 --> 01:03:01,068
+No.
+
+746
+01:03:01,241 --> 01:03:02,606
+Yeah.
+
+747
+01:03:17,090 --> 01:03:18,887
+Grandpa?
+
+748
+01:03:22,496 --> 01:03:24,020
+- Bounder!
+- Sweetie pie.
+
+749
+01:03:24,197 --> 01:03:25,630
+- Monster.
+- Buttercup.
+
+750
+01:03:25,799 --> 01:03:27,596
+- Cad!
+- Gertrude!
+
+751
+01:03:28,068 --> 01:03:29,592
+Alfred?
+
+752
+01:03:31,271 --> 01:03:34,172
+You've been dead for 15 years.
+
+753
+01:03:34,341 --> 01:03:38,209
+Frankly, my dear, I don't give a damn.
+
+754
+01:03:38,378 --> 01:03:40,141
+Ethel!
+
+755
+01:03:50,490 --> 01:03:52,287
+Wait. That's it.
+
+756
+01:03:52,459 --> 01:03:55,860
+We're going to take whatever money
+we can and get out of here.
+
+757
+01:03:56,029 --> 01:03:58,463
+Money? What money?
+
+758
+01:03:58,632 --> 01:04:00,998
+Your dowry. It's my right!
+
+759
+01:04:01,168 --> 01:04:03,159
+But my parents don't have any money.
+
+760
+01:04:03,336 --> 01:04:08,035
+It's my marriage to you that will
+save them from the poorhouse.
+
+761
+01:04:08,208 --> 01:04:10,301
+Th... The poorhouse?
+
+762
+01:04:10,777 --> 01:04:14,611
+You're lying. It isn't true.
+Tell me that you're lying!
+
+763
+01:04:14,781 --> 01:04:18,581
+Did things not go according
+to your plan, Lord Barkis?
+
+764
+01:04:18,752 --> 01:04:23,553
+Well, perhaps in disappointment
+we are perfectly matched.
+
+765
+01:04:42,375 --> 01:04:45,173
+Be gone, ye demons from hell!
+
+766
+01:04:45,345 --> 01:04:49,406
+Back to the void
+from whence you came!
+
+767
+01:04:49,583 --> 01:04:51,380
+You shall not enter here.
+
+768
+01:04:51,551 --> 01:04:54,111
+Back, back!
+
+769
+01:04:54,287 --> 01:04:56,517
+Keep it down, we're in a church.
+
+770
+01:04:56,690 --> 01:04:58,590
+Evening.
+
+771
+01:05:35,095 --> 01:05:37,393
+Dearly beloved and departed...
+
+772
+01:05:37,564 --> 01:05:43,264
+...we are gathered here today to join
+this man and this corpse in marriage.
+
+773
+01:05:46,606 --> 01:05:48,574
+Victor?
+
+774
+01:05:50,543 --> 01:05:52,010
+Living first.
+
+775
+01:05:54,080 --> 01:05:55,638
+With this hand...
+
+776
+01:05:56,416 --> 01:05:58,907
+...I will lift your sorrows.
+
+777
+01:06:00,520 --> 01:06:02,784
+Your cup will never empty...
+
+778
+01:06:03,323 --> 01:06:05,314
+...for I will be your wine.
+
+779
+01:06:06,226 --> 01:06:07,488
+Now you.
+
+780
+01:06:12,666 --> 01:06:14,725
+With this hand...
+
+781
+01:06:14,901 --> 01:06:17,199
+...I will lift your sorrows.
+
+782
+01:06:18,705 --> 01:06:21,868
+Your cup will never empty.
+
+783
+01:06:23,643 --> 01:06:25,668
+For I will be...
+
+784
+01:06:31,284 --> 01:06:32,979
+I will be...
+
+785
+01:06:34,888 --> 01:06:36,515
+Go on, my dear.
+
+786
+01:06:37,123 --> 01:06:38,886
+Your cup...
+
+787
+01:06:39,592 --> 01:06:41,651
+...will never empty...
+
+788
+01:06:43,863 --> 01:06:45,797
+...for I will be...
+
+789
+01:06:47,934 --> 01:06:50,129
+I will be your wine.
+
+790
+01:06:54,774 --> 01:06:56,366
+She's having second thoughts.
+
+791
+01:06:59,479 --> 01:07:00,571
+I can't.
+
+792
+01:07:01,247 --> 01:07:02,942
+What's wrong?
+
+793
+01:07:04,250 --> 01:07:06,047
+This is wrong.
+
+794
+01:07:07,287 --> 01:07:09,380
+I was a bride.
+
+795
+01:07:09,856 --> 01:07:12,450
+My dreams were taken from me.
+
+796
+01:07:13,259 --> 01:07:14,886
+Well, now...
+
+797
+01:07:15,395 --> 01:07:18,455
+Now I've stolen them
+from someone else.
+
+798
+01:07:19,199 --> 01:07:21,690
+I love you, Victor.
+
+799
+01:07:23,003 --> 01:07:25,369
+But you're not mine.
+
+800
+01:07:30,744 --> 01:07:32,006
+Victoria!
+
+801
+01:07:46,826 --> 01:07:49,954
+Oh, how touching.
+
+802
+01:07:50,130 --> 01:07:52,928
+I always cry at weddings.
+
+803
+01:07:54,234 --> 01:07:58,568
+Our young lovers together at last.
+
+804
+01:07:58,738 --> 01:08:02,697
+Surely now they can live
+happily ever after.
+
+805
+01:08:03,743 --> 01:08:05,370
+But you forget...
+
+806
+01:08:05,578 --> 01:08:07,671
+...she's still my wife!
+
+807
+01:08:07,847 --> 01:08:10,475
+I'll not leave here empty-handed!
+
+808
+01:08:11,851 --> 01:08:13,011
+You?
+
+809
+01:08:15,989 --> 01:08:17,422
+Emily?
+
+810
+01:08:17,590 --> 01:08:18,784
+You!
+
+811
+01:08:18,958 --> 01:08:21,950
+But... But... I left you.
+
+812
+01:08:23,063 --> 01:08:24,860
+For dead.
+
+813
+01:08:25,665 --> 01:08:27,496
+This woman is obviously delusional!
+
+814
+01:08:35,175 --> 01:08:38,474
+Sorry to cut things short,
+but we must be on our way.
+
+815
+01:08:38,645 --> 01:08:41,011
+Take your hands off her.
+
+816
+01:08:42,015 --> 01:08:44,813
+Do I have to kill you too?
+
+817
+01:08:48,188 --> 01:08:51,214
+Victor, catch!
+
+818
+01:08:51,858 --> 01:08:53,348
+Sorry.
+
+819
+01:09:07,974 --> 01:09:10,340
+I say, you're not playing fair, sir.
+
+820
+01:09:52,185 --> 01:09:54,085
+Touche, my dear.
+
+821
+01:09:54,687 --> 01:09:56,018
+Get out.
+
+822
+01:09:56,756 --> 01:09:59,554
+Oh, I'm leaving.
+
+823
+01:10:04,063 --> 01:10:07,055
+But first a toast. To Emily.
+
+824
+01:10:07,233 --> 01:10:11,670
+Always the bridesmaid, never the bride.
+
+825
+01:10:12,138 --> 01:10:13,799
+Tell me, my dear...
+
+826
+01:10:13,973 --> 01:10:18,034
+...can a heart still break
+once it's stopped beating?
+
+827
+01:10:21,047 --> 01:10:22,514
+Let me at him! Let me at him!
+
+828
+01:10:22,682 --> 01:10:24,240
+- No, don't hold me back.
+- Wait.
+
+829
+01:10:25,518 --> 01:10:28,146
+We must abide by their rules.
+
+830
+01:10:28,321 --> 01:10:31,518
+We are amongst the living.
+
+831
+01:10:31,691 --> 01:10:33,556
+Well said.
+
+832
+01:10:49,475 --> 01:10:51,443
+Not anymore.
+
+833
+01:10:54,981 --> 01:10:57,882
+Yep, you're right. He's all yours.
+
+834
+01:11:09,229 --> 01:11:11,288
+New arrival.
+
+835
+01:11:17,971 --> 01:11:21,930
+Oh, Victor,
+I never thought I'd see you again.
+
+836
+01:11:29,282 --> 01:11:30,772
+Wait.
+
+837
+01:11:31,551 --> 01:11:33,781
+I made a promise.
+
+838
+01:11:36,489 --> 01:11:39,083
+You kept your promise.
+
+839
+01:11:39,926 --> 01:11:41,894
+You set me free.
+
+840
+01:11:52,739 --> 01:11:55,765
+Now I can do the same for you.
+
