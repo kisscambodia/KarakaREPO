@@ -1,0 +1,3077 @@
+﻿1
+00:00:00,040 --> 00:00:01,623
+<b><font face="Rockwell" color="#808080">ANNOUNCER:</font></b>
+<i>Previously, on "The Good Doctor"...</i>
+
+2
+00:00:01,647 --> 00:00:03,025
+Shaun, I have cancer.
+
+3
+00:00:03,049 --> 00:00:06,216
+I have to undergo brain surgery,
+which is really scary.
+
+4
+00:00:06,240 --> 00:00:07,684
+To be clear, Jared,
+I don't want you here.
+
+5
+00:00:07,708 --> 00:00:08,785
+I fought for my job.
+
+6
+00:00:08,809 --> 00:00:10,420
+You compromised your integrity.
+
+7
+00:00:10,444 --> 00:00:13,553
+My former mentor is head of the
+surgical residency program
+
+8
+00:00:13,577 --> 00:00:14,854
+at Denver Memorial Hospital.
+
+9
+00:00:17,013 --> 00:00:19,225
+<b><font face="Rockwell" color="#808080">DR. ANDREWS:</font></b>
+A surgeon needs to communicate.
+
+10
+00:00:19,249 --> 00:00:21,227
+Can Dr. Murphy do that?
+Can he do that under stress?
+
+11
+00:00:21,251 --> 00:00:22,929
+Can he do that
+
+12
+00:00:22,953 --> 00:00:25,249
+knowing that a human life
+literally hangs in the balance?
+
+13
+00:00:25,273 --> 00:00:26,775
+Shaun?
+
+14
+00:00:26,799 --> 00:00:29,036
+<b><font face="Rockwell" color="#808080">DR. GLASSMAN:</font></b> <i>If Shaun proves
+anything less than excellent,</i>
+
+15
+00:00:29,060 --> 00:00:32,239
+I will resign my position
+as president of this hospital.
+
+16
+00:00:32,263 --> 00:00:34,875
+I know why Caden has DIC.
+
+17
+00:00:34,899 --> 00:00:36,444
+It was my mistake.
+
+18
+00:00:36,468 --> 00:00:39,375
+I have to tell Dr. Andrews
+about the mistake I made.
+
+19
+00:00:39,399 --> 00:00:40,767
+Shaun, you can't.
+
+20
+00:00:40,791 --> 00:00:43,503
+I'm not gonna ask him
+to lie to save my job.
+
+21
+00:00:43,527 --> 00:00:45,205
+It's up to Shaun.
+
+22
+00:00:54,939 --> 00:00:56,983
+<b><font face="Rockwell" color="#D900D9">(TELEPHONE RINGS)</font></b>
+
+23
+00:00:57,007 --> 00:00:58,151
+<b><font face="Rockwell" color="#808080">RECEPTIONIST:</font></b> Hello?
+
+24
+00:00:58,175 --> 00:00:59,668
+Yes, of course.
+
+25
+00:01:00,611 --> 00:01:02,923
+Dr. Murphy, the president
+will see you now.
+
+26
+00:01:15,159 --> 00:01:16,403
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT CONVERSATIONS)</font></b>
+
+27
+00:01:16,427 --> 00:01:20,173
+<b><font face="Rockwell" color="#808080">SHAUN:</font></b>
+Hello. I'm Dr. Shaun Murphy.
+
+28
+00:01:20,197 --> 00:01:21,675
+I'm a surgical resident
+
+29
+00:01:21,699 --> 00:01:24,467
+at San Jose
+St. Bonaventure Hospital.
+
+30
+00:01:25,970 --> 00:01:29,005
+So, what did Andrews have
+to say to you?
+
+31
+00:01:29,633 --> 00:01:31,067
+<b><font face="Rockwell" color="#808080">DR. ANDREWS:</font></b> <i>Shaun.</i>
+
+32
+00:01:31,675 --> 00:01:33,620
+You've exceeded my expectations
+
+33
+00:01:33,644 --> 00:01:36,857
+in terms of expertise
+and technical execution.
+
+34
+00:01:36,881 --> 00:01:40,060
+But your communication skills
+are sorely lacking.
+
+35
+00:01:40,084 --> 00:01:41,528
+That has to change
+
+36
+00:01:41,552 --> 00:01:43,753
+if you want to stay here
+at St. Bonaventure.
+
+37
+00:01:45,356 --> 00:01:49,136
+He told me I exceeded expectations.
+
+38
+00:01:49,160 --> 00:01:50,527
+Great.
+
+39
+00:01:51,562 --> 00:01:53,573
+- Sounds, uh, sounds great, Shaun.
+- Yes.
+
+40
+00:01:53,597 --> 00:01:56,666
+I think you should have gone
+to your review.
+
+41
+00:01:57,568 --> 00:01:58,912
+Since it's my last day,
+
+42
+00:01:58,936 --> 00:02:00,680
+not much opportunity
+to make use of the feedback.
+
+43
+00:02:00,704 --> 00:02:02,883
+Dr. Andrews could have some wisdom
+
+44
+00:02:02,907 --> 00:02:05,118
+that you could use
+in Denver at your next job.
+
+45
+00:02:05,142 --> 00:02:06,420
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+46
+00:02:06,444 --> 00:02:08,555
+Even if I did care about his opinion,
+
+47
+00:02:08,579 --> 00:02:11,347
+it was made pretty obvious
+by the fact that we're here.
+
+48
+00:02:12,349 --> 00:02:13,593
+This is Glassman's project.
+
+49
+00:02:13,617 --> 00:02:15,295
+Andrews thinks it's a money trap.
+
+50
+00:02:20,691 --> 00:02:22,793
+How'd your review go, Claire?
+
+51
+00:02:25,029 --> 00:02:26,573
+Went well.
+
+52
+00:02:26,597 --> 00:02:28,542
+Andrews said I connected nicely,
+
+53
+00:02:28,566 --> 00:02:30,300
+that I care about people.
+
+54
+00:02:30,968 --> 00:02:32,366
+Interesting.
+
+55
+00:02:32,390 --> 00:02:34,721
+I'd have thought he'd want
+you to be more aggressive.
+
+56
+00:02:35,573 --> 00:02:38,985
+I think you need to be
+more assertive, Dr. Browne.
+
+57
+00:02:40,244 --> 00:02:41,621
+Okay. <b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+58
+00:02:41,645 --> 00:02:42,923
+Nope.
+
+59
+00:02:42,947 --> 00:02:44,447
+Hmm.
+
+60
+00:02:46,217 --> 00:02:47,694
+What'd he say about you?
+
+61
+00:02:47,718 --> 00:02:50,063
+Figure out how to be
+a little less self-centered
+
+62
+00:02:50,087 --> 00:02:51,654
+and realize you're part of a team?
+
+63
+00:02:52,523 --> 00:02:54,134
+You're sometimes overbearing.
+
+64
+00:02:54,158 --> 00:02:55,669
+Often egotistical.
+
+65
+00:02:55,693 --> 00:02:57,571
+You need to be more of a team player.
+
+66
+00:02:57,595 --> 00:02:58,905
+Mmm.
+
+67
+00:02:58,929 --> 00:03:01,641
+- <b><font face="Rockwell" color="#D900D9">(DOOR OPENS)</font></b>
+- <b><font face="Rockwell" color="#808080">DR. MELENDEZ:</font></b> Melanie Arnott.
+
+68
+00:03:01,665 --> 00:03:03,276
+The patient has pulmonary hypertension.
+
+69
+00:03:03,300 --> 00:03:04,644
+The only treatment is medication,
+
+70
+00:03:04,668 --> 00:03:07,223
+which reduces the lung blood
+pressure, but not enough.
+
+71
+00:03:07,247 --> 00:03:09,549
+Her heart's failing
+due to the extra strain.
+
+72
+00:03:09,573 --> 00:03:11,318
+That is a factually-correct diagnosis.
+
+73
+00:03:11,342 --> 00:03:13,046
+What about a fix?
+
+74
+00:03:13,070 --> 00:03:15,683
+Isn't it just a... Transplant?
+
+75
+00:03:15,707 --> 00:03:16,823
+Nope.
+
+76
+00:03:16,847 --> 00:03:18,358
+<b><font face="Rockwell" color="#D900D9">(PROJECTOR BEEPS)</font></b>
+
+77
+00:03:18,382 --> 00:03:20,160
+There's nothing inherently
+wrong with Melanie's heart.
+
+78
+00:03:20,184 --> 00:03:22,166
+It's healthy. Just needs
+a little bit of help.
+
+79
+00:03:22,190 --> 00:03:24,331
+So, we're gonna leave her
+current heart inside
+
+80
+00:03:24,355 --> 00:03:27,767
+and slide in another one to support it.
+
+81
+00:03:32,263 --> 00:03:33,740
+<b><font face="Rockwell" color="#D900D9">(CHUCKLING)</font></b>
+A piggyback transplant?
+
+82
+00:03:33,764 --> 00:03:35,041
+Nice, huh?
+
+83
+00:03:45,960 --> 00:03:54,091
+<b><font face="Rockwell" color="#FFFF00">Improved By: FidelPerez</font></b>
+<b><font face="Rockwell" color="#00FFFF">Sub Upload Date: September 27, 2018</font></b>
+
+84
+00:03:56,554 --> 00:03:58,198
+Do you live in a tent?
+
+85
+00:03:58,222 --> 00:03:59,266
+Uh, yeah.
+
+86
+00:03:59,290 --> 00:04:01,268
+I lived in a tent, too.
+
+87
+00:04:01,292 --> 00:04:05,205
+It wasn't very good, so I moved to a bus.
+
+88
+00:04:05,229 --> 00:04:07,079
+You should move to a bus.
+
+89
+00:04:07,103 --> 00:04:08,575
+You will be much less likely
+
+90
+00:04:08,599 --> 00:04:11,144
+to develop ulcerative tinea pedis.
+
+91
+00:04:11,168 --> 00:04:12,612
+Very early stages.
+
+92
+00:04:12,636 --> 00:04:14,080
+Just keep it dry and clean,
+and we'll give you some...
+
+93
+00:04:14,104 --> 00:04:17,417
+Would you rather we continue
+to discuss this inside?
+
+94
+00:04:18,217 --> 00:04:20,453
+We are discussing things with the patient
+
+95
+00:04:20,477 --> 00:04:21,755
+that are potentially sensitive, so...
+
+96
+00:04:21,779 --> 00:04:23,379
+We're done with the patient.
+
+97
+00:04:31,055 --> 00:04:34,000
+Did Andrews happen to speak
+to you about communication?
+
+98
+00:04:34,024 --> 00:04:35,802
+<b><font face="Rockwell" color="#D900D9">(HORN HONKS)</font></b>
+
+99
+00:04:35,826 --> 00:04:36,836
+Yes.
+
+100
+00:04:36,860 --> 00:04:38,738
+I'm trying very hard.
+
+101
+00:04:38,762 --> 00:04:40,607
+It's definitely something
+you should work on.
+
+102
+00:04:41,348 --> 00:04:44,377
+Things might be different,
+more difficult for you,
+
+103
+00:04:44,401 --> 00:04:46,580
+now Glassman's not around, so...
+
+104
+00:04:46,604 --> 00:04:48,648
+Dr. Glassman is still around.
+
+105
+00:04:49,481 --> 00:04:52,252
+He's alive and he is not going to die.
+
+106
+00:04:52,276 --> 00:04:54,736
+He's meeting his oncologist today.
+
+107
+00:04:57,047 --> 00:04:58,091
+You...
+
+108
+00:04:58,115 --> 00:05:00,093
+You didn't go with him?
+
+109
+00:05:00,117 --> 00:05:01,227
+No.
+
+110
+00:05:01,251 --> 00:05:02,619
+That would be stupid.
+
+111
+00:05:03,387 --> 00:05:05,732
+I am a resident.
+
+112
+00:05:05,756 --> 00:05:07,867
+I don't know as much about brain cancer
+
+113
+00:05:07,891 --> 00:05:10,704
+as a double board certified
+neuro-oncologist.
+
+114
+00:05:10,728 --> 00:05:12,973
+True, but this has got to be challenging
+
+115
+00:05:12,997 --> 00:05:14,664
+for him emotionally.
+
+116
+00:05:19,903 --> 00:05:21,114
+I can't help him.
+
+117
+00:05:21,138 --> 00:05:22,749
+Emotionally.
+
+118
+00:05:22,773 --> 00:05:24,918
+<b><font face="Rockwell" color="#D900D9">(MAN COUGHS)</font></b>
+
+119
+00:05:24,942 --> 00:05:27,087
+Excuse me, please.
+
+120
+00:05:29,079 --> 00:05:30,747
+Excuse me, please.
+
+121
+00:05:32,516 --> 00:05:34,227
+Thank you for keeping me waiting.
+
+122
+00:05:34,251 --> 00:05:36,563
+We doctors are busy, important people.
+
+123
+00:05:37,003 --> 00:05:38,747
+Yeah, we doctors are.
+
+124
+00:05:38,771 --> 00:05:41,784
+So, pre-op clearance, surgery,
+
+125
+00:05:41,808 --> 00:05:42,985
+radiation, and chemo.
+
+126
+00:05:43,009 --> 00:05:44,453
+We're gonna have a lot of fun.
+
+127
+00:05:44,477 --> 00:05:46,722
+I hope you don't mind
+if I start with pre-op.
+
+128
+00:05:46,746 --> 00:05:48,957
+Did you change the policy on pot use?
+
+129
+00:05:48,981 --> 00:05:51,560
+Are you using again? Should I worry?
+
+130
+00:05:51,584 --> 00:05:52,795
+I'm clean.
+
+131
+00:05:52,819 --> 00:05:54,563
+I miss it, but I'm clean.
+
+132
+00:05:54,587 --> 00:05:56,098
+They test me every week now.
+
+133
+00:05:56,122 --> 00:05:57,155
+Good.
+
+134
+00:06:00,126 --> 00:06:03,672
+I think you had me reinstated
+as your last official act
+
+135
+00:06:03,696 --> 00:06:05,240
+before they booted you as president
+
+136
+00:06:05,264 --> 00:06:07,643
+because I am the best oncologist around
+
+137
+00:06:07,667 --> 00:06:09,344
+and you would like to get
+the best treatment.
+
+138
+00:06:09,368 --> 00:06:10,708
+Yeah.
+
+139
+00:06:10,732 --> 00:06:13,015
+So, I'd like to ensure that the brain,
+
+140
+00:06:13,039 --> 00:06:14,750
+in this instance, my brain,
+
+141
+00:06:14,774 --> 00:06:17,586
+stays as dry as possible during surgery,
+
+142
+00:06:17,610 --> 00:06:19,088
+maintain minimal swelling.
+
+143
+00:06:19,112 --> 00:06:22,140
+I would still like to be able to swing
+my 9-iron when we're done here.
+
+144
+00:06:22,164 --> 00:06:24,526
+Of course, it's also possible
+that you had me reinstated
+
+145
+00:06:24,550 --> 00:06:27,062
+because you'd like an oncologist
+who thinks they owe you
+
+146
+00:06:27,086 --> 00:06:29,087
+and you want to push them around.
+
+147
+00:06:31,023 --> 00:06:32,634
+Look, Dr. Blaize,
+
+148
+00:06:32,658 --> 00:06:34,069
+I am, like any other patient,
+
+149
+00:06:34,093 --> 00:06:36,438
+entitled to have a say
+in my own treatment,
+
+150
+00:06:36,462 --> 00:06:38,140
+but unlike any other patient,
+
+151
+00:06:38,164 --> 00:06:40,442
+I have spent my entire adult life
+
+152
+00:06:40,466 --> 00:06:42,077
+digging into people's brains.
+
+153
+00:06:42,101 --> 00:06:44,613
+So, if you think I'm gonna
+sit around and watch,
+
+154
+00:06:44,637 --> 00:06:46,104
+you're mistaken.
+
+155
+00:06:47,373 --> 00:06:49,084
+Well, if you think
+you can operate on yourself,
+
+156
+00:06:49,108 --> 00:06:52,395
+I'd happily add you to the
+list of potential surgeons.
+
+157
+00:06:53,212 --> 00:06:54,813
+Today, you're gonna be waiting.
+
+158
+00:06:56,249 --> 00:06:57,743
+And waiting.
+
+159
+00:06:57,767 --> 00:06:59,128
+And waiting.
+
+160
+00:06:59,152 --> 00:07:00,529
+Test, test, test.
+
+161
+00:07:00,553 --> 00:07:03,899
+You've had them all before. I
+want them again. My versions.
+
+162
+00:07:03,923 --> 00:07:05,290
+You free all day?
+
+163
+00:07:07,260 --> 00:07:09,027
+Yeah, sure.
+
+164
+00:07:10,563 --> 00:07:12,207
+I'm free.
+
+165
+00:07:14,167 --> 00:07:15,634
+<b><font face="Rockwell" color="#808080">JARED:</font></b> Sir?
+
+166
+00:07:16,969 --> 00:07:18,614
+We're going to need you
+to give those back.
+
+167
+00:07:18,638 --> 00:07:20,549
+What's your name?
+
+168
+00:07:20,573 --> 00:07:22,184
+I'm Harry. These are my meds.
+
+169
+00:07:22,208 --> 00:07:25,020
+Those pills are for people
+with chlamydia, Harry.
+
+170
+00:07:25,044 --> 00:07:26,955
+No. They're all the same.
+
+171
+00:07:26,979 --> 00:07:29,525
+See, I know better! That's why I
+have to hide out on the streets.
+
+172
+00:07:29,549 --> 00:07:32,227
+<b><font face="Rockwell" color="#D900D9">(STAMMERS)</font></b> I had to move
+next door to Mr. Googly Eyes.
+
+173
+00:07:32,251 --> 00:07:34,096
+I... I trust him!
+
+174
+00:07:34,120 --> 00:07:35,797
+He's my friend!
+
+175
+00:07:35,821 --> 00:07:37,900
+- I trust him.
+- Okay.
+
+176
+00:07:37,924 --> 00:07:39,301
+- I trust him.
+- Okay.
+
+177
+00:07:39,325 --> 00:07:40,640
+He's there. Disorganized thinking,
+
+178
+00:07:40,664 --> 00:07:42,237
+- paranoia, and delusions.
+- He's always watching me.
+
+179
+00:07:42,261 --> 00:07:45,407
+I think you have schizophrenia, Harry.
+
+180
+00:07:45,431 --> 00:07:46,909
+Do you have chlamydia, as well?
+
+181
+00:07:46,933 --> 00:07:48,944
+- <b><font face="Rockwell" color="#D900D9">(GROANS)</font></b>
+- <b><font face="Rockwell" color="#808080">JARED:</font></b> Harry?
+
+182
+00:07:48,968 --> 00:07:50,479
+Harry, are you okay?
+
+183
+00:07:57,476 --> 00:08:00,155
+That smells very bad.
+
+184
+00:08:00,179 --> 00:08:03,025
+I get that this is rare. Exciting.
+
+185
+00:08:03,049 --> 00:08:05,394
+The sort of surgery
+you guys must jump at doing.
+
+186
+00:08:05,418 --> 00:08:07,162
+I... I just... I want to
+make sure that we don't...
+
+187
+00:08:07,186 --> 00:08:08,620
+We're not.
+
+188
+00:08:09,522 --> 00:08:10,766
+I have three months left.
+
+189
+00:08:10,790 --> 00:08:12,100
+This will give me at least 10 more years.
+
+190
+00:08:12,124 --> 00:08:14,336
+Should give you 10 more years, yes.
+
+191
+00:08:14,360 --> 00:08:15,504
+Mmm.
+
+192
+00:08:15,528 --> 00:08:17,873
+Elliot, I understand your concerns...
+
+193
+00:08:17,897 --> 00:08:21,484
+And Dr. Melendez is one of the
+best cardiac surgeons around.
+
+194
+00:08:22,702 --> 00:08:24,613
+Dr. Andrews told us all about you
+
+195
+00:08:24,637 --> 00:08:26,648
+when he convinced me
+to come here for surgery
+
+196
+00:08:26,672 --> 00:08:29,117
+- instead of...
+- You spoke to Dr. Andrews.
+
+197
+00:08:29,675 --> 00:08:32,588
+And they both already spent half
+the morning raving to the press.
+
+198
+00:08:34,880 --> 00:08:37,359
+Well, that's... that's very kind.
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+199
+00:08:37,383 --> 00:08:39,294
+<i>You spoke to the press?</i>
+
+200
+00:08:39,318 --> 00:08:41,563
+You spoke to the patient? My patient?
+
+201
+00:08:41,587 --> 00:08:43,732
+As I explained to Elliot and Melanie,
+
+202
+00:08:43,756 --> 00:08:45,834
+the press attention
+is a necessary element
+
+203
+00:08:45,858 --> 00:08:47,970
+for funding this surgery.
+
+204
+00:08:47,994 --> 00:08:49,605
+But as you didn't explain to them,
+
+205
+00:08:49,629 --> 00:08:51,540
+it's simultaneously a vanity project
+
+206
+00:08:51,564 --> 00:08:53,308
+to create buzz for your new presidency.
+
+207
+00:08:53,332 --> 00:08:55,677
+As I didn't explain to them,
+
+208
+00:08:55,701 --> 00:08:57,279
+this surgery can change the way
+
+209
+00:08:57,303 --> 00:08:59,881
+our entire hospital is perceived.
+
+210
+00:08:59,905 --> 00:09:02,017
+I'm hoping this buzz, as you put it,
+
+211
+00:09:02,041 --> 00:09:04,944
+will help us establish a
+surgical center for excellence.
+
+212
+00:09:08,080 --> 00:09:09,691
+It'll be a nice feather in the cap
+
+213
+00:09:09,715 --> 00:09:12,050
+for whoever replaces me
+as Chief of Surgery.
+
+214
+00:09:16,088 --> 00:09:17,666
+- <b><font face="Rockwell" color="#D900D9">(LIQUID POURING)</font></b>
+- <b><font face="Rockwell" color="#808080">SHAUN:</font></b> Okay.
+
+215
+00:09:17,690 --> 00:09:20,188
+Swill your mouth out with alcohol now.
+
+216
+00:09:20,212 --> 00:09:21,570
+Never said no to that.
+
+217
+00:09:21,594 --> 00:09:23,138
+<b><font face="Rockwell" color="#808080">SHAUN:</font></b>
+You will have to spit.
+
+218
+00:09:23,162 --> 00:09:24,562
+Oh. Well...
+
+219
+00:09:26,932 --> 00:09:28,443
+<b><font face="Rockwell" color="#808080">SHAUN:</font></b> Over here.
+
+220
+00:09:28,467 --> 00:09:30,035
+<b><font face="Rockwell" color="#D900D9">(SIREN WAILS)</font></b>
+
+221
+00:09:31,404 --> 00:09:33,849
+<b><font face="Rockwell" color="#D900D9">(GROANS)</font></b> Ah.
+
+222
+00:09:33,873 --> 00:09:36,051
+Are you having trouble
+with your neck, Harry?
+
+223
+00:09:36,075 --> 00:09:37,252
+It's stiff.
+
+224
+00:09:37,276 --> 00:09:39,254
+A stiff neck can be an early indicator
+
+225
+00:09:39,278 --> 00:09:40,656
+of bacterial meningitis.
+
+226
+00:09:40,680 --> 00:09:44,059
+There are many possible
+explanations for a stiff neck,
+
+227
+00:09:44,083 --> 00:09:45,894
+most of which are much more likely
+
+228
+00:09:45,918 --> 00:09:47,462
+than bacterial meningitis...
+
+229
+00:09:47,486 --> 00:09:49,097
+If the abscess has invaded
+the meninges of his brain,
+
+230
+00:09:49,121 --> 00:09:51,600
+it could be exacerbating his paranoia.
+
+231
+00:09:51,624 --> 00:09:54,269
+We need to bring him back to the
+hospital for a lumbar puncture.
+
+232
+00:09:57,930 --> 00:09:59,207
+Come on, Shaun.
+
+233
+00:09:59,231 --> 00:10:00,909
+There's nothing to lose by trying.
+
+234
+00:10:00,933 --> 00:10:03,145
+I have something to lose.
+
+235
+00:10:03,169 --> 00:10:06,114
+It's not my last day at St. Bonaventure.
+
+236
+00:10:06,138 --> 00:10:08,450
+Dr. Andrews won't be happy.
+
+237
+00:10:08,474 --> 00:10:10,285
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+238
+00:10:10,309 --> 00:10:12,187
+Look, it's my responsibility.
+
+239
+00:10:12,211 --> 00:10:13,722
+If anything happens, I'll take the blame.
+
+240
+00:10:13,746 --> 00:10:14,790
+Okay?
+
+241
+00:10:17,216 --> 00:10:18,627
+Okay.
+
+242
+00:10:20,519 --> 00:10:23,332
+It's probably best that Jared
+isn't here on his last day.
+
+243
+00:10:26,192 --> 00:10:27,903
+It's got to be awkward.
+
+244
+00:10:27,927 --> 00:10:29,304
+I mean, how do you say goodbye to someone
+
+245
+00:10:29,328 --> 00:10:30,829
+who must have meant that much to you?
+
+246
+00:10:34,166 --> 00:10:36,111
+What Jared and I had is over,
+
+247
+00:10:36,135 --> 00:10:39,014
+and it was never all that much
+of a big deal, anyway.
+
+248
+00:10:39,038 --> 00:10:40,549
+You worked with him for over a year.
+
+249
+00:10:40,573 --> 00:10:42,818
+You were sleeping with him
+for most of that time.
+
+250
+00:10:42,842 --> 00:10:44,219
+For me, anyway,
+
+251
+00:10:44,243 --> 00:10:45,520
+you can't sleep with someone
+and not feel anything.
+
+252
+00:10:45,544 --> 00:10:46,955
+And for you...
+
+253
+00:10:46,979 --> 00:10:48,757
+You're way more decent
+and caring than I am.
+
+254
+00:10:48,781 --> 00:10:50,248
+<b><font face="Rockwell" color="#D900D9">(COMPUTER BEEPS)</font></b>
+
+255
+00:10:53,052 --> 00:10:54,296
+Hey.
+
+256
+00:10:56,155 --> 00:10:57,899
+<b><font face="Rockwell" color="#808080">CLAIRE:</font></b>
+Melanie has an aortic aneurysm?
+
+257
+00:10:57,923 --> 00:10:59,568
+Two hearts beating into that...
+
+258
+00:10:59,592 --> 00:11:02,137
+Yeah. Not so good.
+
+259
+00:11:06,164 --> 00:11:09,444
+We could reinforce the dilated
+aorta with an endovascular stent.
+
+260
+00:11:09,468 --> 00:11:11,312
+Well, we can't attach
+the donor heart's aorta
+
+261
+00:11:11,336 --> 00:11:13,471
+to an aneurysm over a metal tube.
+
+262
+00:11:14,606 --> 00:11:16,384
+Why not resect the dilated tissue
+
+263
+00:11:16,408 --> 00:11:18,253
+and reapproximate the artery ends?
+
+264
+00:11:18,277 --> 00:11:20,050
+<b><font face="Rockwell" color="#808080">DR. MELENDEZ:</font></b> Great.
+
+265
+00:11:20,050 --> 00:11:21,528
+Except the wall is inherently weakened.
+
+266
+00:11:21,552 --> 00:11:24,087
+How long do you think
+it'll take to dilate again?
+
+267
+00:11:25,856 --> 00:11:27,500
+It was nice while it lasted.
+
+268
+00:11:29,860 --> 00:11:31,504
+I'll let Andrews know.
+
+269
+00:11:31,528 --> 00:11:32,772
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+270
+00:11:34,832 --> 00:11:37,711
+I didn't want to say anything,
+I'm not entirely sure,
+
+271
+00:11:37,735 --> 00:11:41,081
+but you suggested
+resecting the dilated tissue.
+
+272
+00:11:41,105 --> 00:11:43,350
+What if we resect
+the entire abnormal segment,
+
+273
+00:11:43,374 --> 00:11:44,651
+shorten the ascending aorta...
+
+274
+00:11:44,675 --> 00:11:46,519
+You were very right
+not to be entirely sure.
+
+275
+00:11:46,543 --> 00:11:48,922
+You need to have enough aorta
+to plug in the donor hear...
+
+276
+00:11:52,283 --> 00:11:55,362
+Actually, a version of that
+could maybe work.
+
+277
+00:11:55,386 --> 00:11:57,497
+We'd reduce the risk
+of the aortic aneurysm
+
+278
+00:11:57,521 --> 00:11:59,799
+if we used a Teflon graft.
+
+279
+00:11:59,823 --> 00:12:01,190
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES SOFTLY)</font></b>
+
+280
+00:12:03,827 --> 00:12:06,039
+<b><font face="Rockwell" color="#808080">JARED:</font></b> I, um...
+
+281
+00:12:06,063 --> 00:12:07,641
+I didn't know you lived in a tent.
+
+282
+00:12:07,665 --> 00:12:10,443
+Yes. We got to travel lots.
+
+283
+00:12:10,467 --> 00:12:13,269
+We saw all of Natrona County, Wyoming.
+
+284
+00:12:16,106 --> 00:12:17,651
+What was your favorite part?
+
+285
+00:12:17,675 --> 00:12:19,222
+My brother.
+
+286
+00:12:19,777 --> 00:12:21,087
+He took care of me.
+
+287
+00:12:21,111 --> 00:12:23,056
+He knew I needed help.
+
+288
+00:12:23,080 --> 00:12:25,458
+Now I'm fine on my own.
+
+289
+00:12:25,482 --> 00:12:27,661
+<b><font face="Rockwell" color="#FFFF00"><i>♫ Mary had a little lamb ♫</i></font></b>
+
+290
+00:12:27,685 --> 00:12:28,862
+Keep still.
+
+291
+00:12:28,886 --> 00:12:31,287
+<b><font face="Rockwell" color="#FFFF00"><i>♫ Little lamb, li... ♫</i></font></b>
+
+292
+00:12:34,958 --> 00:12:37,570
+Don't you want to help Glassman
+the way your brother helped you?
+
+293
+00:12:37,594 --> 00:12:40,240
+I can help people with medicine.
+
+294
+00:12:40,264 --> 00:12:43,009
+And you can help Dr. Glassman
+just by being there.
+
+295
+00:12:43,033 --> 00:12:44,344
+With him.
+
+296
+00:12:44,368 --> 00:12:46,479
+Letting him know you're his friend.
+
+297
+00:12:48,906 --> 00:12:51,117
+He knows I'm his friend.
+
+298
+00:12:51,141 --> 00:12:53,353
+I don't have to be there
+to tell him that.
+
+299
+00:12:53,377 --> 00:12:55,588
+Okay, Harry, we're done,
+
+300
+00:12:55,612 --> 00:12:57,791
+but you have to stay here for a while.
+
+301
+00:12:57,815 --> 00:12:59,048
+<b><font face="Rockwell" color="#D900D9">(CURTAIN RATTLES)</font></b>
+
+302
+00:12:59,616 --> 00:13:00,794
+Got a minute?
+
+303
+00:13:03,120 --> 00:13:04,564
+<i>I get it.</i>
+
+304
+00:13:04,588 --> 00:13:05,999
+It's your last day.
+
+305
+00:13:06,023 --> 00:13:07,867
+You hate me, want to prove me wrong.
+
+306
+00:13:07,891 --> 00:13:09,302
+Prove that you're a better doctor
+
+307
+00:13:09,326 --> 00:13:11,404
+than I gave you credit
+and leave here with a victory.
+
+308
+00:13:11,428 --> 00:13:14,485
+It was my medical opinion that he
+could have bacterial meningitis.
+
+309
+00:13:16,266 --> 00:13:18,968
+And if you're right,
+then I owe you an apology.
+
+310
+00:13:19,903 --> 00:13:21,548
+But if you're wrong,
+
+311
+00:13:21,572 --> 00:13:23,750
+then I will be on the phone to Denver,
+
+312
+00:13:23,774 --> 00:13:26,286
+and I will make your life
+infinitely more complicated
+
+313
+00:13:26,310 --> 00:13:28,077
+than you think you're making mine.
+
+314
+00:13:30,714 --> 00:13:33,449
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT ANNOUNCEMENT OVER P.A.)</font></b>
+
+315
+00:13:36,820 --> 00:13:38,264
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+316
+00:14:06,458 --> 00:14:08,248
+You don't seem disappointed.
+
+317
+00:14:08,272 --> 00:14:10,835
+You think I like passing up on
+a once-in-a-lifetime surgery?
+
+318
+00:14:10,859 --> 00:14:12,382
+I think you don't mind telling me
+
+319
+00:14:12,406 --> 00:14:14,281
+that a surgery I publicly
+supported can't be done.
+
+320
+00:14:14,281 --> 00:14:15,792
+I spent half a day with my team
+
+321
+00:14:15,816 --> 00:14:18,461
+trying to figure out a
+way to make it work.
+
+322
+00:14:18,485 --> 00:14:20,930
+We think there's a way to do the surgery
+
+323
+00:14:20,954 --> 00:14:22,332
+by using a Teflon graft.
+
+324
+00:14:22,356 --> 00:14:24,234
+<b><font face="Rockwell" color="#808080">DR. PARK:</font></b>
+A modified David procedure.
+
+325
+00:14:24,258 --> 00:14:26,836
+We cut out the entire aneurysm
+segment and replace it.
+
+326
+00:14:26,860 --> 00:14:28,805
+<b><font face="Rockwell" color="#808080">DR. REZNICK:</font></b> The dilation
+starts above the aortic root.
+
+327
+00:14:28,829 --> 00:14:31,297
+That leaves enough room
+to plug in the donor heart.
+
+328
+00:14:32,399 --> 00:14:33,800
+That's a great idea.
+
+329
+00:14:34,802 --> 00:14:35,835
+Isn't it?
+
+330
+00:14:41,475 --> 00:14:43,242
+<b><font face="Rockwell" color="#D900D9">(TABLET CLICKING)</font></b>
+
+331
+00:14:46,246 --> 00:14:48,358
+There's two hearts, not one.
+
+332
+00:14:48,382 --> 00:14:49,759
+There'd be about a 20% chance
+
+333
+00:14:49,783 --> 00:14:51,884
+the graft would blow at the suture line.
+
+334
+00:14:53,187 --> 00:14:54,998
+It's not worth it.
+
+335
+00:14:55,022 --> 00:14:56,322
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+336
+00:14:59,393 --> 00:15:00,703
+Whose idea was it?
+
+337
+00:15:02,095 --> 00:15:04,240
+It was a joint thing,
+we were all talking, and we...
+
+338
+00:15:04,264 --> 00:15:05,341
+<b><font face="Rockwell" color="#808080">DR. REZNICK:</font></b> Come on, Claire.
+
+339
+00:15:05,365 --> 00:15:06,776
+You know that's not true.
+
+340
+00:15:10,337 --> 00:15:11,671
+It was Claire's idea.
+
+341
+00:15:12,739 --> 00:15:14,250
+That's very gracious of you, Dr. Reznick.
+
+342
+00:15:16,944 --> 00:15:18,678
+I thought we talked about this.
+
+343
+00:15:26,186 --> 00:15:28,387
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT CONVERSATIONS)</font></b>
+
+344
+00:15:30,958 --> 00:15:32,725
+Andrews was right.
+
+345
+00:15:33,760 --> 00:15:36,506
+I did think Harry had meningitis,
+
+346
+00:15:36,530 --> 00:15:38,408
+but maybe I only really believed it
+
+347
+00:15:38,432 --> 00:15:40,299
+because I wanted to prove him wrong.
+
+348
+00:15:41,635 --> 00:15:43,213
+If this test is negative,
+
+349
+00:15:43,237 --> 00:15:44,747
+we've wasted the hospital's resources
+
+350
+00:15:44,771 --> 00:15:47,440
+on my self-indulgent, pointless gesture.
+
+351
+00:15:49,076 --> 00:15:50,643
+<b><font face="Rockwell" color="#808080">MAN:</font></b>
+Your results are ready.
+
+352
+00:15:55,415 --> 00:15:57,227
+<b><font face="Rockwell" color="#D900D9">(EXHALES SHARPLY)</font></b>
+
+353
+00:15:57,251 --> 00:15:59,195
+We've wasted hospital resources
+
+354
+00:15:59,219 --> 00:16:02,121
+on a self-indulgent, pointless gesture.
+
+355
+00:16:10,964 --> 00:16:12,809
+Don't worry, Jared.
+
+356
+00:16:12,833 --> 00:16:14,577
+You are young.
+
+357
+00:16:14,601 --> 00:16:16,246
+There is still time for you
+
+358
+00:16:16,270 --> 00:16:18,704
+to fulfill your potential somewhere else.
+
+359
+00:16:20,274 --> 00:16:23,409
+I think one day,
+you're going to be very happy.
+
+360
+00:16:24,845 --> 00:16:26,756
+<b><font face="Rockwell" color="#D900D9">(SCOFFS)</font></b>
+
+361
+00:16:31,120 --> 00:16:33,288
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT CONVERSATIONS)</font></b>
+
+362
+00:16:34,799 --> 00:16:36,610
+I can unload the Mobile Clinic by myself.
+
+363
+00:16:36,634 --> 00:16:38,812
+I haven't been assigned
+anything else to do.
+
+364
+00:16:38,836 --> 00:16:40,547
+- I'll help you.
+- Do something else.
+
+365
+00:16:40,571 --> 00:16:42,549
+I'm sure there's better ways
+you can be spending your time.
+
+366
+00:16:42,573 --> 00:16:44,651
+I'm halfway through a chapter of my book.
+
+367
+00:16:44,675 --> 00:16:45,953
+It's very good.
+
+368
+00:16:45,977 --> 00:16:47,621
+But you shouldn't be alone
+on your last day.
+
+369
+00:16:47,645 --> 00:16:49,123
+Seriously?
+
+370
+00:16:49,147 --> 00:16:51,225
+You're worried about me being on my own?
+
+371
+00:16:51,249 --> 00:16:53,761
+The guy going to a new job. Not the...
+Not the guy facing death.
+
+372
+00:16:53,785 --> 00:16:56,597
+- Not the guy who mentored you for...
+- He's not facing death.
+
+373
+00:16:56,621 --> 00:16:58,665
+No, no, he's facing...
+
+374
+00:16:58,689 --> 00:17:00,934
+He's facing death, Shaun.
+
+375
+00:17:00,958 --> 00:17:02,236
+That's all he's thinking about
+
+376
+00:17:02,260 --> 00:17:04,027
+in every one of those waiting rooms.
+
+377
+00:17:05,463 --> 00:17:06,673
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+378
+00:17:10,535 --> 00:17:11,902
+Are you scared?
+
+379
+00:17:13,704 --> 00:17:16,383
+And you think by...
+By separating yourself,
+
+380
+00:17:16,407 --> 00:17:17,707
+you'll make it easier?
+
+381
+00:17:20,178 --> 00:17:21,455
+It does.
+
+382
+00:17:21,479 --> 00:17:23,557
+For you, Shaun. Not for him.
+
+383
+00:17:27,752 --> 00:17:30,497
+I'm going to finish my chapter.
+
+384
+00:17:33,324 --> 00:17:34,858
+<b><font face="Rockwell" color="#D900D9">(ELEVATOR BELL DINGS)</font></b>
+
+385
+00:17:44,302 --> 00:17:45,836
+How's everything going?
+
+386
+00:17:46,537 --> 00:17:47,648
+Pretty good.
+
+387
+00:17:47,672 --> 00:17:49,883
+<b><font face="Rockwell" color="#D900D9">(LAUGHS)</font></b> Pretty good?
+
+388
+00:17:49,907 --> 00:17:52,309
+It's your first week
+running a major hospital.
+
+389
+00:17:53,344 --> 00:17:54,922
+How pretty bad has it been?
+
+390
+00:17:54,946 --> 00:17:56,957
+You heard about the piggyback
+surgery falling through.
+
+391
+00:17:56,981 --> 00:17:59,827
+Read your draft press release.
+When does that go out?
+
+392
+00:17:59,851 --> 00:18:02,552
+As soon as Melendez informs the family.
+
+393
+00:18:03,955 --> 00:18:06,133
+I was sure he'd seize the chance
+
+394
+00:18:06,157 --> 00:18:08,235
+when Dr. Browne came up
+with a potential fix.
+
+395
+00:18:08,259 --> 00:18:10,404
+He's arrogant, always just does stuff,
+
+396
+00:18:10,428 --> 00:18:11,805
+knowing he'll find a way.
+
+397
+00:18:11,829 --> 00:18:14,531
+You assumed he'd make the call
+you wanted.
+
+398
+00:18:15,466 --> 00:18:16,677
+It is his call.
+
+399
+00:18:16,701 --> 00:18:18,289
+What would Dr. Glassman have done?
+
+400
+00:18:20,371 --> 00:18:22,349
+He held on to the presidency long enough.
+
+401
+00:18:22,373 --> 00:18:24,341
+He must have been doing something right.
+
+402
+00:18:25,776 --> 00:18:28,222
+Don't buy into his fuzzy warmth, Marcus.
+
+403
+00:18:28,246 --> 00:18:30,023
+He was a manipulator.
+
+404
+00:18:30,047 --> 00:18:32,860
+He manipulated the board
+into hiring Dr. Murphy,
+
+405
+00:18:32,884 --> 00:18:36,396
+and he always found a way to do
+exactly what he wanted to do.
+
+406
+00:19:06,117 --> 00:19:08,995
+Sitting around waiting for
+tests is a waste of my time,
+
+407
+00:19:09,019 --> 00:19:10,497
+much less yours.
+
+408
+00:19:10,521 --> 00:19:12,633
+I know. I told Jared that.
+
+409
+00:19:12,657 --> 00:19:14,201
+I wanted to read my book,
+
+410
+00:19:14,225 --> 00:19:17,070
+but he kept saying that I
+should just be here with you.
+
+411
+00:19:17,094 --> 00:19:18,212
+But then I realized
+
+412
+00:19:18,236 --> 00:19:20,864
+that I could be here with you
+and also ready my book.
+
+413
+00:19:31,008 --> 00:19:32,842
+<b><font face="Rockwell" color="#D900D9">(PAPER RUSTLING)</font></b>
+
+414
+00:19:37,248 --> 00:19:39,382
+I want you to stop doing that.
+
+415
+00:19:47,491 --> 00:19:49,693
+<b><font face="Rockwell" color="#D900D9">(PAPER RUSTLING)</font></b>
+
+416
+00:20:29,433 --> 00:20:33,947
+Harry has kaleidoscopic disintegration.
+
+417
+00:20:33,971 --> 00:20:36,450
+We thought he had schizophrenia,
+
+418
+00:20:36,474 --> 00:20:37,684
+but he does not.
+
+419
+00:20:37,708 --> 00:20:39,286
+He has a brain tumor.
+
+420
+00:20:41,412 --> 00:20:42,779
+<b><font face="Rockwell" color="#D900D9">(DOOR OPENS)</font></b>
+
+421
+00:20:43,981 --> 00:20:45,459
+<b><font face="Rockwell" color="#D900D9">(DOOR CLOSES)</font></b>
+
+422
+00:20:54,782 --> 00:20:56,393
+<b><font face="Rockwell" color="#808080">CLAIRE:</font></b>
+Shaun. Is everything okay?
+
+423
+00:20:56,417 --> 00:20:58,941
+Oh, I have a solution!
+I need to find Jared!
+
+424
+00:20:58,965 --> 00:21:00,897
+Can I ask you something
+important really quickly?
+
+425
+00:21:00,921 --> 00:21:03,390
+- I need to find Jared!
+- This is about Jared.
+
+426
+00:21:05,559 --> 00:21:06,760
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b> How is he?
+
+427
+00:21:08,362 --> 00:21:10,644
+Is that your important question?
+
+428
+00:21:11,249 --> 00:21:12,192
+Oh, um...
+
+429
+00:21:12,216 --> 00:21:14,298
+It's just... It's his last day.
+
+430
+00:21:16,142 --> 00:21:17,519
+No, I'm sorry. Uh, you should go.
+
+431
+00:21:17,543 --> 00:21:19,555
+Um... Just...
+
+432
+00:21:19,579 --> 00:21:20,656
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+433
+00:21:20,680 --> 00:21:23,894
+Say hello to him for me, okay?
+
+434
+00:21:32,297 --> 00:21:33,430
+<b><font face="Rockwell" color="#808080">SHAUN:</font></b> Hello.
+
+435
+00:21:36,529 --> 00:21:40,272
+Also, your day is not over.
+
+436
+00:21:40,297 --> 00:21:42,041
+Harry doesn't have schizophrenia.
+
+437
+00:21:42,065 --> 00:21:43,810
+He has a brain tumor.
+
+438
+00:21:43,834 --> 00:21:45,145
+Did you go and see Glassman?
+
+439
+00:21:45,169 --> 00:21:47,547
+Yes, that's where I got the idea.
+
+440
+00:21:47,571 --> 00:21:49,783
+Harry's tumor won't kill him,
+
+441
+00:21:49,807 --> 00:21:51,651
+but removing it might change him back
+
+442
+00:21:51,675 --> 00:21:53,142
+to who he was before.
+
+443
+00:21:54,378 --> 00:21:55,922
+I was hoping Andrews wouldn't bother
+
+444
+00:21:55,946 --> 00:21:57,880
+following through
+on the threat to call Denver.
+
+445
+00:21:58,816 --> 00:22:00,026
+I do this, Shaun,
+
+446
+00:22:00,050 --> 00:22:02,051
+and I really don't leave him any choice.
+
+447
+00:22:05,189 --> 00:22:06,833
+We need to bring Harry in
+
+448
+00:22:06,857 --> 00:22:09,302
+for an MRI to confirm the diagnosis.
+
+449
+00:22:09,326 --> 00:22:10,970
+You need to help me find him
+
+450
+00:22:10,994 --> 00:22:12,806
+because I can't do it alone.
+
+451
+00:22:19,136 --> 00:22:20,303
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+452
+00:22:27,244 --> 00:22:28,822
+Have you told the piggyback patient
+
+453
+00:22:28,846 --> 00:22:30,112
+the surgery's off?
+
+454
+00:22:31,481 --> 00:22:33,126
+Not yet.
+
+455
+00:22:33,150 --> 00:22:34,661
+How come?
+
+456
+00:22:34,685 --> 00:22:36,329
+I haven't gotten around to it.
+
+457
+00:22:36,353 --> 00:22:38,421
+Is it because you're wondering
+if you made the right call?
+
+458
+00:22:40,023 --> 00:22:41,868
+I'm not gonna do it.
+
+459
+00:22:41,892 --> 00:22:43,503
+The Teflon graft isn't worth the risk.
+
+460
+00:22:43,527 --> 00:22:44,737
+That's a judgement call.
+
+461
+00:22:44,761 --> 00:22:45,972
+Yeah. My judgement.
+
+462
+00:22:45,996 --> 00:22:47,373
+Your judgement's biased.
+
+463
+00:22:47,397 --> 00:22:49,042
+- And yours isn't?
+- Of course mine is.
+
+464
+00:22:49,066 --> 00:22:50,910
+But as you've made quite clear,
+
+465
+00:22:50,934 --> 00:22:52,496
+mine doesn't matter.
+
+466
+00:22:53,337 --> 00:22:55,782
+You're biased because if this fails,
+
+467
+00:22:55,806 --> 00:22:57,417
+you will publicly pay a huge price
+
+468
+00:22:57,441 --> 00:22:59,719
+and if it succeeds,
+I will reap a huge windfall,
+
+469
+00:22:59,743 --> 00:23:02,712
+and I think both those scenarios
+are deeply unpleasant to you.
+
+470
+00:23:03,947 --> 00:23:07,460
+But the only issue that matters is,
+
+471
+00:23:07,484 --> 00:23:09,829
+are you surgeon enough to pull this off?
+
+472
+00:23:09,853 --> 00:23:13,292
+I think you are. Am I wrong?
+
+473
+00:23:15,525 --> 00:23:17,093
+Get out of my office.
+
+474
+00:23:23,700 --> 00:23:26,279
+<b><font face="Rockwell" color="#D900D9">(DOOR OPENS, CLOSES)</font></b>
+
+475
+00:23:33,844 --> 00:23:35,211
+<b><font face="Rockwell" color="#D900D9">(COUGHS)</font></b>
+
+476
+00:23:38,148 --> 00:23:41,027
+Hello. I'm Dr. Shaun Murphy.
+
+477
+00:23:41,051 --> 00:23:43,162
+Have you seen Harry? He lives in a tent.
+
+478
+00:23:43,186 --> 00:23:44,831
+He's about 6-foot tall with red hair.
+
+479
+00:23:44,855 --> 00:23:46,099
+He lives in a... He lives in a...
+
+480
+00:23:46,123 --> 00:23:47,945
+Have you seen a guy named Harry?
+
+481
+00:23:47,969 --> 00:23:49,136
+- <b><font face="Rockwell" color="#808080">SHAUN:</font></b> Hello.
+- No?
+
+482
+00:23:49,160 --> 00:23:50,259
+<b><font face="Rockwell" color="#808080">SHAUN:</font></b>
+Have you seen Harry?
+
+483
+00:23:50,761 --> 00:23:52,105
+Hello.
+
+484
+00:23:52,129 --> 00:23:53,706
+Have you seen Harry? He lives in a...
+
+485
+00:23:53,730 --> 00:23:55,642
+<b><font face="Rockwell" color="#D900D9">(METAL CLANGING)</font></b>
+
+486
+00:23:55,666 --> 00:23:57,677
+We need to find Harry, you don't under...
+
+487
+00:23:57,701 --> 00:23:59,045
+- <b><font face="Rockwell" color="#D900D9">(METAL CLANGING)</font></b>
+- Have...
+
+488
+00:23:59,069 --> 00:24:01,014
+- <b><font face="Rockwell" color="#D900D9">(METAL CLANGING)</font></b>
+- Okay, you don't...
+
+489
+00:24:01,038 --> 00:24:03,650
+- <b><font face="Rockwell" color="#D900D9">(METAL CLANGING)</font></b>
+- ...understand.
+
+490
+00:24:03,674 --> 00:24:05,118
+Okay.
+
+491
+00:24:05,142 --> 00:24:07,754
+Okay, we... We need to find Harry.
+
+492
+00:24:07,778 --> 00:24:09,789
+Harry! Harry!
+
+493
+00:24:09,813 --> 00:24:11,280
+- <b><font face="Rockwell" color="#D900D9">(DOG BARKING)</font></b>
+- Ah!
+
+494
+00:24:13,283 --> 00:24:15,695
+- <b><font face="Rockwell" color="#808080">JARED:</font></b> Shaun.
+- Okay.
+
+495
+00:24:15,719 --> 00:24:17,397
+- <b><font face="Rockwell" color="#D900D9">(EARS RINGING)</font></b>
+- Hey!
+
+496
+00:24:17,421 --> 00:24:18,798
+<b><font face="Rockwell" color="#D900D9">(BARKING CONTINUES)</font></b>
+
+497
+00:24:18,822 --> 00:24:21,167
+What the hell is wrong with you?
+
+498
+00:24:21,191 --> 00:24:23,670
+<b><font face="Rockwell" color="#D900D9">(STAMMERS)</font></b> We need to find...
+
+499
+00:24:23,694 --> 00:24:25,071
+Hello. Harry!
+
+500
+00:24:25,095 --> 00:24:27,140
+<b><font face="Rockwell" color="#D900D9">(SPOONS CLACKING)</font></b>
+
+501
+00:24:27,164 --> 00:24:29,342
+- <b><font face="Rockwell" color="#D900D9">(BARKING CONTINUES)</font></b>
+- Okay.
+
+502
+00:24:29,366 --> 00:24:30,843
+- <b><font face="Rockwell" color="#D900D9">(METAL CLANGING)</font></b>
+- Sorry, he needs help.
+
+503
+00:24:30,867 --> 00:24:32,779
+We need to find him. We need to...
+
+504
+00:24:32,803 --> 00:24:34,180
+<b><font face="Rockwell" color="#D900D9">(METAL CLANGS)</font></b>
+
+505
+00:24:34,204 --> 00:24:36,388
+- Shaun, Shaun, it's okay.
+- It's not okay.
+
+506
+00:24:36,412 --> 00:24:37,717
+- Shaun. It's okay.
+- No.
+
+507
+00:24:37,741 --> 00:24:39,652
+It's not okay. We need to find Harry.
+
+508
+00:24:39,676 --> 00:24:41,898
+- We need to find him.
+- Shaun.
+
+509
+00:24:41,922 --> 00:24:44,057
+Okay, please be...
+Can you please be quiet?
+
+510
+00:24:44,081 --> 00:24:45,224
+<b><font face="Rockwell" color="#D900D9">(BARKING CONTINUES)</font></b>
+
+511
+00:24:45,248 --> 00:24:47,416
+<b><font face="Rockwell" color="#D900D9">(INDISTINCT ANNOUNCEMENT OVER P.A.)</font></b>
+
+512
+00:24:54,391 --> 00:24:55,758
+We found an issue.
+
+513
+00:24:57,828 --> 00:24:59,672
+An aneurysm near your heart.
+
+514
+00:24:59,696 --> 00:25:01,525
+So, we can't do the surgery?
+
+515
+00:25:01,932 --> 00:25:03,576
+We have a solution.
+
+516
+00:25:03,600 --> 00:25:06,646
+It's an addition to what
+we had originally planned.
+
+517
+00:25:06,670 --> 00:25:07,914
+A Teflon graft.
+
+518
+00:25:09,539 --> 00:25:11,784
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+519
+00:25:11,808 --> 00:25:14,787
+It's finally time to prepare
+you for your surgery, Melanie.
+
+520
+00:25:14,811 --> 00:25:16,622
+Thank you.
+
+521
+00:25:16,646 --> 00:25:18,257
+Nurse should be by shortly.
+
+522
+00:25:19,816 --> 00:25:21,794
+This surgery...
+
+523
+00:25:21,818 --> 00:25:23,919
+It was already complicated, and now...
+
+524
+00:25:25,455 --> 00:25:27,968
+How confident are you
+this graft will work?
+
+525
+00:25:31,895 --> 00:25:33,763
+There are always risks.
+
+526
+00:25:35,599 --> 00:25:37,543
+But I believe I can make it work.
+
+527
+00:25:42,372 --> 00:25:43,816
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+528
+00:25:43,840 --> 00:25:45,174
+Thank you.
+
+529
+00:25:49,146 --> 00:25:50,857
+That's it, Shaun. Keep holding it. Good.
+
+530
+00:25:50,881 --> 00:25:52,325
+- Hold.
+- Good.
+
+531
+00:25:52,349 --> 00:25:53,726
+Keep your eyes closed.
+
+532
+00:25:53,750 --> 00:25:55,461
+- Okay.
+- Feel the scalpel, Shaun.
+
+533
+00:25:55,485 --> 00:25:57,397
+We need to find Harry.
+
+534
+00:25:57,421 --> 00:25:58,631
+- I know.
+- No.
+
+535
+00:25:58,655 --> 00:25:59,799
+Hey, Shaun, it's okay.
+
+536
+00:25:59,823 --> 00:26:01,100
+It's... It's not okay.
+
+537
+00:26:01,124 --> 00:26:02,802
+<b><font face="Rockwell" color="#D900D9">(GLASS SHATTERS IN DISTANCE)</font></b>
+
+538
+00:26:02,826 --> 00:26:05,705
+- We need to... We need to find Harry.
+- Hey. Hey, Shaun.
+
+539
+00:26:05,729 --> 00:26:08,550
+- We need...
+- Shaun! Look over there. Look.
+
+540
+00:26:09,399 --> 00:26:11,333
+Remember Harry said he had a friend.
+
+541
+00:26:12,502 --> 00:26:13,803
+<b><font face="Rockwell" color="#808080">SHAUN:</font></b> Harry.
+
+542
+00:26:14,671 --> 00:26:17,539
+Harry and Mr. Googly Eyes.
+
+543
+00:26:17,563 --> 00:26:19,218
+<b><font face="Rockwell" color="#D900D9">(CLANGING, DOG BARKING IN DISTANCE)</font></b>
+
+544
+00:26:19,242 --> 00:26:20,342
+Yes.
+
+545
+00:26:20,877 --> 00:26:22,455
+Yes, Harry.
+
+546
+00:26:22,479 --> 00:26:23,823
+Har... Harry!
+
+547
+00:26:23,847 --> 00:26:26,518
+- Harry!
+- What do you want?
+
+548
+00:26:26,543 --> 00:26:28,421
+- Uh...
+- This is... This is my home.
+
+549
+00:26:28,445 --> 00:26:30,990
+- My home! Go away!
+- We're not coming in, Harry.
+
+550
+00:26:31,014 --> 00:26:33,159
+Okay, we... We made a mistake,
+
+551
+00:26:33,183 --> 00:26:34,894
+and we want to run an MRI
+scan on you, because we...
+
+552
+00:26:34,918 --> 00:26:36,996
+<b><font face="Rockwell" color="#D900D9">(STAMMERS)</font></b> Always mistakes,
+always blaming others.
+
+553
+00:26:37,020 --> 00:26:39,847
+You see, I knew you were
+a doctor. I knew it. I knew it.
+
+554
+00:26:39,871 --> 00:26:41,534
+We think you have a
+brain tumor. We can help you.
+
+555
+00:26:41,558 --> 00:26:43,536
+- Didn't I say go away?
+- If we can just get you back...
+
+556
+00:26:43,560 --> 00:26:44,871
+- I said go away. Didn't I say go away?
+- If we can just...
+
+557
+00:26:44,895 --> 00:26:46,105
+<b><font face="Rockwell" color="#D900D9">(STAMMERS)</font></b> I said go away.
+
+558
+00:26:46,129 --> 00:26:48,574
+<b><font face="Rockwell" color="#808080">SHAUN:</font></b> Edward Austin Thomas.
+
+559
+00:26:52,569 --> 00:26:55,571
+Harry is not who you really are.
+
+560
+00:26:59,576 --> 00:27:03,856
+You are Edward Austin Thomas.
+
+561
+00:27:03,880 --> 00:27:07,734
+You live at 3458 Brookland Avenue.
+
+562
+00:27:14,825 --> 00:27:17,626
+I have a neurological condition.
+
+563
+00:27:18,862 --> 00:27:20,896
+I will always have it.
+
+564
+00:27:25,736 --> 00:27:29,315
+You have a neurological condition, too.
+
+565
+00:27:29,339 --> 00:27:31,851
+But yours can be cured.
+
+566
+00:27:34,010 --> 00:27:35,621
+You just need some surgery,
+
+567
+00:27:35,645 --> 00:27:39,181
+then you can be
+Edward Austin Thomas again.
+
+568
+00:27:46,423 --> 00:27:48,000
+You're not a doctor, are you?
+
+569
+00:28:02,506 --> 00:28:03,750
+Let's go.
+
+570
+00:28:11,316 --> 00:28:13,317
+<b><font face="Rockwell" color="#D900D9">(MONITOR BEEPING)</font></b>
+
+571
+00:28:19,301 --> 00:28:20,878
+Knife.
+
+572
+00:28:26,675 --> 00:28:28,653
+Another thing about being president,
+
+573
+00:28:28,677 --> 00:28:30,588
+it's always your ass on the line.
+
+574
+00:28:30,612 --> 00:28:33,925
+But ultimately, you're just a bystander.
+
+575
+00:28:46,461 --> 00:28:48,573
+<b><font face="Rockwell" color="#808080">JARED:</font></b>
+He has a wife and daughter.
+
+576
+00:28:48,597 --> 00:28:50,208
+I checked out the address,
+and it all adds up...
+
+577
+00:28:50,232 --> 00:28:52,710
+- <b><font face="Rockwell" color="#D900D9">(DOOR OPENS)</font></b>
+- You had to mess with me.
+
+578
+00:28:52,734 --> 00:28:54,946
+You didn't care that it might
+mean the end of your career,
+
+579
+00:28:54,970 --> 00:28:56,948
+didn't care what happened
+to Shaun, dragged him along.
+
+580
+00:28:56,972 --> 00:28:58,005
+Unforgivable.
+
+581
+00:29:00,375 --> 00:29:02,286
+Your day's over.
+
+582
+00:29:02,310 --> 00:29:04,455
+And I'm making that call to Denver.
+
+583
+00:29:04,479 --> 00:29:07,892
+The reason we're here right
+now is because of Shaun.
+
+584
+00:29:07,916 --> 00:29:09,227
+Not me.
+
+585
+00:29:13,255 --> 00:29:16,033
+Shaun believed there was something
+wrong with the patient.
+
+586
+00:29:16,057 --> 00:29:18,469
+Shaun communicated with him,
+connected with him,
+
+587
+00:29:18,493 --> 00:29:20,438
+got him to come in.
+
+588
+00:29:20,462 --> 00:29:22,740
+And whether he's right or not, I
+couldn't be prouder to back him
+
+589
+00:29:22,764 --> 00:29:24,141
+because he sticks to his gut
+
+590
+00:29:24,165 --> 00:29:26,177
+and he fights
+for what he thinks is right.
+
+591
+00:29:31,673 --> 00:29:33,584
+Excuse me, please.
+
+592
+00:29:33,608 --> 00:29:35,086
+I have something to say, too.
+
+593
+00:29:37,512 --> 00:29:40,958
+Edward has a right parietal brain tumor.
+
+594
+00:29:48,256 --> 00:29:50,301
+<b><font face="Rockwell" color="#D900D9">(COMPUTER BEEPING)</font></b>
+
+595
+00:29:50,325 --> 00:29:51,592
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+596
+00:29:52,661 --> 00:29:55,606
+Find Dr. Lim. You can have O.R. number 2.
+
+597
+00:30:07,842 --> 00:30:09,920
+<b><font face="Rockwell" color="#808080">DR. MELENDEZ:</font></b> There she goes.
+What's left?
+
+598
+00:30:09,944 --> 00:30:11,922
+Replace the damaged segment
+of aorta with the graft,
+
+599
+00:30:11,946 --> 00:30:13,791
+then plug the donor heart
+into the aortic stump.
+
+600
+00:30:13,815 --> 00:30:15,626
+Exactly. 3-0 prolene.
+
+601
+00:30:22,624 --> 00:30:23,934
+Damn. Give me a pledget.
+
+602
+00:30:29,698 --> 00:30:31,475
+The aorta wall is too thin.
+
+603
+00:30:32,314 --> 00:30:33,934
+It's like sewing tissue paper.
+
+604
+00:30:35,570 --> 00:30:37,348
+I can't anchor the graft here.
+
+605
+00:30:47,148 --> 00:30:49,226
+We're going to replace
+the whole ascending aorta.
+
+606
+00:30:49,250 --> 00:30:51,128
+Not just a segment.
+
+607
+00:30:51,152 --> 00:30:54,628
+We're building an entirely new
+aorta out of Teflon.
+
+608
+00:30:55,490 --> 00:30:58,969
+You'll be plugging the heart directly
+into the graft. That's even riskier.
+
+609
+00:30:58,993 --> 00:31:00,504
+That's true.
+
+610
+00:31:03,131 --> 00:31:06,133
+Get me three Teflon grafts
+and some monofilament sutures.
+
+611
+00:31:11,473 --> 00:31:13,674
+<b><font face="Rockwell" color="#D900D9">(MONITOR BEEPING)</font></b>
+
+612
+00:31:17,779 --> 00:31:20,458
+<b><font face="Rockwell" color="#808080">DR. LIM:</font></b> Now we just have to
+wait to see who wakes up...
+
+613
+00:31:20,482 --> 00:31:22,049
+Edward or Harry.
+
+614
+00:31:28,690 --> 00:31:30,067
+<b><font face="Rockwell" color="#808080">DR. MELENDEZ:</font></b> Flush it.
+
+615
+00:31:36,331 --> 00:31:37,441
+No leaks.
+
+616
+00:31:37,465 --> 00:31:38,706
+Put your back into it, Park.
+
+617
+00:31:38,730 --> 00:31:40,507
+This needs to hold
+a systolic pressure of 180.
+
+618
+00:31:43,772 --> 00:31:44,982
+Good.
+
+619
+00:31:49,477 --> 00:31:50,637
+Okay.
+
+620
+00:31:50,661 --> 00:31:53,113
+Let's plug the donor heart in,
+see if this thing holds.
+
+621
+00:32:14,035 --> 00:32:15,212
+They're connected.
+
+622
+00:32:15,236 --> 00:32:16,603
+Let's take her off bypass.
+
+623
+00:32:18,606 --> 00:32:20,507
+<b><font face="Rockwell" color="#D900D9">(MONITOR FLATLINES)</font></b>
+
+624
+00:32:35,423 --> 00:32:37,034
+<b><font face="Rockwell" color="#D900D9">(MONITOR BEEPING)</font></b>
+
+625
+00:32:37,058 --> 00:32:39,136
+We have a heartbeat.
+
+626
+00:32:39,160 --> 00:32:41,138
+Two heartbeats.
+
+627
+00:32:55,143 --> 00:32:56,587
+Who wants to do the closing?
+
+628
+00:32:56,611 --> 00:32:58,322
+<b><font face="Rockwell" color="#808080">CLAIRE:</font></b> I'll do it.
+
+629
+00:32:58,346 --> 00:33:01,379
+The Teflon graft was my idea.
+I'd like to finish it.
+
+630
+00:33:20,808 --> 00:33:25,055
+What we've accomplishe tonight
+is the type of radical surgery
+
+631
+00:33:25,079 --> 00:33:27,858
+that we plan to do more of
+at this hospital.
+
+632
+00:33:27,882 --> 00:33:30,027
+I loved Dr. Glassman.
+
+633
+00:33:30,051 --> 00:33:31,328
+You loved Dr. Glassman.
+
+634
+00:33:31,352 --> 00:33:34,031
+We all loved Dr. Glassman.
+
+635
+00:33:34,055 --> 00:33:36,834
+But now is the time
+to build on his legacy.
+
+636
+00:33:36,858 --> 00:33:39,636
+Now is the time to take St. Bonaventure
+
+637
+00:33:39,660 --> 00:33:41,972
+to the forefront
+of the medical profession.
+
+638
+00:33:41,996 --> 00:33:44,064
+<b><font face="Rockwell" color="#D900D9">(APPLAUSE)</font></b>
+
+639
+00:33:49,370 --> 00:33:51,882
+I'd like to introduce you
+
+640
+00:33:51,906 --> 00:33:54,618
+to Elliot Arnott, Melanie's son,
+
+641
+00:33:54,642 --> 00:33:58,222
+and the phenomenal surgeon
+who masterminded this surgery,
+
+642
+00:33:58,246 --> 00:34:00,290
+Dr. Neil Melendez.
+
+643
+00:34:00,314 --> 00:34:01,648
+<b><font face="Rockwell" color="#D900D9">(APPLAUSE)</font></b>
+
+644
+00:34:15,430 --> 00:34:17,174
+He wouldn't take the medication.
+
+645
+00:34:17,198 --> 00:34:22,019
+He just became more erratic,
+more disruptive,
+
+646
+00:34:22,043 --> 00:34:24,880
+and eventually... <b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+647
+00:34:25,438 --> 00:34:27,749
+For Hannah's sake, I, um...
+
+648
+00:34:28,108 --> 00:34:29,976
+I had to ask him to leave.
+
+649
+00:34:31,078 --> 00:34:32,745
+I didn't have a choice.
+
+650
+00:34:33,847 --> 00:34:36,138
+You couldn't have known
+it was the wrong medication.
+
+651
+00:34:36,163 --> 00:34:38,230
+We were making him worse.
+
+652
+00:34:38,693 --> 00:34:39,993
+That's true.
+
+653
+00:34:41,729 --> 00:34:43,073
+He doesn't blame you.
+
+654
+00:34:43,098 --> 00:34:44,475
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+655
+00:34:44,965 --> 00:34:46,835
+That's kind of you to say, but...
+
+656
+00:34:47,624 --> 00:34:49,859
+I know he has a distrust
+of doctors, not of you.
+
+657
+00:34:51,128 --> 00:34:53,996
+<b><font face="Rockwell" color="#D900D9">(INHALES SHARPLY, SIGHS)</font></b>
+
+658
+00:34:57,134 --> 00:34:58,177
+Where am I?
+
+659
+00:34:58,201 --> 00:35:00,936
+You're in a hospital. You're okay.
+
+660
+00:35:03,173 --> 00:35:04,173
+Eddie?
+
+661
+00:35:10,013 --> 00:35:11,291
+Mary.
+
+662
+00:35:11,315 --> 00:35:13,126
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+663
+00:35:17,387 --> 00:35:19,365
+Oh... My lamb.
+
+664
+00:35:19,389 --> 00:35:22,268
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b> Daddy.
+
+665
+00:35:22,292 --> 00:35:24,794
+<b><font face="Rockwell" color="#D900D9">(CRYING)</font></b>
+
+666
+00:35:28,832 --> 00:35:30,433
+<b><font face="Rockwell" color="#D900D9">(LAUGHS)</font></b>
+
+667
+00:35:46,450 --> 00:35:47,783
+Shaun?
+
+668
+00:35:50,821 --> 00:35:52,688
+I meant what I said to Andrews.
+
+669
+00:35:56,293 --> 00:35:59,395
+He might never fully appreciate
+what you accomplished out there.
+
+670
+00:36:01,031 --> 00:36:02,442
+But I did.
+
+671
+00:36:08,839 --> 00:36:10,139
+I know.
+
+672
+00:36:11,942 --> 00:36:13,476
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+673
+00:36:15,838 --> 00:36:17,382
+Thank you, Shaun.
+
+674
+00:36:24,721 --> 00:36:26,455
+Thank you, Jared.
+
+675
+00:37:27,684 --> 00:37:29,962
+Do you have my book?
+
+676
+00:37:29,986 --> 00:37:31,053
+Yeah.
+
+677
+00:37:48,338 --> 00:37:50,172
+I said goodbye to Jared.
+
+678
+00:37:52,209 --> 00:37:53,953
+He has to go to Denver,
+
+679
+00:37:53,977 --> 00:37:57,046
+and I have to stay here with you.
+
+680
+00:37:58,014 --> 00:37:59,682
+No you don't, Shaun.
+
+681
+00:38:03,587 --> 00:38:05,231
+It's not up to Jared, it's not up to me,
+
+682
+00:38:05,255 --> 00:38:07,756
+it's not to anyone
+to tell you where to be.
+
+683
+00:38:12,195 --> 00:38:13,462
+I...
+
+684
+00:38:14,197 --> 00:38:15,842
+<b><font face="Rockwell" color="#D900D9">(SIGHS)</font></b>
+
+685
+00:38:15,866 --> 00:38:19,001
+I've got a long journey ahead of me.
+
+686
+00:38:20,604 --> 00:38:24,851
+And in the end,
+I've got to take it alone.
+
+687
+00:38:30,146 --> 00:38:32,544
+Yes, I understand.
+
+688
+00:38:37,587 --> 00:38:39,899
+I'm going with you.
+
+689
+00:39:08,018 --> 00:39:09,161
+<b><font face="Rockwell" color="#D900D9">(DOOR OPENS)</font></b>
+
+690
+00:39:14,124 --> 00:39:15,424
+Jared.
+
+691
+00:39:31,575 --> 00:39:33,897
+I miss having you around as a colleague.
+
+692
+00:39:40,383 --> 00:39:41,784
+But...
+
+693
+00:39:43,920 --> 00:39:45,998
+I...
+
+694
+00:39:46,022 --> 00:39:48,453
+...also miss what we had together.
+
+695
+00:39:52,829 --> 00:39:55,898
+You know, I th...
+I think we made a mistake.
+
+696
+00:39:57,701 --> 00:39:59,101
+I made a mistake.
+
+697
+00:40:04,407 --> 00:40:06,041
+I'd like you to stay.
+
+698
+00:40:19,289 --> 00:40:20,656
+No.
+
+699
+00:40:32,502 --> 00:40:34,236
+It's hard saying goodbye.
+
+700
+00:40:36,919 --> 00:40:38,419
+Doesn't mean it's a mistake.
+
+701
+00:40:41,277 --> 00:40:43,846
+- Yeah.
+- I think you'll be okay.
+
+702
+00:40:47,250 --> 00:40:48,784
+I'll be okay.
+
+703
+00:40:59,729 --> 00:41:02,564
+I think one day, we're both
+going to be very happy.
+
+704
+00:41:08,538 --> 00:41:09,582
+Hey...
+
+705
+00:41:09,606 --> 00:41:11,717
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+706
+00:41:11,741 --> 00:41:13,942
+<b><font face="Rockwell" color="#D900D9">(♫ "DREAM" BY BISHOP BRIGGS PLAYS ♫)</font></b>
+
+707
+00:41:22,952 --> 00:41:26,866
+<b><font face="Rockwell" color="#FFFF00"><i>♫ I want to wake up
+Where your love is ♫</i></font></b>
+
+708
+00:41:26,890 --> 00:41:30,703
+<b><font face="Rockwell" color="#FFFF00"><i>♫ 'Cause your love
+Is always waking mine ♫</i></font></b>
+
+709
+00:41:30,727 --> 00:41:34,707
+<b><font face="Rockwell" color="#FFFF00"><i>♫ I want to break down
+Where your heart gets ♫</i></font></b>
+
+710
+00:41:34,731 --> 00:41:39,745
+<b><font face="Rockwell" color="#FFFF00"><i>♫ So torn
+It's almost breaking mine ♫</i></font></b>
+
+711
+00:41:39,769 --> 00:41:43,683
+<b><font face="Rockwell" color="#FFFF00"><i>♫ I want to tell you
+What my truth is ♫</i></font></b>
+
+712
+00:41:43,707 --> 00:41:46,552
+<b><font face="Rockwell" color="#FFFF00"><i>♫ But it's buried down inside ♫</i></font></b>
+
+713
+00:41:46,576 --> 00:41:49,889
+<b><font face="Rockwell" color="#FFFF00"><i>♫ Mmm, mmm, mmm ♫</i></font></b>
+
+714
+00:41:49,913 --> 00:41:52,614
+<b><font face="Rockwell" color="#FFFF00"><i>♫ It's buried down inside ♫</i></font></b>
+
+715
+00:41:53,917 --> 00:41:54,983
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+716
+00:41:58,054 --> 00:41:59,198
+<b><font face="Rockwell" color="#D900D9">(CHUCKLES)</font></b>
+
+717
+00:41:59,222 --> 00:42:01,023
+Aren't you gonna say hello?
+
+718
+00:42:05,061 --> 00:42:06,228
+Hello.
