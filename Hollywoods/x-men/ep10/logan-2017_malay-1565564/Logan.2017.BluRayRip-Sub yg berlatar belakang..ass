@@ -1,0 +1,1292 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:09.65,0:01:38.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}~SUB BY EGN~
+Dialogue: 0,0:01:38.81,0:01:40.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}~SELAMAT MENONTON~
+Dialogue: 0,0:01:40.83,0:01:41.83,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ah, Kawan
+Dialogue: 0,0:01:42.87,0:01:45.11,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu rim bersalut krom.\NKamu tak boleh mengambilnya.
+Dialogue: 0,0:01:45.43,0:01:46.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tengok lah dia ni.{\i0}
+Dialogue: 0,0:01:46.43,0:01:48.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lapisan logamnya akan mengelupas.
+Dialogue: 0,0:01:48.47,0:01:49.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Ya?{\i0}
+Dialogue: 0,0:01:49.75,0:01:51.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ianya dipajak kepada aku. kamu semua\Ntakkan mampu untuk membayanya.
+Dialogue: 0,0:01:54.95,0:01:58.55,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Bodohnya.{\i0}
+Dialogue: 0,0:02:04.79,0:02:05.79,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna.
+Dialogue: 0,0:02:15.75,0:02:17.19,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei kawan.
+Dialogue: 0,0:02:18.79,0:02:21.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku serius.\NKamu tak patut lakukan nya.
+Dialogue: 0,0:02:24.99,0:02:26.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Habiskan dia.{\i0}
+Dialogue: 0,0:02:42.87,0:02:44.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak! Jangan tembak kereta tu
+Dialogue: 0,0:02:58.63,0:02:59.83,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Pijak dia.{\i0}
+Dialogue: 0,0:03:04.91,0:03:05.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bedebah...
+Dialogue: 0,0:03:36.43,0:03:37.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna.
+Dialogue: 0,0:03:58.47,0:03:59.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna
+Dialogue: 0,0:04:50.47,0:04:51.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Semuanya sedang tertidur, Burt.{\i0}
+Dialogue: 0,0:04:52.19,0:04:57.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}berjalan ketika tidur bersama topi salji,\Npornografi, air beracun, mutan...{\i0}
+Dialogue: 0,0:04:57.31,0:04:58.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Semuanya berkaitan.{\i0}
+Dialogue: 0,0:04:58.59,0:05:00.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Hei, Clyde.\NSekarang ni dah tahun 2029.{\i0}
+Dialogue: 0,0:05:01.10,0:05:03.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kenapa kita masih bercakap pasal mutan?{\i0}
+Dialogue: 0,0:05:04.21,0:05:06.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, ini aku.\NAku ada di dalam kereta.
+Dialogue: 0,0:05:07.49,0:05:08.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, perjalanan yang menyeronokkan.
+Dialogue: 0,0:05:09.67,0:05:11.19,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Merangkak melalui bawah pagar.
+Dialogue: 0,0:05:22.12,0:05:32.10,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}U.S.A! U.S.A! U.S.A!\NU.S.A! U.S.A! U.S.A!{\i0}
+Dialogue: 0,0:05:47.88,0:05:49.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Wolverine.
+Dialogue: 0,0:05:51.32,0:05:52.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu itu kau.
+Dialogue: 0,0:05:53.32,0:05:54.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Oh, Tak guna.\N- Tolong!
+Dialogue: 0,0:05:55.13,0:05:56.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku sedang bermasalah!
+Dialogue: 0,0:05:56.91,0:05:58.79,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hanya kau yang boleh tolong aku!
+Dialogue: 0,0:06:01.32,0:06:02.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}pergi dari sini
+Dialogue: 0,0:06:08.13,0:06:09.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tolong!
+Dialogue: 0,0:06:10.24,0:06:11.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan!
+Dialogue: 0,0:06:16.76,0:06:17.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapa tu?
+Dialogue: 0,0:06:17.76,0:06:19.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Entahlah, mungkin perempuan gila.\NJangan risau pasal tu.
+Dialogue: 0,0:07:21.80,0:07:25.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sebagaimana aku hidup dan bernafas\Nbegitu juga dengan The Wolverine.
+Dialogue: 0,0:07:26.36,0:07:27.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Yang sekarang sedang ketagih arak.
+Dialogue: 0,0:07:28.16,0:07:29.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapa kau?
+Dialogue: 0,0:07:29.90,0:07:32.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Terdapat beberapa kesan tembakan di pintu kereta kau.
+Dialogue: 0,0:07:33.60,0:07:35.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku dengar kau sedang berada di Phoenix.
+Dialogue: 0,0:07:35.92,0:07:39.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi tadi malam beberapa\Nkawan aku pergi ke Texas HP
+Dialogue: 0,0:07:39.56,0:07:43.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka menjumpai 3 mayat orang Amerika\Ndi tempat billiard di jalan 54.
+Dialogue: 0,0:07:44.12,0:07:45.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, itu bukan kebiasaan.
+Dialogue: 0,0:07:45.91,0:07:49.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kecuali ada yang kehilangan tangan,\Ndan ada yang kehilangan kaki.
+Dialogue: 0,0:07:50.20,0:07:51.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jadi mereka fikir...
+Dialogue: 0,0:07:51.72,0:07:54.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu kerja harimau yang terlepas atau Freedy Kruger.
+Dialogue: 0,0:07:55.56,0:07:57.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi binatang tu tak boleh memandu...
+Dialogue: 0,0:07:57.60,0:08:00.52,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Salah seorang makhluk fiksyen\Ndan seorang lagi dah pupus.
+Dialogue: 0,0:08:00.68,0:08:04.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan selepas mereka menemui kesan\Nroda milik 24 Chrysler...
+Dialogue: 0,0:08:06.18,0:08:07.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya...
+Dialogue: 0,0:08:07.40,0:08:09.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ini 24 Chrysler.
+Dialogue: 0,0:08:11.56,0:08:13.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia belum jumpa kau?
+Dialogue: 0,0:08:13.51,0:08:14.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Gabriella?
+Dialogue: 0,0:08:16.96,0:08:17.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dengar...
+Dialogue: 0,0:08:18.32,0:08:20.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku bukannya mencari kau, Wolvie.
+Dialogue: 0,0:08:21.08,0:08:24.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku mencari\Nseseorang yang mencari kau.
+Dialogue: 0,0:08:25.52,0:08:28.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia mencuri sesuatu daripada aku\NWaktu aku tak melihatnya.
+Dialogue: 0,0:08:28.92,0:08:31.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sesuatu yang aku amanahkan padanya.
+Dialogue: 0,0:08:33.24,0:08:34.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Wanita Mexico.
+Dialogue: 0,0:08:35.67,0:08:37.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang dia mencari kau.
+Dialogue: 0,0:08:39.96,0:08:41.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak berdering bunyi apa-apa loceng (pintu)?
+Dialogue: 0,0:08:41.38,0:08:44.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak kenal siapa Gabriella.\NJadi keluarlah dari kereta aku!
+Dialogue: 0,0:08:46.96,0:08:47.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dengar...
+Dialogue: 0,0:08:48.76,0:08:50.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu apa yang kau sembunyikan, Kawan.
+Dialogue: 0,0:08:51.28,0:08:53.84,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cuba lama di selatan sempadan.
+Dialogue: 0,0:08:54.68,0:08:55.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang kau mahu?
+Dialogue: 0,0:08:56.00,0:08:57.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hanya sedikit kerjasama.
+Dialogue: 0,0:09:06.36,0:09:08.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa-apapun aku peminat kau.
+Dialogue: 0,0:09:15.88,0:09:16.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}<B> Alkali Transigen {\b0\i0}{\c}{\fn\i0}
+Dialogue: 0,0:09:17.13,0:09:18.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna!
+Dialogue: 0,0:09:20.10,0:09:21.80,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, Cik Morales.\NTidak.
+Dialogue: 0,0:09:22.44,0:09:24.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu aku cakap bulan Jun, tapi\Naku perlukan bot sekarang.
+Dialogue: 0,0:09:25.15,0:09:26.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa maksudnya harga naik?
+Dialogue: 0,0:09:27.87,0:09:28.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dengar sini.
+Dialogue: 0,0:09:28.91,0:09:30.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu kau mahu 70...
+Dialogue: 0,0:09:30.73,0:09:34.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Okay. Bagaimana jika aku beri\N $ 45,000 tunai sekarang juga?
+Dialogue: 0,0:09:34.52,0:09:35.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hallo? Hallo?
+Dialogue: 0,0:09:36.09,0:09:37.11,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna.
+Dialogue: 0,0:09:40.46,0:09:41.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, Sam.
+Dialogue: 0,0:09:41.93,0:09:42.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Selamat pagi.
+Dialogue: 0,0:10:40.48,0:10:41.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang hari-hari yang sukar baginya.
+Dialogue: 0,0:10:42.05,0:10:43.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sentiasa sukar..
+Dialogue: 0,0:10:44.65,0:10:46.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia perlukan ubat ni 6 jam lepas.
+Dialogue: 0,0:10:50.03,0:10:51.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ini tak mencukupi.
+Dialogue: 0,0:10:52.85,0:10:53.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita lihatlah dalam masa seminggu.
+Dialogue: 0,0:10:53.89,0:10:54.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku sedang usaha mendapatkannya
+Dialogue: 0,0:10:57.91,0:10:58.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Giliran kau.
+Dialogue: 0,0:10:59.79,0:11:01.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku dah tak larat.
+Dialogue: 0,0:11:02.85,0:11:04.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kesiannya kau.
+Dialogue: 0,0:11:08.47,0:11:11.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Selain itu, malam tadi dia beritahu aku,\Ndia ada berkomunikasi dengan seseorang.
+Dialogue: 0,0:11:12.05,0:11:13.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia tidak bercakap dengan sesiapa.
+Dialogue: 0,0:11:13.83,0:11:15.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan terlalu yakin.
+Dialogue: 0,0:11:15.29,0:11:17.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia ceritakan satu persatu.
+Dialogue: 0,0:11:17.38,0:11:19.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku fikir tangki tu dibina boleh\Nbertindak sebagai penghalang.
+Dialogue: 0,0:11:20.06,0:11:22.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Ia sudah mula retak.\N- Tolong berhenti.
+Dialogue: 0,0:11:23.61,0:11:24.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sebelah kiri kau.
+Dialogue: 0,0:11:31.08,0:11:32.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tak mendengarnya
+Dialogue: 0,0:11:32.70,0:11:35.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia ada bertanyakan soalan.\N"kenapa kita di sini?"
+Dialogue: 0,0:11:35.97,0:11:37.39,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Saya rasa dia cuba untuk\Nmembaca fikiran saya.
+Dialogue: 0,0:11:37.42,0:11:38.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itulah gunanya ubat ini.
+Dialogue: 0,0:12:00.64,0:12:03.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kawan-kawan, hari ini\Naku ada berita gembira!{\i0}
+Dialogue: 0,0:12:03.28,0:12:04.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Ianya bukan tentang apa yang kau lakukan.{\i0}
+Dialogue: 0,0:12:04.95,0:12:08.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Bukannya mengenai apa yang kamu lakukan.\NKamu harus pasrah dengan kententuan Tuhan Tuhan.{\i0}
+Dialogue: 0,0:12:08.77,0:12:12.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Ia tahu itu bukan kemampuan kamu.\NTak mengapa, kita semua memang tidak sempurna.{\i0}
+Dialogue: 0,0:12:14.81,0:12:16.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Beri laluan, Tuan.
+Dialogue: 0,0:12:17.49,0:12:18.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Saya kata beri laluan!
+Dialogue: 0,0:12:18.82,0:12:21.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}"Quesalopa" yang baru dari Taco Bell!{\i0}
+Dialogue: 0,0:12:21.90,0:12:24.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Boleh didapati dengan ayam, boleh\Ndidapati dengan daging panggang{\i0}
+Dialogue: 0,0:12:24.57,0:12:27.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tersedia juga dengan kek\Nkeju.{\i0}
+Dialogue: 0,0:12:27.10,0:12:28.67,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Ini adalah sesuatu yang menarik.{\i0}
+Dialogue: 0,0:12:28.69,0:12:30.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tempahlah sekarang...{\i0}
+Dialogue: 0,0:12:32.43,0:12:33.80,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapa kau?
+Dialogue: 0,0:12:34.22,0:12:35.30,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau dah kenal aku.
+Dialogue: 0,0:12:35.54,0:12:37.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau adalah lelaki menidurkan aku.
+Dialogue: 0,0:12:38.08,0:12:39.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita memang perlukan tidur.
+Dialogue: 0,0:12:39.30,0:12:41.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak! Tidak!\NTidak! Pergil!
+Dialogue: 0,0:12:46.05,0:12:47.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang kau buat pada aku?
+Dialogue: 0,0:12:47.78,0:12:48.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Charles.
+Dialogue: 0,0:12:50.17,0:12:51.17,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mari.
+Dialogue: 0,0:13:33.72,0:13:36.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berapa lama aku dah berada di sini?
+Dialogue: 0,0:13:56.83,0:13:57.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa ni?
+Dialogue: 0,0:13:57.98,0:13:58.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau ingat.
+Dialogue: 0,0:13:59.30,0:14:02.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kejutan dan sawan.\NPil ini akan mencegah dari ianya berlaku.
+Dialogue: 0,0:14:05.38,0:14:07.24,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bagaimana kalau kau hancurkan sedikit\Nsupaya kau selamat.
+Dialogue: 0,0:14:07.39,0:14:08.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sudahlah, Logan.
+Dialogue: 0,0:14:08.90,0:14:10.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}sekarang kau dah ingat siapa aku.
+Dialogue: 0,0:14:10.45,0:14:12.67,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku sentiasa kenal siapa kau.
+Dialogue: 0,0:14:12.91,0:14:15.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cuma kadang-kadang aku lupa..
+Dialogue: 0,0:14:16.58,0:14:17.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Minumlah pil tu.
+Dialogue: 0,0:14:23.28,0:14:25.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tinggalkan aku sendirian\Ndengan lelaki albino tu.
+Dialogue: 0,0:14:26.52,0:14:27.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia tak pernah dengar apa yang aku cakap.
+Dialogue: 0,0:14:29.01,0:14:31.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku dapat mengenali spesis mutan\Nhanya dengan sekilas pandang sahaja
+Dialogue: 0,0:14:31.40,0:14:31.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa?
+Dialogue: 0,0:14:32.19,0:14:35.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Spesis, mutan baru, masih lagi muda.
+Dialogue: 0,0:14:36.46,0:14:38.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Ada tentera yang cuba membunuhnya.\N- Tentera?
+Dialogue: 0,0:14:38.47,0:14:39.60,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka perlukan pertolongan.
+Dialogue: 0,0:14:40.69,0:14:42.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tentera, Tentera.
+Dialogue: 0,0:14:42.41,0:14:44.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Malangnya kau sudah tak ada\Nurusan dengan perkara itu lagi.
+Dialogue: 0,0:14:44.64,0:14:48.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka tidak mahukan aku\NMereka mahukan kau.
+Dialogue: 0,0:14:48.67,0:14:53.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh ya... Betapa bodohnya mereka.
+Dialogue: 0,0:14:54.13,0:14:57.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka menunggu kau di "Statue of Liberty".
+Dialogue: 0,0:14:57.20,0:15:01.24,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}"Statue of Liberty" sudah lama berlalu, Charles.
+Dialogue: 0,0:15:01.25,0:15:03.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak ada lagi mutan yang baru.\NKau Faham?
+Dialogue: 0,0:15:03.92,0:15:07.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak ada yang dilahirkan 25 tahun\Nkebelakangan ini. Tak ada lagi dimana-mana.
+Dialogue: 0,0:15:07.37,0:15:09.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita sentiasa fikir...
+Dialogue: 0,0:15:09.81,0:15:12.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita adalah sebahagian dari rancangan Tuhan.
+Dialogue: 0,0:15:15.43,0:15:17.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mungkin...
+Dialogue: 0,0:15:17.48,0:15:21.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mungkin kita adalah kesilapan Tuhan.
+Dialogue: 0,0:15:29.85,0:15:33.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang menghampakan ialah...
+Dialogue: 0,0:15:35.35,0:15:36.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sewaktu aku jumpa kau...
+Dialogue: 0,0:15:37.00,0:15:41.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau begitu taksub dengan kerjaya\Npetarung dalam sangkar.
+Dialogue: 0,0:15:41.21,0:15:44.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hidup sebagai pembunuh upahan...
+Dialogue: 0,0:15:44.41,0:15:46.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ketagihan dadah.
+Dialogue: 0,0:15:46.82,0:15:49.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau bagaikan haiwan.
+Dialogue: 0,0:15:50.13,0:15:52.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi kami masih menerima kau.
+Dialogue: 0,0:15:53.03,0:15:55.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku berikan kau sebuah keluarga.
+Dialogue: 0,0:15:55.96,0:15:57.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kini mereka dah tiada.
+Dialogue: 0,0:15:57.51,0:15:58.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan.
+Dialogue: 0,0:15:59.62,0:16:01.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan...
+Dialogue: 0,0:16:02.79,0:16:05.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang kau buat?
+Dialogue: 0,0:16:06.32,0:16:07.79,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang kau buat?
+Dialogue: 0,0:16:07.88,0:16:10.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jawab! Kenapa kita di sini?
+Dialogue: 0,0:16:10.31,0:16:11.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tiada siapa yang berhak hidup sebegini.
+Dialogue: 0,0:16:11.97,0:16:13.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dibius , dan hidup di dalam tangki!
+Dialogue: 0,0:16:13.64,0:16:17.14,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Itu untuk kebaikan kau.\N- Tidak, bukan begitu!
+Dialogue: 0,0:16:19.40,0:16:22.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau hanya menunggu aku mati.
+Dialogue: 0,0:18:03.12,0:18:04.55,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak mahu bertengkar...
+Dialogue: 0,0:18:04.62,0:18:08.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ada perkara yang perlu kita bincangkan.
+Dialogue: 0,0:18:08.57,0:18:09.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa?
+Dialogue: 0,0:18:12.11,0:18:14.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Adakah ini dianggap mengganggu?
+Dialogue: 0,0:18:14.17,0:18:16.62,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dari permerhatian aku sebelum ini,
+Dialogue: 0,0:18:16.64,0:18:20.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dos ini terlalu rendah untuk\Nmenahannya daripada sawan.
+Dialogue: 0,0:18:21.22,0:18:23.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hanya itu yang lelaki itu berikan.
+Dialogue: 0,0:18:23.32,0:18:25.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita tidak berhak membuat banyak permintaan.
+Dialogue: 0,0:18:25.58,0:18:27.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku hampir mati pagi tadi
+Dialogue: 0,0:18:27.12,0:18:28.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Sawannya berlaku...\N- hampir satu minit.
+Dialogue: 0,0:18:28.51,0:18:30.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Rasanya lebih daripada satu minit.\NHinggakan aku sukar untuk bernafas.
+Dialogue: 0,0:18:30.72,0:18:32.11,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kesannya memang kurang terhadap kau.
+Dialogue: 0,0:18:32.21,0:18:33.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tahu dia perlu dos yang lebih tinggi.
+Dialogue: 0,0:18:34.33,0:18:36.62,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu kau mempunyai wang simpanan.
+Dialogue: 0,0:18:36.64,0:18:38.11,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Wang itu untuk mengeluarkan kita dari sini.
+Dialogue: 0,0:18:38.93,0:18:41.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bukan kita.\NKau dan dia.
+Dialogue: 0,0:18:41.33,0:18:42.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau menabung untuk membeli\Nsebuah kapal "sun seeker".
+Dialogue: 0,0:18:42.95,0:18:44.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}"Sun" adalah kata kuncinya.
+Dialogue: 0,0:18:44.35,0:18:47.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sukar untuk dibayangkan bagaimana\NAku terpaksa hidup dengan berlindung di bawah dek.
+Dialogue: 0,0:18:47.95,0:18:48.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tahu?
+Dialogue: 0,0:18:48.97,0:18:52.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Melipat seluar dalam kau, dan\Nmelihat kesan kotoran kemaluan.
+Dialogue: 0,0:18:57.25,0:18:58.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku jumpa ni dalam saku kau.
+Dialogue: 0,0:19:00.08,0:19:01.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Adamantium.
+Dialogue: 0,0:19:02.96,0:19:04.62,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jika kau merancang meletupkan otak kau...
+Dialogue: 0,0:19:04.65,0:19:06.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bolehkah kau tunggu sehingga\Nkita berada di laut lepas?
+Dialogue: 0,0:19:06.45,0:19:09.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Aku baru sahaja mengemop lantai.\N- Aku tak perlukan itu semua.
+Dialogue: 0,0:19:19.27,0:19:22.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Setahun yang lalu, kau\Nminta pertolongan aku.
+Dialogue: 0,0:19:23.54,0:19:25.19,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan tuhan tahu aku dah mencuba.
+Dialogue: 0,0:19:26.54,0:19:28.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi aku tak dapat\Ntolong kau, Logan.
+Dialogue: 0,0:19:30.04,0:19:31.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}jika kau tak nak cakap dengan aku.
+Dialogue: 0,0:19:33.23,0:19:35.30,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku dengar kau tidak tidur.\NPada waktu malam
+Dialogue: 0,0:19:35.59,0:19:37.14,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tak nak bincangkannya.
+Dialogue: 0,0:19:39.23,0:19:40.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ataupun minuman keras yang kau minum.
+Dialogue: 0,0:19:41.79,0:19:44.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Atau pun nanah yang kau bersihkan dari jari-jari kau.
+Dialogue: 0,0:19:44.90,0:19:47.16,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ataupun kesan darah yang aku cuci di baju kau.
+Dialogue: 0,0:19:47.65,0:19:49.79,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ataupun luka baru di dada kau.
+Dialogue: 0,0:19:50.21,0:19:52.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Satu-satunya luka yang tidak akan sembuh.
+Dialogue: 0,0:19:52.78,0:19:53.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan aku cukup yakin...
+Dialogue: 0,0:19:53.81,0:19:56.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tak ingin bercakap yang hakikatnya kau\Ntak boleh membaca label botol itu.
+Dialogue: 0,0:19:58.58,0:19:59.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Disitu tertulis ibuprofen.
+Dialogue: 0,0:20:01.87,0:20:02.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu gelas kegemaran aku.
+Dialogue: 0,0:20:03.60,0:20:05.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan nak menyibuk.
+Dialogue: 0,0:20:07.59,0:20:09.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ada sesuatu yang terjadi pada kau, Logan.
+Dialogue: 0,0:20:09.30,0:20:11.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Batinmu sedang sengsara logan.\NAku dapat menghidunya..
+Dialogue: 0,0:20:18.13,0:20:19.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Malam yang terbaik!{\i0}
+Dialogue: 0,0:20:22.01,0:20:23.17,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Hei, Encik driver.{\i0}
+Dialogue: 0,0:20:40.73,0:20:43.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Aku sayang kamu.\NAku sayang kamu.{\i0}
+Dialogue: 0,0:20:43.95,0:20:45.52,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kau seperti patung.{\i0}
+Dialogue: 0,0:21:42.80,0:21:43.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Encik Logan.
+Dialogue: 0,0:21:44.02,0:21:45.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh tuhan
+Dialogue: 0,0:21:45.14,0:21:47.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tolong. Kami perlu pengangkutan.
+Dialogue: 0,0:21:47.05,0:21:48.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak boleh.\NPanggil saja teksi lain.
+Dialogue: 0,0:21:49.04,0:21:51.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Nama aku Gabriella Lopez.\N- Aku tak ingin tahu nama kau, puan.
+Dialogue: 0,0:21:51.45,0:21:52.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ada lelaki yang jejaki kami.
+Dialogue: 0,0:21:52.97,0:21:54.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami mesti pergi dari sini.
+Dialogue: 0,0:21:54.67,0:21:56.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergilah ke utara,\Nmenyeberang ke Kanada.
+Dialogue: 0,0:21:56.34,0:21:57.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapa saja boleh buat kerja tu.
+Dialogue: 0,0:21:57.73,0:21:59.62,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku beri kau $ 50,000.
+Dialogue: 0,0:22:00.14,0:22:02.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bagaimana boleh mencari aku puan?\NKau telah menyusahkan hidup aku.
+Dialogue: 0,0:22:03.06,0:22:05.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka yang mencari kau,\Nsekarang dah dibelakang aku.
+Dialogue: 0,0:22:05.57,0:22:07.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kelibat kau dah dikenal pasti.
+Dialogue: 0,0:22:07.89,0:22:10.04,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Laura, masuk ke dalam.\N- Kelibat apa?
+Dialogue: 0,0:22:10.25,0:22:13.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka cakap seseorang kelihatan seperti\NWolverine memandu paso.
+Dialogue: 0,0:22:14.15,0:22:15.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia kelihatan tua.
+Dialogue: 0,0:22:19.39,0:22:20.14,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei!
+Dialogue: 0,0:22:20.16,0:22:22.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku dah cakap, cukuplah bermain bola itu.
+Dialogue: 0,0:22:22.07,0:22:23.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Gadis nakal.\N- Tidak, tolong lah!
+Dialogue: 0,0:22:23.26,0:22:24.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Aku dah cakap, gadis nakal!\N- Dahlah, tolong.
+Dialogue: 0,0:22:25.36,0:22:27.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Kau mesti membayarnya.\N- Tolong hentikan.
+Dialogue: 0,0:22:30.05,0:22:31.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna!
+Dialogue: 0,0:22:33.18,0:22:35.24,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka perlu membayar kerosakan.
+Dialogue: 0,0:22:36.12,0:22:37.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia mempunyai wang.
+Dialogue: 0,0:22:37.73,0:22:38.73,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku melihatnya.
+Dialogue: 0,0:22:39.14,0:22:40.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}pergi masuk ke pejabat kau semula.
+Dialogue: 0,0:22:40.61,0:22:41.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia akan bagi wang kau nanti.
+Dialogue: 0,0:22:44.37,0:22:46.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tolong jangan biarkan dia\Nmenghubungi sesiapa.
+Dialogue: 0,0:22:46.68,0:22:48.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka akan mencari\Ndan membunuh kami.
+Dialogue: 0,0:22:57.04,0:22:58.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku seorang jururawat.
+Dialogue: 0,0:22:59.41,0:23:01.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di bandar Mexico.
+Dialogue: 0,0:23:03.39,0:23:04.39,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang berlaku?
+Dialogue: 0,0:23:04.89,0:23:08.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pagi tadi.\NDi berhampiran sempadan.
+Dialogue: 0,0:23:11.75,0:23:13.26,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku melarikan diri dari mereka, tapi...
+Dialogue: 0,0:23:14.83,0:23:16.33,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang mereka dah mengenali kereta aku.
+Dialogue: 0,0:23:20.03,0:23:22.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dengar, aku kena pergi.
+Dialogue: 0,0:23:22.34,0:23:24.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, tunggu, tolonglah.\NLihat ini.
+Dialogue: 0,0:23:25.20,0:23:26.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tolong tunggu!\NLihat ni.
+Dialogue: 0,0:23:26.46,0:23:29.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lihat, ambil ni $ 20,000.
+Dialogue: 0,0:23:29.79,0:23:32.19,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bawa kami ke alamat ini.
+Dialogue: 0,0:23:33.15,0:23:35.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau akan mendapat $ 30,000 lagi\Napabila kita tiba di sana.
+Dialogue: 0,0:23:36.55,0:23:38.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kawan aku akan memberikannya.
+Dialogue: 0,0:23:39.18,0:23:40.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka akan tunggu.
+Dialogue: 0,0:23:41.73,0:23:42.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka akan beri kau apa saja.
+Dialogue: 0,0:23:44.18,0:23:45.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dari mana kau dapat ni?
+Dialogue: 0,0:23:45.51,0:23:46.67,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Teman lelaki aku.
+Dialogue: 0,0:23:47.82,0:23:50.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia mahu bunuh aku dan mengambil dia.
+Dialogue: 0,0:23:53.50,0:23:54.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia anak kau?
+Dialogue: 0,0:23:56.98,0:23:57.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya.
+Dialogue: 0,0:24:01.95,0:24:04.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu kau orang yang baik.
+Dialogue: 0,0:24:04.58,0:24:05.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu kau ingin membantu kami.
+Dialogue: 0,0:24:05.44,0:24:07.62,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Kau tak tahu apa-apa tentang aku.\N- Tolong!
+Dialogue: 0,0:24:07.65,0:24:10.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku janji, takkan ada masalah\Njika kita pergi sekarang.
+Dialogue: 0,0:24:10.84,0:24:12.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak boleh pergi ke North\NDakota macam tu saja!
+Dialogue: 0,0:24:12.78,0:24:14.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Kita kena berada di sana pada hari Jumaat.\N- Atau apa?
+Dialogue: 0,0:24:14.98,0:24:17.16,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Atau kita akan terlepas\Npeluang untuk menyeberang.
+Dialogue: 0,0:24:18.11,0:24:19.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tolong lah
+Dialogue: 0,0:24:20.28,0:24:21.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau perlu tolong.
+Dialogue: 0,0:24:24.67,0:24:25.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tolonglah
+Dialogue: 0,0:24:33.18,0:24:34.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku suka bunga mawar.
+Dialogue: 0,0:24:34.84,0:24:36.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ianya membuatkan kau kelihatan lebih muda.
+Dialogue: 0,0:24:38.16,0:24:39.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}- Cepatlah.\N- Kita kena pergi sekarang.{\i0}
+Dialogue: 0,0:24:41.06,0:24:42.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Charles, dengar.\NAku harus pergi, uh...
+Dialogue: 0,0:24:43.36,0:24:45.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku pergi dalam beberapa hari, okay?
+Dialogue: 0,0:24:46.62,0:24:48.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Perjalanan panjang, dan\Nmendapat banyak wang.
+Dialogue: 0,0:24:48.36,0:24:50.16,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bila aku pulang nanti, kita\Nakan keluar dari sini.
+Dialogue: 0,0:24:50.84,0:24:53.79,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita akan memandu ke Yelapa.\NDan kita akan dapatkan bot.
+Dialogue: 0,0:24:54.20,0:24:55.57,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kemudian kita akan hidup di lautan.
+Dialogue: 0,0:24:55.84,0:24:57.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Adakah kita akan selamat disana?
+Dialogue: 0,0:24:59.47,0:25:02.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, kita akan selamat.
+Dialogue: 0,0:25:02.43,0:25:03.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tahu apa yang Logan akan dapatkan, Charles?
+Dialogue: 0,0:25:10.46,0:25:11.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku akan kembali dalam beberapa hari.
+Dialogue: 0,0:25:54.67,0:25:55.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna.
+Dialogue: 0,0:26:27.97,0:26:29.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Logan.\N- Ya?
+Dialogue: 0,0:26:29.54,0:26:30.84,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang berlaku?
+Dialogue: 0,0:26:30.91,0:26:32.24,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ada sesuatu yang tak kena?
+Dialogue: 0,0:26:32.27,0:26:34.39,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}kerja itu dah salah\Ndipermulaannya.
+Dialogue: 0,0:26:54.40,0:26:55.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan!
+Dialogue: 0,0:26:58.74,0:26:59.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan!
+Dialogue: 0,0:27:00.00,0:27:01.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa?
+Dialogue: 0,0:27:03.68,0:27:05.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapa punya ni?
+Dialogue: 0,0:27:11.41,0:27:12.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapa tu?
+Dialogue: 0,0:27:15.91,0:27:18.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Rasanya tetamu yang\Ntak diundang
+Dialogue: 0,0:27:18.51,0:27:19.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku dapat mengesan mutan.
+Dialogue: 0,0:27:19.83,0:27:22.04,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku adalah kulat truffle\N(kulat yg istimewa di france) yang dimuliakan,\Nbukannya seorang peramal.
+Dialogue: 0,0:27:22.06,0:27:25.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Masuk ke dalam, pastikan Charles diam.\NMasuk ke dalam. Sekarang!
+Dialogue: 0,0:27:34.44,0:27:37.26,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau harus pusing balik, bedebah.\NIni tempat peribadi.
+Dialogue: 0,0:27:37.64,0:27:38.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, betul tu.
+Dialogue: 0,0:27:39.69,0:27:42.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Faktanya, aku yakin tanah ini milik\Nsyarikat Multinational Smelting...
+Dialogue: 0,0:27:42.79,0:27:44.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}yang beribu pejabat di Shanghai.
+Dialogue: 0,0:27:46.03,0:27:48.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di mana kau sembunyikan orang tua tu?
+Dialogue: 0,0:27:48.43,0:27:49.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di sebelah sana?
+Dialogue: 0,0:27:52.47,0:27:53.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Atau di sana?
+Dialogue: 0,0:27:55.05,0:27:56.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sangat bijak.
+Dialogue: 0,0:27:57.52,0:27:59.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku ingin bertemu dengannya
+Dialogue: 0,0:28:00.10,0:28:04.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sebuah badan mengkelasifikasikan otaknya\NBoleh menjadi sebagai senjata pemusnah.
+Dialogue: 0,0:28:06.17,0:28:07.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang telah\Nberlaku di timur adalah sangat memalukan.
+Dialogue: 0,0:28:08.46,0:28:09.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia dah lama mati.
+Dialogue: 0,0:28:12.22,0:28:13.22,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku mahukan budak perempuan tu.
+Dialogue: 0,0:28:13.61,0:28:14.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Budak perempuan mana?
+Dialogue: 0,0:28:14.64,0:28:16.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Budak perempuan tuan punya\Nbola yang kau pegang tu.
+Dialogue: 0,0:28:17.31,0:28:18.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak ada budak perempuan di sini.
+Dialogue: 0,0:28:19.21,0:28:20.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu kau pergi ke sebuah motel.
+Dialogue: 0,0:28:20.96,0:28:22.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, aku dipanggil ke sana.
+Dialogue: 0,0:28:22.24,0:28:24.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak ada budak perempuan disana.\NYang ada hanya seorang wanita dewasa.
+Dialogue: 0,0:28:24.17,0:28:26.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hanya seorang wanita.\NItulah dia.
+Dialogue: 0,0:28:29.74,0:28:31.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jadi kau menemui Gabriella.
+Dialogue: 0,0:28:32.41,0:28:35.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi kau tak menghubungi aku.\NItu sangat menyakitkan hati.
+Dialogue: 0,0:28:37.17,0:28:38.60,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tidak menembak mereka berdua kan?
+Dialogue: 0,0:28:39.15,0:28:41.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Tidak, kalau kau?\N- Aku yang tanya kau dulu.
+Dialogue: 0,0:28:41.64,0:28:43.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Aku tak suka senjata.\N- Ya lah tu.
+Dialogue: 0,0:28:44.59,0:28:47.26,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku harap kau menghubungi aku, Logan.
+Dialogue: 0,0:28:47.29,0:28:48.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Seperti yang aku harapkan.
+Dialogue: 0,0:28:51.80,0:28:52.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lihat?
+Dialogue: 0,0:28:53.18,0:28:55.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bukan kau seorang saja yang\Ntelah ditambah baik.
+Dialogue: 0,0:29:03.40,0:29:04.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan.\NLogan!
+Dialogue: 0,0:29:05.40,0:29:07.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia Laura.
+Dialogue: 0,0:29:08.14,0:29:09.14,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Caliban, kesini!
+Dialogue: 0,0:29:09.63,0:29:11.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dialah budak perempuan yang aku ceritakan pada kau.
+Dialogue: 0,0:29:12.26,0:29:13.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia Laura.
+Dialogue: 0,0:29:14.68,0:29:16.33,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami sedang menunggu kau.
+Dialogue: 0,0:29:21.50,0:29:22.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mari sini.
+Dialogue: 0,0:29:23.65,0:29:24.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak apa-apa.
+Dialogue: 0,0:29:25.54,0:29:26.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kesini.
+Dialogue: 0,0:29:28.00,0:29:29.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura.
+Dialogue: 0,0:29:32.01,0:29:33.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak apa, tak apa.
+Dialogue: 0,0:29:36.12,0:29:36.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kesini.
+Dialogue: 0,0:29:37.83,0:29:38.83,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kesini.
+Dialogue: 0,0:29:39.88,0:29:43.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Marilah. Tak apa.\NKau boleh tinggal di sini, Laura.
+Dialogue: 0,0:29:44.00,0:29:45.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di sini selamat.
+Dialogue: 0,0:29:47.23,0:29:48.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mari.
+Dialogue: 0,0:29:50.18,0:29:52.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia ni bekas tentera\NAtaupun pembunuh upahan?
+Dialogue: 0,0:29:52.88,0:29:53.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lebih teruk  lagi.
+Dialogue: 0,0:29:54.95,0:29:56.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Adakah dia seorang diri?
+Dialogue: 0,0:29:56.03,0:29:57.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, buat masa ini.
+Dialogue: 0,0:29:58.12,0:30:01.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Masukkannya kedalam kereta\Nbawanya pergi dan buangkan.
+Dialogue: 0,0:30:01.34,0:30:02.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bagaimana kalau dia bangun\Nsebelum sampai di sana.
+Dialogue: 0,0:30:08.09,0:30:10.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mesej saja kau dimana\Nakan akan ambil kau.
+Dialogue: 0,0:30:25.76,0:30:27.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, ya.
+Dialogue: 0,0:30:29.84,0:30:30.84,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan.
+Dialogue: 0,0:30:30.86,0:30:32.39,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Logan.\N- Hei. Hei!
+Dialogue: 0,0:30:33.67,0:30:36.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau akan dapatnya semula selepas aku\Ntahu sebabnya kenapa ibu kau libatkan kami.
+Dialogue: 0,0:30:36.87,0:30:38.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Tidak, Logan.\N- Apa?
+Dialogue: 0,0:30:38.28,0:30:40.16,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan, saya rasa...
+Dialogue: 0,0:30:48.63,0:30:51.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan, wanita yang kau jumpa\Nitu bukanlah Ibunya.
+Dialogue: 0,0:30:52.36,0:30:54.55,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Jadi dia boleh bercakap?\N- Kami berkomunikasi.
+Dialogue: 0,0:30:54.94,0:30:56.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berkomunikasi.
+Dialogue: 0,0:30:58.18,0:30:59.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Minum ini. Sekarang!
+Dialogue: 0,0:31:00.43,0:31:02.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita kena pergi dari sini.\NDi sini dah tak dah lagi.
+Dialogue: 0,0:31:02.57,0:31:04.55,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bagi memastikan kau tak akan mendapat sawan\Ndi luar sana. Faham?
+Dialogue: 0,0:31:05.54,0:31:09.57,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, tapi dia adalah mutan\Nyang aku ceritakan pada kau.
+Dialogue: 0,0:31:09.59,0:31:11.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Dia perlukan bantuan kita.\N- Dia bukanlah mutan.
+Dialogue: 0,0:31:11.42,0:31:14.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Dia mutan!\N- Apa keistimewaannya, Charles?
+Dialogue: 0,0:31:14.04,0:31:15.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Makan? Melempar batang paip?
+Dialogue: 0,0:31:15.53,0:31:16.24,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan...
+Dialogue: 0,0:31:18.27,0:31:19.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak apa.
+Dialogue: 0,0:31:39.73,0:31:40.73,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh ya.
+Dialogue: 0,0:31:41.01,0:31:43.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}"Ambil senjatanya.\NBuang tubuhnya. "
+Dialogue: 0,0:31:43.32,0:31:45.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}"Hantar mesej jika kau\Ndalam perjalanan kembali"
+Dialogue: 0,0:31:45.56,0:31:48.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ada apa-apa lagi yang kau perlukan?\NSemuanya kerana budak perempuan tu?
+Dialogue: 0,0:31:54.97,0:31:56.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang habislah kau.
+Dialogue: 0,0:32:06.98,0:32:08.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak apa.
+Dialogue: 0,0:32:15.69,0:32:17.55,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak apa. Duduklah.
+Dialogue: 0,0:32:17.84,0:32:19.04,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Kita kena pergi.\N- Apa?
+Dialogue: 0,0:32:19.13,0:32:20.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Apa yang berlaku?\N- Tunggu di sini.
+Dialogue: 0,0:32:20.38,0:32:21.14,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ke mana?
+Dialogue: 0,0:32:21.14,0:32:22.67,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Jangan bergerak.\N- Ke mana kita akan pergi?
+Dialogue: 0,0:32:23.64,0:32:26.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan bimbang.\NDia akan ambil kau nanti.
+Dialogue: 0,0:32:30.15,0:32:32.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan, budak perempuan tu.\NKita mesti bawanya bersama.
+Dialogue: 0,0:32:37.85,0:32:40.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan, bagaimana dengan budak perempuan tu?
+Dialogue: 0,0:32:42.27,0:32:43.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan.
+Dialogue: 0,0:32:49.42,0:32:51.55,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan, kita tak boleh tinggal Laura.
+Dialogue: 0,0:32:51.78,0:32:52.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia bukan masalah kita.
+Dialogue: 0,0:33:02.14,0:33:03.14,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna.
+Dialogue: 0,0:33:11.72,0:33:12.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna.
+Dialogue: 0,0:33:41.26,0:33:42.26,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan.
+Dialogue: 0,0:33:42.29,0:33:43.33,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya. Aku sedang fikirkan.
+Dialogue: 0,0:33:43.54,0:33:44.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kanak-kanak tu.
+Dialogue: 0,0:33:45.38,0:33:46.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan, kita tak boleh meninggalkan Laura.
+Dialogue: 0,0:33:47.20,0:33:48.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Tolong diamlah.\N- Logan.
+Dialogue: 0,0:33:53.64,0:33:55.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Charles Xavier.\N- Di mana Caliban?
+Dialogue: 0,0:33:56.13,0:33:57.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Amerika sangat memerlukan seorang generian.
+Dialogue: 0,0:33:58.16,0:34:00.22,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sebenarnya aku bukanlah "generian".
+Dialogue: 0,0:34:08.58,0:34:09.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di mana Caliban?
+Dialogue: 0,0:34:11.61,0:34:13.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kenapa kau tak beritahu di\Nmana budak perempuan tu dahulu?
+Dialogue: 0,0:34:13.49,0:34:15.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Atau aku boleh tanyakan kawan botak kau tu\NNampaknya dia begitu mesra.
+Dialogue: 0,0:34:15.68,0:34:16.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku dah cakap dia tak ada di sini.
+Dialogue: 0,0:34:17.22,0:34:19.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di mana Caliban, bedebah?
+Dialogue: 0,0:34:20.57,0:34:22.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tinggalkan dia di parit yang\Nsama di mana dia ingin buang aku.
+Dialogue: 0,0:34:39.21,0:34:42.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh tuhan, Wolverine, aku lihat kau macam tu\Nsangat menyakitkan hati.
+Dialogue: 0,0:34:42.68,0:34:45.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ada baiknya jika aku merobek saja jantung kau, bedebah.
+Dialogue: 0,0:34:52.75,0:34:53.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dapatkan dia.
+Dialogue: 0,0:36:06.81,0:36:07.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura!
+Dialogue: 0,0:36:12.57,0:36:14.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Gadis bijak!
+Dialogue: 0,0:36:15.23,0:36:16.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, sayang.
+Dialogue: 0,0:36:25.57,0:36:26.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura...
+Dialogue: 0,0:36:30.03,0:36:31.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura!
+Dialogue: 0,0:36:31.42,0:36:34.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sayang, bertenang!
+Dialogue: 0,0:36:34.93,0:36:36.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau ingin melihat kawan-kawan kau, bukan?
+Dialogue: 0,0:36:36.93,0:36:38.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Komander - Hentikan.
+Dialogue: 0,0:36:39.95,0:36:41.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau kata dapatkan dia hidup atau mati.
+Dialogue: 0,0:36:43.08,0:36:44.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura!
+Dialogue: 0,0:36:45.68,0:36:46.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura.
+Dialogue: 0,0:36:47.95,0:36:49.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura.
+Dialogue: 0,0:36:49.44,0:36:51.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, tidak.
+Dialogue: 0,0:36:52.89,0:36:54.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bergerak! cepat
+Dialogue: 0,0:37:00.96,0:37:02.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dapatkan dia!
+Dialogue: 0,0:37:06.37,0:37:07.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berhenti menembak.
+Dialogue: 0,0:37:08.26,0:37:11.17,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia akan sembuh dengan sendiri!
+Dialogue: 0,0:37:13.61,0:37:14.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa lagi tu ?!
+Dialogue: 0,0:39:04.40,0:39:07.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Seperti yang aku cakap, Logan.\NDia mutan seperti kau.
+Dialogue: 0,0:39:07.74,0:39:08.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berpegang!
+Dialogue: 0,0:39:11.93,0:39:13.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sebiji seperti kau.
+Dialogue: 0,0:39:34.96,0:39:37.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura, kau tak apa-apa?
+Dialogue: 0,0:39:55.28,0:39:56.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bergerak!
+Dialogue: 0,0:40:05.48,0:40:06.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berpegang!
+Dialogue: 0,0:40:12.32,0:40:15.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna\NOh, tolonglah!
+Dialogue: 0,0:40:15.32,0:40:16.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cepatlah
+Dialogue: 0,0:40:23.61,0:40:24.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna.
+Dialogue: 0,0:41:17.05,0:41:19.60,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Semua kejar, cepat!
+Dialogue: 0,0:42:11.25,0:42:12.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Duduk
+Dialogue: 0,0:42:21.88,0:42:23.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bawakan Caliban kemari.
+Dialogue: 0,0:42:30.78,0:42:31.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau.
+Dialogue: 0,0:42:33.19,0:42:34.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapa kau?
+Dialogue: 0,0:42:36.29,0:42:39.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei! Aku tanya ni.\NSiapa kau?
+Dialogue: 0,0:42:40.23,0:42:41.80,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau kenal siapa dia, Logan.
+Dialogue: 0,0:42:42.12,0:42:43.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, aku tak kenal.
+Dialogue: 0,0:42:43.86,0:42:45.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidakkah dia mengingatkan kau pada seseorang?
+Dialogue: 0,0:43:17.26,0:43:20.10,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku membaca mengenai kau\Nsewaktu aku masih kecil.
+Dialogue: 0,0:43:22.02,0:43:23.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku percaya yang kau maksudkan\Nitu ialah orang lain.
+Dialogue: 0,0:43:31.65,0:43:35.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang, jika aku tidak salah, kau\Npernah bekerja bersama pasukan aku.
+Dialogue: 0,0:43:36.44,0:43:39.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau menolong  kami mengumpulkan\Nsemua mutan lama tu.
+Dialogue: 0,0:43:40.16,0:43:41.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kenapa kau berubah?
+Dialogue: 0,0:43:42.83,0:43:43.83,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau berpegang pada agama?
+Dialogue: 0,0:43:47.83,0:43:52.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku mahu kau lakukan satu\Nperkara lagi untuk orang baik...
+Dialogue: 0,0:43:53.09,0:43:56.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan jejak satu lagi mutan untuk aku.
+Dialogue: 0,0:44:00.81,0:44:01.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak akan bantu kau.
+Dialogue: 0,0:44:02.72,0:44:04.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pastinya kau kata begitu.
+Dialogue: 0,0:44:04.81,0:44:07.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi aku ada satu teori bahawa\Nsesorang itu tidak betul-betul akan berubah.
+Dialogue: 0,0:44:11.51,0:44:12.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}"Hati-hati terhadap cahaya."
+Dialogue: 0,0:44:14.45,0:44:18.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Caliban, aku percaya itulah yang Ibu kau katakan\Npada kau setiap hari sewaktu kau kecil.
+Dialogue: 0,0:44:23.83,0:44:25.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}"Hati-hati terhadap cahaya."
+Dialogue: 0,0:44:31.87,0:44:34.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang mari kita keluarkan sesuatu\Nsesuatu yang teruk
+Dialogue: 0,0:44:34.54,0:44:36.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pasal budak tu amat tidak berbaloi, percayalah.
+Dialogue: 0,0:44:36.37,0:44:38.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia bukanlah yang semulajadi, macam kau.
+Dialogue: 0,0:44:38.65,0:44:41.84,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia adalah kesilapan,\NR & D.
+Dialogue: 0,0:44:41.86,0:44:42.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ada yang perlu bertanggung jawab.
+Dialogue: 0,0:44:43.11,0:44:46.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka tak boleh membiarkan pesakit yang\Nberkeliaran dan mencederakan orang, bukan?
+Dialogue: 0,0:44:47.44,0:44:51.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita harus mendapatkannya\Nsebelum ia menyakiti seseorang.
+Dialogue: 0,0:44:51.26,0:44:53.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Seseorang yang kau sayang. Mungkin.
+Dialogue: 0,0:45:01.39,0:45:02.55,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jadi cepatlah hidu jejaknya!
+Dialogue: 0,0:45:07.33,0:45:09.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Nama aku Gabriella Lopez.{\i0}
+Dialogue: 0,0:45:09.82,0:45:10.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Aku seorang jururawat.{\i0}
+Dialogue: 0,0:45:11.03,0:45:15.22,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Selama 10 tahun aku bekerja untuk\Nkajian "Transigen" di bandar Mexico.{\i0}
+Dialogue: 0,0:45:16.56,0:45:19.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}"Transigen" dimiliki oleh sebuah\Nsyarikat dari Amerika.{\i0}
+Dialogue: 0,0:45:22.58,0:45:24.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Apa yang aku akan tunjuk ni\Nadalah salah disisi undang-undang...{\i0}
+Dialogue: 0,0:45:25.40,0:45:27.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}bagi Amerika Syarikat dan Kanada.{\i0}
+Dialogue: 0,0:45:34.15,0:45:37.39,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka beritahu ini adalah sebahagian\Ndari kajian farmasi.{\i0}
+Dialogue: 0,0:45:38.01,0:45:39.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tapi dah tentu itu ialah satu pembohongan.{\i0}
+Dialogue: 0,0:45:39.98,0:45:43.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}kanak-kanak ini dilahirkan di "Transigen".{\i0}
+Dialogue: 0,0:45:44.19,0:45:45.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka dilahirkan di sini...{\i0}
+Dialogue: 0,0:45:45.95,0:45:48.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}dan tidak pernah keluar.{\i0}
+Dialogue: 0,0:45:48.20,0:45:50.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka tak pernah melihat\Nmatahari ataupun lautan...{\i0}
+Dialogue: 0,0:45:51.53,0:45:52.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}hujan ataupun salji...{\i0}
+Dialogue: 0,0:45:54.45,0:45:56.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}ataupun seluruh ciptaan Tuhan.{\i0}
+Dialogue: 0,0:45:57.16,0:45:59.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka tak mempunyai sijil kelahiran...{\i0}
+Dialogue: 0,0:45:59.65,0:46:00.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tak bernama...{\i0}
+Dialogue: 0,0:46:01.65,0:46:03.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}selain nama yang kami berikan pada mereka.{\i0}
+Dialogue: 0,0:46:06.44,0:46:10.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka diperolehi dari perut perempuan-perempuan Mexico.{\i0}
+Dialogue: 0,0:46:10.32,0:46:12.17,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Perempuan-perempuan\NTak akan ditemui lagi.{\i0}
+Dialogue: 0,0:46:13.19,0:46:16.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Bapa mereka ialah"'SEMILLAS ANATTICUS"...{\i0}
+Dialogue: 0,0:46:16.56,0:46:17.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Sejenis benih khas dalam botol.{\i0}
+Dialogue: 0,0:46:32.45,0:46:34.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Hari jadi, Betul? mari{\i0}
+Dialogue: 0,0:46:37.66,0:46:40.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kita tak memanggil mereka\N"sayang", ataupun mengucupnya...{\i0}
+Dialogue: 0,0:46:40.68,0:46:43.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Jangan anggap mereka sebagai kanak-kanak.\NAnggaplah mereka sebagai  murid.{\i0}
+Dialogue: 0,0:46:43.41,0:46:45.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Dengan paten dan hak cipta.{\i0}
+Dialogue: 0,0:46:45.09,0:46:47.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}- Faham?\N- Ya, Tuan.{\i0}
+Dialogue: 0,0:46:47.80,0:46:50.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka fikir kami terlalu miskin\Ndan bodoh untuk memahami.{\i0}
+Dialogue: 0,0:46:51.44,0:46:53.30,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kami memang miskin...{\i0}
+Dialogue: 0,0:46:53.52,0:46:54.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}tapi kami bukannya bodoh.{\i0}
+Dialogue: 0,0:46:54.84,0:46:55.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Gunakan kuasa kau.{\i0}
+Dialogue: 0,0:47:02.82,0:47:03.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Ini adalah perniagaan.{\i0}
+Dialogue: 0,0:47:04.48,0:47:06.79,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka mencipta tentera.{\i0}
+Dialogue: 0,0:47:07.57,0:47:08.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Pembunuh.{\i0}
+Dialogue: 0,0:47:14.41,0:47:16.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Ini adalah bayi dari mutan...{\i0}
+Dialogue: 0,0:47:24.36,0:47:25.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}North Dakota.
+Dialogue: 0,0:47:26.45,0:47:28.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau mengambil wang wanita itu.
+Dialogue: 0,0:47:29.14,0:47:31.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau cakap akan menghantar budak itu ke sana.
+Dialogue: 0,0:47:36.85,0:47:38.39,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapakah dia?
+Dialogue: 0,0:47:39.72,0:47:41.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia adalah anak perempuan kau, Logan.
+Dialogue: 0,0:47:43.34,0:47:45.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Alkali mempunyai kod genetik kau.
+Dialogue: 0,0:47:45.23,0:47:46.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bukan hanya milik aku.
+Dialogue: 0,0:47:46.77,0:47:47.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan...
+Dialogue: 0,0:47:47.59,0:47:49.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak ingin bercakap dan\Nmendengar mengenai perkara itu lagi.
+Dialogue: 0,0:47:49.79,0:47:51.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Logan...\N- Cukuplah!
+Dialogue: 0,0:47:51.98,0:47:53.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku nak terkencing.
+Dialogue: 0,0:48:06.46,0:48:07.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Permainan terakhir.
+Dialogue: 0,0:48:11.95,0:48:12.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sama-sama.
+Dialogue: 0,0:48:19.74,0:48:22.22,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Demi Tuhan, Dahlah tu.\NAku boleh lakukan sendiri.
+Dialogue: 0,0:48:22.42,0:48:24.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya. Tapi sebenarnya kau tak akan boleh.
+Dialogue: 0,0:48:24.86,0:48:26.33,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, sebabnya kau masih berdiri disitu.
+Dialogue: 0,0:48:26.54,0:48:28.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Percayalah, aku tak akan mengintip.
+Dialogue: 0,0:49:01.97,0:49:02.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hello!
+Dialogue: 0,0:49:03.68,0:49:04.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hai,
+Dialogue: 0,0:49:05.18,0:49:06.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tahu itu mesti dibayar, kan?
+Dialogue: 0,0:49:08.85,0:49:11.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei! Di mana ibu dan bapa kau, hah?
+Dialogue: 0,0:49:14.70,0:49:15.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sini.
+Dialogue: 0,0:49:15.91,0:49:16.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sudah cukup... Ini juga.
+Dialogue: 0,0:49:19.57,0:49:20.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna
+Dialogue: 0,0:49:20.57,0:49:21.57,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak boleh!
+Dialogue: 0,0:49:24.65,0:49:25.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Maaf!
+Dialogue: 0,0:49:27.93,0:49:29.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ada pengecas telefon bimbit?
+Dialogue: 0,0:49:35.96,0:49:37.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mari, Masuk kereta.
+Dialogue: 0,0:50:03.57,0:50:05.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Sebgai kanak-kanak\Nyang meningkat dewasa...{\i0}
+Dialogue: 0,0:50:05.47,0:50:07.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Laura. Laura.{\i0}
+Dialogue: 0,0:50:08.09,0:50:10.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka menjadi lebih sukar.{\i0}
+Dialogue: 0,0:50:12.12,0:50:14.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka susah untuk dikawal.{\i0}
+Dialogue: 0,0:50:16.58,0:50:20.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Syarikat membuat tubuh mereka menjadi senjata.{\i0}
+Dialogue: 0,0:50:20.74,0:50:22.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Cuba mengajarkan cara membunuh.{\i0}
+Dialogue: 0,0:50:23.05,0:50:25.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tapi mereka tak mahu bertarung.{\i0}
+Dialogue: 0,0:50:27.85,0:50:32.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Seorang tentera yang tak mahu\Nbertarung itu tiada gunanya.{\i0}
+Dialogue: 0,0:50:32.81,0:50:34.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Di dalam bangunan ini...{\i0}
+Dialogue: 0,0:50:34.87,0:50:36.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka membuat sesuatu yang baru.{\i0}
+Dialogue: 0,0:50:36.96,0:50:40.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Sesuatu yang mereka fikir lebih\Nbaik berbanding kanak-kanak itu.{\i0}
+Dialogue: 0,0:50:40.50,0:50:43.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Sesuatu yang mereka sebut "tanpa jiwa."{\i0}
+Dialogue: 0,0:50:50.89,0:50:53.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Mereka hampir menyelesaikannya.{\i0}
+Dialogue: 0,0:50:53.11,0:50:57.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kira-kira seminggu yang lalu, mereka\Ncakap akan menutup program ini.{\i0}
+Dialogue: 0,0:51:04.59,0:51:07.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kami ingin menyelamatkan\Nkanak-kanak seramai yang boleh.{\i0}
+Dialogue: 0,0:51:07.82,0:51:10.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Aku membaca tentang suatu tempat di Utara.{\i0}
+Dialogue: 0,0:51:10.44,0:51:12.37,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tempat untuk mutan.{\i0}
+Dialogue: 0,0:51:12.39,0:51:14.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tempat itu disebut "Eden."{\i0}
+Dialogue: 0,0:51:27.84,0:51:29.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Jika kau menonton ini...{\i0}
+Dialogue: 0,0:51:30.09,0:51:32.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Itu bermakna aku telah mati.{\i0}
+Dialogue: 0,0:51:33.09,0:51:36.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Aku tak pasti jika ada lagi kanak-kanak\Nlain yang selamat atau tidak.{\i0}
+Dialogue: 0,0:51:36.53,0:51:39.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kami telah dipisahkan.{\i0}
+Dialogue: 0,0:51:39.04,0:51:41.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tak ada lagi wang.{\i0}
+Dialogue: 0,0:51:41.26,0:51:43.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Aku berbohong.{\i0}
+Dialogue: 0,0:51:44.24,0:51:46.62,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Dia bukanlah anak aku.{\i0}
+Dialogue: 0,0:51:47.38,0:51:49.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tapi aku menyayanginya.{\i0}
+Dialogue: 0,0:51:49.99,0:51:52.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kau mungkin tak menyayanginya.{\i0}
+Dialogue: 0,0:51:53.93,0:51:56.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tapi dia adalah anak kau.{\i0}
+Dialogue: 0,0:51:57.49,0:52:00.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tolong, aku mohon pada kau...{\i0}
+Dialogue: 0,0:52:00.46,0:52:03.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Hantarkan dia ke tempat selamat.{\i0}
+Dialogue: 0,0:52:49.47,0:52:52.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jadi di sanalah tempat kita akan bersembunyi?
+Dialogue: 0,0:52:52.48,0:52:53.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hanya bersembunyi.
+Dialogue: 0,0:52:53.80,0:52:56.37,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang kita perlu beberapa jam untuk tidur...
+Dialogue: 0,0:52:56.39,0:53:01.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Membersihkan diri, mendapatkan pakaian baru,\Nmendapatkan kenderaan baru, dan pergi dari sini.
+Dialogue: 0,0:53:05.13,0:53:07.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Hotel dan Kasino Harrah mengalu-alukan\Nkedatangan kamu di Oklahoma city.{\i0}
+Dialogue: 0,0:53:12.02,0:53:12.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei.
+Dialogue: 0,0:53:12.80,0:53:14.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Keseronokan berpanjangan\Ndi Hotel dan Kasino Harrah.{\i0}
+Dialogue: 0,0:53:14.54,0:53:16.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, tinggalkan saja di depan, okay?
+Dialogue: 0,0:53:23.69,0:53:24.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mari pergi.
+Dialogue: 0,0:53:51.73,0:53:52.73,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, Laura.
+Dialogue: 0,0:53:53.04,0:53:54.04,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cepat.
+Dialogue: 0,0:53:54.97,0:53:56.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita perlukan pakaian.
+Dialogue: 0,0:54:08.99,0:54:09.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Naik.{\i0}
+Dialogue: 0,0:54:12.22,0:54:14.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, tidak, berhenti.\NIni bukanlah mainan.
+Dialogue: 0,0:54:14.47,0:54:17.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Tidak, maaf. Kerusinya.\N- Apa? Baiklah.
+Dialogue: 0,0:54:19.05,0:54:20.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Terima kasih.
+Dialogue: 0,0:54:20.68,0:54:23.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mari sini. Tunggu sini!
+Dialogue: 0,0:54:24.29,0:54:26.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan, ini kau punya.
+Dialogue: 0,0:54:26.47,0:54:27.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa?
+Dialogue: 0,0:54:27.26,0:54:29.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak perlu risau pasal tu.\NKita hanya perlu bilik.
+Dialogue: 0,0:54:44.28,0:54:46.84,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Filem ini sangat terkenal, Laura.
+Dialogue: 0,0:54:47.06,0:54:48.73,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan sudah berusia hampir 100 tahun.
+Dialogue: 0,0:55:22.64,0:55:27.26,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Waktu mula-mula aku menonton filem ini\Ndi pawagam Essoldo di pekan...
+Dialogue: 0,0:55:27.57,0:55:29.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Waktu tu aku masih remaja.
+Dialogue: 0,0:55:29.61,0:55:32.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kau berada di Syurga,\NDisucikan nama kamu.{\i0}
+Dialogue: 0,0:55:33.22,0:55:36.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Datanglah kerajaan kamu,\Njadilah kehendakmu...{\i0}
+Dialogue: 0,0:55:47.57,0:55:48.57,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna
+Dialogue: 0,0:56:43.90,0:56:45.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Adakah kau baca ini pada masa lapang?
+Dialogue: 0,0:56:47.05,0:56:48.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh ya, Charles, ada peminat X-Man di sini.
+Dialogue: 0,0:56:49.95,0:56:51.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tahu\Nitu semua mengarut, kan?
+Dialogue: 0,0:56:51.93,0:56:54.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Satu perempatnya mungkin\Nberlaku, tapi taklah macam ni.
+Dialogue: 0,0:56:55.88,0:56:57.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di dunia nyata, manusia akan mati.
+Dialogue: 0,0:56:57.30,0:57:00.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Semua ini adalah pembohong.
+Dialogue: 0,0:57:00.31,0:57:00.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Logan.\N- Hentikan!
+Dialogue: 0,0:57:00.87,0:57:01.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ais krim ini akan buatkan kau kencing di tilam.
+Dialogue: 0,0:57:01.99,0:57:02.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan...
+Dialogue: 0,0:57:02.99,0:57:04.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jururawat dia itu sudah memberinya\Nmakan sesuatu yang mengarut.
+Dialogue: 0,0:57:04.48,0:57:07.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak fikir laura perlu mengingati\Ntentang kehidupannya yang lalu.
+Dialogue: 0,0:57:08.63,0:57:11.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Adakah kau cakap sesuatu berkenaan\Nmencari kenderaan baru?
+Dialogue: 0,0:57:12.47,0:57:15.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dua pil lagi dalam satu jam.
+Dialogue: 0,0:57:15.12,0:57:16.24,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berikan padanya.
+Dialogue: 0,0:57:17.00,0:57:18.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kenapa, Shane?{\i0}
+Dialogue: 0,0:57:19.53,0:57:21.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Seorang lelaki perlu menjadi dirinya sendiri, Joey.{\i0}
+Dialogue: 0,0:57:22.75,0:57:24.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Jangan sampai terkeluar dari acuan .{\i0}
+Dialogue: 0,0:57:24.72,0:57:26.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Aku dah mencubanya,\Ntapi iannya tak menjadi.{\i0}
+Dialogue: 0,0:57:27.27,0:57:29.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Joey, tak ada kehidupan dengan pembunuhan...{\i0}
+Dialogue: 0,0:57:29.79,0:57:31.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tak boleh berpatah balik.{\i0}
+Dialogue: 0,0:57:31.83,0:57:33.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Betul mahu pun salah\Nia adalah satu "ketetapan".{\i0}
+Dialogue: 0,0:57:34.51,0:57:35.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}"Ketetapan" yang azali.{\i0}
+Dialogue: 0,0:57:36.76,0:57:39.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Sekarang pulanglah dan beritahu Ibu kamu\Nyang semuanya baik-baik belaka.{\i0}
+Dialogue: 0,0:57:41.21,0:57:44.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tak ada lagi senjata di lembah ini.{\i0}
+Dialogue: 0,0:58:04.96,0:58:06.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kamu semua ni siapa?
+Dialogue: 0,0:58:06.72,0:58:09.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Polis lagi?\Naku dah bertahu pada mereka...
+Dialogue: 0,0:58:19.74,0:58:21.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bangunlah! Masuk dalam sangkar, penjejak.
+Dialogue: 0,0:58:22.05,0:58:23.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kerja bagus.
+Dialogue: 0,0:59:06.17,0:59:07.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Saya beritahu kau.\NEight grand...
+Dialogue: 0,0:59:07.69,0:59:11.19,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku akan mengecatnya untuk kau,\Ntayar baru, akan dipasang, diseimbangkan.
+Dialogue: 0,0:59:11.25,0:59:12.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan dokumen yang lengkap.
+Dialogue: 0,0:59:12.34,0:59:15.16,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku akan berikan kau 10 ribu\Nkalau kau lupakan semua dokumen tu.
+Dialogue: 0,1:00:08.90,1:00:11.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh, pasti kau bergurau ni
+Dialogue: 0,1:00:21.04,1:00:23.37,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tuan, kunci kat dalam ke?
+Dialogue: 0,1:00:23.39,1:00:25.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau ada kuncinya? Tuan!
+Dialogue: 0,1:00:29.70,1:00:31.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna.
+Dialogue: 0,1:00:54.63,1:00:56.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Charles. Charles!
+Dialogue: 0,1:01:26.98,1:01:33.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}SUB BY EGN
+Dialogue: 0,1:03:48.05,1:03:49.26,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}tak guna
+Dialogue: 0,1:03:49.34,1:03:50.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tak apa-apa?
+Dialogue: 0,1:03:52.85,1:03:53.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita kena pergi dari sini.
+Dialogue: 0,1:03:57.13,1:03:58.73,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Maafkan aku.
+Dialogue: 0,1:04:00.31,1:04:01.73,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Maafkan aku sangat-sangat.
+Dialogue: 0,1:04:27.54,1:04:29.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Kakitangan kecemasan masih berada di tempat kejadian.{\i0}
+Dialogue: 0,1:04:29.08,1:04:31.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Bertempat di Hotel dan Kasino Harrah di bandar Oklahoma,{\i0}
+Dialogue: 0,1:04:31.85,1:04:35.83,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Semalam kira-kira 400 orang tetamu terkena\N kelumpuhan sementara..{\i0}
+Dialogue: 0,1:04:39.70,1:04:41.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Dan 600 orang mengalami kecederaan...{\i0}
+Dialogue: 0,1:04:41.47,1:04:44.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Dan mengorbankan tujuh mutan\Ntermasuk beberapa dari anggota x--{\i0}
+Dialogue: 0,1:04:45.01,1:04:45.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan menekan benda tu.
+Dialogue: 0,1:04:48.75,1:04:50.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku kata hentikan itu!
+Dialogue: 0,1:04:50.35,1:04:51.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia masih kanak-kanak, Logan.
+Dialogue: 0,1:04:54.73,1:04:56.19,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sebenarnya, dia adalah anak kau.
+Dialogue: 0,1:04:56.22,1:04:58.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bilakah kali terakhir kau minum ubat?
+Dialogue: 0,1:04:59.90,1:05:01.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Bagitahu aku, bila?\N- Kau sudah tahu!
+Dialogue: 0,1:05:03.37,1:05:04.67,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dua hari lepas.
+Dialogue: 0,1:05:05.12,1:05:06.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau melihat apa yang berlaku semalam?
+Dialogue: 0,1:05:06.67,1:05:08.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jika perkara itu terus berlanjutan lebih lama...
+Dialogue: 0,1:05:08.79,1:05:11.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku melakukan apa yang perlu\N untuk menyelamatkan Laura.
+Dialogue: 0,1:05:11.29,1:05:12.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tidak melakukan apa-apa.
+Dialogue: 0,1:05:12.62,1:05:15.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau hanya ketakutan dan terkena sawan.
+Dialogue: 0,1:05:15.22,1:05:20.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku rasa lebih baik kau sediakan aku farmasi\Ndaripada kau memaksa aku macam orang gila.
+Dialogue: 0,1:05:21.12,1:05:22.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma} Itu akan memudahkan kau.
+Dialogue: 0,1:05:22.71,1:05:23.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lebih mudah? Oh tuhan!
+Dialogue: 0,1:05:24.02,1:05:26.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak ada yang lebih mudah, Charles!\NTak ada!
+Dialogue: 0,1:05:26.50,1:05:29.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tolong jadilah seperti\Norang lain.
+Dialogue: 0,1:05:29.07,1:05:31.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Menyalahkan orang lain diatas kesalahan kau sendiri.
+Dialogue: 0,1:05:31.85,1:05:33.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu. Aku seperti\NGergasi yang kecewa.
+Dialogue: 0,1:05:33.97,1:05:37.80,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau jujur seperti tanpa arah dan tujuan.
+Dialogue: 0,1:05:37.83,1:05:38.84,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dengan apa yang kita lakukan?
+Dialogue: 0,1:05:38.87,1:05:40.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Okay, apa yang kita lakukan?
+Dialogue: 0,1:05:41.39,1:05:44.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ada seorang mutan muda yang\Nduduk di kereta kita.
+Dialogue: 0,1:05:45.23,1:05:45.84,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya.
+Dialogue: 0,1:05:45.86,1:05:48.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tempat di mana kita akan\Nmembawanya, masih ada yang lain.
+Dialogue: 0,1:05:48.54,1:05:50.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Adakah ini bermakna bagi kau?
+Dialogue: 0,1:05:50.51,1:05:52.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh ya, ianya tak ada makna pun nya bagi aku.
+Dialogue: 0,1:05:52.89,1:05:54.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lebih-lebih lagi disebabkan jururawat Gabriella...
+Dialogue: 0,1:05:54.43,1:05:56.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Yang terpengaruh dengan\Nkomik yang mengarut tu.
+Dialogue: 0,1:05:57.01,1:05:58.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang kamu cakapkan ni?
+Dialogue: 0,1:05:58.72,1:06:00.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ambil ni, keluarkan dua biji\Npil dan berikan padanya.
+Dialogue: 0,1:06:00.99,1:06:02.73,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Logan, Logan.\N- Berikan padanya.
+Dialogue: 0,1:06:02.93,1:06:03.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang!
+Dialogue: 0,1:06:09.32,1:06:10.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku mahu melihatnya.
+Dialogue: 0,1:07:02.60,1:07:05.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lori tak guna!
+Dialogue: 0,1:07:05.72,1:07:07.04,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jaga sikit mulut kau, Logan!
+Dialogue: 0,1:07:07.29,1:07:09.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau hanya menjerit pada lori.
+Dialogue: 0,1:07:09.47,1:07:12.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang macam mana? Dia boleh merobek perut seseorang\Ntetapi tidak boleh mendengar kata-kata kesat.
+Dialogue: 0,1:07:12.74,1:07:15.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia boleh belajar untuk lebih baik.
+Dialogue: 0,1:07:15.69,1:07:17.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Maksud kau, lebih baik dari aku?
+Dialogue: 0,1:07:17.28,1:07:19.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sebenarnya, ya.
+Dialogue: 0,1:07:20.76,1:07:22.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan seperkara lagi, kuku\Ndi kaki Laura
+Dialogue: 0,1:07:23.05,1:07:25.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Terhasil disebabkan jenis jantinanya.
+Dialogue: 0,1:07:25.66,1:07:27.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa faktanya?
+Dialogue: 0,1:07:27.08,1:07:29.26,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dalam kawanan singa, si betina...
+Dialogue: 0,1:07:29.28,1:07:31.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}adalah pemburu dan penjaga.
+Dialogue: 0,1:07:31.75,1:07:32.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekadar pengetahuan.
+Dialogue: 0,1:07:32.73,1:07:35.19,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia menggunakan kuku depannya untuk memburu...
+Dialogue: 0,1:07:35.91,1:07:37.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan kuku belakang untuk melindungi diri.
+Dialogue: 0,1:07:37.58,1:07:38.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh ya?
+Dialogue: 0,1:07:38.61,1:07:40.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Demi memastikan kelangsungan hidup mereka.
+Dialogue: 0,1:07:46.47,1:07:47.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei! Hei!
+Dialogue: 0,1:08:16.43,1:08:18.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita mesti tolong mereka.
+Dialogue: 0,1:08:19.09,1:08:21.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak. Kita kena teruskan perjalanan.\NTentu ada orang datang menolongnya.
+Dialogue: 0,1:08:21.80,1:08:23.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kitalah orangnya.
+Dialogue: 0,1:08:35.28,1:08:37.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}jaga-jaga, jaga-jaga.{\i0}
+Dialogue: 0,1:09:20.30,1:09:22.22,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, ada apa yang boleh kami bantu?
+Dialogue: 0,1:09:23.16,1:09:24.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sedia? Tolak!
+Dialogue: 0,1:09:28.57,1:09:29.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bagus!
+Dialogue: 0,1:09:31.09,1:09:32.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mari kita pulang.
+Dialogue: 0,1:09:32.32,1:09:33.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura!
+Dialogue: 0,1:09:33.32,1:09:34.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Terima kasih atas pertolongannya.
+Dialogue: 0,1:09:34.96,1:09:36.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Aku Kathryn.\N- James.
+Dialogue: 0,1:09:36.54,1:09:37.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia anak aku, Nate.
+Dialogue: 0,1:09:37.84,1:09:39.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Hai.\N- Hai.
+Dialogue: 0,1:09:39.04,1:09:40.14,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia anak kau?
+Dialogue: 0,1:09:40.17,1:09:42.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh ya, dia Laura, dan itu Ayah aku...
+Dialogue: 0,1:09:43.63,1:09:44.83,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Chuck.
+Dialogue: 0,1:09:44.85,1:09:46.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cepat laura mari kita pergi.
+Dialogue: 0,1:09:46.08,1:09:49.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sebagai penghargaan sudikah kamu bertiga\Nsinggah kerumah kami untuk  makan malam.
+Dialogue: 0,1:09:49.54,1:09:50.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tempat tinggal kami tak jauh dari sini .
+Dialogue: 0,1:09:50.98,1:09:53.10,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Tak apa, terima kasih saja lah.\N- Itu pasti akan menyeronokkan.
+Dialogue: 0,1:10:00.65,1:10:02.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Nama aku Dr.Rice.
+Dialogue: 0,1:10:02.98,1:10:04.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi kau boleh panggil aku Xander jika kau mahu.
+Dialogue: 0,1:10:05.86,1:10:09.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kawan akan beritahu kau antara yang berdaya tahan.
+Dialogue: 0,1:10:10.11,1:10:13.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ia percaya ada maklumat\Nyang kau sembunyikan.
+Dialogue: 0,1:10:13.94,1:10:16.10,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Untuk membolehkan kawan kau\Nmelepaskan diri.
+Dialogue: 0,1:10:19.37,1:10:21.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku menawarkan kau\Npenebusan, Caliban.
+Dialogue: 0,1:10:22.76,1:10:25.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Untuk melindungi dunia\Ndan menyelamatkan kawan-kawan kau.
+Dialogue: 0,1:10:26.26,1:10:29.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Budak perempuan tu tidak\Nberbaloi untuk semua ini.
+Dialogue: 0,1:10:29.69,1:10:31.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bukan macam kau, dia bukannya tulen.
+Dialogue: 0,1:10:31.69,1:10:33.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia bukannya semulajadi.
+Dialogue: 0,1:10:33.34,1:10:35.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia suatu kesilapan daripada aku.
+Dialogue: 0,1:10:35.05,1:10:37.60,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku dah lakukan yang terbaik\Ntapi mereka bakar dan pukul aku.
+Dialogue: 0,1:10:37.62,1:10:39.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}rakan kau tu orang yang tiada tamadun.
+Dialogue: 0,1:10:39.73,1:10:41.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku setuju.
+Dialogue: 0,1:10:41.17,1:10:43.14,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Program The Reavers memang tidak menjadi.
+Dialogue: 0,1:10:43.28,1:10:46.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi, aku membawa peralatan baru.
+Dialogue: 0,1:10:46.38,1:10:48.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku masih memerlukan seseorang\Nuntuk menunjukkan arah yang tepat.
+Dialogue: 0,1:10:48.77,1:10:49.67,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, aku tak boleh bantu kau.
+Dialogue: 0,1:10:49.67,1:10:51.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bernafas, bernafas.
+Dialogue: 0,1:10:51.78,1:10:53.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang dia ada? Lelaki tua itu?
+Dialogue: 0,1:10:54.02,1:10:55.83,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Alzheimers? ALS?
+Dialogue: 0,1:10:56.86,1:11:01.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Penyakit otak "degeneratif" adalah penyakit\Notak yang sangat merbahaya di dunia.
+Dialogue: 0,1:11:01.70,1:11:02.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kombinasi yang dahsyat
+Dialogue: 0,1:11:17.19,1:11:20.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Terima kasih tuhan kerana mengurniakan kami rezeki.
+Dialogue: 0,1:11:20.66,1:11:22.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan untuk rakan-rakan baru yang\Nsudi bersama kami.
+Dialogue: 0,1:11:22.92,1:11:24.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka datang untuk membatu kita.
+Dialogue: 0,1:11:24.23,1:11:25.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Amen.\N- Amen.
+Dialogue: 0,1:11:26.01,1:11:27.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Amen, Ini dia.
+Dialogue: 0,1:11:27.74,1:11:29.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Terima kasih, tuan.
+Dialogue: 0,1:11:47.76,1:11:49.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Masih ada banyak jika dia mahu.
+Dialogue: 0,1:11:49.34,1:11:51.52,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak perlu. Terima kasih.
+Dialogue: 0,1:11:51.54,1:11:52.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ianya sangat lazat.
+Dialogue: 0,1:11:52.71,1:11:54.11,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Terima kasih.\N- Sungguh sedap.
+Dialogue: 0,1:11:54.14,1:11:55.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kamu semua akan menuju ke mana?
+Dialogue: 0,1:11:55.84,1:11:57.37,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Oregon.\N- Ah. North Dakota.
+Dialogue: 0,1:11:59.48,1:12:02.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, Oregon, seterusnya North Dakota.
+Dialogue: 0,1:12:02.71,1:12:03.79,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Percutian?
+Dialogue: 0,1:12:03.82,1:12:04.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya.
+Dialogue: 0,1:12:05.77,1:12:06.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dah lama tertangguh..
+Dialogue: 0,1:12:07.42,1:12:08.65,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami warga kota.
+Dialogue: 0,1:12:08.68,1:12:12.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Akan setiasa pergi bercuti, melihat-lihat negara kita.
+Dialogue: 0,1:12:13.06,1:12:14.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bertemu dengan penduduknya.
+Dialogue: 0,1:12:14.88,1:12:16.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Elok sangat lah tu.
+Dialogue: 0,1:12:16.20,1:12:19.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku cuba juga untuk mengambil cuti\Nbeberapa tahun.
+Dialogue: 0,1:12:19.44,1:12:21.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi bercuti ke seluruh negara, kemudian\Nsiapa yang akan menguruskan tempat ini?
+Dialogue: 0,1:12:21.76,1:12:24.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}betul, tu kita tinggalkan saja.
+Dialogue: 0,1:12:24.06,1:12:25.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan dimanakah kita akan tinggal?
+Dialogue: 0,1:12:25.46,1:12:27.16,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tuhan akan memudahkan.
+Dialogue: 0,1:12:27.19,1:12:30.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku masih menunggu Tuhan\Nberikan aku Thresher baru.
+Dialogue: 0,1:12:30.55,1:12:32.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sejujurnya aku akan\Nmengembara satu hari nanti.
+Dialogue: 0,1:12:32.68,1:12:34.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku yakin iannya akan termakbul.
+Dialogue: 0,1:12:35.42,1:12:37.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Aku boleh memandu kereta kesekolah.\N- Okay ,tak payahlah sampai macam tu.
+Dialogue: 0,1:12:37.70,1:12:39.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Maksud saya, saya akan lakukannya.
+Dialogue: 0,1:12:39.13,1:12:40.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Tidak.\N- Kenapa tidak?
+Dialogue: 0,1:12:40.45,1:12:42.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Kau akan bercuti, Aku akan bercuti.\N- Nak. Nak.
+Dialogue: 0,1:12:43.18,1:12:43.55,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Elok sangat tu.
+Dialogue: 0,1:12:44.20,1:12:45.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu hanya satu perjanjian.
+Dialogue: 0,1:12:45.17,1:12:46.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kenapa kau mahu lakukan itu, Nate?
+Dialogue: 0,1:12:47.67,1:12:51.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hati-hati, kau sedang bercakap dengan lelaki\Nyang pernah mendirikan sebuah sekolah...
+Dialogue: 0,1:12:51.48,1:12:52.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Selama bertahun-tahun, kan, Charles?
+Dialogue: 0,1:12:53.74,1:12:55.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, memang.\NItu...
+Dialogue: 0,1:12:56.25,1:12:59.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu adalah sejenis sekolah\Nkeperluan khas.
+Dialogue: 0,1:13:00.96,1:13:02.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu keterangan yang bagus.
+Dialogue: 0,1:13:02.80,1:13:04.17,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia juga pernah belajar disana ..
+Dialogue: 0,1:13:04.20,1:13:06.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, aku beberapa kali ditendang keluar.
+Dialogue: 0,1:13:07.72,1:13:10.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku mahu cakap bahawa kau seorang murid yang baik,\Ntetapi percakapan kau tu buat aku tersedak.
+Dialogue: 0,1:13:33.10,1:13:36.17,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak tahu\Nbagaimana nak mengucapkan terima kasih.
+Dialogue: 0,1:13:36.81,1:13:37.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Semua ini memang terbaik.
+Dialogue: 0,1:13:37.47,1:13:39.17,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi perjalanan kami masih jauh...
+Dialogue: 0,1:13:39.47,1:13:40.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi kau perlukan rehat, bukan?
+Dialogue: 0,1:13:40.67,1:13:42.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, kami akan mencari motel.
+Dialogue: 0,1:13:42.25,1:13:44.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Motel terdekat jaraknya dua jam\Nlagipun tak selesa.
+Dialogue: 0,1:13:44.99,1:13:47.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami masih mempunyai bilik kosong di atas\Nuntuk Ayah dan anak perempuan kau...
+Dialogue: 0,1:13:48.01,1:13:49.57,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan kau boleh tidur atas sofa di ruang tamu.
+Dialogue: 0,1:13:49.59,1:13:51.79,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kathryn, kau sangat baik.\NTapi kami harus pergi.
+Dialogue: 0,1:13:52.47,1:13:54.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita boleh bertolak lebih awal pagi esok.
+Dialogue: 0,1:13:54.56,1:13:57.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sesudah subuh, boleh tak?
+Dialogue: 0,1:14:00.56,1:14:02.60,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Okay, kenapa kita tidak bersihkan diri dulu?
+Dialogue: 0,1:14:02.60,1:14:03.80,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Okay.
+Dialogue: 0,1:14:03.80,1:14:04.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Duduklah.
+Dialogue: 0,1:14:08.28,1:14:10.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sayang, kau mau pencuci mulut?
+Dialogue: 0,1:14:10.82,1:14:14.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dua hari diatas jalan, hanya sekali\Nmakan dan hampir tidak tidur.
+Dialogue: 0,1:14:14.48,1:14:16.39,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia berusia 11 tahun sedangkan aku 90 tahun.
+Dialogue: 0,1:14:16.59,1:14:18.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ada 101 alasan untuk terus bergerak.
+Dialogue: 0,1:14:18.56,1:14:20.73,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku bukanlah kotak avokado, Logan.
+Dialogue: 0,1:14:20.93,1:14:22.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidur disini satu malam, kemudian?
+Dialogue: 0,1:14:22.68,1:14:26.11,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kemudian kita hantar dia kepada rakan-rakannya di Eden.
+Dialogue: 0,1:14:28.47,1:14:30.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kemudian kita akan beli "Sun Seeker".
+Dialogue: 0,1:14:32.25,1:14:33.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Telan ubat ni.
+Dialogue: 0,1:14:38.02,1:14:39.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna!
+Dialogue: 0,1:14:40.58,1:14:42.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Apa yang berlaku?\N- Nate!
+Dialogue: 0,1:14:42.42,1:14:44.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Isi tab mandinya sebelum\Nkita kehilangan tekanan.
+Dialogue: 0,1:14:44.48,1:14:45.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sayang, periksa sinki.
+Dialogue: 0,1:14:48.08,1:14:49.57,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka tak patut buat begini.
+Dialogue: 0,1:14:49.57,1:14:51.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hanya wang yang boleh menanganinya sekarang.
+Dialogue: 0,1:14:51.39,1:14:53.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita tak boleh tunggu sehingga pagi.\NKita baru sahaja terkena hujan.
+Dialogue: 0,1:14:53.27,1:14:55.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita ada tetamu\Nsinki dipenuhi pinggan.
+Dialogue: 0,1:14:55.84,1:14:57.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Baiklah. Baiklah.
+Dialogue: 0,1:14:58.49,1:15:00.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Stesen pam yang membekalkan air kami\Njaraknya satu batu, setengah dari sini.
+Dialogue: 0,1:15:01.36,1:15:02.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kadang-kadang mereka sengaja mematikannya.
+Dialogue: 0,1:15:03.15,1:15:04.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- bedebah betul lah!\N- Hei!
+Dialogue: 0,1:15:04.74,1:15:05.33,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak!
+Dialogue: 0,1:15:05.63,1:15:07.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Anak aku akan menolong kau.
+Dialogue: 0,1:15:07.70,1:15:09.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, tidak.\NTak apa-apa.
+Dialogue: 0,1:15:09.79,1:15:11.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Orang yang melakukan ini\Nkadang-kadang mereka boleh jadi...
+Dialogue: 0,1:15:11.53,1:15:13.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Aku pun boleh pergi.\N- Tidak, kau ada kerja rumah.
+Dialogue: 0,1:15:13.48,1:15:15.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Okay, aku akan pergi.
+Dialogue: 0,1:15:15.08,1:15:16.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Selepas menguruskan ayah aku.
+Dialogue: 0,1:15:20.92,1:15:21.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Selamat malam.
+Dialogue: 0,1:15:45.56,1:15:46.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mahu menonton tv?\NSilakan.
+Dialogue: 0,1:15:46.73,1:15:47.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak ada masalah.
+Dialogue: 0,1:15:47.89,1:15:48.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berehatlah
+Dialogue: 0,1:15:49.08,1:15:51.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tahu, Logan?
+Dialogue: 0,1:15:51.17,1:15:53.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Inilah yang dimaksudkan dengan kehidupan.
+Dialogue: 0,1:15:54.15,1:15:56.60,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Rumah, saling sayang menyayangi.
+Dialogue: 0,1:15:56.89,1:15:58.19,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tempat yang selamat.
+Dialogue: 0,1:15:58.22,1:16:00.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau harus meluangkan masa dan merasakannya.
+Dialogue: 0,1:16:03.69,1:16:05.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya. Ianya hebat.
+Dialogue: 0,1:16:05.68,1:16:07.52,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan.\NLogan!
+Dialogue: 0,1:16:08.85,1:16:11.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau masih mempunyai masa.
+Dialogue: 0,1:16:13.96,1:16:18.04,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Charles, dunia dah tak sama lagi.
+Dialogue: 0,1:16:20.58,1:16:23.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita mengambil risiko jika\Nterus di sini, kau tahu itu.
+Dialogue: 0,1:16:23.90,1:16:26.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan tempat tujuan kita, Eden...
+Dialogue: 0,1:16:27.47,1:16:28.80,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak wujud pun.
+Dialogue: 0,1:16:29.49,1:16:31.67,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jururawat itu hanya rekakan cerita perpandukan komik.
+Dialogue: 0,1:16:33.62,1:16:36.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau faham? ianya tidak benar.
+Dialogue: 0,1:16:36.88,1:16:38.80,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ia adalah untuk laura.
+Dialogue: 0,1:16:42.55,1:16:44.80,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ia adalah untuk Laura.
+Dialogue: 0,1:16:48.11,1:16:49.65,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berehatlah.
+Dialogue: 0,1:16:52.77,1:16:55.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Canewood Beverage membeli semua\Ntanah di sini kecuali tanah kami.
+Dialogue: 0,1:16:56.11,1:16:58.84,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kalau kami tak mahu menjualnya,\Nmereka akan bermain kasar.
+Dialogue: 0,1:16:59.01,1:17:00.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka sabotaj air kami.
+Dialogue: 0,1:17:01.57,1:17:04.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Beberapa bulan yang lalu,\Nseseorang meracun anjing kami.
+Dialogue: 0,1:17:04.75,1:17:07.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jadi, semasa dijalan raya tadi,\Nadalah lori mereka?
+Dialogue: 0,1:17:08.50,1:17:10.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Entahlah. Mungkin juga.
+Dialogue: 0,1:17:11.87,1:17:13.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Baiklah.
+Dialogue: 0,1:17:13.89,1:17:17.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka seperti dinosaur dengan badan\Nseberat 20 tan dan otak yang kecil.
+Dialogue: 0,1:17:19.62,1:17:21.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Semuanya terasa seperti najis.
+Dialogue: 0,1:17:21.43,1:17:22.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kenapa mereka memakannya?
+Dialogue: 0,1:17:22.95,1:17:26.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka tidak memakannya.\NTapi meminum sirap jagung
+Dialogue: 0,1:17:26.46,1:17:30.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}agar tetap terjaga, bersemangat,\Nmerasa kuat, seksi, dan apa-apa sajalah.
+Dialogue: 0,1:17:30.28,1:17:33.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Masa terus berjalan\Nkehidupan semakin sukar.
+Dialogue: 0,1:17:33.59,1:17:34.65,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Masih lagi sama.
+Dialogue: 0,1:17:56.73,1:17:59.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu piala pertandingan tarik tali.
+Dialogue: 0,1:18:00.42,1:18:02.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu piala "barrell Race",
+Dialogue: 0,1:18:03.18,1:18:04.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}dan yang ini piala pertandingan melukis.
+Dialogue: 0,1:18:04.95,1:18:06.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Semuanya tempat kedua dan ketiga.
+Dialogue: 0,1:18:07.00,1:18:10.60,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak begitu pandai, tapi\Nbapa aku yang paksa..
+Dialogue: 0,1:18:19.15,1:18:21.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau mahu mendengarnya?
+Dialogue: 0,1:18:31.49,1:18:32.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau menyukainya?
+Dialogue: 0,1:18:36.94,1:18:39.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau boleh meminjamnya malam ini...
+Dialogue: 0,1:18:39.06,1:18:42.58,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan aku akan ambil balik pagi nanti.
+Dialogue: 0,1:18:55.91,1:18:58.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Nampak ia perlu di perbaiki.
+Dialogue: 0,1:19:06.77,1:19:12.04,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}~SUB BY EGN~
+Dialogue: 0,1:19:30.94,1:19:32.24,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Moga akan bertahan lama.
+Dialogue: 0,1:19:28.11,1:19:29.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya.
+Dialogue: 0,1:19:33.90,1:19:35.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sangat bertahan lama.
+Dialogue: 0,1:19:35.91,1:19:36.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Terima kasih.
+Dialogue: 0,1:19:40.81,1:19:43.17,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, sudah berapa lama anak perempuan kau begitu?
+Dialogue: 0,1:19:43.44,1:19:44.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bisu.
+Dialogue: 0,1:19:45.54,1:19:49.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Semenjak lahir.
+Dialogue: 0,1:19:50.92,1:19:53.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, apapun\Naku sangat-sangat mencemburui kau.
+Dialogue: 0,1:19:54.16,1:19:57.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apabila umur dia sebaya nate nanti, Aku harap\Nakan ada perkataan yang keluar dari mulutnya.
+Dialogue: 0,1:20:02.77,1:20:04.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna
+Dialogue: 0,1:20:08.68,1:20:09.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan bimbang.
+Dialogue: 0,1:20:12.23,1:20:13.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tunggu di sini.
+Dialogue: 0,1:20:19.84,1:20:21.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Selamat malam, Encik Munson.
+Dialogue: 0,1:20:22.26,1:20:23.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kenapa kau kesini?
+Dialogue: 0,1:20:24.11,1:20:25.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mengapa tak tanya pada anak-anak lelaki kau ni.
+Dialogue: 0,1:20:25.77,1:20:28.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Encik Munson, kau tahu tak kau dah\Nlakukan pencerobohan sekarang ni?
+Dialogue: 0,1:20:28.94,1:20:31.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku sudah dapat keizinan\Npemilik sebelumnya.
+Dialogue: 0,1:20:31.82,1:20:32.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mengarut.
+Dialogue: 0,1:20:32.90,1:20:34.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi pemilik sebelumnya cakap\N lain.
+Dialogue: 0,1:20:36.19,1:20:37.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapa dia?
+Dialogue: 0,1:20:38.60,1:20:41.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Orang yang menyuruh kamu semua\Nmasuk semula ke dalam trak.
+Dialogue: 0,1:20:41.14,1:20:43.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi main jauh-jauh.
+Dialogue: 0,1:20:48.35,1:20:49.57,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, Carl...
+Dialogue: 0,1:20:50.13,1:20:53.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Nampak macam Encik Munson\Nmengupah orang yang berotot.
+Dialogue: 0,1:20:53.54,1:20:54.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh begitu.
+Dialogue: 0,1:20:55.00,1:20:56.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia kawan aku.
+Dialogue: 0,1:20:56.52,1:20:58.33,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Rakan yang bercakap besar.
+Dialogue: 0,1:20:58.44,1:20:59.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku selalu mendengar itu.
+Dialogue: 0,1:21:00.30,1:21:01.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan mungkin kau selalu dengar ini juga
+Dialogue: 0,1:21:04.34,1:21:05.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lebih daripada yang saya suka.
+Dialogue: 0,1:21:05.96,1:21:07.16,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau dah tahu lah!
+Dialogue: 0,1:21:08.31,1:21:10.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dalam kiraan tiga...
+Dialogue: 0,1:21:10.49,1:21:11.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}kamu mesti tinggalkan tempat ini.
+Dialogue: 0,1:21:11.69,1:21:12.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku berhak keatas air ni.
+Dialogue: 0,1:21:12.76,1:21:14.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Satu.\N- sekarang aku dah ada seorang peguam.
+Dialogue: 0,1:21:14.20,1:21:15.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dua.
+Dialogue: 0,1:21:16.97,1:21:17.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tiga.
+Dialogue: 0,1:21:19.07,1:21:20.11,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tak apa-apa, bos?
+Dialogue: 0,1:21:22.10,1:21:23.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kamu semua pun dah tahu.
+Dialogue: 0,1:21:24.31,1:21:25.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berambus dari sini!
+Dialogue: 0,1:21:25.57,1:21:27.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tak apa-apa, bos?\NDiamlah.
+Dialogue: 0,1:21:27.70,1:21:28.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi!
+Dialogue: 0,1:21:45.29,1:21:46.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau kerap berlatih?
+Dialogue: 0,1:21:46.88,1:21:47.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kadang kadang.
+Dialogue: 0,1:22:08.31,1:22:10.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, jangan bangunkan dia lagi.
+Dialogue: 0,1:22:10.59,1:22:12.83,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Biarkan MEMBUTA satu jam lagi.
+Dialogue: 0,1:22:17.38,1:22:18.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tahu, Logan?
+Dialogue: 0,1:22:21.03,1:22:23.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tanpa ragu-ragu lagi...
+Dialogue: 0,1:22:24.90,1:22:29.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ini adalah malam yang paling\Nsempurna setelah sekian lama.
+Dialogue: 0,1:22:37.77,1:22:39.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi aku tidak layak mendapatkannya.
+Dialogue: 0,1:22:46.46,1:22:48.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku telah melakukan sesuatu.
+Dialogue: 0,1:22:51.43,1:22:53.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sesuatu yang tidak terucap.
+Dialogue: 0,1:22:59.86,1:23:03.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku teringat pada\Nkejadian di Westchester.
+Dialogue: 0,1:23:08.01,1:23:11.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ini bukanlah kali pertama\Naku menyakiti mereka.
+Dialogue: 0,1:23:13.26,1:23:16.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sehingga hari ini, aku tidak tahu.
+Dialogue: 0,1:23:17.59,1:23:19.37,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tak mahu memberitahu saya
+Dialogue: 0,1:23:21.83,1:23:27.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jadi kita hanya boleh, bersembunyi...\Nmelarikan diri...
+Dialogue: 0,1:23:32.13,1:23:35.79,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku rasa akhirnya aku dapat memahami kau.
+Dialogue: 0,1:23:39.25,1:23:40.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Logan...
+Dialogue: 0,1:24:08.17,1:24:09.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu luar biasa.
+Dialogue: 0,1:24:09.49,1:24:11.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau kata kau hanya perlukan gadis itu!
+Dialogue: 0,1:24:13.59,1:24:15.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kawan-kawan kau selalu mempunyai\Npeluang, begitu juga dengan kau.
+Dialogue: 0,1:24:16.95,1:24:17.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Nate?
+Dialogue: 0,1:24:22.13,1:24:23.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Letakkan dia!
+Dialogue: 0,1:24:31.91,1:24:32.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sayang.
+Dialogue: 0,1:24:33.38,1:24:34.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tunggu di sana, Will!
+Dialogue: 0,1:24:39.71,1:24:40.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kathryn!
+Dialogue: 0,1:24:41.43,1:24:42.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kathryn!
+Dialogue: 0,1:24:42.45,1:24:43.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kathryn!
+Dialogue: 0,1:25:14.45,1:25:15.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Charles!
+Dialogue: 0,1:25:28.59,1:25:29.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bertahan lah!
+Dialogue: 0,1:25:29.85,1:25:32.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu bukan aku.\NItu bukan aku.
+Dialogue: 0,1:25:35.01,1:25:36.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia datang kesini.
+Dialogue: 0,1:25:36.91,1:25:38.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku akan mengambilnya.\NDi separuh jalan.
+Dialogue: 0,1:25:38.54,1:25:40.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, tidak, tidak.\NBiar dia yang datang kesini.
+Dialogue: 0,1:25:40.90,1:25:42.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita sedang bergelut dengan X-23s.
+Dialogue: 0,1:25:42.77,1:25:43.96,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu saja cara yang kita ada\Nsebab dia masih lagi kanak-kanak...
+Dialogue: 0,1:25:43.98,1:25:45.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita boleh membesarkan\Nmereka tanpa hati nurani.
+Dialogue: 0,1:25:45.96,1:25:47.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi kau takkan dapat\Nmengawal kemarahannya.
+Dialogue: 0,1:25:48.09,1:25:49.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau hanyalah ciptaan kami\Ndari awal lagi.
+Dialogue: 0,1:25:57.66,1:26:00.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapakah gerangan nya itu?
+Dialogue: 0,1:26:05.34,1:26:06.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Will Munson!
+Dialogue: 0,1:26:09.48,1:26:10.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bertahanlah, Charles.
+Dialogue: 0,1:26:11.63,1:26:13.67,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Munson, keluarlah!
+Dialogue: 0,1:26:17.96,1:26:19.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Munson!
+Dialogue: 0,1:26:20.61,1:26:22.04,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Keluar sekarang!
+Dialogue: 0,1:26:23.01,1:26:24.55,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kesini sekarang, Munson!
+Dialogue: 0,1:26:24.64,1:26:25.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia bedebah tu.
+Dialogue: 0,1:26:27.73,1:26:28.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oi, bedebah.
+Dialogue: 0,1:26:29.46,1:26:32.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dengar, yang sudah tu sudah lah.
+Dialogue: 0,1:26:32.68,1:26:34.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak tahu berapa yang munson upah kau..
+Dialogue: 0,1:26:35.06,1:26:37.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi "canewood" boleh bayar kau bermula dari 5 ribu.
+Dialogue: 0,1:26:38.51,1:26:39.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bayarannya setiap minggu.
+Dialogue: 0,1:26:40.96,1:26:42.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lebih baik kau diam disitu, Kawan.
+Dialogue: 0,1:26:43.20,1:26:44.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Disini aku yang buat peraturan..
+Dialogue: 0,1:26:46.81,1:26:48.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, tidak, tidak.
+Dialogue: 0,1:26:49.06,1:26:50.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa ni...!
+Dialogue: 0,1:26:52.59,1:26:53.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Oh, tak guna!
+Dialogue: 0,1:26:54.00,1:26:55.10,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tembak dia!
+Dialogue: 0,1:26:56.93,1:26:58.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita perlu campur tangan!
+Dialogue: 0,1:26:58.09,1:27:00.17,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, dia hanya patuh kepada kau, Doktor.
+Dialogue: 0,1:27:03.35,1:27:04.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}24!
+Dialogue: 0,1:27:06.16,1:27:07.16,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kembali ke sini!
+Dialogue: 0,1:27:07.61,1:27:08.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hentikannya\Nberhenti sekarang!
+Dialogue: 0,1:27:09.19,1:27:10.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Diamlah sekejap!\NPegang betul-betul!
+Dialogue: 0,1:27:15.28,1:27:16.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Kapal kita.\N- Apa?
+Dialogue: 0,1:27:22.42,1:27:24.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sun seeker.
+Dialogue: 0,1:27:41.66,1:27:42.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak!
+Dialogue: 0,1:27:44.28,1:27:45.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Datang kesini!
+Dialogue: 0,1:27:45.31,1:27:46.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}24!
+Dialogue: 0,1:28:02.16,1:28:03.67,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang telah kau lakukan itu?
+Dialogue: 0,1:28:11.18,1:28:11.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kesini!
+Dialogue: 0,1:28:11.92,1:28:13.22,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang!
+Dialogue: 0,1:28:14.08,1:28:15.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ambil dia!
+Dialogue: 0,1:28:26.05,1:28:27.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berhati-hati dengan cahaya.
+Dialogue: 0,1:28:50.84,1:28:52.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapa kau?
+Dialogue: 0,1:31:18.60,1:31:19.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Duduk!
+Dialogue: 0,1:31:39.25,1:31:40.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Diam!
+Dialogue: 0,1:31:40.78,1:31:42.18,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan bergerak!
+Dialogue: 0,1:32:16.08,1:32:17.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak apa. Tak apa.
+Dialogue: 0,1:32:19.00,1:32:20.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kerja yang bagus, 24.
+Dialogue: 0,1:32:20.88,1:32:22.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau sedang sembuh.\NBernafaslah!
+Dialogue: 0,1:32:24.35,1:32:26.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau dilahirkan semula,\Ndengan sukatan yang baru.
+Dialogue: 0,1:32:27.16,1:32:28.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tarik nafas!
+Dialogue: 0,1:32:28.87,1:32:29.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Badan kau perlu melakukan tugas.
+Dialogue: 0,1:32:30.06,1:32:32.65,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hemostasis, angiogenesis,\Nepitelisasi...
+Dialogue: 0,1:32:32.73,1:32:33.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Stem pertumbuhan sel.
+Dialogue: 0,1:32:36.09,1:32:37.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ini akan membuatkan kau sembuh semula..
+Dialogue: 0,1:32:38.69,1:32:40.10,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan menjadikan kau lebih kuat.
+Dialogue: 0,1:33:35.14,1:33:36.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya...
+Dialogue: 0,1:33:42.19,1:33:43.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Disebabkan air dan..
+Dialogue: 0,1:34:07.23,1:34:08.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hanya ingin mendapatkan air.
+Dialogue: 0,1:34:43.48,1:34:45.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sial! Sial!
+Dialogue: 0,1:34:48.61,1:34:50.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna!
+Dialogue: 0,1:34:50.91,1:34:51.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna!
+Dialogue: 0,1:34:52.28,1:34:53.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna!
+Dialogue: 0,1:35:05.89,1:35:08.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna!
+Dialogue: 0,1:35:09.42,1:35:10.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna
+Dialogue: 0,1:35:10.54,1:35:12.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bedebah...!
+Dialogue: 0,1:35:16.53,1:35:17.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna!
+Dialogue: 0,1:35:18.30,1:35:20.30,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna!
+Dialogue: 0,1:35:48.57,1:35:50.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Selamat kembali.
+Dialogue: 0,1:35:50.86,1:35:52.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Nampaknya aku perlu beritahu.
+Dialogue: 0,1:35:52.89,1:35:54.65,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Anak gadis yang bijak ada di ruang menunggu...
+Dialogue: 0,1:35:54.67,1:35:56.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Menunggu bapanya yang dah meninggal dunia.
+Dialogue: 0,1:36:02.40,1:36:03.60,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku selalu berharap...
+Dialogue: 0,1:36:04.45,1:36:08.80,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berpeluang\Nbertemu orang seperti kau.
+Dialogue: 0,1:36:09.28,1:36:10.91,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku sangkakan kau dah mati.
+Dialogue: 0,1:36:13.11,1:36:15.38,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Gembira berjumpa kau juga, Tuan doktor.
+Dialogue: 0,1:36:16.06,1:36:17.13,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi aku kena pergi.
+Dialogue: 0,1:36:17.16,1:36:18.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak, jangan lakukan itu.
+Dialogue: 0,1:36:18.38,1:36:20.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang kau perlukan adalah\Nrehat dan rawatan.
+Dialogue: 0,1:36:20.89,1:36:22.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau perlu memeriksa diri kau di suatu tempat.
+Dialogue: 0,1:36:22.79,1:36:24.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Aku tak apa-apa.\N- Tidak, kau sebenarnya kau tak okay!
+Dialogue: 0,1:36:25.00,1:36:28.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu kau berbeza...
+Dialogue: 0,1:36:28.40,1:36:31.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi ia takkan mengubah hakikat bahawa sesuatu\Ndalam diri kau telah meracuni kau sendiri.
+Dialogue: 0,1:36:31.90,1:36:34.14,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau kena membuat pemeriksaan di hospital.
+Dialogue: 0,1:36:34.16,1:36:35.85,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cari apakah penyebabnya.
+Dialogue: 0,1:36:36.35,1:36:37.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku dah tahu penyebabnya.
+Dialogue: 0,1:36:38.49,1:36:41.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tolonglah Encik, jika kau tak mau pergi ke\Nhospital, mungkin aku boleh bantu kau.
+Dialogue: 0,1:36:41.99,1:36:43.22,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mungkin aku perlu\Nmenjalankan beberapa ujian.
+Dialogue: 0,1:36:43.25,1:36:45.65,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dengar, Tuan doktor.\NKau kelihatan seperti orang yang baik.
+Dialogue: 0,1:36:45.67,1:36:47.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau ingin selamatkan nyawa?\NSelamatkan nyawa kau sendiri.
+Dialogue: 0,1:36:47.75,1:36:48.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lupakan kedatangan kami.
+Dialogue: 0,1:36:48.89,1:36:50.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mari kita pergi.
+Dialogue: 0,1:37:01.27,1:37:02.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei!
+Dialogue: 0,1:37:02.75,1:37:03.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei!
+Dialogue: 0,1:37:24.32,1:37:26.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tak boleh mencurinya begitu saja...
+Dialogue: 0,1:37:44.67,1:37:47.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak tahu macam mana cara kau\Nbawa aku ke sini, tapi...
+Dialogue: 0,1:37:48.08,1:37:48.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Terima kasih.
+Dialogue: 0,1:37:49.83,1:37:51.20,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya.
+Dialogue: 0,1:37:53.16,1:37:54.57,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau boleh bercakap?
+Dialogue: 0,1:37:56.61,1:37:57.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau boleh bercakap?
+Dialogue: 0,1:37:58.81,1:38:00.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa ni...?
+Dialogue: 0,1:38:00.59,1:38:01.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kenapa kau...?
+Dialogue: 0,1:38:01.77,1:38:04.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apakah semuanya ini!\Nsetelah sekian lama baru nak bercakap?
+Dialogue: 0,1:38:08.02,1:38:09.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa? Diam lah!
+Dialogue: 0,1:38:09.61,1:38:10.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Diam. Diam!\NTutup mulut kau!
+Dialogue: 0,1:38:13.94,1:38:16.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa? Siapa itu?
+Dialogue: 0,1:38:16.38,1:38:17.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Siapa itu?
+Dialogue: 0,1:38:23.15,1:38:24.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}North Dakota.
+Dialogue: 0,1:38:24.76,1:38:26.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa?
+Dialogue: 0,1:38:28.03,1:38:29.17,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dengar dulu...
+Dialogue: 0,1:38:31.85,1:38:33.57,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tempat ini, okay?
+Dialogue: 0,1:38:33.78,1:38:37.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jururawat kau itu, dia terlalu\Nbanyak baca komik, faham?
+Dialogue: 0,1:38:37.40,1:38:38.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Terlalu banyak baca komik!
+Dialogue: 0,1:38:42.74,1:38:45.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku telah melihatnya!\NAku telah melihatnya, okay?
+Dialogue: 0,1:38:45.86,1:38:46.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Semuanya yang ada di sini...
+Dialogue: 0,1:38:47.00,1:38:50.26,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak ada satupun yang benar-benar wujud!\NOkay. Kau faham tak?
+Dialogue: 0,1:38:50.29,1:38:52.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Eden sebenarnya tak wujud.\NTidak, tidak!
+Dialogue: 0,1:38:52.94,1:38:55.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu hanya khayalan.\NKau tak melihatnya?
+Dialogue: 0,1:38:55.08,1:38:57.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu adalah antara nama-nama\Nmereka yang membuat ini...
+Dialogue: 0,1:38:58.07,1:38:59.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka sengaja membuat ini.
+Dialogue: 0,1:39:00.29,1:39:01.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Okay? Semua ini...
+Dialogue: 0,1:39:01.56,1:39:04.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ia berlaku sekali, kemudian mereka\Nmemutarbelitkan menjadi pembohongan besar!
+Dialogue: 0,1:39:04.81,1:39:07.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ini semua. Tidak!
+Dialogue: 0,1:39:07.92,1:39:09.01,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak guna
+Dialogue: 0,1:39:10.02,1:39:11.04,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak.
+Dialogue: 0,1:39:11.27,1:39:13.24,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu, aku faham.
+Dialogue: 0,1:39:13.76,1:39:15.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ini sangatlah jauh!
+Dialogue: 0,1:39:15.78,1:39:19.22,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau faham?\NAku tak mahu membawa kau ke North Dakota.
+Dialogue: 0,1:39:22.57,1:39:25.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak senang. Dan aku tak\Nboleh menghantar kau ke sana.
+Dialogue: 0,1:39:25.90,1:39:29.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sudah dua hari aku\Nmemandu dan aku tidak...
+Dialogue: 0,1:39:29.60,1:39:31.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan pukul aku!
+Dialogue: 0,1:39:31.80,1:39:32.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan pukul aku!
+Dialogue: 0,1:39:35.16,1:39:36.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berhenti sebutkan nama-nama itu!
+Dialogue: 0,1:39:36.74,1:39:37.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang juga!
+Dialogue: 0,1:39:37.67,1:39:39.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berhenti sebutkan nama-nama itu!
+Dialogue: 0,1:39:39.43,1:39:40.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cukuplah!
+Dialogue: 0,1:39:40.48,1:39:41.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hentikan!
+Dialogue: 0,1:39:42.05,1:39:43.30,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Baiklah! Baiklah!
+Dialogue: 0,1:39:45.49,1:39:48.47,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau mahu sangat ke sana kan?\NAku akan hantarkan.
+Dialogue: 0,1:39:48.50,1:39:50.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau lihatlah sendiri nanti!
+Dialogue: 0,1:39:50.59,1:39:52.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu pasti hanyalah tempat khayalan.
+Dialogue: 0,1:40:05.54,1:40:08.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami memahami pentingnya membendung, Dr. Rice.
+Dialogue: 0,1:40:08.23,1:40:10.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tapi kau tak boleh meninggalkan zon\Nperang seperti yang kau lakukan ketika di Juarez.
+Dialogue: 0,1:40:10.70,1:40:13.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cuba ingatkan dirikau sendiri,\Nyang semua ini adalah mesin pembunuh.
+Dialogue: 0,1:40:13.27,1:40:15.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka tidak ragu-ragu untuk\Nmengeluarkan isi perut keluarga kau.
+Dialogue: 0,1:40:15.29,1:40:16.65,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bukan semuanya.
+Dialogue: 0,1:40:17.41,1:40:20.65,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa yang boleh digambarkan tentang\Nsemua aset ini ialah, Kehidupan yang ganas.
+Dialogue: 0,1:40:20.67,1:40:21.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau mahu mengubah gambaran aku?
+Dialogue: 0,1:40:22.44,1:40:23.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak.
+Dialogue: 0,1:40:23.26,1:40:24.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Habis tu?
+Dialogue: 0,1:40:26.44,1:40:27.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bedah tisu pesakit ini.
+Dialogue: 0,1:40:27.52,1:40:29.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia penjejak yang hebat,\Ndan mempunyai IQ tinggi.
+Dialogue: 0,1:40:35.48,1:40:36.84,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ini dia.
+Dialogue: 0,1:41:13.30,1:41:14.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei.
+Dialogue: 0,1:41:23.22,1:41:24.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Biarkan aku yang pandu.
+Dialogue: 0,1:41:27.11,1:41:28.39,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan harap lah.
+Dialogue: 0,1:41:33.91,1:41:35.52,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berhenti pandang aku.
+Dialogue: 0,1:41:42.85,1:41:44.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau sedang nazak.
+Dialogue: 0,1:41:47.24,1:41:48.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau dah nak mati.
+Dialogue: 0,1:41:51.51,1:41:53.10,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Charles memberitahu aku
+Dialogue: 0,1:41:56.24,1:41:58.52,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Apa lagi yang dia beritahu?
+Dialogue: 0,1:41:58.87,1:42:00.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan biarkan kau mati.
+Dialogue: 0,1:42:12.70,1:42:14.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei! Hei! Hei!
+Dialogue: 0,1:42:21.57,1:42:22.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berehatlah.
+Dialogue: 0,1:45:06.73,1:45:08.26,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jaga imbangannya.
+Dialogue: 0,1:45:10.69,1:45:12.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ayunkan kesini.
+Dialogue: 0,1:45:18.27,1:45:20.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Perlahan-lahan.
+Dialogue: 0,1:46:13.09,1:46:14.39,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di mana aku?
+Dialogue: 0,1:46:16.07,1:46:17.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei!
+Dialogue: 0,1:46:18.14,1:46:19.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dari mana kau ambil tu?
+Dialogue: 0,1:46:19.52,1:46:20.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dari tempat asal kami.
+Dialogue: 0,1:46:21.49,1:46:23.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka memberinya jika kami bertarung.\NIanya akan membuat lebih kuat.
+Dialogue: 0,1:46:23.71,1:46:25.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Benda tu boleh membuat kau hilang akal.
+Dialogue: 0,1:46:25.76,1:46:26.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan boleh membunuh.
+Dialogue: 0,1:46:26.79,1:46:29.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak jika menggunakannya dalam dos yang rendah.
+Dialogue: 0,1:46:29.44,1:46:30.73,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ianya membantu kau pulih semula
+Dialogue: 0,1:46:32.13,1:46:33.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di mana Laura?
+Dialogue: 0,1:46:33.52,1:46:35.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia tertidur di bawah.
+Dialogue: 0,1:46:35.67,1:46:37.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau mahu aku kejutkan dia?
+Dialogue: 0,1:46:45.33,1:46:46.52,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak.
+Dialogue: 0,1:47:07.71,1:47:09.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau bermimpi buruk.
+Dialogue: 0,1:47:13.19,1:47:15.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau pernah mimpi buruk?
+Dialogue: 0,1:47:16.21,1:47:17.14,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya.
+Dialogue: 0,1:47:20.39,1:47:22.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka menyakiti aku.
+Dialogue: 0,1:47:24.23,1:47:25.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mimpi aku berbeza.
+Dialogue: 0,1:47:31.85,1:47:33.24,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku yang menyakiti mereka.
+Dialogue: 0,1:47:51.09,1:47:52.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tahu tak apa benda ni?
+Dialogue: 0,1:47:54.42,1:47:56.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ianya diperbuat daripada adamantium.
+Dialogue: 0,1:47:57.14,1:47:59.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka ingin memasukkan benda\Nini ke dalam tubuh kita.
+Dialogue: 0,1:48:00.34,1:48:02.05,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ianya akan membunuh kita.
+Dialogue: 0,1:48:03.95,1:48:06.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kemungkinan juga boleh membunuh aku sekarang.
+Dialogue: 0,1:48:10.22,1:48:11.90,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dah lama aku mendapatkannya...
+Dialogue: 0,1:48:13.31,1:48:16.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}dan menyimpannya sebagai\Nperingatan tentang siapakah diri aku.
+Dialogue: 0,1:48:19.01,1:48:20.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sekarang menyimpannya untuk...
+Dialogue: 0,1:48:27.78,1:48:29.51,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sebenarnya...
+Dialogue: 0,1:48:32.57,1:48:34.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku berniat menembak diri aku sendiri.
+Dialogue: 0,1:48:35.44,1:48:36.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Seperti yang Charles beritahu.
+Dialogue: 0,1:48:42.54,1:48:44.37,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku juga pernah menyakiti orang.
+Dialogue: 0,1:48:47.61,1:48:50.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau kena belajar bagaimana\Nhidup seperti itu.
+Dialogue: 0,1:48:59.97,1:49:01.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka orang jahat.
+Dialogue: 0,1:49:05.77,1:49:07.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka semuanya sama.
+Dialogue: 0,1:50:22.25,1:50:24.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tak kelakar!\NItu tak kelakar.
+Dialogue: 0,1:50:26.05,1:50:27.45,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei! Hei, kawan!
+Dialogue: 0,1:50:27.45,1:50:29.88,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dah berapa lama aku pengsan?
+Dialogue: 0,1:50:31.49,1:50:33.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dah berapa lama aku terbaring di katil itu?
+Dialogue: 0,1:50:33.11,1:50:34.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dua hari.
+Dialogue: 0,1:50:35.94,1:50:37.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi beritahu mereka supaya bersiap.
+Dialogue: 0,1:50:37.34,1:50:39.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tak boleh berbuat begitu.\NKau tak boleh terus berada di sini.
+Dialogue: 0,1:50:39.08,1:50:41.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami akan menunggu.\NItulah rancangan kami.
+Dialogue: 0,1:50:41.28,1:50:43.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cuma tinggal satu hari saja lagi\Nuntuk kami mencari jalan keluar dari sini.
+Dialogue: 0,1:50:43.68,1:50:46.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jika kamu semua tunggu, Alkali akan\Nmencari dan membunuh kamu semua.
+Dialogue: 0,1:50:46.44,1:50:47.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}kamu mesti pergi!
+Dialogue: 0,1:50:47.59,1:50:49.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami akan pergi esok sebelum subuh.
+Dialogue: 0,1:50:50.22,1:50:51.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan menyeberangi sempadan.
+Dialogue: 0,1:50:52.02,1:50:53.52,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di sana tempat yang selamat.
+Dialogue: 0,1:50:54.83,1:50:55.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jejak koordinasi?
+Dialogue: 0,1:50:56.17,1:50:58.27,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, antara tengah hari hingga pukul 5...
+Dialogue: 0,1:50:58.47,1:51:00.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Waktu itu, satelit tak dapat mengesan...
+Dialogue: 0,1:51:00.87,1:51:03.36,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Suaka kamu dah diluluskan.\N- Faham.
+Dialogue: 0,1:51:19.37,1:51:21.06,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pusing ke arah kanan, Laura.
+Dialogue: 0,1:51:24.47,1:51:26.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Sedikit lagi. Ya.
+Dialogue: 0,1:51:26.35,1:51:27.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau nampak pokok-pokok itu?
+Dialogue: 0,1:51:31.66,1:51:33.02,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jaraknya 8 batu jika berjalan kaki dari sini.
+Dialogue: 0,1:51:34.18,1:51:35.37,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau nampak jalan masuk itu?
+Dialogue: 0,1:51:36.83,1:51:37.97,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itulah sempadannya.
+Dialogue: 0,1:51:39.88,1:51:41.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Di situlah kita akan selamat.
+Dialogue: 0,1:51:49.01,1:51:50.57,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Masuk ke dalam.
+Dialogue: 0,1:51:57.37,1:51:58.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura memberitahu aku, Apa\Nyang kamu lakukan untuknya.
+Dialogue: 0,1:51:59.42,1:52:01.35,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia bernasib baik kau ada di sisinya.
+Dialogue: 0,1:52:03.89,1:52:06.23,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ambil ini. Katanya ini kepunyaan kau.
+Dialogue: 0,1:52:07.69,1:52:10.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itulah penyebabnya kau melakukan ini, kan?
+Dialogue: 0,1:52:12.47,1:52:14.37,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya...
+Dialogue: 0,1:52:15.18,1:52:18.03,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dengar, aku tak memerlukanya.\NKau gunalah, okay?
+Dialogue: 0,1:52:18.06,1:52:19.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Terpulanglah.
+Dialogue: 0,1:52:41.44,1:52:43.19,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kawan-kawan kau nampak sangat baik.
+Dialogue: 0,1:52:43.54,1:52:44.65,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka mengingatkan aku pada...
+Dialogue: 0,1:52:46.24,1:52:47.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, Hei, ada apa?
+Dialogue: 0,1:52:50.65,1:52:52.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau sudah bersama kawan-kawan kau.\NKau dah berjaya.
+Dialogue: 0,1:52:52.93,1:52:54.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ke mana kau akan pergi?
+Dialogue: 0,1:52:58.35,1:53:00.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, aku sudah menghantar kau ke sini.\NSekadar itu saja tugas aku.
+Dialogue: 0,1:53:01.02,1:53:02.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lagipun aku dah pulangkan semula wang tersebut.
+Dialogue: 0,1:53:02.87,1:53:04.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lelaki yang baik.
+Dialogue: 0,1:53:04.07,1:53:06.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Hei, aku tak pernah meminta semua ini.
+Dialogue: 0,1:53:07.08,1:53:08.78,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Okay? Charles juga tidak meminta semua ini.
+Dialogue: 0,1:53:08.99,1:53:10.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Caliban pun tidak meminta semua ini.
+Dialogue: 0,1:53:11.71,1:53:13.73,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan mereka sudah sudah terkubur di dalam tanah.
+Dialogue: 0,1:53:14.87,1:53:16.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tak tahu apa yang Charles\Nmasukkan dalam kepala kau...
+Dialogue: 0,1:53:16.89,1:53:19.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}tapi aku bukanlah seperti yang kau fikirkan.
+Dialogue: 0,1:53:21.24,1:53:23.40,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lagipun aku bertemu dengan kau\Nlebih-kurang seminggu yang lalu.
+Dialogue: 0,1:53:24.68,1:53:26.64,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau sudah bertemu Rebecca, Delilah...
+Dialogue: 0,1:53:26.64,1:53:28.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}dan blah, blah, apapun itu.
+Dialogue: 0,1:53:28.56,1:53:30.30,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Segala yang kau minta\Nsudah kau dapat.
+Dialogue: 0,1:53:33.46,1:53:35.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ini lebih baik.
+Dialogue: 0,1:53:36.75,1:53:38.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kerana aku sudah muak dengan ini semua.
+Dialogue: 0,1:53:40.28,1:53:43.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Perkara buruk telah menimpa pada\Nmereka yang aku sayang.
+Dialogue: 0,1:53:43.46,1:53:45.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau faham?
+Dialogue: 0,1:53:47.34,1:53:48.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku akan okey.
+Dialogue: 0,1:57:09.90,1:57:11.15,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lari, Bobby, lari!
+Dialogue: 0,1:57:35.36,1:57:36.76,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cepat! Cepat!
+Dialogue: 0,1:57:37.48,1:57:38.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Cepat lagi!
+Dialogue: 0,1:57:38.48,1:57:40.68,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kita mesti tangkap mereka\Nsebelum mereka sampai ke sempadan.
+Dialogue: 0,1:58:57.42,1:58:58.62,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berpecah!
+Dialogue: 0,1:58:58.62,1:58:59.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma} Cepat! Cepat!
+Dialogue: 0,1:59:01.69,1:59:03.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lari! Lari!
+Dialogue: 0,1:59:04.69,1:59:05.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lari!
+Dialogue: 0,1:59:12.45,1:59:13.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tarik nafas.
+Dialogue: 0,1:59:13.99,1:59:15.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ini hanya luka ringan, sayang.
+Dialogue: 0,1:59:31.65,1:59:32.65,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Itu dia!
+Dialogue: 0,1:59:33.07,1:59:34.07,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami mendapatkannya!
+Dialogue: 0,1:59:36.74,1:59:38.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Berundur!
+Dialogue: 0,2:00:05.32,2:00:06.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ambil tempat di belakang aku!
+Dialogue: 0,2:00:27.90,2:00:29.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau menggunakan semua ubatnya.
+Dialogue: 0,2:00:31.33,2:00:32.53,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kesannya dah mula hilang.
+Dialogue: 0,2:00:59.16,2:01:00.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi selamatkan kawan-kawan kau.
+Dialogue: 0,2:01:01.83,2:01:02.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi.
+Dialogue: 0,2:01:04.44,2:01:05.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura?
+Dialogue: 0,2:01:07.47,2:01:08.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau akan tahu bila tiba masanya.
+Dialogue: 0,2:01:20.70,2:01:21.93,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Arah jam 9!
+Dialogue: 0,2:01:23.80,2:01:26.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kesan cecair hijau\Nitu dah mula menghilang, kan?
+Dialogue: 0,2:01:27.25,2:01:29.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tahu. kau dah nampak begitu teruk.
+Dialogue: 0,2:01:30.37,2:01:31.98,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kadang-kadang sukar untuk mencegah kuku kau keluar.
+Dialogue: 0,2:01:31.98,2:01:33.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Habiskan bedebah ini, Logan!
+Dialogue: 0,2:01:35.20,2:01:36.86,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tolong hentikannya, Encik Howlett.
+Dialogue: 0,2:01:37.36,2:01:39.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku boleh menyuruh orang-orang aku\Nuntuk menembak budak-budak ini
+Dialogue: 0,2:01:39.57,2:01:41.08,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tentu tak mahu macam tu
+Dialogue: 0,2:01:41.16,2:01:43.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku tahu kesan daripada\Nserum itu dah mula menghilang.
+Dialogue: 0,2:01:43.55,2:01:46.30,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau tak akan dapat bertahan dengan luka-luka itu.
+Dialogue: 0,2:01:46.59,2:01:48.11,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Izinkan aku perkenalkan diri.
+Dialogue: 0,2:01:48.59,2:01:49.60,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Zander Rice.
+Dialogue: 0,2:01:50.45,2:01:52.72,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku percaya kau kenal bapa aku\Ndari Program Senjata X.
+Dialogue: 0,2:01:52.72,2:01:56.46,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya. Dialah bedebah yang meletakkan\Nracun ini dalam tubuh aku.
+Dialogue: 0,2:01:58.05,2:01:59.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ya, dialah salah seorang daripadanya.
+Dialogue: 0,2:02:00.86,2:02:02.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Rasanya aku dah membunuhnya.
+Dialogue: 0,2:02:03.90,2:02:05.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Betul cakap kau.
+Dialogue: 0,2:02:05.00,2:02:06.59,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kenapa kau tidak tunjukkan rasa hormat kau, muty.
+Dialogue: 0,2:02:06.59,2:02:08.71,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau sedang berhadapan\Ndengan seseorang yang mampu menghapuskan spesis kamu.
+Dialogue: 0,2:02:09.21,2:02:11.28,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kawan aku Donald tu memang melampau.
+Dialogue: 0,2:02:12.20,2:02:15.00,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dia hanya bercakap besar.
+Dialogue: 0,2:02:15.00,2:02:18.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami bukannya mahu\Nmenghapuskan spesis mutan...
+Dialogue: 0,2:02:18.31,2:02:19.82,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tetapi kami hanya mahu mengawalnya.
+Dialogue: 0,2:02:22.11,2:02:24.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Aku sedar, kami tak perlulah menghapuskan\Nspesis mutan.
+Dialogue: 0,2:02:24.84,2:02:27.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami akan memanfaatkannya\Nuntuk kepentingan kami.
+Dialogue: 0,2:02:28.04,2:02:30.81,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Untuk mengedarkan terapi\NGen dalam bentuk apa cara sekalipun...
+Dialogue: 0,2:02:30.81,2:02:33.11,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dari minuman manis\Nhingga sarapan bijirin.
+Dialogue: 0,2:02:33.31,2:02:34.48,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dan ianya berjaya.
+Dialogue: 0,2:02:34.48,2:02:37.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Secara rawaknya mutan cenderung kearah polio
+Dialogue: 0,2:02:37.29,2:02:38.69,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kami teruskan usaha kami.
+Dialogue: 0,2:02:38.69,2:02:40.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Membuat mutan kau sendiri.
+Dialogue: 0,2:02:40.42,2:02:42.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}- Begitulah.\N- Ini bukan masanya, James. Kau tak boleh--
+Dialogue: 0,2:03:01.71,2:03:03.04,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mari kita mulakan.
+Dialogue: 0,2:03:39.34,2:03:41.21,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bangun!\NCepat bangun!
+Dialogue: 0,2:03:46.02,2:03:47.32,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Kau boleh. Bangunlah!
+Dialogue: 0,2:04:00.70,2:04:02.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura!\NJangan!
+Dialogue: 0,2:04:07.41,2:04:08.41,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura!
+Dialogue: 0,2:05:44.60,2:05:45.70,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi!
+Dialogue: 0,2:05:47.00,2:05:48.50,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi! Pergi! pergi!
+Dialogue: 0,2:05:49.20,2:05:51.63,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi! Pergi dari sini!
+Dialogue: 0,2:05:55.19,2:05:57.25,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi!
+Dialogue: 0,2:06:01.75,2:06:02.75,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi!
+Dialogue: 0,2:06:03.31,2:06:04.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergi!
+Dialogue: 0,2:06:05.09,2:06:05.89,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Lari!
+Dialogue: 0,2:06:06.09,2:06:07.09,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak!
+Dialogue: 0,2:06:47.04,2:06:48.44,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak tidak.
+Dialogue: 0,2:07:13.36,2:07:14.99,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Bawa kawan kau pergi dari sini.
+Dialogue: 0,2:07:15.23,2:07:16.42,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak.
+Dialogue: 0,2:07:17.35,2:07:19.74,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mereka akan datang lagi.
+Dialogue: 0,2:07:19.94,2:07:22.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Dengar, kau tak perlu bertarung lagi.
+Dialogue: 0,2:07:26.86,2:07:27.61,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Pergilah!
+Dialogue: 0,2:07:36.27,2:07:38.29,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Jangan menjadi seperti apa yang mereka ciptakan.
+Dialogue: 0,2:07:46.45,2:07:48.77,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Laura...\NLaura...
+Dialogue: 0,2:07:53.12,2:07:54.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ayah.
+Dialogue: 0,2:08:03.62,2:08:06.33,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}<B> Ah, jadi macam ini rasanya. {\b0\i0}{\c}{\fn\i0}
+Dialogue: 0,2:08:08.43,2:08:09.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak!
+Dialogue: 0,2:08:17.12,2:08:18.12,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Tidak!
+Dialogue: 0,2:08:31.94,2:08:32.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Ayah!
+Dialogue: 0,2:09:06.51,2:09:09.43,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Seorang lelaki perlu menjadi dirinya sendiri, Joey.{\i0}
+Dialogue: 0,2:09:10.78,2:09:12.31,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tak boleh terkeluar dari acuannya.{\i0}
+Dialogue: 0,2:09:15.42,2:09:17.87,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tak ada kehidupan dengan pembunuhan...{\i0}
+Dialogue: 0,2:09:18.96,2:09:20.94,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tidak akan berpatah balik.{\i0}
+Dialogue: 0,2:09:23.00,2:09:24.92,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Betul mahu pun salah,\Nia adalah satu "ketetapan".{\i0}
+Dialogue: 0,2:09:25.62,2:09:27.49,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}"Ketetapan" yang azali...{\i0}
+Dialogue: 0,2:09:30.56,2:09:32.95,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Sekarang pulanglah dan temui ibu kamu.{\i0}
+Dialogue: 0,2:09:34.26,2:09:37.66,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Beritahu dia semuanya baik-baik belaka.{\i0}
+Dialogue: 0,2:09:39.26,2:09:42.56,Default,,0,0,0,,{\c&H00ffff&\fnTahoma\i1}Tak ada lagi senjata di "lembah" ini.{\i0}
+Dialogue: 0,2:09:59.54,2:10:01.54,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}Mari pergi.\NKita kena bergerak sekarang.
+Dialogue: 0,2:10:22.74,2:10:37.34,Default,,0,0,0,,{\c&H00ffff&\fnTahoma}~SUB BY EGN~
