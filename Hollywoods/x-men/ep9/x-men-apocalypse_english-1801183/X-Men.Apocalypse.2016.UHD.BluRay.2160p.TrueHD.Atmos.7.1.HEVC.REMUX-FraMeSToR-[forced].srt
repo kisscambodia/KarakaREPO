@@ -1,0 +1,391 @@
+﻿1
+00:03:19,700 --> 00:03:23,161
+<font color="#ffff00">Now you will rule for eternity, my lord.</font>
+
+2
+00:03:37,592 --> 00:03:39,344
+<font color="#ffff00">Sleep.</font>
+
+3
+00:03:41,930 --> 00:03:45,267
+<font color="#ffff00">Let the transference begin.</font>
+
+4
+00:05:14,064 --> 00:05:16,066
+<font color="#ffff00">Death to the false god.</font>
+
+5
+00:05:35,919 --> 00:05:37,754
+<font color="#ffff00">Protect him!</font>
+
+6
+00:10:46,563 --> 00:10:48,230
+<font color="#ffff00">Ten fights waged.</font>
+
+7
+00:10:48,231 --> 00:10:49,691
+<font color="#ffff00">Ten fights won.</font>
+
+8
+00:10:49,858 --> 00:10:51,568
+<font color="#ffff00">The Winged Warrior.</font>
+
+9
+00:10:52,068 --> 00:10:53,570
+<font color="#ffff00">The Bird of Prey.</font>
+
+10
+00:10:53,736 --> 00:10:55,070
+<font color="#ffff00">The Angel of Death.</font>
+
+11
+00:10:55,071 --> 00:10:56,573
+<font color="#ffff00">ANGEL!</font>
+
+12
+00:11:03,246 --> 00:11:06,291
+<font color="#ffff00">Let's hear it for the fat man!</font>
+
+13
+00:11:06,833 --> 00:11:09,252
+<font color="#ffff00">Our next challenger...</font>
+
+14
+00:11:09,586 --> 00:11:10,920
+<font color="#ffff00">comes straight...</font>
+
+15
+00:11:11,254 --> 00:11:14,257
+<font color="#ffff00">from the Munich Circus.</font>
+
+16
+00:11:15,383 --> 00:11:16,259
+<font color="#ffff00">Ladies and gentlemen,</font>
+
+17
+00:11:17,093 --> 00:11:20,262
+<font color="#ffff00">the only one that could take on an Angel...</font>
+
+18
+00:11:20,263 --> 00:11:21,598
+<font color="#ffff00">is the Devil himself.</font>
+
+19
+00:11:23,266 --> 00:11:24,851
+<font color="#ffff00">I give you...</font>
+
+20
+00:11:25,768 --> 00:11:27,187
+<font color="#ffff00">the amazing...</font>
+
+21
+00:11:27,854 --> 00:11:29,230
+<font color="#ffff00">the fantastic...</font>
+
+22
+00:11:30,106 --> 00:11:32,400
+<font color="#ffff00">NIGHTCRAWLER!</font>
+
+23
+00:11:52,128 --> 00:11:52,879
+<font color="#ffff00">Caution</font>
+
+24
+00:11:53,046 --> 00:11:54,505
+<font color="#ffff00">High voltage!</font>
+
+25
+00:11:54,756 --> 00:11:56,841
+<font color="#ffff00">Sorry mutants!</font>
+
+26
+00:12:13,274 --> 00:12:15,235
+<font color="#ffff00">Did you get lost little mouse?</font>
+
+27
+00:12:15,360 --> 00:12:16,736
+<font color="#ffff00">The fight is over there.</font>
+
+28
+00:12:25,245 --> 00:12:26,829
+<font color="#ffff00">And it's about to get exciting.</font>
+
+29
+00:12:27,789 --> 00:12:29,165
+<font color="#ffff00">Ah, you mean this?</font>
+
+30
+00:13:42,071 --> 00:13:43,156
+<font color="#ffff00">They went that way!</font>
+
+31
+00:14:19,942 --> 00:14:21,109
+<font color="#ffff00">Have a good night, Henryk.</font>
+
+32
+00:14:21,110 --> 00:14:22,445
+<font color="#ffff00">You too, Milosz.</font>
+
+33
+00:14:52,183 --> 00:14:53,184
+<font color="#ffff00">Hi Honey.</font>
+
+34
+00:14:53,643 --> 00:14:54,268
+<font color="#ffff00">Hi.</font>
+
+35
+00:20:55,671 --> 00:20:57,173
+<font color="#ffff00">Do you sell rugs?</font>
+
+36
+00:20:57,339 --> 00:20:59,508
+<font color="#ffff00">You're not allowed in this area.</font>
+
+37
+00:20:59,675 --> 00:21:01,385
+<font color="#ffff00">This rug is for sale?</font>
+
+38
+00:21:01,677 --> 00:21:02,344
+<font color="#ffff00">I said, this...</font>
+
+39
+00:25:04,670 --> 00:25:05,587
+<font color="#ffff00">Earthquake!</font>
+
+40
+00:32:18,103 --> 00:32:19,688
+<font color="#ffff00">Are you alright?</font>
+
+41
+00:32:19,980 --> 00:32:21,273
+<font color="#ffff00">She's fine.</font>
+
+42
+00:32:21,314 --> 00:32:22,648
+<font color="#ffff00">Then let her go!</font>
+
+43
+00:32:22,649 --> 00:32:23,817
+<font color="#ffff00">We will.</font>
+
+44
+00:32:24,651 --> 00:32:26,862
+<font color="#ffff00">We just wanted to have a word</font>
+
+45
+00:32:29,614 --> 00:32:31,867
+<font color="#ffff00">You're not wearing your badges.</font>
+
+46
+00:32:32,325 --> 00:32:34,327
+<font color="#ffff00">No metal.</font>
+
+47
+00:32:35,162 --> 00:32:37,831
+<font color="#ffff00">Some guys at the factory said
+they saw something today.</font>
+
+48
+00:32:38,081 --> 00:32:40,459
+<font color="#ffff00">Something that didn't add up.</font>
+
+49
+00:32:40,542 --> 00:32:42,127
+<font color="#ffff00">Put your weapons away.</font>
+
+50
+00:32:42,210 --> 00:32:44,629
+<font color="#ffff00">You've been a good citizen, Henryk...</font>
+
+51
+00:32:44,880 --> 00:32:47,048
+<font color="#ffff00">A good neighbor... a good worker.</font>
+
+52
+00:32:47,382 --> 00:32:49,216
+<font color="#ffff00">I want to believe that's who you are.</font>
+
+53
+00:32:49,217 --> 00:32:50,384
+<font color="#ffff00">It is.</font>
+
+54
+00:32:50,385 --> 00:32:53,180
+<font color="#ffff00">But nobody in this town really knows you.</font>
+
+55
+00:32:53,221 --> 00:32:54,764
+<font color="#ffff00">Yes you do.</font>
+
+56
+00:32:55,557 --> 00:32:57,434
+<font color="#ffff00">I am Henryk Gurzsky.</font>
+
+57
+00:32:57,642 --> 00:33:00,020
+<font color="#ffff00">Jakob, I've had dinner in your home...</font>
+
+58
+00:33:00,145 --> 00:33:02,189
+<font color="#ffff00">And you were lying the whole time.</font>
+
+59
+00:33:02,439 --> 00:33:04,608
+<font color="#ffff00">I brought a killer into my house.</font>
+
+60
+00:33:06,860 --> 00:33:09,321
+<font color="#ffff00">Is this you?</font>
+
+61
+00:33:13,116 --> 00:33:16,036
+<font color="#ffff00">Are you the one they call Magneto?</font>
+
+62
+00:33:36,306 --> 00:33:38,475
+<font color="#ffff00">Take me in.</font>
+
+63
+00:33:38,975 --> 00:33:39,851
+<font color="#ffff00">Please...</font>
+
+64
+00:33:39,852 --> 00:33:42,521
+<font color="#ffff00">Just let my daughter go.</font>
+
+65
+00:33:52,364 --> 00:33:53,823
+<font color="#ffff00">Go with your mother.</font>
+
+66
+00:34:02,207 --> 00:34:03,416
+<font color="#ffff00">Please...!</font>
+
+67
+00:34:04,584 --> 00:34:06,336
+<font color="#ffff00">Don't leave me.</font>
+
+68
+00:34:06,920 --> 00:34:09,422
+<font color="#ffff00">I'm not going to let them take you.</font>
+
+69
+00:34:16,888 --> 00:34:17,806
+<font color="#ffff00">What's going on?</font>
+
+70
+00:34:18,473 --> 00:34:19,432
+<font color="#ffff00">She's one of them?</font>
+
+71
+00:34:21,851 --> 00:34:22,811
+<font color="#ffff00">Tell her to stop!</font>
+
+72
+00:34:22,894 --> 00:34:24,521
+<font color="#ffff00">She can't control it!</font>
+
+73
+00:34:25,689 --> 00:34:26,940
+<font color="#ffff00">She's scared of you!</font>
+
+74
+00:34:27,274 --> 00:34:29,150
+<font color="#ffff00">I'm not going to let them take you!</font>
+
+75
+00:34:36,449 --> 00:34:37,576
+<font color="#ffff00">Make her stop!</font>
+
+76
+00:37:44,471 --> 00:37:46,347
+<font color="#ffff00">You know what we do to thieves.</font>
+
+77
+00:37:46,973 --> 00:37:48,224
+<font color="#ffff00">Pick a hand.</font>
+
+78
+00:37:48,391 --> 00:37:49,517
+<font color="#ffff00">Enough.</font>
+
+79
+00:37:52,353 --> 00:37:54,355
+<font color="#ffff00">If you're with her,
+I suggest you walk away.</font>
+
+80
+00:37:54,606 --> 00:37:55,982
+<font color="#ffff00">While you still can.</font>
+
+81
+00:37:58,693 --> 00:37:59,652
+<font color="#ffff00">Walk away</font>
+
+82
+00:38:01,154 --> 00:38:05,033
+<font color="#ffff00">Who rules this world?</font>
+
+83
+00:38:05,617 --> 00:38:07,327
+<font color="#ffff00">What language is that?</font>
+
+84
+00:38:09,954 --> 00:38:12,373
+<font color="#ffff00">Clown-face. What's the deal?</font>
+
+85
+00:38:12,457 --> 00:38:13,583
+<font color="#ffff00">Beat it!</font>
+
+86
+00:38:29,224 --> 00:38:30,725
+<font color="#ffff00">I'm sorry.</font>
+
+87
+00:38:36,815 --> 00:38:40,068
+<font color="#ffff00">You can't feel it, can you?</font>
+
+88
+00:38:52,372 --> 00:38:55,124
+<font color="#ffff00">Now you feel it.</font>
+
+89
+00:42:43,770 --> 00:42:46,773
+<font color="#ffff00">I've never seen another
+mutant in this town.</font>
+
+90
+00:42:47,065 --> 00:42:48,524
+<font color="#ffff00">You speak Egyptian?</font>
+
+91
+00:42:48,691 --> 00:42:49,400
+<font color="#ffff00">Arabic?</font>
+
+92
+00:45:00,448 --> 00:45:02,200
+<font color="#ffff00">Cleansed.</font>
+
+93
+00:57:55,180 --> 00:57:56,723
+<font color="#ffff00">Henryk, please.</font>
+
+94
+00:57:56,932 --> 00:57:58,058
+<font color="#ffff00">Don't do this.</font>
+
+95
+01:29:40,500 --> 01:29:44,588
+<font color="#ffff00">...all of your towers and temples...</font>
+
+96
+01:29:45,046 --> 01:29:46,631
+<font color="#ffff00">Will fall.</font>
+
+97
+01:29:46,965 --> 01:29:52,470
+<font color="#ffff00">And the dawn of a new age will rise.</font>
+
