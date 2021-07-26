@@ -1,0 +1,2905 @@
+﻿1
+00:00:03,160 --> 00:00:04,159
+That's all
+
+2
+00:00:04,360 --> 00:00:05,800
+for the presentation.
+
+3
+00:00:06,039 --> 00:00:07,239
+We welcome any comments or questions.
+
+4
+00:00:53,200 --> 00:00:55,040
+After the discussion,
+
+5
+00:00:55,720 --> 00:00:57,040
+the panel of experts
+
+6
+00:00:57,040 --> 00:00:58,319
+agree unanimously that
+
+7
+00:00:59,959 --> 00:01:02,560
+Proposal SK-1 is both innovative
+
+8
+00:01:02,919 --> 00:01:04,040
+and refreshing.
+
+9
+00:01:05,720 --> 00:01:08,760
+However, aerospace belongs to
+systems engineering.
+
+10
+00:01:09,559 --> 00:01:10,360
+The prerequisite
+
+11
+00:01:10,360 --> 00:01:12,480
+of your proposal is
+
+12
+00:01:13,400 --> 00:01:15,040
+an engine with high specific impulse.
+
+13
+00:01:27,559 --> 00:01:28,319
+Why are you
+
+14
+00:01:28,319 --> 00:01:29,279
+so quiet today?
+
+15
+00:01:30,040 --> 00:01:31,040
+Feeling down?
+
+16
+00:01:31,480 --> 00:01:32,160
+Is it that bad?
+
+17
+00:01:33,519 --> 00:01:34,680
+I'm not someone chatty to begin with.
+
+18
+00:01:36,559 --> 00:01:37,760
+But during the defense just now,
+
+19
+00:01:37,760 --> 00:01:39,000
+you were so...eloquent.
+
+20
+00:01:39,639 --> 00:01:41,040
+And now, you look moody.
+
+21
+00:01:41,199 --> 00:01:42,040
+Why? Discouraged?
+
+22
+00:01:43,800 --> 00:01:44,239
+Didn't we
+
+23
+00:01:44,239 --> 00:01:45,559
+anticipate this already?
+
+24
+00:01:46,199 --> 00:01:46,760
+It's a research project
+
+25
+00:01:46,760 --> 00:01:48,199
+huge research project on a new model.
+
+26
+00:01:48,760 --> 00:01:50,480
+Rome wasn't built in one day.
+
+27
+00:01:54,400 --> 00:01:55,400
+It's not that.
+
+28
+00:01:57,199 --> 00:01:57,839
+You're right.
+
+29
+00:01:58,040 --> 00:01:59,440
+You've been brooding
+
+30
+00:01:59,639 --> 00:02:00,919
+for several months.
+
+31
+00:02:01,319 --> 00:02:02,000
+Guan Bo,
+
+32
+00:02:02,559 --> 00:02:03,599
+I was looking for you.
+
+33
+00:02:04,319 --> 00:02:05,720
+I have a question.
+
+34
+00:02:05,800 --> 00:02:06,400
+I...
+
+35
+00:02:07,160 --> 00:02:08,160
+We'll talk later.
+
+36
+00:03:14,880 --> 00:03:16,240
+Due to a cold front,
+
+37
+00:03:16,679 --> 00:03:17,440
+expect
+
+38
+00:03:17,639 --> 00:03:19,639
+a drop in tonight's temperature
+in Shanghai.
+
+39
+00:03:25,639 --> 00:03:26,960
+Welcome to the navigation interface.
+
+40
+00:03:27,279 --> 00:03:28,160
+Traffic jam anticipated.
+
+41
+00:03:28,360 --> 00:03:29,559
+Please leave earlier.
+
+42
+00:03:44,320 --> 00:03:45,240
+Hi, everyone.
+
+43
+00:03:45,240 --> 00:03:46,440
+I'm current in the
+
+44
+00:03:46,440 --> 00:03:47,559
+Shanghai Exhibition and Convention Center.
+
+45
+00:03:47,559 --> 00:03:48,639
+The anniversary event
+
+46
+00:03:48,639 --> 00:03:51,119
+of Penguin TV shall begin soon.
+
+47
+00:03:51,119 --> 00:03:52,279
+A resplendent night
+
+48
+00:03:52,279 --> 00:03:54,080
+awaits us here.
+
+49
+00:03:54,600 --> 00:03:55,559
+Let me hear
+
+50
+00:03:55,559 --> 00:03:57,360
+your applause and your passion.
+
+51
+00:03:57,559 --> 00:03:59,160
+Look at the live scene.
+
+52
+00:03:59,279 --> 00:04:01,240
+Our fans have all
+
+53
+00:04:01,240 --> 00:04:01,919
+gathered here.
+
+54
+00:04:01,919 --> 00:04:02,919
+One more hours
+
+55
+00:04:02,919 --> 00:04:04,399
+till the opening ceremony
+
+56
+00:04:04,559 --> 00:04:05,919
+but everyone has arrived
+
+57
+00:04:05,919 --> 00:04:07,360
+at the scene.
+
+58
+00:04:07,720 --> 00:04:09,759
+It will be a resplendent night.
+
+59
+00:04:10,279 --> 00:04:11,639
+Due to a cold front,
+
+60
+00:04:12,080 --> 00:04:12,839
+expect
+
+61
+00:04:13,039 --> 00:04:15,039
+a drop in tonight's temperature
+in Shanghai.
+
+62
+00:04:16,880 --> 00:04:17,760
+Traffic jam anticipated.
+
+63
+00:04:18,000 --> 00:04:19,279
+Please leave earlier.
+
+64
+00:04:21,000 --> 00:04:22,559
+Jingjing, there will be traffic.
+
+65
+00:04:22,559 --> 00:04:23,760
+We should leave earlier.
+
+66
+00:04:24,160 --> 00:04:24,880
+It will be cold tonight
+
+67
+00:04:25,079 --> 00:04:25,920
+so bring a jacket with you.
+
+68
+00:05:35,079 --> 00:05:37,839
+The Best Actress for this year is
+
+69
+00:05:38,440 --> 00:05:39,720
+Qiao Jingjing!
+
+70
+00:05:42,920 --> 00:05:49,280
+=You Are My Glory=
+
+71
+00:05:50,160 --> 00:05:53,480
+=Episode 1=
+
+72
+00:06:01,399 --> 00:06:02,320
+Look at this!
+
+73
+00:06:02,760 --> 00:06:04,200
+Your high school friend said that
+
+74
+00:06:04,600 --> 00:06:07,440
+you were humiliated and rejected
+by a guy in high school.
+
+75
+00:06:08,200 --> 00:06:10,160
+Some of your high school friends
+are haters?
+
+76
+00:06:11,720 --> 00:06:13,079
+(Sir Drama, I have an explosive news.)
+
+77
+00:06:13,480 --> 00:06:14,760
+(I went to the high school in Y city.)
+
+78
+00:06:15,000 --> 00:06:16,320
+(A very popular female celebrity)
+
+79
+00:06:16,320 --> 00:06:17,279
+(was my classmate.)
+
+80
+00:06:17,440 --> 00:06:18,720
+(Let's call her Q for now.)
+
+81
+00:06:19,119 --> 00:06:20,279
+(In high school,)
+
+82
+00:06:20,279 --> 00:06:21,000
+(Q wasn't pretty at all.)
+
+83
+00:06:21,000 --> 00:06:21,839
+(She looked so different.)
+
+84
+00:06:22,079 --> 00:06:22,959
+(Plastic surgery, I bet.)
+
+85
+00:06:23,320 --> 00:06:24,399
+(Back then, she wasn't)
+
+86
+00:06:24,399 --> 00:06:25,320
+(the prettiest girl.)
+
+87
+00:06:25,440 --> 00:06:26,640
+(It was another girl.)
+
+88
+00:06:26,920 --> 00:06:28,399
+(There was a smart guy in our class.)
+
+89
+00:06:28,600 --> 00:06:29,600
+(He's quite handsome too)
+
+90
+00:06:29,839 --> 00:06:30,839
+(so Q confessed to him)
+
+91
+00:06:31,200 --> 00:06:32,160
+(but she was)
+
+92
+00:06:32,160 --> 00:06:33,440
+(rejected mercilessly.)
+
+93
+00:06:33,640 --> 00:06:35,559
+(He said that he wanted someone smart.)
+
+94
+00:06:35,920 --> 00:06:36,200
+(In the end,)
+
+95
+00:06:36,279 --> 00:06:37,320
+(the smart guy went to)
+
+96
+00:06:37,320 --> 00:06:38,359
+(the Tsinghua University with her.)
+
+97
+00:06:38,359 --> 00:06:39,119
+(They became a couple.)
+
+98
+00:06:39,239 --> 00:06:41,000
+(That's what I called
+a match made in heaven.)
+
+99
+00:06:41,679 --> 00:06:42,480
+This is crossing the line!
+
+100
+00:06:42,799 --> 00:06:44,160
+He can't slander her like that.
+
+101
+00:06:44,480 --> 00:06:46,040
+Calm down.
+
+102
+00:06:46,160 --> 00:06:47,920
+The fans have already come to you defense.
+
+103
+00:06:48,679 --> 00:06:49,399
+(If that is true,)
+
+104
+00:06:49,640 --> 00:06:50,799
+(please also tell everyone that)
+
+105
+00:06:50,799 --> 00:06:52,079
+(Jingjing was in the elite class)
+
+106
+00:06:52,399 --> 00:06:53,320
+(and she graduated from a 211 university.)
+
+107
+00:06:53,440 --> 00:06:54,079
+(She was bad academically?)
+
+108
+00:06:54,160 --> 00:06:54,920
+(Impossible!)
+
+109
+00:07:00,760 --> 00:07:02,320
+And now I'd like to ask
+
+110
+00:07:02,480 --> 00:07:03,760
+the victim in question:
+
+111
+00:07:04,359 --> 00:07:06,880
+are they real or fake?
+
+112
+00:07:09,279 --> 00:07:10,679
+Some are real, some are fake.
+
+113
+00:07:12,880 --> 00:07:15,000
+That one about me being ugly was fake.
+
+114
+00:07:15,040 --> 00:07:16,440
+I've always looked this good, okay?
+
+115
+00:07:17,239 --> 00:07:18,119
+Also,
+
+116
+00:07:18,279 --> 00:07:19,119
+he rejected me, yes,
+
+117
+00:07:19,119 --> 00:07:20,239
+but it wasn't ugly.
+
+118
+00:07:20,399 --> 00:07:21,320
+He was really polite.
+
+119
+00:07:22,679 --> 00:07:23,359
+So you admit that
+
+120
+00:07:24,279 --> 00:07:25,679
+you confessed to him
+
+121
+00:07:25,880 --> 00:07:26,519
+but got rejected?
+
+122
+00:07:29,519 --> 00:07:30,160
+Yes.
+
+123
+00:07:33,320 --> 00:07:34,720
+That guy...
+
+124
+00:07:39,399 --> 00:07:40,079
+(Yu Tu)
+
+125
+00:07:41,920 --> 00:07:42,760
+was cute
+
+126
+00:07:43,480 --> 00:07:44,480
+and really smart.
+
+127
+00:07:47,279 --> 00:07:48,559
+So did he really
+
+128
+00:07:49,040 --> 00:07:50,880
+think that you're dumb
+
+129
+00:07:51,679 --> 00:07:52,959
+and so he chose the other girl over you?
+
+130
+00:07:53,440 --> 00:07:54,760
+I'm not dumb. You are.
+
+131
+00:07:54,760 --> 00:07:56,320
+I graduated from a 211 university.
+
+132
+00:08:05,079 --> 00:08:06,040
+(Jingjing,)
+
+133
+00:08:10,040 --> 00:08:11,320
+(check out the screenshot I sent you.)
+
+134
+00:08:14,679 --> 00:08:15,959
+(Which jerk said that?)
+
+135
+00:08:16,239 --> 00:08:17,519
+(You have always been pretty.)
+
+136
+00:08:19,679 --> 00:08:20,640
+(You were just a bit...unpolished.)
+
+137
+00:08:28,200 --> 00:08:28,640
+(By the way,)
+
+138
+00:08:29,000 --> 00:08:30,279
+(I heard from Li Ming that)
+
+139
+00:08:30,600 --> 00:08:32,080
+(Yu Tu and Xia Qing broke up)
+
+140
+00:08:32,080 --> 00:08:33,359
+(when they were in
+the fourth year of university.)
+
+141
+00:08:33,760 --> 00:08:34,719
+(They were together for around a year.)
+
+142
+00:08:35,479 --> 00:08:36,440
+(You still remember Li Ming,)
+
+143
+00:08:36,799 --> 00:08:38,000
+(our high school friend?)
+
+144
+00:08:38,280 --> 00:08:39,880
+(He lived in the same area as Yu Tu.)
+
+145
+00:08:40,200 --> 00:08:41,200
+(Their parents know each other.)
+
+146
+00:08:41,359 --> 00:08:43,159
+(I heard Yu Tu is now in Shanghai.)
+
+147
+00:08:50,159 --> 00:08:51,679
+(Speaking of which, Jingjing,)
+
+148
+00:08:51,679 --> 00:08:53,520
+(do you think Yu Tu
+regrets rejecting you?)
+
+149
+00:08:54,960 --> 00:08:56,119
+(Don't be this childish.)
+
+150
+00:09:25,080 --> 00:09:25,760
+Yu Tu.
+
+151
+00:09:26,320 --> 00:09:27,359
+Do you have a moment?
+
+152
+00:09:27,479 --> 00:09:28,479
+I have a question.
+
+153
+00:09:29,039 --> 00:09:30,200
+Sure, go ahead.
+
+154
+00:09:30,960 --> 00:09:32,479
+Do you want a girlfriend now?
+
+155
+00:09:34,799 --> 00:09:35,679
+If so,
+
+156
+00:09:35,799 --> 00:09:36,760
+what do you think of me?
+
+157
+00:09:40,880 --> 00:09:41,599
+Sorry.
+
+158
+00:09:42,200 --> 00:09:44,200
+I want someone
+
+159
+00:09:44,200 --> 00:09:45,479
+who can work together with me.
+
+160
+00:09:46,919 --> 00:09:47,919
+(But who you found)
+
+161
+00:09:48,280 --> 00:09:49,880
+(didn't stick with you till the end.)
+
+162
+00:09:54,400 --> 00:09:55,520
+It's already 10PM.
+
+163
+00:09:56,080 --> 00:09:56,280
+Should we
+
+164
+00:09:56,280 --> 00:09:57,840
+return to Shanghai?
+
+165
+00:09:58,000 --> 00:09:58,960
+We'll leave tomorrow morning
+
+166
+00:09:58,960 --> 00:09:59,960
+and arrive at Hengdian World Studios
+in the afternoon.
+
+167
+00:10:00,000 --> 00:10:00,760
+I'll ask them
+
+168
+00:10:00,760 --> 00:10:02,039
+to postpone your scenes.
+
+169
+00:10:03,000 --> 00:10:03,520
+No.
+
+170
+00:10:03,599 --> 00:10:04,679
+I have ten scenes tomorrow.
+
+171
+00:10:04,840 --> 00:10:06,000
+Let's go to Hengdian now.
+
+172
+00:10:06,200 --> 00:10:07,320
+Ask the driver to drive slowly.
+
+173
+00:10:08,880 --> 00:10:10,039
+Look how tired you are.
+
+174
+00:10:10,640 --> 00:10:11,159
+Mister,
+
+175
+00:10:11,400 --> 00:10:12,400
+Hengdian it is.
+
+176
+00:10:12,640 --> 00:10:13,039
+No problem.
+
+177
+00:10:13,159 --> 00:10:13,760
+Thank you.
+
+178
+00:11:01,520 --> 00:11:02,719
+An exam?
+
+179
+00:11:07,559 --> 00:11:09,039
+How many calories
+does a strawberry have?
+
+180
+00:11:10,239 --> 00:11:11,039
+That's tough.
+
+181
+00:11:12,280 --> 00:11:14,440
+Even a brainiac won't know the answer.
+
+182
+00:11:35,679 --> 00:11:36,479
+Jingjing.
+
+183
+00:11:37,280 --> 00:11:37,919
+Jingjing.
+
+184
+00:11:38,799 --> 00:11:40,080
+Wake up!
+
+185
+00:11:42,599 --> 00:11:43,719
+Did you play Honor of Kings?
+
+186
+00:11:46,599 --> 00:11:47,520
+Xiao Qiao,
+
+187
+00:11:47,599 --> 00:11:49,159
+you can become stronger.
+
+188
+00:12:00,200 --> 00:12:01,479
+This Xiao Qiao was you?
+
+189
+00:12:04,000 --> 00:12:05,080
+Congratulations.
+
+190
+00:12:05,239 --> 00:12:06,880
+You're famous on Weibo now.
+
+191
+00:12:07,200 --> 00:12:07,840
+Look.
+
+192
+00:12:08,159 --> 00:12:09,559
+First in trending:
+
+193
+00:12:09,559 --> 00:12:11,440
+Qiao Jingjing, a fake gamer,
+
+194
+00:12:11,520 --> 00:12:13,000
+sending ripples through
+the entertainment
+
+195
+00:12:13,000 --> 00:12:14,000
+and the e-sport industry.
+
+196
+00:12:15,000 --> 00:12:16,559
+When did you start playing this game?
+
+197
+00:12:17,119 --> 00:12:18,799
+When I was filming earlier this year.
+
+198
+00:12:19,320 --> 00:12:19,960
+I played it on-and-off.
+
+199
+00:12:19,960 --> 00:12:21,479
+I didn't play it for long.
+
+200
+00:12:21,520 --> 00:12:22,440
+In Honor of Kings,
+
+201
+00:12:22,440 --> 00:12:24,039
+you can be a spectator
+
+202
+00:12:24,280 --> 00:12:25,760
+and watch people fight,
+
+203
+00:12:25,760 --> 00:12:26,719
+even record it.
+
+204
+00:12:26,719 --> 00:12:27,719
+Don't you know?
+
+205
+00:12:28,119 --> 00:12:29,320
+Such a function exists?
+
+206
+00:12:29,400 --> 00:12:30,640
+You don't know?
+
+207
+00:12:30,640 --> 00:12:32,760
+Do you even play the game?
+
+208
+00:12:32,840 --> 00:12:34,359
+I have endorsed the game.
+
+209
+00:12:34,359 --> 00:12:35,919
+You guys said I was a pro gamer.
+
+210
+00:12:35,919 --> 00:12:36,960
+Fake it
+
+211
+00:12:37,039 --> 00:12:38,280
+till you make it, right?
+
+212
+00:12:38,400 --> 00:12:40,119
+I knew you're like this.
+
+213
+00:12:40,679 --> 00:12:42,000
+Just one or two compliments
+
+214
+00:12:42,159 --> 00:12:43,440
+is enough to make you think
+you're good at something.
+
+215
+00:12:44,799 --> 00:12:47,200
+It's serious, you know.
+
+216
+00:12:48,320 --> 00:12:50,479
+Do you have any idea
+how popular this game is?
+
+217
+00:12:50,679 --> 00:12:51,960
+How many people are lining up
+
+218
+00:12:51,960 --> 00:12:53,479
+to endorse it?
+
+219
+00:12:53,479 --> 00:12:54,719
+Some will even do it for free!
+
+220
+00:12:56,159 --> 00:12:56,840
+Honor of Kings
+
+221
+00:12:56,840 --> 00:12:58,359
+was supposed to renew
+the contract with us.
+
+222
+00:12:58,520 --> 00:13:00,080
+But with the current drama,
+
+223
+00:13:00,280 --> 00:13:01,239
+I guess it's gone.
+
+224
+00:13:03,679 --> 00:13:05,119
+Of course, this is not the worst.
+
+225
+00:13:05,239 --> 00:13:06,159
+You're an actress.
+
+226
+00:13:06,559 --> 00:13:08,280
+Endorsement is just a side job.
+
+227
+00:13:08,359 --> 00:13:09,719
+What's more important
+
+228
+00:13:09,719 --> 00:13:11,679
+is the leading actress role
+for Mr. Li's latest movie.
+
+229
+00:13:12,119 --> 00:13:12,760
+Do you know
+
+230
+00:13:12,880 --> 00:13:13,679
+what this new movie
+
+231
+00:13:13,679 --> 00:13:14,640
+will be called?
+
+232
+00:13:15,280 --> 00:13:16,359
+Authenticity.
+
+233
+00:13:18,039 --> 00:13:19,479
+You're saying that
+
+234
+00:13:19,719 --> 00:13:21,000
+someone stirred this up
+
+235
+00:13:21,000 --> 00:13:22,440
+to get the role for...
+
+236
+00:13:28,479 --> 00:13:29,799
+Call from Honor of Kings.
+
+237
+00:13:33,760 --> 00:13:34,359
+Hi,
+
+238
+00:13:34,559 --> 00:13:36,080
+Ms. Qiu, I'm Alex.
+
+239
+00:13:36,719 --> 00:13:37,359
+Hi.
+
+240
+00:13:37,559 --> 00:13:38,640
+What's with the trending topic today?
+
+241
+00:13:38,840 --> 00:13:40,359
+Does that alt belong to Jingjing?
+
+242
+00:13:40,679 --> 00:13:42,119
+Was she practicing some heroes?
+
+243
+00:13:42,119 --> 00:13:43,000
+Yes.
+
+244
+00:13:43,840 --> 00:13:44,840
+She was using her alt
+
+245
+00:13:44,840 --> 00:13:46,039
+to practice heroes
+she's not familiar with.
+
+246
+00:13:46,039 --> 00:13:47,239
+That's why it's like this.
+
+247
+00:13:47,679 --> 00:13:48,599
+In this case,
+
+248
+00:13:48,599 --> 00:13:49,159
+you should clarify
+
+249
+00:13:49,159 --> 00:13:50,599
+on Weibo.
+
+250
+00:13:51,080 --> 00:13:51,520
+Or else,
+
+251
+00:13:51,520 --> 00:13:52,840
+you'll put us in a weird spot.
+
+252
+00:13:53,119 --> 00:13:54,000
+You're right.
+
+253
+00:13:54,000 --> 00:13:55,559
+We'll do it right away.
+
+254
+00:13:56,119 --> 00:13:56,799
+By the way, Ms. Qiu.
+
+255
+00:13:57,000 --> 00:13:58,359
+We have had internal discussion
+and we believe that
+
+256
+00:13:58,799 --> 00:14:00,000
+a clarification on Weibo
+
+257
+00:14:00,400 --> 00:14:01,799
+might not be able to cut it.
+
+258
+00:14:02,320 --> 00:14:03,599
+We will have an event soon
+
+259
+00:14:03,760 --> 00:14:05,359
+and we might be able to turn this crisis
+
+260
+00:14:05,640 --> 00:14:07,400
+into opportunity.
+
+261
+00:14:08,400 --> 00:14:09,320
+What event?
+
+262
+00:14:09,960 --> 00:14:10,559
+So,
+
+263
+00:14:11,159 --> 00:14:12,080
+the World Champion Cup
+
+264
+00:14:12,080 --> 00:14:13,599
+will end in a month.
+
+265
+00:14:13,919 --> 00:14:14,280
+And then,
+
+266
+00:14:14,280 --> 00:14:14,919
+we'll hold
+
+267
+00:14:14,919 --> 00:14:16,640
+an award ceremony.
+
+268
+00:14:17,000 --> 00:14:18,520
+In this ceremony,
+
+269
+00:14:18,520 --> 00:14:19,599
+we would love to invite Jingjing
+
+270
+00:14:19,599 --> 00:14:20,840
+to play a casual match.
+
+271
+00:14:20,960 --> 00:14:21,840
+We will select randomly
+
+272
+00:14:21,840 --> 00:14:23,599
+five lucky players from Weibo.
+
+273
+00:14:23,719 --> 00:14:25,119
+Together with Jingjing, the six of them
+
+274
+00:14:25,239 --> 00:14:26,280
+will be divided into two teams.
+
+275
+00:14:26,440 --> 00:14:28,159
+Each team can select
+
+276
+00:14:28,479 --> 00:14:31,039
+two professional players
+as their teammates.
+
+277
+00:14:31,599 --> 00:14:32,559
+But this is not stipulated
+
+278
+00:14:32,559 --> 00:14:33,880
+on our contract.
+
+279
+00:14:35,119 --> 00:14:35,960
+The contract also didn't say that
+
+280
+00:14:35,960 --> 00:14:36,599
+a video like this
+
+281
+00:14:36,599 --> 00:14:37,679
+would be leaked.
+
+282
+00:14:38,520 --> 00:14:40,039
+It's just a casual match.
+
+283
+00:14:40,159 --> 00:14:41,400
+Don't worry.
+
+284
+00:14:41,599 --> 00:14:42,880
+Unless Jingjing is...
+
+285
+00:14:43,159 --> 00:14:45,000
+It's not about her player skill.
+
+286
+00:14:45,080 --> 00:14:45,479
+It's that in our...
+
+287
+00:14:45,479 --> 00:14:46,799
+It's okay. I'll do it.
+
+288
+00:14:48,840 --> 00:14:49,280
+Ms. Qiu.
+
+289
+00:14:50,119 --> 00:14:50,640
+Hello.
+
+290
+00:14:50,960 --> 00:14:52,280
+That voice just now was...
+
+291
+00:14:53,559 --> 00:14:54,559
+It's Jingjing.
+
+292
+00:14:55,000 --> 00:14:55,880
+As you know,
+
+293
+00:14:55,960 --> 00:14:56,640
+she's an avid fan
+
+294
+00:14:56,640 --> 00:14:57,880
+of your game.
+
+295
+00:14:58,840 --> 00:14:59,840
+Since
+
+296
+00:15:00,679 --> 00:15:01,960
+Jingjing already said yes,
+
+297
+00:15:01,960 --> 00:15:03,080
+I see no point in refusing you.
+
+298
+00:15:03,280 --> 00:15:04,760
+Let's discuss more in details.
+
+299
+00:15:07,320 --> 00:15:08,280
+Qiao Jingjing updated her Weibo.
+
+300
+00:15:11,880 --> 00:15:13,559
+That was the best I could do.
+
+301
+00:15:14,039 --> 00:15:15,039
+We both have Qiao in our name
+
+302
+00:15:15,039 --> 00:15:16,799
+so why can't I use you well?
+
+303
+00:15:20,679 --> 00:15:21,280
+The comments and the reactions
+
+304
+00:15:21,280 --> 00:15:22,159
+from the netizens seem good.
+
+305
+00:15:22,400 --> 00:15:23,159
+Many bought
+
+306
+00:15:23,159 --> 00:15:23,880
+her explanation.
+
+307
+00:15:24,159 --> 00:15:25,799
+However, some still remain skeptical.
+
+308
+00:15:26,200 --> 00:15:27,640
+Post the message we said just now.
+
+309
+00:15:29,359 --> 00:15:30,719
+In this year's award ceremony,
+
+310
+00:15:30,960 --> 00:15:32,039
+the endorser of Honor of Kings,
+
+311
+00:15:32,239 --> 00:15:34,000
+Qiao Jingjing will have a casual match
+
+312
+00:15:34,039 --> 00:15:35,159
+with some lucky winners.
+
+313
+00:15:35,320 --> 00:15:35,840
+Are you excited for
+
+314
+00:15:35,880 --> 00:15:37,239
+Qiao Jingjing's Xiao Qiao?
+
+315
+00:15:37,440 --> 00:15:38,400
+Apply now.
+
+316
+00:15:43,159 --> 00:15:43,719
+After announcing that
+
+317
+00:15:43,719 --> 00:15:45,000
+Qiao Jingjing will play
+in a casual match,
+
+318
+00:15:45,320 --> 00:15:46,280
+the tide has turned.
+
+319
+00:15:46,440 --> 00:15:47,479
+Everyone is looking forward to it now.
+
+320
+00:15:49,599 --> 00:15:50,599
+In fact, everyone thinks that
+
+321
+00:15:50,760 --> 00:15:51,280
+it's normal
+
+322
+00:15:51,280 --> 00:15:52,919
+to not be able to perform well
+on certain hero.
+
+323
+00:15:53,559 --> 00:15:54,000
+Look.
+
+324
+00:15:54,400 --> 00:15:56,159
+Some players came to her defense too.
+
+325
+00:15:56,919 --> 00:15:57,679
+However,
+
+326
+00:15:57,679 --> 00:15:58,760
+how good is she?
+
+327
+00:15:59,359 --> 00:16:00,000
+If she's as bad as she was
+
+328
+00:16:00,000 --> 00:16:01,080
+in the video,
+
+329
+00:16:01,719 --> 00:16:03,080
+then that would be disastrous.
+
+330
+00:16:03,239 --> 00:16:04,200
+We will look bad.
+
+331
+00:16:07,679 --> 00:16:08,200
+When that happens,
+
+332
+00:16:08,200 --> 00:16:09,960
+we'll remove her as our endorser.
+
+333
+00:16:19,960 --> 00:16:21,400
+The dissenting voice
+
+334
+00:16:21,400 --> 00:16:22,520
+has gone down temporarily
+
+335
+00:16:23,599 --> 00:16:24,799
+but the casual match
+
+336
+00:16:24,799 --> 00:16:26,000
+will begin
+in around a month.
+
+337
+00:16:26,159 --> 00:16:27,320
+Your level
+
+338
+00:16:27,320 --> 00:16:28,520
+is not good enough for a match.
+
+339
+00:16:29,599 --> 00:16:30,640
+I have already found
+
+340
+00:16:30,640 --> 00:16:32,039
+an excuse for you.
+
+341
+00:16:32,239 --> 00:16:32,799
+You really don't have to
+
+342
+00:16:32,799 --> 00:16:34,280
+take part in this match.
+
+343
+00:16:34,599 --> 00:16:35,200
+Jingjing,
+
+344
+00:16:35,640 --> 00:16:37,239
+you're too reckless this time.
+
+345
+00:16:42,919 --> 00:16:43,599
+Jingjing.
+
+346
+00:16:44,599 --> 00:16:45,559
+Ling,
+
+347
+00:16:47,080 --> 00:16:48,200
+I don't usually accept a stranger's
+
+348
+00:16:48,200 --> 00:16:49,200
+friend request on WeChat.
+
+349
+00:16:52,880 --> 00:16:53,760
+Don't worry.
+
+350
+00:16:53,919 --> 00:16:55,280
+I'll find out
+
+351
+00:16:55,400 --> 00:16:56,479
+who's behind
+
+352
+00:16:56,479 --> 00:16:57,479
+all this.
+
+353
+00:16:57,960 --> 00:16:58,799
+No need for that.
+
+354
+00:16:58,880 --> 00:17:00,080
+It's my fault.
+
+355
+00:17:02,239 --> 00:17:03,599
+Don't be mad.
+
+356
+00:17:05,319 --> 00:17:06,479
+I'm not mad.
+
+357
+00:17:06,800 --> 00:17:07,719
+The culprit will suffer my wrath soon.
+
+358
+00:17:10,199 --> 00:17:11,280
+Try to get me the role
+
+359
+00:17:11,280 --> 00:17:12,439
+from Mr. Li.
+
+360
+00:17:12,439 --> 00:17:12,920
+Okay.
+
+361
+00:17:12,920 --> 00:17:13,680
+As for the game,
+
+362
+00:17:13,680 --> 00:17:14,719
+find someone reliable
+
+363
+00:17:14,719 --> 00:17:15,680
+to coach me.
+
+364
+00:17:16,079 --> 00:17:16,479
+This show
+
+365
+00:17:16,479 --> 00:17:17,959
+will begin shooting in a few days.
+
+366
+00:17:18,160 --> 00:17:19,400
+Keep the current schedule.
+
+367
+00:17:19,400 --> 00:17:20,599
+Don't add other things.
+
+368
+00:17:21,839 --> 00:17:23,160
+I was planning
+
+369
+00:17:23,160 --> 00:17:24,599
+to give you a 2-week break.
+
+370
+00:17:24,920 --> 00:17:25,680
+But now that the casual match
+
+371
+00:17:25,680 --> 00:17:27,199
+is in a month,
+
+372
+00:17:27,520 --> 00:17:27,760
+you plan to
+
+373
+00:17:27,760 --> 00:17:29,199
+spend this period to practice hard?
+
+374
+00:17:32,000 --> 00:17:32,520
+Look.
+
+375
+00:17:32,839 --> 00:17:33,760
+In the comments,
+
+376
+00:17:33,760 --> 00:17:35,400
+my fans voiced their support.
+
+377
+00:17:35,719 --> 00:17:36,920
+If I lose in the match
+which will take place
+
+378
+00:17:36,920 --> 00:17:38,040
+in a month,
+
+379
+00:17:38,040 --> 00:17:39,079
+not only will I be mocked,
+
+380
+00:17:39,079 --> 00:17:39,920
+my fans too.
+
+381
+00:17:41,880 --> 00:17:42,599
+I see.
+
+382
+00:17:42,839 --> 00:17:43,560
+I'll arrange for it then.
+
+383
+00:17:46,199 --> 00:17:47,479
+It's my fault this time.
+
+384
+00:17:47,880 --> 00:17:48,640
+Thank you.
+
+385
+00:17:51,959 --> 00:17:53,000
+Oh, please.
+
+386
+00:17:53,000 --> 00:17:54,199
+No need to
+
+387
+00:17:54,199 --> 00:17:55,079
+to thank me.
+
+388
+00:17:56,479 --> 00:17:57,479
+I still have one month.
+
+389
+00:17:57,479 --> 00:17:58,560
+I can do this.
+
+390
+00:17:58,680 --> 00:17:59,280
+No way is this
+
+391
+00:17:59,359 --> 00:18:00,359
+harder than sit-up.
+
+392
+00:18:00,599 --> 00:18:01,239
+Of course.
+
+393
+00:18:01,319 --> 00:18:02,160
+You can do this.
+
+394
+00:18:02,839 --> 00:18:04,199
+All right. It's 2AM now.
+
+395
+00:18:04,239 --> 00:18:05,359
+You still have shooting tomorrow.
+
+396
+00:18:05,479 --> 00:18:06,040
+Sleep early.
+
+397
+00:18:06,199 --> 00:18:06,560
+All right.
+
+398
+00:18:14,640 --> 00:18:15,239
+Jingjing.
+
+399
+00:18:16,400 --> 00:18:17,599
+Even though I agree that
+
+400
+00:18:17,719 --> 00:18:19,520
+sit-up is harder than gaming,
+
+401
+00:18:19,839 --> 00:18:21,599
+but your abs are nowhere to be seen
+
+402
+00:18:22,000 --> 00:18:23,599
+despite the weight loss.
+
+403
+00:18:25,719 --> 00:18:26,400
+Goodnight.
+
+404
+00:18:38,160 --> 00:18:38,880
+Really? You can't see it?
+
+405
+00:18:44,319 --> 00:18:45,800
+Congratulations, Qiao
+
+406
+00:18:45,959 --> 00:18:47,239
+for completing the shooting.
+
+407
+00:18:47,239 --> 00:18:48,359
+Yay!
+
+408
+00:18:51,839 --> 00:18:53,400
+Come, let's take a group photo.
+
+409
+00:18:53,680 --> 00:18:54,640
+Look at this camera.
+
+410
+00:18:54,640 --> 00:18:56,680
+3, 2, 1. Good.
+
+411
+00:18:57,079 --> 00:18:57,839
+Thank you.
+
+412
+00:18:57,839 --> 00:18:59,160
+Thanks, everyone. Bye.
+
+413
+00:18:59,160 --> 00:19:01,119
+Take care.
+
+414
+00:19:01,119 --> 00:19:02,640
+Good job.
+
+415
+00:19:02,920 --> 00:19:04,160
+Bye.
+
+416
+00:19:14,319 --> 00:19:15,959
+Since you've decided
+
+417
+00:19:15,959 --> 00:19:17,199
+to play in this casual match,
+
+418
+00:19:17,439 --> 00:19:18,880
+then we have to prepare thoroughly.
+
+419
+00:19:18,880 --> 00:19:19,880
+Only one goal in mind:
+
+420
+00:19:20,119 --> 00:19:21,160
+don't let anyone know that
+
+421
+00:19:21,160 --> 00:19:22,119
+you're a novice.
+
+422
+00:19:22,359 --> 00:19:23,640
+Once you're back to Shanghai,
+
+423
+00:19:23,680 --> 00:19:25,199
+you'll need to start training.
+
+424
+00:19:25,400 --> 00:19:25,880
+Got it.
+
+425
+00:19:26,439 --> 00:19:26,959
+Take this.
+
+426
+00:19:27,359 --> 00:19:28,920
+You'll use this phone
+for the casual match.
+
+427
+00:19:28,920 --> 00:19:30,119
+Use it
+
+428
+00:19:30,160 --> 00:19:30,959
+for your practice
+
+429
+00:19:31,040 --> 00:19:32,199
+so that you can get used to it.
+
+430
+00:19:32,479 --> 00:19:33,520
+Your account has been created.
+
+431
+00:19:33,599 --> 00:19:35,000
+No one will know it's you.
+
+432
+00:19:35,280 --> 00:19:38,400
+I've also found you
+
+433
+00:19:38,400 --> 00:19:39,680
+a professional coach.
+
+434
+00:19:51,079 --> 00:19:51,920
+Who?
+
+435
+00:19:52,719 --> 00:19:53,920
+A professional player?
+
+436
+00:19:55,479 --> 00:19:56,920
+I can't wait.
+
+437
+00:19:58,000 --> 00:19:58,719
+Here.
+
+438
+00:20:01,160 --> 00:20:01,880
+My husband.
+
+439
+00:20:30,400 --> 00:20:33,119
+Are you sure he's good at it?
+
+440
+00:20:33,839 --> 00:20:34,800
+Guo
+
+441
+00:20:34,800 --> 00:20:36,319
+is a King player, okay?
+
+442
+00:20:42,199 --> 00:20:42,880
+I decided to ask you to
+
+443
+00:20:42,880 --> 00:20:44,280
+endorse Honor of Kings
+
+444
+00:20:44,280 --> 00:20:44,880
+because
+
+445
+00:20:44,880 --> 00:20:46,640
+I was inspired by
+
+446
+00:20:46,760 --> 00:20:47,800
+how engrossed he was in the game.
+
+447
+00:20:48,479 --> 00:20:49,920
+He's a veteran,
+
+448
+00:20:49,959 --> 00:20:51,160
+more than qualified to be your coach.
+
+449
+00:20:51,640 --> 00:20:52,439
+Also,
+
+450
+00:20:53,079 --> 00:20:54,599
+with our current situation,
+
+451
+00:20:54,680 --> 00:20:56,400
+I don't dare to find
+an outsider to coach you.
+
+452
+00:20:56,680 --> 00:20:58,000
+What if he or she
+shares this with everyone?
+
+453
+00:20:59,000 --> 00:20:59,599
+Fine then.
+
+454
+00:20:59,839 --> 00:21:00,880
+Train hard.
+
+455
+00:21:01,199 --> 00:21:02,160
+If you have half of
+
+456
+00:21:02,160 --> 00:21:03,560
+what Guo has,
+
+457
+00:21:03,560 --> 00:21:04,800
+then your performance
+should be satisfactory.
+
+458
+00:21:05,719 --> 00:21:06,520
+I still have work.
+
+459
+00:21:06,880 --> 00:21:08,040
+This meeting room
+
+460
+00:21:08,199 --> 00:21:08,920
+will be your classroom
+
+461
+00:21:08,920 --> 00:21:09,880
+from now onwards.
+
+462
+00:21:09,959 --> 00:21:10,760
+Start whenever.
+
+463
+00:21:11,040 --> 00:21:12,359
+Train hard too, Xiao Zhu
+
+464
+00:21:12,479 --> 00:21:13,400
+so that you can be her support.
+
+465
+00:21:13,800 --> 00:21:14,040
+All right.
+
+466
+00:21:14,280 --> 00:21:16,119
+I'll leave her to you, darling.
+
+467
+00:21:16,199 --> 00:21:17,359
+Go finish your thing.
+
+468
+00:21:18,599 --> 00:21:19,400
+Go.
+
+469
+00:21:27,199 --> 00:21:28,599
+I'll be in your care then.
+
+470
+00:21:29,479 --> 00:21:30,920
+No need to be so formal.
+
+471
+00:21:30,920 --> 00:21:31,920
+We're almost like a family now.
+
+472
+00:21:33,560 --> 00:21:34,800
+Ling has told me
+
+473
+00:21:35,000 --> 00:21:36,199
+about the general situation.
+
+474
+00:21:36,719 --> 00:21:37,359
+Don't worry.
+
+475
+00:21:37,959 --> 00:21:39,239
+This game is simple.
+
+476
+00:21:39,520 --> 00:21:40,280
+You can be good at
+
+477
+00:21:40,479 --> 00:21:41,520
+several heroes
+
+478
+00:21:41,520 --> 00:21:42,359
+in a month.
+
+479
+00:21:42,520 --> 00:21:43,560
+Calm yourself down.
+
+480
+00:21:43,760 --> 00:21:44,160
+Okay.
+
+481
+00:21:45,920 --> 00:21:46,280
+So let's start
+
+482
+00:21:46,280 --> 00:21:47,439
+from the basics.
+
+483
+00:21:47,439 --> 00:21:47,839
+Okay.
+
+484
+00:21:47,880 --> 00:21:49,040
+Let's go to the tutorial.
+
+485
+00:22:25,719 --> 00:22:27,040
+From the blue side's perspective,
+
+486
+00:22:27,719 --> 00:22:29,000
+this is mid,
+
+487
+00:22:29,400 --> 00:22:30,479
+this is top,
+
+488
+00:22:30,479 --> 00:22:31,400
+and this is bottom.
+
+489
+00:22:32,280 --> 00:22:33,119
+Since
+
+490
+00:22:33,400 --> 00:22:34,239
+you're new,
+
+491
+00:22:34,479 --> 00:22:35,520
+let's start with support.
+
+492
+00:22:35,920 --> 00:22:37,199
+Just follow the marksman.
+
+493
+00:22:37,680 --> 00:22:38,199
+Okay.
+
+494
+00:22:39,239 --> 00:22:40,359
+By the way,
+
+495
+00:22:41,160 --> 00:22:42,239
+Ling told me
+
+496
+00:22:42,680 --> 00:22:44,359
+about the match rules.
+
+497
+00:22:45,040 --> 00:22:45,760
+You'll have
+
+498
+00:22:46,160 --> 00:22:47,880
+two random players
+
+499
+00:22:48,160 --> 00:22:49,199
+and two pro players
+
+500
+00:22:49,439 --> 00:22:50,239
+as your teammates.
+
+501
+00:22:51,760 --> 00:22:52,319
+Honestly,
+
+502
+00:22:52,800 --> 00:22:54,680
+you can never outperform
+
+503
+00:22:55,439 --> 00:22:57,479
+a professional player anyway.
+
+504
+00:22:58,199 --> 00:22:59,359
+Professional players
+
+505
+00:22:59,359 --> 00:23:00,959
+will want to be the carries.
+
+506
+00:23:01,640 --> 00:23:03,119
+There are carries in this game?
+
+507
+00:23:03,479 --> 00:23:04,280
+Yes.
+
+508
+00:23:04,959 --> 00:23:06,439
+There are five positions
+
+509
+00:23:06,439 --> 00:23:07,359
+in total.
+
+510
+00:23:07,719 --> 00:23:09,520
+Mid, Jungler, Marksman,
+Tank, and Support.
+
+511
+00:23:10,079 --> 00:23:10,599
+The first three
+
+512
+00:23:10,880 --> 00:23:11,760
+are the carries.
+
+513
+00:23:12,640 --> 00:23:14,520
+Can I be a carry then?
+
+514
+00:23:19,800 --> 00:23:21,239
+Do you want to win?
+
+515
+00:23:22,280 --> 00:23:22,880
+Yes.
+
+516
+00:23:23,000 --> 00:23:23,959
+Then play support.
+
+517
+00:23:24,520 --> 00:23:25,280
+Do you know why?
+
+518
+00:23:26,119 --> 00:23:26,719
+First,
+
+519
+00:23:27,079 --> 00:23:28,680
+support is easier to pick up.
+
+520
+00:23:29,239 --> 00:23:31,520
+Secondly,
+it's not the most pivotal role.
+
+521
+00:23:33,199 --> 00:23:34,359
+You can definitely be a support.
+
+522
+00:23:35,040 --> 00:23:36,199
+Let me teach you
+
+523
+00:23:36,479 --> 00:23:37,880
+some common supportive
+
+524
+00:23:38,160 --> 00:23:38,920
+skills.
+
+525
+00:23:39,880 --> 00:23:40,640
+Look.
+
+526
+00:23:40,640 --> 00:23:41,760
+Let's start from Zhang Fei.
+
+527
+00:23:43,359 --> 00:23:44,359
+His kit
+
+528
+00:23:44,680 --> 00:23:45,520
+is quite simple.
+
+529
+00:23:45,800 --> 00:23:47,119
+Five Tiger Generals,
+
+530
+00:23:47,520 --> 00:23:48,319
+at your service.
+
+531
+00:24:13,239 --> 00:24:14,319
+Just like that.
+
+532
+00:24:14,880 --> 00:24:16,160
+Now, let's queue up and practice.
+
+533
+00:24:28,239 --> 00:24:29,000
+Just follow me, the Hou Yi.
+
+534
+00:24:30,000 --> 00:24:31,040
+Use your Skill 1 once you're out.
+
+535
+00:24:33,359 --> 00:24:33,520
+Okay.
+
+536
+00:24:33,920 --> 00:24:34,839
+Your Skill 2 is a shield.
+
+537
+00:24:34,839 --> 00:24:36,479
+Use it on me.
+
+538
+00:24:39,160 --> 00:24:39,359
+Good.
+
+539
+00:24:40,040 --> 00:24:41,359
+if you can use it at the right time,
+it'd be even better.
+
+540
+00:24:44,079 --> 00:24:44,560
+Okay.
+
+541
+00:24:44,680 --> 00:24:45,479
+You're level 4 now.
+
+542
+00:24:45,479 --> 00:24:46,520
+You can use your ultimate skill.
+
+543
+00:24:46,839 --> 00:24:48,520
+Use it to blow him away.
+
+544
+00:24:50,560 --> 00:24:52,319
+Follow my march!
+
+545
+00:24:53,439 --> 00:24:54,479
+Thank you.
+
+546
+00:24:55,760 --> 00:24:56,680
+He's about to die.
+
+547
+00:24:56,680 --> 00:24:58,000
+Why did you blow him away?
+
+548
+00:24:58,000 --> 00:24:59,520
+I just...wanted to see how it looks like.
+
+549
+00:24:59,520 --> 00:25:00,319
+It's okay.
+
+550
+00:25:00,319 --> 00:25:01,079
+Let's continue.
+
+551
+00:25:02,680 --> 00:25:03,680
+Gao Jianli is after me now.
+
+552
+00:25:03,680 --> 00:25:04,400
+Hurry
+
+553
+00:25:04,400 --> 00:25:05,599
+and blow him away
+with your ultimate skill.
+
+554
+00:25:09,719 --> 00:25:10,160
+Jesus!
+
+555
+00:25:11,280 --> 00:25:12,000
+I don't have much HP left.
+
+556
+00:25:12,000 --> 00:25:12,760
+Why did you
+
+557
+00:25:12,760 --> 00:25:13,839
+blow him towards me?
+
+558
+00:25:15,920 --> 00:25:16,439
+It's okay.
+
+559
+00:25:16,439 --> 00:25:17,079
+Let's continue.
+
+560
+00:25:17,079 --> 00:25:17,760
+Don't sweat it.
+
+561
+00:25:18,640 --> 00:25:19,040
+You can do this.
+
+562
+00:25:19,680 --> 00:25:20,040
+Come.
+
+563
+00:25:34,079 --> 00:25:35,199
+Don't worry. It's not your fault.
+
+564
+00:25:36,680 --> 00:25:38,000
+This hero is not meant for you.
+
+565
+00:25:39,119 --> 00:25:39,800
+So,
+
+566
+00:25:40,479 --> 00:25:41,400
+let's use another hero.
+
+567
+00:25:41,400 --> 00:25:42,400
+Let's use Sun Bin.
+
+568
+00:25:42,719 --> 00:25:44,400
+She's quite good.
+
+569
+00:25:51,079 --> 00:25:51,760
+Try Niumo.
+
+570
+00:25:55,560 --> 00:25:56,319
+Zhuang Zhou.
+
+571
+00:26:02,839 --> 00:26:03,839
+Today
+
+572
+00:26:04,239 --> 00:26:05,560
+is still a fruitful day.
+
+573
+00:26:06,079 --> 00:26:07,839
+We have found several heroes
+
+574
+00:26:07,959 --> 00:26:09,079
+that don't suit your play style.
+
+575
+00:26:09,280 --> 00:26:10,119
+Let's not give up
+
+576
+00:26:10,560 --> 00:26:11,479
+and do this again tomorrow.
+
+577
+00:26:12,040 --> 00:26:13,000
+We'll definitely find
+
+578
+00:26:13,000 --> 00:26:14,000
+your true calling.
+
+579
+00:26:14,040 --> 00:26:14,680
+Okay.
+
+580
+00:26:14,760 --> 00:26:15,160
+Yes.
+
+581
+00:26:42,920 --> 00:26:44,079
+How's the training?
+
+582
+00:26:46,199 --> 00:26:46,520
+Well,
+
+583
+00:26:47,959 --> 00:26:50,000
+full of surprises.
+
+584
+00:26:54,079 --> 00:26:55,040
+Oh, my.
+
+585
+00:26:59,359 --> 00:27:00,959
+You worked hard.
+
+586
+00:27:01,880 --> 00:27:03,199
+Your arms must be tired.
+
+587
+00:27:03,760 --> 00:27:05,040
+How's the practice?
+
+588
+00:27:08,959 --> 00:27:09,839
+Not bad.
+
+589
+00:27:10,640 --> 00:27:12,520
+We've tried out
+
+590
+00:27:12,520 --> 00:27:13,400
+all supports.
+
+591
+00:27:13,560 --> 00:27:14,439
+Really?
+
+592
+00:27:14,680 --> 00:27:15,280
+Did she find a hero
+
+593
+00:27:15,359 --> 00:27:16,319
+that she's good at then?
+
+594
+00:27:17,920 --> 00:27:19,439
+Cai Wenji.
+
+595
+00:27:22,959 --> 00:27:25,880
+Zhuang Zhou and Yao
+are not bad too, right?
+
+596
+00:27:28,439 --> 00:27:29,040
+Wait,
+
+597
+00:27:29,680 --> 00:27:30,640
+even though
+
+598
+00:27:30,640 --> 00:27:31,959
+you're not at your best form yet,
+
+599
+00:27:32,199 --> 00:27:33,479
+but the random players
+
+600
+00:27:33,479 --> 00:27:34,719
+selected
+
+601
+00:27:34,719 --> 00:27:35,760
+won't necessarily be in King either,
+
+602
+00:27:35,920 --> 00:27:36,640
+right?
+
+603
+00:27:39,520 --> 00:27:41,160
+So let's call off tomorrow.
+
+604
+00:27:41,400 --> 00:27:42,160
+Have a break.
+
+605
+00:27:42,400 --> 00:27:43,359
+I will revise
+
+606
+00:27:43,400 --> 00:27:44,079
+a new coaching plan
+
+607
+00:27:44,079 --> 00:27:45,479
+based on
+
+608
+00:27:45,479 --> 00:27:46,880
+Jingjing's capability.
+
+609
+00:27:47,680 --> 00:27:48,079
+Good?
+
+610
+00:27:48,520 --> 00:27:49,839
+She has to shoot
+for an ad tomorrow anyway.
+
+611
+00:27:49,839 --> 00:27:50,719
+She won't be able to practice.
+
+612
+00:27:51,079 --> 00:27:51,520
+Jingjing,
+
+613
+00:27:51,520 --> 00:27:52,719
+go back now
+
+614
+00:27:52,719 --> 00:27:53,560
+and sleep early.
+
+615
+00:27:54,439 --> 00:27:55,359
+I'll practice
+
+616
+00:27:55,359 --> 00:27:56,520
+on my phone tomorrow.
+
+617
+00:27:56,640 --> 00:27:57,439
+I'm not used to this phone.
+
+618
+00:27:57,439 --> 00:27:58,800
+Don't. Don't.
+
+619
+00:27:58,959 --> 00:28:00,160
+If people record your game again,
+
+620
+00:28:00,160 --> 00:28:01,280
+we'll be in deep trouble.
+
+621
+00:28:02,319 --> 00:28:02,800
+One,
+
+622
+00:28:03,000 --> 00:28:04,239
+I can disable spectating.
+
+623
+00:28:04,560 --> 00:28:05,160
+Two,
+
+624
+00:28:05,359 --> 00:28:06,680
+I can use my alt.
+
+625
+00:28:07,599 --> 00:28:08,959
+Disable spectating?
+
+626
+00:28:09,119 --> 00:28:10,040
+That's...
+
+627
+00:28:10,040 --> 00:28:11,680
+I've progressed a lot too, you know.
+
+628
+00:28:12,000 --> 00:28:13,280
+This
+
+629
+00:28:13,680 --> 00:28:15,119
+is progress.
+
+630
+00:28:47,400 --> 00:28:49,520
+Which account for the registration...?
+
+631
+00:28:58,959 --> 00:29:00,719
+Thank god I have an alt.
+
+632
+00:29:13,000 --> 00:29:13,719
+I knew no one
+
+633
+00:29:13,719 --> 00:29:14,800
+would use a weird nickname.
+
+634
+00:30:15,680 --> 00:30:17,680
+Why won't you teach me math?
+
+635
+00:30:19,959 --> 00:30:21,599
+Let me create an alt.
+
+636
+00:30:43,640 --> 00:30:50,040
+All the best!
+
+637
+00:31:19,839 --> 00:31:21,000
+In the class group,
+
+638
+00:31:21,000 --> 00:31:22,319
+I did chat, I did go online.
+
+639
+00:31:22,800 --> 00:31:23,959
+Why didn't he accept my request?
+
+640
+00:32:01,280 --> 00:32:03,560
+Galaxy.
+
+641
+00:32:14,400 --> 00:32:16,079
+I'm a forum user from Space Fans.
+
+642
+00:32:33,439 --> 00:32:34,599
+That was quick.
+
+643
+00:32:35,640 --> 00:32:36,880
+What should I say?
+
+644
+00:32:50,400 --> 00:32:51,520
+I almost forgot that.
+
+645
+00:33:04,680 --> 00:33:06,079
+Yu Tu invites me?
+
+646
+00:33:11,719 --> 00:33:12,439
+(Yu Tu.)
+
+647
+00:33:12,719 --> 00:33:13,280
+(You added her?)
+
+648
+00:33:13,680 --> 00:33:14,319
+(Who is she?)
+
+649
+00:33:15,400 --> 00:33:16,000
+(Wrong button.)
+
+650
+00:33:16,640 --> 00:33:17,199
+(A friend on QQ.)
+
+651
+00:33:19,439 --> 00:33:20,160
+(She's new.)
+
+652
+00:33:20,560 --> 00:33:21,479
+(Unranked.)
+
+653
+00:33:23,239 --> 00:33:24,520
+Wrong invitation, indeed.
+
+654
+00:33:24,920 --> 00:33:25,959
+But I won't leave.
+
+655
+00:33:26,560 --> 00:33:27,239
+You still
+
+656
+00:33:27,239 --> 00:33:28,280
+cause me troubles after a decade.
+
+657
+00:33:28,640 --> 00:33:29,520
+I'll screw up your game
+
+658
+00:33:29,520 --> 00:33:30,160
+to make it fair.
+
+659
+00:33:32,400 --> 00:33:32,839
+(Let's start then.)
+
+660
+00:33:33,000 --> 00:33:33,520
+(Go!)
+
+661
+00:33:37,359 --> 00:33:38,000
+(What will you play?)
+
+662
+00:33:38,719 --> 00:33:39,239
+(I'm flex.)
+
+663
+00:33:42,119 --> 00:33:42,680
+You're new.
+
+664
+00:33:43,439 --> 00:33:44,319
+Let's start with support.
+
+665
+00:33:44,479 --> 00:33:45,880
+Just follow the marksman.
+
+666
+00:33:46,319 --> 00:33:47,800
+So you're a marksman.
+
+667
+00:33:48,680 --> 00:33:50,640
+Don't blame me if I screw you over.
+
+668
+00:33:54,199 --> 00:33:56,400
+I am Cai Wenji.
+
+669
+00:33:56,400 --> 00:33:58,359
+Every day, I look fabulous.
+
+670
+00:33:58,640 --> 00:34:01,000
+One day, I went to the valley
+
+671
+00:34:01,040 --> 00:34:02,599
+with my new skin.
+
+672
+00:34:02,760 --> 00:34:04,800
+I look left and right.
+
+673
+00:34:04,880 --> 00:34:06,839
+Oh my, what a jolly day!
+
+674
+00:34:07,239 --> 00:34:09,280
+Even if the marksman dies
+for the 100th time,
+
+675
+00:34:09,520 --> 00:34:12,120
+I am not worried.
+
+676
+00:34:15,840 --> 00:34:16,679
+I did my best.
+
+677
+00:34:16,760 --> 00:34:17,600
+If you die then...
+
+678
+00:34:25,399 --> 00:34:26,879
+Are you ready?
+
+679
+00:34:37,840 --> 00:34:39,239
+I lost...
+
+680
+00:34:39,239 --> 00:34:40,439
+None shall resist
+
+681
+00:34:40,879 --> 00:34:42,479
+my bullet and my good looks.
+
+682
+00:34:45,360 --> 00:34:45,679
+Is
+
+683
+00:34:46,320 --> 00:34:48,120
+Yu Tu good at this game?
+
+684
+00:35:04,479 --> 00:35:05,280
+Another victory?
+
+685
+00:35:05,919 --> 00:35:07,040
+It's barely ten minutes!
+
+686
+00:35:19,520 --> 00:35:20,600
+Will it be too
+
+687
+00:35:20,600 --> 00:35:21,080
+shameless of me
+
+688
+00:35:21,080 --> 00:35:22,280
+to join their lobby back?
+
+689
+00:35:22,679 --> 00:35:24,040
+They invited me by mistake.
+
+690
+00:35:27,959 --> 00:35:29,080
+School's About to Start So Panicky.
+
+691
+00:35:29,600 --> 00:35:30,479
+He's a nice guy.
+
+692
+00:35:32,879 --> 00:35:34,360
+Marksman is good in this patch.
+
+693
+00:35:34,560 --> 00:35:35,600
+I will play marksman this round.
+
+694
+00:35:48,560 --> 00:35:49,959
+(Cai Wenji?)
+
+695
+00:35:50,120 --> 00:35:51,399
+(Sorry, I'm still new.)
+
+696
+00:35:51,679 --> 00:35:52,159
+(I'm noob.)
+
+697
+00:35:53,280 --> 00:35:54,800
+(Use voice chat. Let me guide you.)
+
+698
+00:35:55,560 --> 00:35:56,239
+Voice chat?
+
+699
+00:36:00,199 --> 00:36:01,000
+I finally knew why
+
+700
+00:36:01,040 --> 00:36:02,399
+Yu Tu, the marksmen main,
+
+701
+00:36:02,399 --> 00:36:03,239
+was willing
+
+702
+00:36:03,439 --> 00:36:04,600
+to give up the marksman position.
+
+703
+00:36:05,000 --> 00:36:06,320
+This Cai Wenji is a troll!
+
+704
+00:36:06,719 --> 00:36:07,320
+You're overthinking.
+
+705
+00:36:07,840 --> 00:36:08,840
+I just want to show you
+
+706
+00:36:08,840 --> 00:36:09,919
+how to play Zhuge Liang properly.
+
+707
+00:36:19,800 --> 00:36:20,280
+Oh no.
+
+708
+00:36:20,879 --> 00:36:21,399
+They won't invite me
+
+709
+00:36:21,399 --> 00:36:22,840
+for the next round.
+
+710
+00:36:32,479 --> 00:36:34,239
+Eat this.
+
+711
+00:36:41,760 --> 00:36:43,639
+You've walked into my trap.
+
+712
+00:36:51,040 --> 00:36:52,360
+Unbelievable.
+
+713
+00:36:52,760 --> 00:36:54,360
+Yu Tu, you kill stealer!
+
+714
+00:36:55,280 --> 00:36:57,159
+Your Zhuge Liang is not bad, Yu Tu.
+
+715
+00:36:57,159 --> 00:36:58,439
+I have never seen you pick him.
+
+716
+00:36:59,040 --> 00:37:00,560
+Zhai Liang always picked mage
+
+717
+00:37:01,080 --> 00:37:02,000
+so he couldn't pick it.
+
+718
+00:37:04,520 --> 00:37:05,520
+Easy.
+
