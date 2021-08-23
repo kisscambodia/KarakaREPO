@@ -1,0 +1,2918 @@
+﻿1
+00:00:21,500 --> 00:00:25,340
+♪Kau mengarungi lautan bintang
+Datang dengan membawa cahaya♪
+
+2
+00:00:25,340 --> 00:00:29,060
+♪Hatiku sangat tenang
+Dan penuh dengan rasa cinta terhadapmu♪
+
+3
+00:00:29,180 --> 00:00:36,180
+♪Cinta berbeda dari pemikiran orang lain
+Kembang api disambut oleh bintang♪
+
+4
+00:00:36,820 --> 00:00:40,780
+♪Berbalik badan baru mengerti
+Hatiku menjadi kosong sebagian♪
+
+5
+00:00:40,780 --> 00:00:44,660
+♪Merindukan galaksi yang meluap
+Berubah menjadi lautan ♪
+
+6
+00:00:44,660 --> 00:00:48,420
+♪Kembang api juga ingin
+Memberikan masa depan kepada bintang♪
+
+7
+00:00:48,420 --> 00:00:51,380
+♪Selama ada dirimu♪
+
+8
+00:00:52,860 --> 00:00:58,740
+♪Kembang api juga takut bermekaran♪
+
+9
+00:01:00,540 --> 00:01:08,060
+♪Melihat cahaya di matamu yang meredup♪
+
+10
+00:01:08,260 --> 00:01:13,860
+♪Baru menertawai
+Diri sendiri tidak layak♪
+
+11
+00:01:15,900 --> 00:01:18,340
+♪Hatiku tergerak♪
+
+12
+00:01:18,340 --> 00:01:27,460
+♪Namun takut tidak sepadan
+Dengan masa depan yang kau inginkan♪
+
+13
+00:01:32,940 --> 00:01:39,980
+=Kau Kebanggaanku=
+
+14
+00:01:44,140 --> 00:01:47,100
+=Episode 32=
+
+15
+00:01:49,700 --> 00:01:52,260
+(Delapan Belas Jam Sebelum Peluncuran)
+
+16
+00:02:21,460 --> 00:02:24,460
+(Jam 06:30 Pagi, Alarm)
+
+17
+00:03:01,940 --> 00:03:04,260
+(Empat Belas Jam Sebelum Peluncuran)
+
+18
+00:03:04,280 --> 00:03:05,870
+Hari ini adalah hari peluncuran
+Dewa Pencarian.
+
+19
+00:03:06,150 --> 00:03:06,710
+Kuharap kita semua
+
+20
+00:03:06,710 --> 00:03:07,840
+dapat menyelesaikan misi ini dengan baik.
+
+21
+00:03:08,680 --> 00:03:09,960
+Berikutnya, kami akan mengabsen
+seluruh tim yang terlibat.
+
+22
+00:03:11,840 --> 00:03:12,750
+Tim Komando Elektrik!
+
+23
+00:03:12,750 --> 00:03:13,520
+Hadir!
+
+24
+00:03:13,520 --> 00:03:14,400
+Tim Pengontrol Elektrik!
+
+25
+00:03:14,400 --> 00:03:15,120
+Hadir!
+
+26
+00:03:15,120 --> 00:03:16,080
+Tim Elektronika Terintegrasi!
+
+27
+00:03:16,080 --> 00:03:16,750
+Hadir!
+
+28
+00:03:16,750 --> 00:03:17,960
+Tim Perancang Muatan Satelit!
+
+29
+00:03:17,960 --> 00:03:18,910
+Hadir!
+
+30
+00:03:18,910 --> 00:03:19,910
+Tim Pengontrol Orbit!
+
+31
+00:03:19,910 --> 00:03:20,680
+Hadir!
+
+32
+00:03:20,980 --> 00:03:23,060
+(Dua Belas Jam Sebelum Peluncuran)
+
+33
+00:03:23,520 --> 00:03:24,310
+Berikutnya kita akan menjalankan
+
+34
+00:03:24,430 --> 00:03:25,560
+sistem deteksi pada Dewa Pencarian
+
+35
+00:03:25,630 --> 00:03:26,800
+untuk mengatur kondisinya
+sebelum diluncurkan.
+
+36
+00:03:26,800 --> 00:03:27,750
+Tim Komando Elektrik,
+
+37
+00:03:27,870 --> 00:03:28,520
+sampaikan instruksi kalian.
+
+38
+00:03:28,520 --> 00:03:29,190
+Siap!
+
+39
+00:03:29,750 --> 00:03:30,470
+Tim Pengontrol harus memberikan daya
+
+40
+00:03:30,520 --> 00:03:32,150
+pada sistem deteksi dalam satelit.
+
+41
+00:03:32,240 --> 00:03:32,910
+Instruksi diterima.
+
+42
+00:03:35,300 --> 00:03:36,540
+(Sub-sistem Kontrol Termal,
+Prob Antariksa Dewa Pencarian)
+
+43
+00:03:36,560 --> 00:03:37,750
+Daya di seluruh sistemnya telah terisi penuh.
+
+44
+00:03:38,360 --> 00:03:39,080
+Baik.
+
+45
+00:03:39,100 --> 00:03:39,860
+(Sub-sistem Kontrol Termal,
+Prob Antariksa Dewa Pencarian)
+
+46
+00:03:40,400 --> 00:03:41,030
+Tim pengontrol sistem
+
+47
+00:03:41,030 --> 00:03:42,120
+lakukan inspeksi terhadap mesinnya.
+
+48
+00:03:42,120 --> 00:03:42,910
+Baik.
+
+49
+00:03:48,520 --> 00:03:50,080
+Inspeksi mesin telah selesai.
+
+50
+00:03:50,080 --> 00:03:51,150
+Mesin beroperasi normal.
+
+51
+00:03:51,240 --> 00:03:51,960
+Baik.
+
+52
+00:04:00,240 --> 00:04:01,190
+Turis dari Qingdao Shandong!
+
+53
+00:04:01,190 --> 00:04:01,710
+Silakan! Sebelah sini!
+
+54
+00:04:01,710 --> 00:04:02,280
+Naik mobil di sini.
+
+55
+00:04:02,280 --> 00:04:03,360
+Sebentar lagi mobilnya berangkat.
+
+56
+00:04:03,360 --> 00:04:04,120
+Silakan. Ayo, cepat!
+
+57
+00:04:04,120 --> 00:04:04,630
+Cepat naik ke mobil!
+
+58
+00:04:04,680 --> 00:04:05,960
+Masih ada tiga kursi kosong
+
+59
+00:04:05,960 --> 00:04:07,150
+dalam bus tujuan tempat peluncuran roket
+di Wenchang!
+
+60
+00:04:07,150 --> 00:04:07,960
+Silakan kemari!
+
+61
+00:04:07,960 --> 00:04:08,680
+Kami akan langsung mengantar kalian
+
+62
+00:04:08,680 --> 00:04:09,630
+menuju tempat terbaik untuk melihatnya!
+
+63
+00:04:09,630 --> 00:04:10,750
+Untuk pertama kalinya di negara kita,
+
+64
+00:04:10,750 --> 00:04:12,360
+satelit detektor sistem tata surya
+
+65
+00:04:12,360 --> 00:04:13,840
+akan diluncurkan hari ini.
+
+66
+00:04:13,960 --> 00:04:14,840
+Saat ini aku berada di
+
+67
+00:04:14,840 --> 00:04:17,040
+Bandara International Meilan
+di Haikou.
+
+68
+00:04:17,040 --> 00:04:17,510
+Hari ini,
+
+69
+00:04:17,510 --> 00:04:18,800
+orang-orang dari seluruh penjuru negeri
+
+70
+00:04:18,800 --> 00:04:19,630
+berkumpul di sini.
+
+71
+00:04:19,630 --> 00:04:21,190
+Tujuan mereka hanya satu.
+
+72
+00:04:21,190 --> 00:04:23,480
+Mereka ingin menuju
+markas peluncuran roket.
+
+73
+00:04:24,240 --> 00:04:24,800
+Halo semuanya!
+
+74
+00:04:24,830 --> 00:04:25,630
+Para penonton live streaming sekalian,
+
+75
+00:04:25,630 --> 00:04:26,630
+halo semuanya!
+
+76
+00:04:26,630 --> 00:04:28,630
+Sekarang kami sudah tiba di Wenchang.
+
+77
+00:04:28,630 --> 00:04:31,070
+Kami sedang menuju Gunung Tonggu.
+
+78
+00:04:31,240 --> 00:04:32,190
+Kalau begitu,
+
+79
+00:04:32,190 --> 00:04:33,040
+bisakah seluruh penumpang di mobil ini
+
+80
+00:04:33,040 --> 00:04:34,950
+menyapa penonton di rumah?
+
+81
+00:04:36,750 --> 00:04:38,270
+Tempat yang akan kami tuju kali ini
+adalah
+
+82
+00:04:38,270 --> 00:04:39,750
+salah satu tempat terbaik
+
+83
+00:04:39,750 --> 00:04:42,120
+untuk menyaksikan langsung
+peluncuran roket pertama di Wenchang.
+
+84
+00:04:42,270 --> 00:04:43,870
+Menurut informasi yang kami dapatkan,
+
+85
+00:04:43,870 --> 00:04:45,040
+jembatan yang kami lalui sekarang
+
+86
+00:04:45,040 --> 00:04:47,480
+akan ditutup tepat pukul lima sore.
+
+87
+00:04:47,480 --> 00:04:48,000
+Oleh karena itu,
+
+88
+00:04:48,000 --> 00:04:49,600
+jika kalian ingin datang melihatnya
+secara langsung,
+
+89
+00:04:49,600 --> 00:04:51,000
+kalian harus datang lebih awal.
+
+90
+00:05:11,870 --> 00:05:13,630
+Dia mematikan jam alarmku.
+
+91
+00:05:20,040 --> 00:05:20,310
+Halo.
+
+92
+00:05:20,310 --> 00:05:21,750
+Kenapa kau baru bangun sekarang?
+
+93
+00:05:21,750 --> 00:05:23,920
+Dia mematikan jam alarmku.
+
+94
+00:05:23,920 --> 00:05:25,070
+Yang benar saja.
+
+95
+00:05:25,430 --> 00:05:26,430
+Bukankah sebelumnya kau bilang
+
+96
+00:05:26,430 --> 00:05:27,240
+kau menanti-nantikan hari ini
+
+97
+00:05:27,630 --> 00:05:29,430
+untuk mengantar Pak Yu?
+
+98
+00:05:29,430 --> 00:05:30,720
+Tidak apa-apa.
+
+99
+00:05:32,070 --> 00:05:33,720
+Aku bisa mengantarnya
+dari mana pun.
+
+100
+00:05:35,720 --> 00:05:36,680
+Aku tidak bisa mengobrol
+denganmu sekarang.
+
+101
+00:05:36,680 --> 00:05:38,510
+Aku punya janji makan bakpao
+bersama keluargaku.
+
+102
+00:05:38,920 --> 00:05:39,630
+Bakpao?
+
+103
+00:05:40,630 --> 00:05:42,310
+Ada bakpao yang terkenal
+di markas badan antariksa,
+
+104
+00:05:42,830 --> 00:05:44,040
+sebagai simbol keberhasilan.
+
+105
+00:05:50,940 --> 00:05:55,740
+(Impian Antariksa yang Terus Kita Kejar)
+
+106
+00:05:55,780 --> 00:05:58,260
+(Delapan Jam Sebelum Peluncuran)
+
+107
+00:05:58,860 --> 00:06:02,540
+(Bangun Negara Antariksa yang Kuat)
+
+108
+00:06:03,360 --> 00:06:04,070
+Pak Wang.
+
+109
+00:06:05,630 --> 00:06:06,390
+Pak Yu.
+
+110
+00:06:06,800 --> 00:06:07,560
+Pengaturan Prob Antariksa
+
+111
+00:06:07,560 --> 00:06:09,240
+sebelum peluncuran
+sudah selesai dilakukan.
+
+112
+00:06:09,720 --> 00:06:10,800
+Bagaimana perkembangannya di tim kalian?
+
+113
+00:06:11,240 --> 00:06:12,630
+Bahan bakar roketnya sudah terisi penuh.
+
+114
+00:06:12,720 --> 00:06:14,160
+Semua indeksnya terlihat stabil.
+
+115
+00:06:14,160 --> 00:06:16,070
+Semuanya memenuhi kriteria yang pas
+untuk diluncurkan.
+
+116
+00:06:17,240 --> 00:06:17,920
+Kalau begitu, sebaiknya kita memeriksa
+
+117
+00:06:17,920 --> 00:06:18,720
+seluruh indikatornya sekali lagi
+
+118
+00:06:18,870 --> 00:06:19,800
+dengan lebih teliti.
+
+119
+00:06:19,800 --> 00:06:20,510
+Baik.
+
+120
+00:06:20,540 --> 00:06:26,180
+(Semangat Antariksa,
+Bangun Negara Antariksa yang Kuat)
+
+121
+00:06:36,660 --> 00:06:38,820
+(Antariksa Tiongkok)
+
+122
+00:06:42,000 --> 00:06:43,000
+Saat aku bangun pagi ini,
+
+123
+00:06:43,000 --> 00:06:43,950
+dia sudah pergi.
+
+124
+00:06:43,950 --> 00:06:44,920
+Awalnya aku sudah mengatur jam alarm
+
+125
+00:06:44,920 --> 00:06:46,040
+agar bisa mengantarnya bekerja.
+
+126
+00:06:46,040 --> 00:06:48,070
+Tidak kusangka dia mematikan alarmnya.
+
+127
+00:06:48,800 --> 00:06:50,270
+Istriku juga begitu.
+
+128
+00:06:51,920 --> 00:06:52,560
+Semuanya sudah tiba di sini.
+
+129
+00:06:52,560 --> 00:06:53,360
+Ayo, kita berangkat.
+
+130
+00:06:53,360 --> 00:06:54,390
+Baiklah. Ayo.
+
+131
+00:06:54,390 --> 00:06:55,160
+Ayo, berangkat.
+
+132
+00:06:55,160 --> 00:06:56,190
+Profesor Zhao, ayo.
+
+133
+00:06:56,190 --> 00:06:57,000
+Baiklah.
+
+134
+00:06:57,950 --> 00:06:58,750
+Hari ini menyenangkan sekali.
+
+135
+00:06:59,720 --> 00:07:00,430
+Iya.
+
+136
+00:07:03,260 --> 00:07:06,820
+(Pusat Peluncuran Cape,
+Pusat Kontrol)
+
+137
+00:07:06,950 --> 00:07:09,360
+Ini adalah Pusat Kontrol Sistem.
+
+138
+00:07:10,190 --> 00:07:11,480
+Nantinya kalian bisa memilih
+
+139
+00:07:11,480 --> 00:07:13,070
+melihat proses peluncurannya di sini.
+
+140
+00:07:13,310 --> 00:07:13,830
+Kalau ini adalah
+
+141
+00:07:13,830 --> 00:07:15,310
+lokasi terdekat untuk menyaksikan langung
+
+142
+00:07:15,310 --> 00:07:16,950
+peluncuran roket di Wenchang.
+
+143
+00:07:17,870 --> 00:07:19,270
+Kalau begitu, sekarang kita akan pergi
+
+144
+00:07:19,270 --> 00:07:21,160
+ke aula kontrol di lantai sepuluh.
+
+145
+00:07:21,160 --> 00:07:21,720
+Baik.
+
+146
+00:07:21,720 --> 00:07:23,720
+Apakah itu tempat
+yang sering muncul di televisi?
+
+147
+00:07:23,720 --> 00:07:25,120
+Benar. Itu tempatnya.
+
+148
+00:07:25,120 --> 00:07:26,430
+Namun, saat kalian semua
+sudah sampai di atas,
+
+149
+00:07:26,430 --> 00:07:27,630
+kalian harus menjaga ketenangan.
+
+150
+00:07:27,680 --> 00:07:29,310
+Jangan sekali-sekali
+mengganggu karyawan di sana.
+
+151
+00:07:29,310 --> 00:07:29,830
+Bagaimana?
+
+152
+00:07:29,830 --> 00:07:30,560
+Baiklah. Baik.
+
+153
+00:07:30,560 --> 00:07:31,870
+- Tenang saja.
+- Kalau begitu, ayo kita ke sana.
+
+154
+00:07:31,870 --> 00:07:32,160
+Ayo.
+
+155
+00:07:32,160 --> 00:07:33,270
+Ayo, ayo, ayo.
+
+156
+00:07:46,510 --> 00:07:48,920
+Kita semua boleh duduk
+di area yang paling depan.
+
+157
+00:07:48,940 --> 00:07:50,900
+(Aman dan Dapat Diandalkan
+Menyeluruh dan Teliti, Serius)
+
+158
+00:07:50,900 --> 00:07:51,660
+(Bangun Partai Melayani Negara, Inovasi,)
+
+159
+00:07:51,660 --> 00:07:52,900
+(Pengukuran dan Kontrol yang Teliti,
+Bangun Mimpi di Luar Angkasa)
+
+160
+00:07:55,390 --> 00:07:56,310
+Silakan duluan.
+
+161
+00:08:04,800 --> 00:08:06,270
+Kapan mereka akan datang?
+
+162
+00:08:06,680 --> 00:08:07,800
+Mungkin sejam lagi.
+
+163
+00:08:08,680 --> 00:08:11,120
+Jawaban Jingjing terdengar seperti ahli.
+
+164
+00:08:11,120 --> 00:08:13,040
+Begitu melihatnya,
+aku langsung tahu bahwa
+
+165
+00:08:13,040 --> 00:08:14,160
+dia bagian dari keluarga
+insinyur antariksa.
+
+166
+00:08:14,830 --> 00:08:15,720
+Aku penasaran.
+
+167
+00:08:15,720 --> 00:08:16,750
+Jadi, aku banyak bertanya.
+
+168
+00:08:17,040 --> 00:08:17,830
+Saat ini mereka semua pasti berada
+
+169
+00:08:17,830 --> 00:08:18,870
+di aula kontrol.
+
+170
+00:08:19,000 --> 00:08:20,310
+Namun, kau jangan bertanya
+lebih lanjut padaku
+
+171
+00:08:20,310 --> 00:08:21,630
+tentang apa perbedaan
+dua ruang kontrol itu.
+
+172
+00:08:21,630 --> 00:08:22,510
+Aku tidak tahu jawabannya.
+
+173
+00:08:22,510 --> 00:08:23,750
+Aku hanya seorang aktris.
+
+174
+00:08:25,430 --> 00:08:26,680
+Hanya insinyur utama dan wakilnya
+
+175
+00:08:26,680 --> 00:08:28,240
+yang boleh masuk
+
+176
+00:08:28,240 --> 00:08:31,070
+ke dalam ruang kontrol ini.
+
+177
+00:08:31,480 --> 00:08:32,630
+Jadi, nantinya,
+
+178
+00:08:32,630 --> 00:08:35,550
+Yu dan Hu akan datang ke sini.
+
+179
+00:08:35,790 --> 00:08:36,840
+Kemudian,
+
+180
+00:08:36,840 --> 00:08:38,510
+keberhasilan peluncuran roket
+
+181
+00:08:38,510 --> 00:08:40,440
+juga akan diumumkan di sini.
+
+182
+00:08:41,390 --> 00:08:43,320
+Profesor memang lebih berpengalaman.
+
+183
+00:08:44,080 --> 00:08:45,320
+Dulu,
+
+184
+00:08:45,320 --> 00:08:47,200
+aku pernah mengunjungi tempat peluncuran
+di Jiuquan.
+
+185
+00:08:47,960 --> 00:08:49,790
+Aku ke sana belasan tahun lalu.
+
+186
+00:08:50,200 --> 00:08:52,720
+Keadaan di sana
+tidak sebagus markas di Wenchang.
+
+187
+00:08:53,320 --> 00:08:56,360
+Para insinyur antariksa
+benar-benar mengalami masa sulit.
+
+188
+00:08:56,360 --> 00:08:58,910
+Selama tinggal di sana berbulan-bulan,
+
+189
+00:08:59,390 --> 00:09:01,510
+karena sinyal komunikasi dulu
+tidak sebagus sekarang,
+
+190
+00:09:01,910 --> 00:09:02,600
+mereka hanya bisa menelepon
+
+191
+00:09:02,600 --> 00:09:04,200
+beberapa kali dalam sebulan.
+
+192
+00:09:05,790 --> 00:09:06,630
+Yu Tu juga tinggal di Hainan
+
+193
+00:09:06,630 --> 00:09:08,080
+selama setengah tahun lebih.
+
+194
+00:09:08,270 --> 00:09:09,000
+Ya.
+
+195
+00:09:09,150 --> 00:09:09,670
+Mereka melakukan ini
+
+196
+00:09:09,720 --> 00:09:11,510
+demi kemajuan bidang antariksa negara.
+
+197
+00:09:11,510 --> 00:09:12,390
+Untunglah
+
+198
+00:09:12,390 --> 00:09:14,480
+sekarang kondisi mereka
+semakin membaik.
+
+199
+00:09:14,480 --> 00:09:15,200
+Kalau tidak,
+
+200
+00:09:15,200 --> 00:09:16,390
+aku harus berjuang lebih keras.
+
+201
+00:09:16,390 --> 00:09:17,870
+Istriku bekerja di bidang yang sama.
+
+202
+00:09:18,480 --> 00:09:19,870
+Ketika kami dinas ke luar kota,
+
+203
+00:09:20,200 --> 00:09:21,000
+kami hanya bisa menelepon sesekali
+
+204
+00:09:21,320 --> 00:09:22,720
+dalam sebulan.
+
+205
+00:09:22,790 --> 00:09:24,150
+Aku tidak sanggup.
+
+206
+00:09:25,320 --> 00:09:26,080
+Zhang,
+
+207
+00:09:26,240 --> 00:09:27,120
+apakah kami tidak bisa melihat
+
+208
+00:09:27,120 --> 00:09:29,000
+peluncuran roketnya dari sini?
+
+209
+00:09:29,480 --> 00:09:30,600
+Kalian bisa melihatnya di sini.
+
+210
+00:09:30,600 --> 00:09:31,480
+Kalian bisa memilih
+
+211
+00:09:31,480 --> 00:09:32,550
+melihatnya di sini lewat layar raksasa
+
+212
+00:09:32,550 --> 00:09:33,630
+atau turun ke bawah
+
+213
+00:09:33,630 --> 00:09:35,030
+untuk melihat langsung dari markas.
+
+214
+00:09:35,030 --> 00:09:36,550
+Itu pilihan yang sulit.
+
+215
+00:09:36,550 --> 00:09:38,030
+Aku bisa melihat istriku di sini,
+
+216
+00:09:38,030 --> 00:09:38,670
+kalau keluar dari ruangan,
+
+217
+00:09:38,670 --> 00:09:40,440
+aku bisa melihat peluncuran roket
+secara nyata.
+
+218
+00:09:41,030 --> 00:09:42,360
+Tentu saja kita harus turun
+untuk melihat roket
+
+219
+00:09:42,360 --> 00:09:44,000
+dari pada menonton mereka di sini.
+
+220
+00:09:44,390 --> 00:09:45,360
+Benar.
+
+221
+00:09:52,100 --> 00:09:55,420
+(Impian Antariksa)
+
+222
+00:09:57,740 --> 00:10:01,940
+(Impian Antariksa yang Terus Kita Kejar)
+
+223
+00:10:02,270 --> 00:10:03,600
+Mereka datang. Mereka datang.
+
+224
+00:10:17,060 --> 00:10:18,740
+(Pengukuran dan Kontrol yang Teliti,
+Bangun Mimpi di Luar Angkasa)
+
+225
+00:10:32,200 --> 00:10:34,670
+Saat ini mereka pasti sangat gugup.
+
+226
+00:10:34,960 --> 00:10:36,080
+Jangankan mereka,
+
+227
+00:10:36,670 --> 00:10:38,320
+aku yang melihat roketnya dari jalan saja
+
+228
+00:10:38,320 --> 00:10:39,480
+merasa sangat gugup.
+
+229
+00:10:40,000 --> 00:10:40,960
+Kali ini,
+
+230
+00:10:40,960 --> 00:10:42,510
+perhatian seluruh
+orang terarah pada mereka.
+
+231
+00:10:42,510 --> 00:10:43,720
+Ini adalah
+
+232
+00:10:43,720 --> 00:10:46,030
+satelit detektor sistem tata surya
+pertama negara kita.
+
+233
+00:10:46,240 --> 00:10:47,080
+Dunia internasional
+
+234
+00:10:47,080 --> 00:10:48,360
+menaruh perhatian besar pada
+peluncuran ini.
+
+235
+00:10:49,240 --> 00:10:49,910
+Benar.
+
+236
+00:11:06,000 --> 00:11:06,870
+Untuk anggota keluarga para insinyur,
+
+237
+00:11:06,910 --> 00:11:08,390
+kami mohon maaf.
+
+238
+00:11:08,390 --> 00:11:09,630
+Karena berbagai alasan,
+
+239
+00:11:09,630 --> 00:11:10,630
+kita tidak bisa
+
+240
+00:11:10,630 --> 00:11:12,270
+menyaksikan peluncuran roketnya
+dari sini.
+
+241
+00:11:12,670 --> 00:11:13,480
+Kami akan mengatur tempat kalian
+
+242
+00:11:13,480 --> 00:11:14,720
+di lantai bawah.
+
+243
+00:11:14,720 --> 00:11:15,600
+Tidak apa-apa, kan?
+
+244
+00:11:16,000 --> 00:11:17,120
+- Boleh.
+- Silakan.
+
+245
+00:11:17,120 --> 00:11:17,630
+Baiklah. Terima kasih.
+
+246
+00:11:17,630 --> 00:11:18,960
+Kita bisa keluar lewat sini.
+
+247
+00:11:19,320 --> 00:11:20,960
+Sebenarnya lebih baik seperti ini.
+
+248
+00:11:21,360 --> 00:11:22,480
+Kita tidak perlu pusing memutuskan
+
+249
+00:11:22,480 --> 00:11:23,750
+apakah harus menyaksikannya di sini
+
+250
+00:11:23,750 --> 00:11:25,200
+atau dari luar.
+
+251
+00:11:26,750 --> 00:11:28,480
+Kalau begitu, kita harus segera mencari
+tempat duduk yang bagus.
+
+252
+00:11:28,480 --> 00:11:29,030
+Ayo.
+
+253
+00:11:29,030 --> 00:11:30,080
+Ya. Ayo.
+
+254
+00:11:30,080 --> 00:11:30,870
+Ayo.
+
+255
+00:11:32,860 --> 00:11:33,780
+(Pengukuran dan Kontrol yang Teliti,
+Bangun Mimpi di Luar Angkasa)
+
+256
+00:11:33,780 --> 00:11:35,780
+(Aman dan Dapat Diandalkan
+Menyeluruh dan Teliti, Serius)
+
+257
+00:11:35,780 --> 00:11:36,540
+(Bangun Partai Melayani Negara, Inovasi,)
+
+258
+00:11:36,540 --> 00:11:37,620
+(Pengukuran dan Kontrol yang Teliti,
+Bangun Mimpi di Luar Angkasa)
+
+259
+00:11:58,240 --> 00:11:59,390
+(Bukankah itu bagus?)
+
+260
+00:11:59,390 --> 00:12:00,480
+Saat aku menjadi hebat di bidang itu,
+
+261
+00:12:00,480 --> 00:12:02,240
+mungkin markas manusia di bulan
+sudah selesai dibangun.
+
+262
+00:12:02,480 --> 00:12:03,870
+Aku akan menaklukkan Mars
+
+263
+00:12:03,870 --> 00:12:04,750
+dari bulan.
+
+264
+00:12:04,750 --> 00:12:05,630
+Setelah itu, aku akan terbang
+ke luar galaksi.
+
+265
+00:12:05,630 --> 00:12:07,150
+Kau kebanyakan membual.
+
+266
+00:12:08,240 --> 00:12:10,360
+Membual itu tidak butuh modal.
+
+267
+00:12:11,320 --> 00:12:12,120
+Peipei,
+
+268
+00:12:12,600 --> 00:12:14,030
+apa yang akan kau lakukan
+di masa depan?
+
+269
+00:12:14,390 --> 00:12:15,440
+Aku tidak tahu.
+
+270
+00:12:15,440 --> 00:12:16,120
+Bagaimana denganmu?
+
+271
+00:12:17,030 --> 00:12:17,960
+Aku juga tidak tahu.
+
+272
+00:12:18,240 --> 00:12:19,320
+Aku punya terlalu banyak ide.
+
+273
+00:12:20,480 --> 00:12:22,000
+Namun, aku yakin
+
+274
+00:12:22,000 --> 00:12:22,790
+Yu Tu akan menjadi
+
+275
+00:12:22,790 --> 00:12:24,480
+seorang insinyur antariksa yang hebat.
+
+276
+00:12:25,630 --> 00:12:26,510
+Kenapa?
+
+277
+00:12:28,550 --> 00:12:29,960
+Karena dia menyukai bidang itu.
+
+278
+00:12:43,120 --> 00:12:44,440
+(Bukan berarti perlu waktu)
+
+279
+00:12:44,600 --> 00:12:45,080
+(30 sampai 40 tahun)
+
+280
+00:12:45,080 --> 00:12:46,840
+(untuk mengejar gap teknologi sejauh
+30 sampai 40 tahun itu.)
+
+281
+00:12:47,480 --> 00:12:49,120
+(Di sinilah salah satu)
+
+282
+00:12:49,270 --> 00:12:49,910
+(kontribusi kerja kerasku dan)
+
+283
+00:12:50,600 --> 00:12:51,720
+(para rekan sejawat.)
+
+284
+00:13:17,900 --> 00:13:20,460
+(Satu Jam Sebelum Peluncuran)
+
+285
+00:13:36,200 --> 00:13:37,320
+Sudah hampir jam tujuh.
+
+286
+00:13:40,630 --> 00:13:41,630
+Hitungan mundurnya dimulai.
+
+287
+00:13:46,870 --> 00:13:48,080
+Bersiap 30 menit lagi!
+
+288
+00:13:48,100 --> 00:13:50,100
+(Tiga Puluh Menit Sebelum Peluncuran)
+
+289
+00:14:00,660 --> 00:14:02,900
+(Antariksa Tiongkok)
+
+290
+00:14:04,200 --> 00:14:05,480
+(Dua Puluh Menit Sebelum Peluncuran)
+Bersiap 20 menit lagi!
+
+291
+00:14:12,820 --> 00:14:14,820
+(Sepuluh Menit Sebelum Peluncuran)
+
+292
+00:14:14,840 --> 00:14:16,000
+Tinggal sepuluh menit lagi.
+
+293
+00:14:21,820 --> 00:14:24,420
+(Lima Menit Sebelum Peluncuran)
+
+294
+00:14:24,420 --> 00:14:28,860
+(Dewa Pencarian)
+
+295
+00:14:33,700 --> 00:14:37,420
+(Antariksa Tiongkok)
+
+296
+00:14:39,480 --> 00:14:40,960
+Bersiap dalam satumenit!
+
+297
+00:14:47,750 --> 00:14:48,720
+Lima puluh detik!
+
+298
+00:14:56,960 --> 00:14:58,000
+Empat puluh detik!
+
+299
+00:15:06,320 --> 00:15:07,440
+Tiga puluh detik!
+
+300
+00:15:15,030 --> 00:15:16,150
+Dua puluh detik!
+
+301
+00:15:17,620 --> 00:15:19,420
+(Siaran Langsung, Antariksa Sangat Hebat,
+Aku Sangat Bangga)
+
+302
+00:15:19,960 --> 00:15:20,790
+Sepuluh!
+
+303
+00:15:21,510 --> 00:15:22,360
+Sembilan!
+
+304
+00:15:23,390 --> 00:15:24,270
+(Pusat Kontrol Satelit Barat Laut)
+Delapan!
+
+305
+00:15:25,200 --> 00:15:26,200
+Tujuh!
+
+306
+00:15:27,240 --> 00:15:28,390
+Enam!
+
+307
+00:15:29,600 --> 00:15:30,670
+Lima!
+
+308
+00:15:31,720 --> 00:15:33,120
+Empat!
+
+309
+00:15:34,000 --> 00:15:34,790
+Tiga!
+
+310
+00:15:35,720 --> 00:15:36,550
+Dua!
+
+311
+00:15:37,360 --> 00:15:38,200
+Satu!
+
+312
+00:15:38,600 --> 00:15:39,600
+Luncurkan!
+
+313
+00:15:49,900 --> 00:15:53,220
+♪Saat matahari mengelilingi bumi♪
+
+314
+00:15:53,340 --> 00:15:55,140
+♪Ruang kosong separuh lainnya♪
+
+315
+00:15:55,180 --> 00:15:57,100
+♪Tolong bangunkan aku♪
+
+316
+00:15:57,480 --> 00:15:58,440
+Waktu peluncuran,
+
+317
+00:15:58,840 --> 00:16:01,000
+pukul tujuh lewat 30 menit 25 detik
+
+318
+00:16:01,000 --> 00:16:02,320
+406 milidetik.
+
+319
+00:16:03,460 --> 00:16:06,860
+♪Saat es turun di musim gugur♪
+
+320
+00:16:06,860 --> 00:16:09,100
+♪Tempat terhangat♪
+
+321
+00:16:09,140 --> 00:16:11,060
+♪Tolong bangunkan aku♪
+
+322
+00:16:12,420 --> 00:16:14,340
+♪Aku ingin sama sepertinya♪
+
+323
+00:16:16,140 --> 00:16:18,940
+♪Tersebar di antara dedaunan emas♪
+
+324
+00:16:18,940 --> 00:16:20,820
+♪Menjadi satu dengan tanah♪
+
+325
+00:16:20,840 --> 00:16:21,870
+Keren!
+
+326
+00:16:21,870 --> 00:16:22,960
+Luar biasa!
+
+327
+00:16:23,870 --> 00:16:24,960
+Apa yang membuatmu
+sesenang itu?
+
+328
+00:16:27,080 --> 00:16:28,270
+Roket negara kami
+
+329
+00:16:28,270 --> 00:16:30,440
+berhasil diluncurkan.
+
+330
+00:16:30,960 --> 00:16:31,960
+Kami berhasil melakukannya!
+
+331
+00:16:31,980 --> 00:16:32,660
+♪Terlahir menjadi elang♪
+
+332
+00:16:32,660 --> 00:16:35,460
+♪Untuk apa menundukkan kepala
+Dan belajar merangkak?♪
+
+333
+00:16:35,460 --> 00:16:37,460
+♪Pelan-pelan naik♪
+
+334
+00:16:37,460 --> 00:16:38,820
+♪Awan membentang♪
+
+335
+00:16:38,820 --> 00:16:42,220
+♪Api yang mengamuk
+Bergoyang di depan mataku♪
+
+336
+00:16:42,220 --> 00:16:43,940
+♪Aku terlahir sebagai elang♪
+
+337
+00:16:44,020 --> 00:16:46,180
+Posisi trek 177 normal.
+
+338
+00:16:46,180 --> 00:16:48,100
+Radar optik normal.
+
+339
+00:16:48,580 --> 00:16:50,140
+Sinyal telemetrinya normal.
+
+340
+00:16:50,700 --> 00:16:51,860
+Penerbangannya normal.
+
+341
+00:16:52,580 --> 00:16:54,260
+Posisi sinyal telemetrinya normal.
+
+342
+00:16:55,620 --> 00:16:58,620
+♪Adalah takdirku♪
+
+343
+00:17:14,020 --> 00:17:15,860
+♪Terlahir menjadi elang♪
+
+344
+00:17:15,860 --> 00:17:17,700
+♪Ada sayap yang menutupi langit♪
+
+345
+00:17:17,700 --> 00:17:20,980
+♪Untuk apa menundukkan kepala
+Dan belajar merangkak?♪
+
+346
+00:17:20,980 --> 00:17:22,980
+♪Pelan-pelan naik♪
+
+347
+00:17:22,980 --> 00:17:24,340
+♪Awan membentang♪
+
+348
+00:17:24,340 --> 00:17:27,740
+♪Api yang mengamuk
+Bergoyang di depan mataku♪
+
+349
+00:17:27,740 --> 00:17:29,460
+♪Aku terlahir sebagai elang♪
+
+350
+00:17:29,460 --> 00:17:31,420
+♪Begerak melawan angin♪
+
+351
+00:17:31,420 --> 00:17:34,580
+♪Untuk apa menunduk
+Dan memperebutkan menang dan kalah♪
+
+352
+00:17:34,580 --> 00:17:36,060
+♪Tak berhenti siang dan malam♪
+
+353
+00:17:36,060 --> 00:17:38,300
+♪Melalui tempat tak berpenghuni♪
+
+354
+00:17:38,300 --> 00:17:40,700
+♪Melangkah maju sambil memikul beban♪
+
+355
+00:17:41,140 --> 00:17:44,460
+♪Kita terlahir sebagai elang♪
+
+356
+00:17:45,260 --> 00:17:46,460
+Bersiap melakukan rotasi.
+
+357
+00:17:48,940 --> 00:17:50,940
+Posisi trek 339 normal.
+
+358
+00:17:51,460 --> 00:17:53,060
+Posisi trek 349 normal.
+
+359
+00:17:53,940 --> 00:17:55,180
+Roketnya sudah tidak terlihat lagi.
+
+360
+00:17:55,820 --> 00:17:57,540
+Kita bisa terus melihat
+siaran langsungnya.
+
+361
+00:17:57,620 --> 00:17:58,540
+(Pusat Peluncuran Cape, Siaran Langsung)
+
+362
+00:17:58,540 --> 00:17:59,540
+(Peluncuran Prob Antariksa Margin Surya
+Dewa Pencarian)
+
+363
+00:18:03,100 --> 00:18:04,580
+Trek peluncurannya normal.
+
+364
+00:18:05,260 --> 00:18:06,780
+Sinyal telemetrinya normal.
+
+365
+00:18:07,460 --> 00:18:08,660
+Trek penerbangannya normal.
+
+366
+00:18:09,620 --> 00:18:11,460
+Trek 3533 normal.
+
+367
+00:18:17,540 --> 00:18:19,100
+Trek peluncurannya normal.
+
+368
+00:18:19,620 --> 00:18:21,060
+Sistem telemetrinya normal.
+
+369
+00:18:21,940 --> 00:18:23,260
+Penerbangannya normal.
+
+370
+00:18:24,060 --> 00:18:25,940
+Trek 257 normal.
+
+371
+00:18:25,940 --> 00:18:27,940
+(Aman dan Dapat Diandalkan
+Menyeluruh dan Teliti, Serius)
+
+372
+00:18:27,940 --> 00:18:28,860
+(Bangun Partai Melayani Negara, Inovasi,)
+
+373
+00:18:28,860 --> 00:18:29,740
+(Pengukuran dan Kontrol yang Teliti,
+Bangun Mimpi di Luar Angkasa)
+
+374
+00:18:30,220 --> 00:18:31,900
+Mesin kedua dimatikan.
+
+375
+00:18:39,940 --> 00:18:41,340
+Kedua mesin berhasil dipisahkan.
+
+376
+00:18:41,420 --> 00:18:43,980
+Bagus! Bagus!
+
+377
+00:18:45,300 --> 00:18:46,220
+Bagus! Bagus! Bagus!
+
+378
+00:18:48,900 --> 00:18:50,260
+Misi kita telah selesai.
+
+379
+00:18:50,300 --> 00:18:52,380
+Sebagai tim Prob Antariksa,
+kalian harus berjuang!
+
+380
+00:18:52,700 --> 00:18:53,420
+Kerja bagus!
+
+381
+00:18:53,700 --> 00:18:55,060
+Roketnya diluncurkan dengan baik!
+
+382
+00:18:55,060 --> 00:18:55,420
+Ini adalah
+
+383
+00:18:55,420 --> 00:18:56,900
+sebuah awal yang baik untuk kita.
+
+384
+00:18:56,900 --> 00:18:57,980
+Mulai hari ini
+
+385
+00:18:58,260 --> 00:19:00,860
+akhirnya aku bisa tidur dengan nyenyak.
+
+386
+00:19:01,380 --> 00:19:02,380
+Berjuanglah!
+
+387
+00:19:10,500 --> 00:19:11,660
+Aku benar-benar tidak mengerti.
+
+388
+00:19:11,900 --> 00:19:13,700
+Bukankah mereka sudah berhasil?
+
+389
+00:19:14,620 --> 00:19:16,060
+Peluncuran roketnya berhasil.
+
+390
+00:19:16,060 --> 00:19:16,860
+Namun,
+untuk pelacakan eksplorasi luar angkasa
+
+391
+00:19:16,860 --> 00:19:17,420
+masih harus menunggu.
+
+392
+00:19:22,340 --> 00:19:23,700
+Namun, biar bagaimanapun juga,
+
+393
+00:19:24,580 --> 00:19:26,260
+Prob Antariksa
+itu sudah berhasil mengangkasa.
+
+394
+00:19:52,780 --> 00:19:54,980
+Instalasi energi nuklirnya
+beroperasi normal.
+
+395
+00:19:59,980 --> 00:20:02,060
+Antenanya beroperasi normal.
+
+396
+00:20:03,380 --> 00:20:05,460
+Pengaturan detektornya sudah selesai.
+
+397
+00:20:05,460 --> 00:20:08,220
+Baiklah.
+
+398
+00:20:20,340 --> 00:20:21,820
+Para ketua tim yang terhormat,
+
+399
+00:20:21,820 --> 00:20:22,700
+para ilmuwan,
+
+400
+00:20:23,060 --> 00:20:24,220
+beserta rekan-rekan sejawat!
+
+401
+00:20:24,220 --> 00:20:25,700
+(Tujuan Kita adalah Lautan Bintang!)
+
+402
+00:20:25,700 --> 00:20:26,860
+Menurut laporan dari
+
+403
+00:20:27,540 --> 00:20:30,420
+markas pusat penerbangan di Beijing,
+
+404
+00:20:31,060 --> 00:20:33,300
+Roket Long March 5
+
+405
+00:20:33,940 --> 00:20:35,500
+mengudara dengan normal!
+
+406
+00:20:35,860 --> 00:20:37,660
+Prob Antariksa Dewa Pencarian
+
+407
+00:20:37,980 --> 00:20:40,780
+telah berhasil masuk ke orbit yang
+sudah kita tentukan.
+
+408
+00:20:41,420 --> 00:20:44,340
+Instalasi energi nuklirnya normal.
+
+409
+00:20:45,260 --> 00:20:46,260
+Sekarang,
+
+410
+00:20:46,380 --> 00:20:47,500
+aku umumkan secara resmi,
+
+411
+00:20:48,180 --> 00:20:50,140
+(Pusat Peluncuran Cape, Tiongkok)
+peluncuran Prob Antariksa Dewa Pencarian
+
+412
+00:20:50,140 --> 00:20:51,940
+telah diselesaikan dengan baik!
+
+413
+00:20:51,940 --> 00:20:52,420
+Bagus!
+
+414
+00:20:52,420 --> 00:20:53,340
+Bagus! Bagus!
+
+415
+00:20:53,340 --> 00:20:55,140
+Bagus!
+
+416
+00:20:57,180 --> 00:21:01,100
+(Tujuan Kita adalah Lautan Bintang!)
+
+417
+00:21:01,260 --> 00:21:02,220
+Pada kesempatan kali ini,
+
+418
+00:21:02,900 --> 00:21:05,660
+sebagai perwakilan
+markas penelitian Haijiao,
+
+419
+00:21:06,620 --> 00:21:07,780
+aku mengucapkan selamat kepada
+
+420
+00:21:08,060 --> 00:21:10,620
+semua tim dan para ilmuwan
+
+421
+00:21:10,620 --> 00:21:12,620
+yang telah berkontribusi
+
+422
+00:21:12,620 --> 00:21:14,620
+dalam proyek peluncuran ini.
+
+423
+00:21:15,100 --> 00:21:16,860
+(Pusat Peluncuran Cape, Tiongkok)
+Peluncuran roket kali ini
+
+424
+00:21:17,580 --> 00:21:18,860
+secara resmi dinyatakan selesai!
+
+425
+00:21:18,860 --> 00:21:19,900
+Terima kasih!
+
+426
+00:21:19,900 --> 00:21:23,740
+Bagus!
+
+427
+00:21:42,820 --> 00:21:51,740
+(Selamat Atas Keberhasilan
+Misi Peluncuran Dewa Pencarian)
+
+428
+00:22:03,660 --> 00:22:06,140
+Apakah kalau seperti ini
+kita kelihatan bodoh?
+
+429
+00:22:06,660 --> 00:22:07,860
+Aku senang sekali.
+
+430
+00:22:07,860 --> 00:22:08,620
+Ya.
+
+431
+00:22:10,340 --> 00:22:11,580
+Yang lainnya sudah pergi.
+
+432
+00:22:13,140 --> 00:22:14,700
+Kalau begitu, sebaiknya kita pergi juga.
+
+433
+00:22:14,980 --> 00:22:15,460
+Tunggu.
+
+434
+00:22:15,460 --> 00:22:16,580
+Nanti akan ada wawancara.
+
+435
+00:22:16,580 --> 00:22:18,060
+Kita pergi setelah menonton wawancaranya.
+
+436
+00:22:23,020 --> 00:22:24,260
+(Tujuan Kita adalah Lautan Bintang!)
+
+437
+00:22:26,500 --> 00:22:27,100
+Saat ini,
+
+438
+00:22:27,100 --> 00:22:28,380
+semua orang di aula
+
+439
+00:22:28,380 --> 00:22:29,740
+sedang larut dalam kebahagiaan.
+
+440
+00:22:29,820 --> 00:22:31,500
+Mereka merayakan keberhasilan
+
+441
+00:22:31,500 --> 00:22:33,180
+peluncuran Prob Antariksa Dewa Pencarian.
+
+442
+00:22:33,180 --> 00:22:34,260
+Kami mengundang
+
+443
+00:22:34,260 --> 00:22:36,060
+wakil tim penelitian
+Prob Antariksa Dewa Pencarian
+
+444
+00:22:36,060 --> 00:22:36,900
+untuk wawancara singkat.
+
+445
+00:22:36,900 --> 00:22:38,100
+Hu!
+
+446
+00:22:38,420 --> 00:22:39,260
+Hu!
+
+447
+00:22:39,260 --> 00:22:40,260
+Li, cepat lihat!
+
+448
+00:22:40,260 --> 00:22:40,740
+Hu diwawancarai!
+
+449
+00:22:40,740 --> 00:22:41,940
+Aku merasa sangat terharu.
+
+450
+00:22:41,940 --> 00:22:42,660
+Setelah sepuluh tahun,
+
+451
+00:22:42,660 --> 00:22:44,300
+Dewa Pencarian kami
+akhirnya mengudara hari ini dan
+
+452
+00:22:44,300 --> 00:22:46,140
+akan segera memulai tugasnya.
+
+453
+00:22:46,140 --> 00:22:47,500
+Terlebih lagi, peluncuran roket hari ini
+
+454
+00:22:47,500 --> 00:22:48,580
+berlangsung sempurna.
+
+455
+00:22:48,580 --> 00:22:49,940
+(Pusat Peluncuran Cape,)
+Akurasi orbitnya cukup tinggi.
+
+456
+00:22:49,940 --> 00:22:50,980
+(Peluncuran Prob Antariksa)
+Ini adalah sebuah awal yang baik
+
+457
+00:22:50,980 --> 00:22:52,020
+(Margin Surya Dewa Pencarian Berhasil!)
+bagi pelacakan luar angkasa
+
+458
+00:22:52,020 --> 00:22:53,540
+yang akan dilakukan Prob Antariksa kami.
+
+459
+00:22:54,340 --> 00:22:56,740
+Sebelumnya Anda bilang Prob Antariksa
+akan mulai melakukan tugasnya.
+
+460
+00:22:56,740 --> 00:22:57,980
+Dalam siaran sebelumnya,
+
+461
+00:22:57,980 --> 00:22:59,340
+Anda terus menekankan bahwa
+
+462
+00:22:59,340 --> 00:23:00,740
+tugas utama Dewa Pencarian
+
+463
+00:23:00,740 --> 00:23:02,260
+baru benar-benar dimulai
+
+464
+00:23:02,260 --> 00:23:03,300
+setelah dia berhasil diluncurkan. Benar?
+
+465
+00:23:03,300 --> 00:23:03,900
+Ya.
+
+466
+00:23:03,900 --> 00:23:04,700
+Sebagai sistem detektor tata surya,
+
+467
+00:23:04,700 --> 00:23:06,380
+keberhasilan peluncuran
+
+468
+00:23:06,860 --> 00:23:07,660
+Prob Antariksa Dewa Pencarian
+
+469
+00:23:07,660 --> 00:23:08,900
+hanya sebuah awal.
+
+470
+00:23:08,900 --> 00:23:10,500
+Perjalanannya masih panjang.
+
+471
+00:23:10,500 --> 00:23:12,300
+Masih banyak tantangan yang
+harus kami hadapi ke depannya.
+
+472
+00:23:12,300 --> 00:23:13,420
+(Selamat Atas Keberhasilan)
+Kemudian, apa keunggulan
+
+473
+00:23:13,420 --> 00:23:14,340
+(Misi Peluncuran Dewa Pencarian)
+Dewa Pencarian
+
+474
+00:23:14,340 --> 00:23:16,060
+sebagai Prob Antariksa
+dengan tujuan terjauh
+
+475
+00:23:16,060 --> 00:23:17,540
+yang pernah diproduksi negara kita?
+
+476
+00:23:18,340 --> 00:23:19,340
+Tujuan Dewa Pencarian adalah
+
+477
+00:23:19,340 --> 00:23:21,220
+mengeksplorasi sistem tata surya.
+
+478
+00:23:21,220 --> 00:23:21,860
+Untuk mengeksplorasi
+
+479
+00:23:21,860 --> 00:23:23,500
+bulan dan planet Mars,
+
+480
+00:23:23,500 --> 00:23:24,940
+dia harus terbang lebih jauh.
+
+481
+00:23:24,940 --> 00:23:26,260
+Jadi, lingkungan galaksi
+yang akan ditemuinya
+
+482
+00:23:26,260 --> 00:23:27,420
+cukup kompleks.
+
+483
+00:23:27,420 --> 00:23:28,140
+Oleh sebab itu,
+
+484
+00:23:28,140 --> 00:23:29,700
+sebagai ilmuwan di institusi penelitian,
+
+485
+00:23:29,700 --> 00:23:31,580
+kami menghadapi berbagai masalah teknis
+yang rumit.
+
+486
+00:23:32,220 --> 00:23:33,380
+Apakah ada teknologi baru
+
+487
+00:23:33,380 --> 00:23:35,140
+yang dimasukkan ke dalam Dewa Pencarian?
+
+488
+00:23:35,140 --> 00:23:35,780
+Bisakah Anda menjelaskannya
+dengan sederhana
+
+489
+00:23:35,780 --> 00:23:37,180
+kepada kami semua?
+
+490
+00:23:37,820 --> 00:23:38,740
+Sebagai contohnya,
+
+491
+00:23:38,740 --> 00:23:39,340
+Dewa Pencarian dilengkapi dengan
+
+492
+00:23:39,340 --> 00:23:41,100
+sistem penggerak pesawat
+ulang alik terbaru.
+
+493
+00:23:41,100 --> 00:23:42,140
+Kami sudah mengembangkan
+
+494
+00:23:42,140 --> 00:23:43,660
+teknologi inti ini selama dua tahun.
+
+495
+00:23:44,060 --> 00:23:44,780
+Kami mengembangkan
+
+496
+00:23:44,780 --> 00:23:46,060
+instalasi nuklir
+
+497
+00:23:46,060 --> 00:23:48,260
+untuk menggantikan
+panel surya yang konvensional.
+
+498
+00:23:48,420 --> 00:23:48,740
+(Hu Kehang,)
+Terima kasih, Pak Hu,
+
+499
+00:23:48,740 --> 00:23:49,300
+(Wakil Kepala Desainer Dewa Pencarian)
+Terima kasih, Pak Hu,
+
+500
+00:23:49,300 --> 00:23:50,260
+(Grup Teknologi Antariksa Tiongkok)
+atas kesediaan Anda untuk kami wawancarai.
+
+501
+00:23:50,260 --> 00:23:51,860
+(Pusat Peluncuran Cape,)
+Mari kita berdoa bersama-sama
+
+502
+00:23:51,860 --> 00:23:52,660
+(Peluncuran Prob Antariksa)
+agar Dewa Pencarian kita
+
+503
+00:23:52,660 --> 00:23:53,820
+(Margin Surya Dewa Pencarian Berhasil!)
+mampu terbang jauh
+
+504
+00:23:53,820 --> 00:23:55,660
+untuk mewujudkan impian umat manusia.
+
+505
+00:23:55,860 --> 00:23:57,900
+Pak Hu terlihat
+lebih tampan dari biasanya.
+
+506
+00:23:58,220 --> 00:23:59,140
+Ini pasti
+
+507
+00:23:59,140 --> 00:24:00,620
+karena pengaruh profesinya
+yang menakjubkan.
+
+508
+00:24:01,820 --> 00:24:02,700
+Jingjing,
+
+509
+00:24:02,700 --> 00:24:03,220
+kenapa Pak Yu
+
+510
+00:24:03,220 --> 00:24:04,620
+tidak diwawancarai?
+
+511
+00:24:05,740 --> 00:24:07,460
+Aku rasa reporternya mewawancarai
+
+512
+00:24:07,460 --> 00:24:08,660
+orang yang terlihat menarik.
+
+513
+00:24:09,060 --> 00:24:10,740
+Kalau begitu,
+dia seharusnya mewawancarai Pak Yu.
+
+514
+00:24:10,740 --> 00:24:11,420
+Ya.
+
+515
+00:24:13,780 --> 00:24:15,100
+Lebih baik kita menunggu sebentar.
+
+516
+00:24:15,100 --> 00:24:15,780
+Setelah mereka keluar,
+
+517
+00:24:15,780 --> 00:24:16,740
+kita bisa pulang bersama.
+
+518
+00:24:16,740 --> 00:24:17,580
+Baiklah.
+
+519
+00:24:17,580 --> 00:24:17,900
+Kalau begitu,
+
+520
+00:24:17,900 --> 00:24:19,460
+kapan mereka akan keluar dari markas?
+
+521
+00:24:19,900 --> 00:24:20,580
+Aku tidak tahu.
+
+522
+00:24:20,580 --> 00:24:21,940
+Bukankah kita harus menunggu mereka?
+
+523
+00:24:21,940 --> 00:24:23,340
+Ka...kalian bisa tidur nyenyak.
+
+524
+00:24:23,340 --> 00:24:24,940
+Kami tidak tidur.
+Kami tidak tidur.
+
+525
+00:24:24,940 --> 00:24:25,340
+Lebih baik
+
+526
+00:24:25,340 --> 00:24:26,660
+kita mengobrol bersama.
+
+527
+00:24:26,660 --> 00:24:27,620
+Ya, ya, ya.
+
+528
+00:24:28,300 --> 00:24:29,020
+Pak Zhang,
+
+529
+00:24:29,020 --> 00:24:30,420
+bolehkah kami menunggu di sini?
+
+530
+00:24:30,420 --> 00:24:31,260
+Boleh.
+
+531
+00:24:31,260 --> 00:24:31,980
+Yang penting,
+
+532
+00:24:31,980 --> 00:24:33,140
+kalian tidak berkeliaran sendirian.
+
+533
+00:24:33,140 --> 00:24:34,100
+Kami tidak akan melakukannya.
+
+534
+00:24:34,100 --> 00:24:34,660
+Kami tidak akan begitu.
+
+535
+00:24:34,660 --> 00:24:35,900
+Baiklah. Baguslah kalau begitu.
+
+536
+00:24:41,420 --> 00:24:42,660
+Mereka sudah keluar!
+
+537
+00:24:42,860 --> 00:24:45,220
+Mereka pasti para ilmuwan
+yang meluncurkan roket.
+
+538
+00:24:45,220 --> 00:24:47,220
+Mungkin tim Prob Antariksa masih lama.
+
+539
+00:24:51,060 --> 00:24:51,980
+Istriku sudah keluar!
+
+540
+00:24:51,980 --> 00:24:52,860
+Semuanya, aku pergi dulu, ya.
+
+541
+00:24:52,860 --> 00:24:54,420
+Sampai nanti. Sampai nanti.
+
+542
+00:25:02,900 --> 00:25:03,580
+Sebentar.
+
+543
+00:25:03,580 --> 00:25:04,420
+Baiklah. Baiklah.
+
+544
+00:25:04,420 --> 00:25:05,300
+Baiklah. Sampai jumpa!
+
+545
+00:25:07,220 --> 00:25:08,300
+Akademikus Xiao!
+
+546
+00:25:08,860 --> 00:25:09,900
+Ka...kalian?
+
+547
+00:25:10,260 --> 00:25:10,740
+Kenapa kalian semua
+
+548
+00:25:10,740 --> 00:25:12,260
+menunggu di sini?
+
+549
+00:25:13,780 --> 00:25:14,740
+Qiao?
+
+550
+00:25:15,140 --> 00:25:16,420
+Ini pasti idemu, kan?
+
+551
+00:25:16,420 --> 00:25:17,260
+Ya.
+
+552
+00:25:18,060 --> 00:25:19,900
+Suami istri sama saja.
+
+553
+00:25:20,620 --> 00:25:21,580
+Terlebih lagi
+
+554
+00:25:21,580 --> 00:25:22,700
+kalian berdua sangat perhatian,
+
+555
+00:25:22,700 --> 00:25:23,780
+juga sangat cerdas.
+
+556
+00:25:25,620 --> 00:25:26,940
+Yu Tu akan keluar
+
+557
+00:25:26,940 --> 00:25:28,020
+sebentar lagi.
+
+558
+00:25:28,020 --> 00:25:29,060
+Peluncuran roket hari ini
+
+559
+00:25:29,060 --> 00:25:30,540
+sesuai ekspektasi.
+
+560
+00:25:30,860 --> 00:25:31,780
+Dia tidak akan lama.
+
+561
+00:25:31,780 --> 00:25:32,780
+Aku akan menunggunya.
+
+562
+00:25:32,780 --> 00:25:33,700
+Baiklah. Baiklah.
+
+563
+00:25:33,980 --> 00:25:34,740
+Kalau begitu,
+
+564
+00:25:34,740 --> 00:25:35,820
+kami pulang dulu.
+
+565
+00:25:35,980 --> 00:25:36,740
+Baik.
+
+566
+00:25:36,900 --> 00:25:37,980
+Baiklah. Sampai nanti.
+
+567
+00:25:37,980 --> 00:25:38,980
+Sampai nanti, Akademikus Xiao.
+
+568
+00:25:38,980 --> 00:25:39,940
+Sampai nanti. Sampai nanti.
+
+569
+00:25:39,940 --> 00:25:41,020
+Sampai nanti, Akademikus Xiao.
+
+570
+00:25:41,020 --> 00:25:41,540
+Semuanya,
+
+571
+00:25:41,540 --> 00:25:42,420
+aku akan mengantar Akademikus Xiao dulu.
+
+572
+00:25:42,420 --> 00:25:43,020
+Aku pergi dulu.
+
+573
+00:25:43,020 --> 00:25:44,740
+Terima kasih banyak.
+
+574
+00:25:47,940 --> 00:25:48,980
+Suamiku sudah keluar.
+
+575
+00:25:48,980 --> 00:25:49,820
+Suamiku juga sudah keluar.
+
+576
+00:25:49,820 --> 00:25:51,180
+Sampai nanti. Sampai nanti.
+
+577
+00:25:53,820 --> 00:25:55,060
+Suamiku sudah keluar.
+
+578
+00:25:55,060 --> 00:25:55,980
+Kalau begitu, aku pergi dulu.
+
+579
+00:25:55,980 --> 00:25:56,340
+Baiklah.
+
+580
+00:25:56,340 --> 00:25:57,620
+- Sampai nanti.
+- Sampai nanti.
+
+581
+00:25:58,580 --> 00:25:59,540
+Suamiku juga sudah keluar.
+
+582
+00:25:59,540 --> 00:26:00,940
+- Aku pergi dulu.
+- Sampai jumpa.
+
+583
+00:26:04,900 --> 00:26:06,100
+Hanya tinggal kita berdua.
+
+584
+00:26:09,940 --> 00:26:11,460
+Hu, di sini!
+
+585
+00:26:12,340 --> 00:26:13,220
+Itu istrimu.
+
+586
+00:26:13,460 --> 00:26:14,380
+- Maaf merepotkanmu.
+- Bukan apa-apa.
+
+587
+00:26:14,460 --> 00:26:15,220
+Beristirahatlah lebih awal.
+
+588
+00:26:15,260 --> 00:26:15,900
+Aku pergi dulu.
+
+589
+00:26:15,900 --> 00:26:16,700
+Tidak apa-apa.
+
+590
+00:26:17,740 --> 00:26:18,540
+Kemarilah!
+
+591
+00:26:28,180 --> 00:26:29,340
+Kau menungguku?
+
+592
+00:26:31,580 --> 00:26:33,100
+Memangnya siapa lagi?
+
+593
+00:26:33,500 --> 00:26:34,260
+Mana Yu Tu?
+
+594
+00:26:34,260 --> 00:26:35,340
+Kenapa belum keluar juga?
+
+595
+00:26:35,340 --> 00:26:36,500
+Dia keluar bersamaku tadi.
+
+596
+00:26:36,500 --> 00:26:37,780
+Sepertinya ada seseorang yang
+mengajaknya ngobrol sebentar.
+
+597
+00:26:37,780 --> 00:26:39,020
+Dia akan keluar sebentar lagi.
+
+598
+00:26:44,940 --> 00:26:45,700
+Kalau begitu,
+
+599
+00:26:45,700 --> 00:26:47,060
+kami akan menemanimu menunggunya.
+
+600
+00:26:47,060 --> 00:26:48,020
+Jangan, jangan.
+
+601
+00:26:48,020 --> 00:26:48,980
+Jangan menjadi nyamuk
+
+602
+00:26:48,980 --> 00:26:50,540
+di antara aku dan Yu Tu.
+
+603
+00:26:58,500 --> 00:26:59,300
+Hu,
+
+604
+00:26:59,300 --> 00:27:00,500
+Yu Tu bilang
+
+605
+00:27:00,500 --> 00:27:01,260
+kau menulis
+
+606
+00:27:01,260 --> 00:27:02,500
+surat pemohonan maaf itu berkali-kali.
+
+607
+00:27:03,140 --> 00:27:04,260
+Apakah kau sudah menyelesaikannya?
+
+608
+00:27:10,260 --> 00:27:11,460
+Tidak perlu minta maaf.
+
+609
+00:27:13,540 --> 00:27:14,820
+Ini bukan salah siapa-siapa.
+
+610
+00:27:17,660 --> 00:27:19,100
+Berikan aku sedikit waktu untuk berpikir.
+
+611
+00:27:19,900 --> 00:27:20,980
+Kita akan membicarakannya di rumah.
+
+612
+00:27:23,460 --> 00:27:24,180
+Baiklah.
+
+613
+00:27:47,180 --> 00:27:48,580
+Sepertinya aku melihat Yu Tu.
+
+614
+00:27:48,580 --> 00:27:49,660
+Kalian berdua pulanglah lebih dulu.
+
+615
+00:27:49,660 --> 00:27:50,540
+Jangan jadi "nyamuk" di sini.
+
+616
+00:27:50,540 --> 00:27:51,620
+Cepat, cepat.
+
+617
+00:27:51,820 --> 00:27:53,140
+Sana, sana.
+
+618
+00:28:12,340 --> 00:28:14,340
+(Pintu Masuk)
+
+619
+00:28:30,140 --> 00:28:31,940
+Jangan-jangan dia ingin meneleponku?
+
+620
+00:28:33,260 --> 00:28:34,260
+(Tidak Ada Pemberitahuan)
+
+621
+00:28:41,460 --> 00:28:42,700
+Benar-benar keterlaluan.
+
+622
+00:28:43,100 --> 00:28:44,420
+Ternyata dia bukan meneleponku.
+
+623
+00:28:53,820 --> 00:28:54,580
+Masih ada banyak penelitian
+
+624
+00:28:54,580 --> 00:28:55,860
+yang harus kulakukan setelah
+proyek Dewa Pencarian.
+
+625
+00:28:58,180 --> 00:28:59,500
+Namun, sejauh ini,
+
+626
+00:29:01,620 --> 00:29:02,780
+kau bisa mengandalkanku.
+
+627
+00:29:12,820 --> 00:29:13,620
+(Guan Zai)
+
+628
+00:29:13,740 --> 00:29:17,020
+(Jingjing)
+
+629
+00:29:19,260 --> 00:29:20,500
+(Yu Tu)
+
+630
+00:29:31,300 --> 00:29:32,500
+Kau melihatnya?
+
+631
+00:29:35,260 --> 00:29:36,380
+Ya. Aku meihatnya.
+
+632
+00:29:38,700 --> 00:29:39,980
+Selamat.
+
+633
+00:29:39,980 --> 00:29:41,180
+Peluncuran roket kalian sukses.
+
+634
+00:29:48,380 --> 00:29:49,380
+Jingjing.
+
+635
+00:29:50,700 --> 00:29:52,020
+Saat peluncuran itu dinyatakan berhasil,
+
+636
+00:29:52,020 --> 00:29:53,460
+semua orang bertepuk tangan.
+
+637
+00:29:55,020 --> 00:29:55,700
+Tiba-tiba aku teringat,
+
+638
+00:29:55,700 --> 00:29:56,820
+bertahun-tahun lalu,
+
+639
+00:29:57,340 --> 00:29:58,420
+kau pernah bilang padaku bahwa
+
+640
+00:30:00,340 --> 00:30:01,100
+kau sudah pernah melihat
+
+641
+00:30:01,100 --> 00:30:03,100
+seekor kelinci penuh bintang.
+
+642
+00:30:07,260 --> 00:30:08,220
+Hari ini,
+
+643
+00:30:10,340 --> 00:30:11,100
+aku benar-benar bisa
+
+644
+00:30:11,100 --> 00:30:12,820
+melihat lebih banyak bintang.
+
+645
+00:30:15,780 --> 00:30:16,660
+Terima kasih.
+
+646
+00:30:22,140 --> 00:30:23,340
+Berbaliklah.
+
+647
+00:30:24,020 --> 00:30:25,220
+Aku di belakangmu.
+
+648
+00:30:39,060 --> 00:30:40,060
+Dasar nakal.
+
+649
+00:30:40,460 --> 00:30:41,540
+Padahal kau sudah dewasa.
+
+650
+00:30:45,700 --> 00:30:49,460
+♪Kau mengarungi lautan bintang
+Datang dengan membawa cahaya♪
+
+651
+00:30:49,500 --> 00:30:53,420
+♪Hatiku sangat tenang
+Dan penuh dengan rasa cinta terhadapmu♪
+
+652
+00:30:53,460 --> 00:31:01,100
+♪Cinta berbeda dari pemikiran orang lain
+Kembang api disambut oleh bintang♪
+
+653
+00:31:01,140 --> 00:31:04,580
+♪Berbalik badan baru mengerti
+Hatiku menjadi kosong sebagian♪
+
+654
+00:31:04,580 --> 00:31:05,580
+Maaf menyulitkanmu.
+
+655
+00:31:08,300 --> 00:31:09,820
+Aku minta maaf untuk
+beberapa tahun ini.
+
+656
+00:31:13,020 --> 00:31:14,620
+Aku sedikit ceroboh.
+
+657
+00:31:20,580 --> 00:31:21,860
+Tidak apa-apa.
+
+658
+00:31:25,660 --> 00:31:27,220
+Aku bangga padamu.
+
+659
+00:31:29,700 --> 00:31:31,220
+Aku bangga pada kalian.
+
+660
+00:31:39,980 --> 00:31:42,500
+♪Hatiku tergerak♪
+
+661
+00:31:42,500 --> 00:31:52,020
+♪Namun takut tidak sepadan
+Dengan masa depan yang kau inginkan♪
+
+662
+00:31:53,980 --> 00:31:54,740
+Ayo.
+
+663
+00:31:55,220 --> 00:31:56,580
+Kita harus merayakannya.
+
+664
+00:31:57,820 --> 00:31:59,060
+Ada perayaan?
+
+665
+00:31:59,500 --> 00:32:00,140
+Tentu saja.
+
+666
+00:32:00,860 --> 00:32:02,100
+Bisa dibilang
+
+667
+00:32:02,500 --> 00:32:03,220
+ini adalah perayaan keberhasilan
+
+668
+00:32:03,220 --> 00:32:04,820
+institusi penelitian roket
+dan markas antariksa.
+
+669
+00:32:06,380 --> 00:32:06,900
+Oh ya,
+
+670
+00:32:07,100 --> 00:32:08,940
+Dewa Pencarian sekarang terbang
+ke mana, ya?
+
+671
+00:32:10,100 --> 00:32:11,180
+Dewa Pencarian?
+
+672
+00:32:12,260 --> 00:32:13,500
+Dia baru saja memulai
+
+673
+00:32:14,340 --> 00:32:15,660
+perjalanan panjangnya.
+
+674
+00:32:51,980 --> 00:32:58,820
+=Kau Kebanggaanku=
+
+675
+00:33:03,820 --> 00:33:08,820
+(Demi bintang yang lebih banyak,
+demi galaksi yang lebih jauh.)
+
+676
+00:33:27,820 --> 00:33:33,780
+♪Aku memimpikan cahaya bintang
+Menggandeng lengan baju♪
+
+677
+00:33:34,900 --> 00:33:40,820
+♪Kemeja putih menutupi bahu yang kurus♪
+
+678
+00:33:41,980 --> 00:33:48,380
+♪Aku pernah melihat
+Waktu yang berlalu menyembuhkan luka♪
+
+679
+00:33:49,100 --> 00:33:55,980
+♪Selalu ada orang berlari menuju
+Hal yang tidak berubah selamanya♪
+
+680
+00:33:56,740 --> 00:33:58,940
+♪Persimpangan yang ramai♪
+
+681
+00:33:59,420 --> 00:34:03,340
+♪Di bawah cahaya api yang akan redup
+Tanpa sengaja membalikkan kepala♪
+
+682
+00:34:03,540 --> 00:34:09,780
+♪Pernah mencintaimu
+Mata yang tenang menatap langit♪
+
+683
+00:34:10,660 --> 00:34:15,780
+♪Juga pernah mencintaimu
+Alam semesta di dalam hati♪
+
+684
+00:34:17,780 --> 00:34:24,580
+♪Waktu tidak berhenti, malam hari
+Mengingat penyesalan yang berharga♪
+
+685
+00:34:24,980 --> 00:34:32,900
+♪Angin melewati gedung tinggi
+Sudah tidak ada orang yang menunggu♪
+
+686
+00:35:00,820 --> 00:35:06,980
+♪Aku juga pernah mendambakan
+Untuk mengelilingi planet♪
+
+687
+00:35:07,940 --> 00:35:14,620
+♪Mengarungi lapisan awan
+Untuk melihat galaksi ♪
+
+688
+00:35:15,180 --> 00:35:21,980
+♪Aku juga pernah menatap perbukitan
+Dengan rasa tidak berdaya♪
+
+689
+00:35:22,260 --> 00:35:29,500
+♪Apakah jalan keluar mimpi tersambung
+Menuju ujung langit berbintang?♪
+
+690
+00:35:29,860 --> 00:35:32,100
+♪Tanpa sengaja membalikkan kepala♪
+
+691
+00:35:32,540 --> 00:35:36,460
+♪Galaksi mana yang sedang aku arungi?♪
+
+692
+00:35:36,620 --> 00:35:43,340
+♪Menatap bintang mana
+Yang merupakan matamu♪
+
+693
+00:35:43,780 --> 00:35:48,900
+♪Tak dapat digapai
+Cahaya yang sulit dimiliki♪
+
+694
+00:35:51,020 --> 00:35:58,020
+♪Waktu tidak menahan musim semi dan gugur
+Yang berubah seiring berjalannya waktu♪
+
+695
+00:35:58,140 --> 00:36:08,220
+♪Angin santai dan bebas
+Aku mendengarkan kelembutan waktu♪
+
