@@ -1,0 +1,4530 @@
+﻿1
+00:00:27,540 --> 00:00:31,000
+♪Mengatur cara cinta secara rahsia♪
+
+2
+00:00:31,540 --> 00:00:35,000
+♪Ctrl+Cinta♪
+
+3
+00:00:35,540 --> 00:00:39,460
+♪Sistem angka perduaan dipenuhi
+dengan rasa rindu saya terhadap awak♪
+
+4
+00:00:43,460 --> 00:00:46,900
+♪Menyandarkan setiap keprihatinan awak♪
+
+5
+00:00:47,460 --> 00:00:50,900
+♪Dua hati saling mendekati
+perlahan-lahan♪
+
+6
+00:00:51,100 --> 00:00:56,300
+♪Setiap kali saya menekannya,
+semua kod adalah saya menyukai awak♪
+
+7
+00:00:56,820 --> 00:00:59,500
+♪Saya mahu mengharungi kegelapan♪
+
+8
+00:00:59,540 --> 00:01:04,100
+♪Dan berusaha
+menewaskan pepijat demi awak♪
+
+9
+00:01:05,660 --> 00:01:09,460
+♪Saya bersedia pada bila-bila masa
+dan tidak akan nahas sistem selamanya♪
+
+10
+00:01:09,740 --> 00:01:11,860
+♪Untuk menemui awak♪
+
+11
+00:01:12,180 --> 00:01:13,860
+♪Untuk menemui awak♪
+
+12
+00:01:13,860 --> 00:01:15,493
+♪Saya mahu bersama awak♪
+
+13
+00:01:15,494 --> 00:01:17,500
+♪Dan tinggal dalam pangkuan awak♪
+
+14
+00:01:17,540 --> 00:01:21,500
+♪Melalui empat musim♪
+
+15
+00:01:21,780 --> 00:01:25,180
+♪Memasukkan
+pengaturcaraan saya dan awak♪
+
+16
+00:01:25,580 --> 00:01:29,900
+♪Setiap pengaturcaraan
+adalah ajaib dan manis♪
+
+17
+00:01:31,740 --> 00:01:35,460
+♪Memasukkan
+pengaturcaraan saya dan awak♪
+
+18
+00:01:35,620 --> 00:01:39,820
+♪Setiap pengaturcaraan
+adalah ajaib dan manis♪
+
+19
+00:01:40,540 --> 00:01:45,700
+=Cute Programmer=
+
+20
+00:01:46,060 --> 00:01:48,220
+=Episod 12=
+
+21
+00:01:57,080 --> 00:01:57,760
+(Mari ke pejabat saya.)
+
+22
+00:02:11,880 --> 00:02:12,630
+Semua orang.
+
+23
+00:02:12,880 --> 00:02:13,440
+Mari.
+
+24
+00:02:13,440 --> 00:02:14,240
+Merasainya.
+
+25
+00:02:14,320 --> 00:02:15,360
+Isteri saya buatkan kamu biskut.
+
+26
+00:02:15,630 --> 00:02:16,270
+Biskut.
+
+27
+00:02:16,630 --> 00:02:17,520
+Mari.
+
+28
+00:02:18,190 --> 00:02:18,830
+Di mana Abang Lei?
+
+29
+00:02:19,160 --> 00:02:20,190
+Abang Lei pergi ke bilik air.
+
+30
+00:02:20,630 --> 00:02:21,960
+Baru-baru ini, dia selalu begini.
+
+31
+00:02:22,110 --> 00:02:23,160
+Pergi ke bilik air awal pagi.
+
+32
+00:02:23,320 --> 00:02:24,720
+Adakah dia banyak bersetubuh
+
+33
+00:02:24,830 --> 00:02:25,550
+dan menyebabkan buah pinggangnya lemah?
+
+34
+00:02:25,670 --> 00:02:26,520
+Jangan mengarut.
+
+35
+00:02:27,270 --> 00:02:27,830
+Xiao Lu.
+
+36
+00:02:28,240 --> 00:02:28,720
+Lu.
+
+37
+00:02:29,030 --> 00:02:29,550
+Mari sini.
+
+38
+00:02:30,160 --> 00:02:30,880
+Makan biskut.
+
+39
+00:02:31,670 --> 00:02:32,240
+Sedap, kan?
+
+40
+00:02:34,160 --> 00:02:34,910
+Si Beruk.
+
+41
+00:02:35,600 --> 00:02:36,830
+Saya nak tanya awak satu soalan.
+
+42
+00:02:37,360 --> 00:02:39,600
+Apa perasaan mempunyai seorang isteri?
+
+43
+00:02:39,720 --> 00:02:40,470
+Tanya lagi.
+
+44
+00:02:40,910 --> 00:02:42,830
+Saya hanya ingin bercinta tanpa pepijat.
+
+45
+00:02:42,960 --> 00:02:44,000
+Mengapa begitu susah?
+
+46
+00:02:44,160 --> 00:02:44,800
+Percintaan tanpa pepijat.
+
+47
+00:02:45,080 --> 00:02:46,080
+Seperti Lu Li,
+
+48
+00:02:46,270 --> 00:02:46,910
+carilah rakan sebidang.
+
+49
+00:02:47,030 --> 00:02:48,670
+Kamu boleh membetulkan pepijat bersama.
+
+50
+00:02:49,110 --> 00:02:49,960
+Ini idea baik.
+
+51
+00:02:50,630 --> 00:02:51,880
+Saya bukan kod perintah.
+
+52
+00:02:52,240 --> 00:02:54,320
+Mengapa kamu fikir tentang saya
+sejurus cakap tentang pepijat?
+
+53
+00:02:57,910 --> 00:02:59,600
+Adakah awak tahu tentang
+peristiwa Encik Jiang?
+
+54
+00:03:00,270 --> 00:03:01,190
+Tentang apa?
+
+55
+00:03:01,750 --> 00:03:02,830
+Siapa itu Li Man?
+
+56
+00:03:02,960 --> 00:03:03,320
+Ya.
+
+57
+00:03:03,470 --> 00:03:04,320
+Awak patut berikan perhatian
+dalam hal ini.
+
+58
+00:03:04,470 --> 00:03:05,240
+Adakah awak ingat
+
+59
+00:03:05,360 --> 00:03:06,750
+mengapa pasukan kita
+digelar Tokong Sami?
+
+60
+00:03:08,520 --> 00:03:10,190
+Adakah awak makan
+bersama Xiaoqi semalam?
+
+61
+00:03:11,190 --> 00:03:12,240
+Rupanya, awak makan bersama Xiaoqi.
+
+62
+00:03:12,520 --> 00:03:13,080
+Hal ini...
+
+63
+00:03:14,750 --> 00:03:15,600
+Lu Li.
+
+64
+00:03:15,720 --> 00:03:16,360
+Adakah Xiaoqi
+
+65
+00:03:16,630 --> 00:03:17,470
+beritahu awak
+
+66
+00:03:17,630 --> 00:03:19,470
+tanggapannya terhadap saya?
+
+67
+00:03:20,720 --> 00:03:21,080
+Dia...
+
+68
+00:03:21,240 --> 00:03:21,960
+Lu Li.
+
+69
+00:03:25,110 --> 00:03:25,800
+Saya suruh awak masuk ke pejabat saya.
+
+70
+00:03:25,910 --> 00:03:26,750
+Awak tak nampakkah?
+
+71
+00:03:27,520 --> 00:03:28,160
+Tak.
+
+72
+00:03:28,600 --> 00:03:29,190
+Apa halnya?
+
+73
+00:03:30,270 --> 00:03:31,440
+Sudahkah awak membetulkan
+antara muka permainan?
+
+74
+00:03:31,800 --> 00:03:33,080
+Saya dah serahkannya semalam.
+
+75
+00:03:33,830 --> 00:03:35,240
+Bagaimana pula dengan
+atur cara pertempuran?
+
+76
+00:03:35,470 --> 00:03:37,960
+Saya dan Abang Lei
+yang bertanggungjawab terhadapnya.
+
+77
+00:03:38,390 --> 00:03:40,320
+Awak kata, serahkannya
+pada minggu depan, bukan?
+
+78
+00:03:40,520 --> 00:03:40,880
+Ya.
+
+79
+00:03:41,270 --> 00:03:42,190
+Mahu makan biskut?
+
+80
+00:03:42,630 --> 00:03:44,240
+Jangan makan sarapan di pejabat kelak.
+
+81
+00:03:44,550 --> 00:03:45,240
+Ini bukan sarapan.
+
+82
+00:03:45,360 --> 00:03:46,270
+Ini makanan ringan.
+
+83
+00:03:46,390 --> 00:03:47,750
+Tak boleh makan
+makanan ringan di pejabat!
+
+84
+00:03:52,360 --> 00:03:54,320
+Adakah awak bertengkar
+dengan Encik Jiang?
+
+85
+00:03:54,830 --> 00:03:55,600
+Kami tak bertengkar,
+
+86
+00:03:55,960 --> 00:03:56,910
+tapi pepijat telah muncul.
+
+87
+00:03:57,470 --> 00:03:58,000
+Pepijat?
+
+88
+00:03:58,080 --> 00:03:58,600
+Pepijat?
+
+89
+00:03:59,000 --> 00:03:59,520
+Apa yang telah berlaku?
+
+90
+00:03:59,670 --> 00:04:00,160
+Pepijat?
+
+91
+00:04:05,620 --> 00:04:06,420
+(Lu Li)
+
+92
+00:04:06,420 --> 00:04:07,820
+(Mengeset maklumat)
+
+93
+00:04:07,820 --> 00:04:09,580
+(Nama ditambah ke dalam senarai disekat)
+
+94
+00:04:10,270 --> 00:04:11,440
+Kalau saya mengambil inisiatif
+untuk hubungi awak lagi,
+
+95
+00:04:12,030 --> 00:04:13,360
+saya akan menjadi koala yang bodoh
+seperti awak.
+
+96
+00:04:28,550 --> 00:04:29,000
+Nampaknya, Xiaoqi
+
+97
+00:04:29,160 --> 00:04:30,920
+tak perlu risau akan
+masalah percintaan awak.
+
+98
+00:04:33,070 --> 00:04:34,510
+Apa?
+
+99
+00:04:35,600 --> 00:04:37,270
+Suasana agak meriah semasa
+hubungan kamu diumumkan semalam.
+
+100
+00:04:37,640 --> 00:04:38,270
+Tahniah.
+
+101
+00:04:40,110 --> 00:04:41,510
+Tiada apa-apa yang menggembirakan.
+
+102
+00:04:43,510 --> 00:04:44,550
+Masalah muncul lagi?
+
+103
+00:04:46,510 --> 00:04:48,320
+Kehidupan seumpama pengaturcaraan,
+
+104
+00:04:49,110 --> 00:04:51,440
+penuh dengan pepijat yang muncul
+dengan tiba-tiba.
+
+105
+00:04:52,320 --> 00:04:53,480
+Awak ialah pengatur cara, bukan?
+
+106
+00:04:55,760 --> 00:04:56,480
+Ya.
+
+107
+00:04:56,880 --> 00:04:58,480
+Namun, saya bukannya reti
+
+108
+00:04:58,830 --> 00:04:59,950
+selesaikan sebarang masalah.
+
+109
+00:05:02,790 --> 00:05:03,480
+Encik Gu.
+
+110
+00:05:04,110 --> 00:05:05,200
+Kalau ada seorang
+
+111
+00:05:05,600 --> 00:05:08,510
+yang lebih sesuai dan lebih memahami
+orang yang awak cintai
+
+112
+00:05:08,670 --> 00:05:09,480
+muncul di sisinya,
+
+113
+00:05:10,160 --> 00:05:11,390
+apa yang akan awak buat?
+
+114
+00:05:11,760 --> 00:05:12,350
+Mudah saja.
+
+115
+00:05:13,070 --> 00:05:14,070
+Cari kelemahannya,
+
+116
+00:05:14,320 --> 00:05:15,720
+fikir jalan untuk menyingkirkannya.
+
+117
+00:05:16,550 --> 00:05:17,270
+Begitu terus terang?
+
+118
+00:05:18,070 --> 00:05:20,040
+Adakah awak nak berbelas kasihan
+terhadap musuh cinta awak?
+
+119
+00:05:22,640 --> 00:05:24,200
+Bagaimana kalau
+
+120
+00:05:24,830 --> 00:05:27,040
+awak yang disingkirkan?
+
+121
+00:05:28,070 --> 00:05:29,480
+Tiada tanggapan begini bagi saya.
+
+122
+00:05:30,320 --> 00:05:31,160
+Sebab, saya tahu bahawa
+
+123
+00:05:31,550 --> 00:05:32,920
+saya ialah orang yang
+paling sesuai untuk dia.
+
+124
+00:05:43,390 --> 00:05:45,720
+(Saya ialah orang yang
+paling sesuai untuk dia.)
+
+125
+00:05:48,950 --> 00:05:49,600
+Encik Jiang.
+
+126
+00:05:52,480 --> 00:05:53,230
+Cik Li tak datang.
+
+127
+00:05:56,160 --> 00:05:56,760
+Apa halnya?
+
+128
+00:05:57,270 --> 00:05:58,480
+Kelak, saya akan mewakili pihak syarikat
+
+129
+00:05:58,600 --> 00:05:59,790
+untuk bincangkan urusan rasmi
+dengan awak.
+
+130
+00:06:00,200 --> 00:06:01,600
+Saya harap awak
+boleh mempertimbangkannya
+
+131
+00:06:01,760 --> 00:06:02,550
+dan membezakan urusan rasmi
+daripada hal peribadi.
+
+132
+00:06:03,070 --> 00:06:03,830
+Sila duduk.
+
+133
+00:06:11,070 --> 00:06:11,510
+Encik Liu.
+
+134
+00:06:12,230 --> 00:06:13,830
+Sekarang, kami terima pelaburan
+
+135
+00:06:14,070 --> 00:06:15,160
+untuk menguatkan pengendalian asas.
+
+136
+00:06:16,550 --> 00:06:18,480
+Namun, pelaburan tak boleh menjejaskan
+hak memerintah syarikat kami.
+
+137
+00:06:18,760 --> 00:06:19,830
+Saya harap awak boleh faham.
+
+138
+00:06:20,320 --> 00:06:20,920
+Saya faham.
+
+139
+00:06:21,760 --> 00:06:23,790
+Kami memandang tinggi terhadap
+prospek perkembangan syarikat kamu.
+
+140
+00:06:24,110 --> 00:06:26,000
+Oleh itu, selepas perjumpaan yang
+tak menggembirakan semalam,
+
+141
+00:06:26,480 --> 00:06:28,200
+pihak syarikat masih hantar saya
+untuk bincang tentang urusan kerjasama
+
+142
+00:06:28,550 --> 00:06:29,640
+untuk tunjukkan keikhlasan kami.
+
+143
+00:06:34,350 --> 00:06:35,320
+Ini penilaian yang kami buat
+
+144
+00:06:35,440 --> 00:06:36,720
+terhadap permainan Enchant.
+
+145
+00:06:38,600 --> 00:06:39,510
+Apa maksud awak?
+
+146
+00:06:40,040 --> 00:06:40,600
+Encik Jiang.
+
+147
+00:06:41,230 --> 00:06:42,670
+Industri permainan baru melepasi
+tempoh kemelesetan.
+
+148
+00:06:43,270 --> 00:06:44,830
+Disebabkan ketidakstabilan prestasinya
+
+149
+00:06:45,390 --> 00:06:46,790
+dan ketidaktentuan model hangat,
+
+150
+00:06:47,320 --> 00:06:48,880
+banyak syarikat pelaburan
+
+151
+00:06:49,070 --> 00:06:51,040
+tak bersetuju dengan nilai jangka
+panjang bagi syarikat permainan video.
+
+152
+00:06:52,070 --> 00:06:53,070
+Itu prasangka mereka.
+
+153
+00:06:53,920 --> 00:06:55,600
+Tempoh keuntungan untuk permainan
+dah berlalu,
+
+154
+00:06:56,000 --> 00:06:56,920
+tapi bertahun-tahun ini,
+
+155
+00:06:57,320 --> 00:06:59,830
+industri ini masih kekalkan perkembangan
+yang berterusan dan stabil.
+
+156
+00:07:00,640 --> 00:07:01,550
+Saya percaya syarikat kamu
+
+157
+00:07:02,000 --> 00:07:03,720
+sudi laburkan wang
+adalah kerana sebab ini.
+
+158
+00:07:04,440 --> 00:07:06,160
+Industri permainan hanya
+
+159
+00:07:06,550 --> 00:07:08,070
+sejenis industri budaya kreatif.
+
+160
+00:07:08,550 --> 00:07:10,640
+Pembaharuan adalah
+daya penggerak yang penting.
+
+161
+00:07:11,200 --> 00:07:12,440
+Menurut penilaian syarikat kami,
+
+162
+00:07:12,830 --> 00:07:14,830
+Protokol Internet permainan
+syarikat kamu
+
+163
+00:07:15,230 --> 00:07:17,920
+dan produk yang serupa dalam pasaran
+dihomogenkan dengan teruk.
+
+164
+00:07:18,320 --> 00:07:20,920
+Tempoh kewujudannya tak cukup untuk
+kekalkan perkembangan yang seterusnya.
+
+165
+00:07:21,720 --> 00:07:23,230
+Awak nak kami mengembangkan
+permainan baharu?
+
+166
+00:07:24,040 --> 00:07:24,720
+Syarikat kami
+
+167
+00:07:24,950 --> 00:07:26,760
+memang tak nak laburkan wang ke dalam
+produk yang sedia ada.
+
+168
+00:07:29,440 --> 00:07:31,600
+Pembaharuan memang daya penggerak
+untuk perkembangan,
+
+169
+00:07:32,230 --> 00:07:33,440
+tapi ia datang dengan risiko.
+
+170
+00:07:33,720 --> 00:07:35,950
+Kami percaya pada keupayaan
+pasukan teras Enchant.
+
+171
+00:07:36,440 --> 00:07:38,350
+Sejurus syarikat kami meluluskan
+perancangan permainan baharu kamu,
+
+172
+00:07:38,950 --> 00:07:40,480
+kami bukan saja akan
+melaburkan wang segera,
+
+173
+00:07:40,920 --> 00:07:42,950
+malah kami akan mempergunakan
+saluran pengeluaran kami di luar negara
+
+174
+00:07:43,510 --> 00:07:45,320
+untuk mengglobalisasikannya
+dengan cepat.
+
+175
+00:07:47,510 --> 00:07:48,390
+Ini perkara besar.
+
+176
+00:07:50,040 --> 00:07:52,040
+Awak boleh mempertimbangkannya
+sebelum beri saya jawapan.
+
+177
+00:07:54,000 --> 00:07:54,670
+Tak payah.
+
+178
+00:07:55,230 --> 00:07:56,320
+Saya boleh beritahu awak
+jawapan sekarang.
+
+179
+00:07:56,760 --> 00:07:57,350
+Saya bersetuju.
+
+180
+00:07:59,160 --> 00:08:01,270
+Bolehkah saya tanya mengapa awak
+buat keputusan dengan begitu cepat?
+
+181
+00:08:02,200 --> 00:08:03,230
+Sebab, sejurus rancangan ini berjaya,
+
+182
+00:08:03,670 --> 00:08:05,350
+nilai pasarannya adalah amat besar.
+
+183
+00:08:06,070 --> 00:08:08,350
+Tiada risiko yang dapat diharungi
+
+184
+00:08:08,670 --> 00:08:09,670
+kalau tak berdepan dengannya.
+
+185
+00:08:10,440 --> 00:08:11,640
+Awak bersifat terus terang.
+
+186
+00:08:12,200 --> 00:08:13,480
+Saya akan tunggu berita baik
+daripada awak.
+
+187
+00:08:28,220 --> 00:08:29,380
+(Syarikat Permainan Video EG,
+Liu Hengrui)
+
+188
+00:08:31,020 --> 00:08:32,180
+(Penilaian Permainan Teknologi Enchant)
+
+189
+00:08:41,320 --> 00:08:41,960
+Macam mana?
+
+190
+00:08:42,640 --> 00:08:43,280
+Cik Li.
+
+191
+00:08:43,470 --> 00:08:44,280
+Jiang Yicheng dah bersetuju.
+
+192
+00:08:45,230 --> 00:08:46,150
+Awak buat kerja dengan baik.
+
+193
+00:08:46,760 --> 00:08:47,230
+Cik Li.
+
+194
+00:08:47,640 --> 00:08:49,520
+Saya rasa beberapa permainan
+yang sedia ada di Enchant
+
+195
+00:08:50,030 --> 00:08:51,000
+agak bagus perkembangannya.
+
+196
+00:08:51,840 --> 00:08:53,670
+Lebih baik daripada permainan
+yang serupa dalam pasaran.
+
+197
+00:08:54,150 --> 00:08:55,440
+Mengapa awak suruh saya beritahu mereka
+
+198
+00:08:55,880 --> 00:08:56,840
+beberapa permainan mereka tak dipilih
+
+199
+00:08:57,350 --> 00:08:58,910
+dan biar mereka terus mengembangkan
+permainan baharu?
+
+200
+00:08:59,880 --> 00:09:00,960
+Awak rasa perkembangannya bagus.
+
+201
+00:09:01,590 --> 00:09:02,910
+Saya rasa tak cukup bagus.
+
+202
+00:09:04,350 --> 00:09:05,350
+Keupayaan Jiang Yicheng
+
+203
+00:09:06,640 --> 00:09:07,910
+bukan setakat begitu saja.
+
+204
+00:09:08,470 --> 00:09:09,670
+Awak nak merangsang potensinya
+
+205
+00:09:10,200 --> 00:09:11,710
+agar kami dapat
+manfaat yang paling besar.
+
+206
+00:09:12,280 --> 00:09:12,960
+Saya faham.
+
+207
+00:09:17,150 --> 00:09:17,880
+Tengoklah.
+
+208
+00:09:19,470 --> 00:09:21,790
+Sekarang, anak ayah bercakap
+secara bergaya.
+
+209
+00:09:22,790 --> 00:09:23,960
+Apa yang patut ayah cakap?
+
+210
+00:09:24,840 --> 00:09:27,670
+Awak berubah menjadi berlainan
+selepas tak berjumpa untuk banyak tahun.
+
+211
+00:09:28,400 --> 00:09:30,440
+Kalau ayah nak cakap sesuatu,
+berterus terang saja.
+
+212
+00:09:31,670 --> 00:09:33,350
+Adakah rumah besar ini
+
+213
+00:09:34,280 --> 00:09:36,000
+dibeli selepas balik ke sini?
+
+214
+00:09:36,880 --> 00:09:38,440
+Pasti rumah ini mahal.
+
+215
+00:09:39,200 --> 00:09:40,400
+Pihak syarikat yang menyewa rumah ini
+untuk saya.
+
+216
+00:09:45,840 --> 00:09:47,230
+Kalau ayah tiada hal lain,
+
+217
+00:09:47,440 --> 00:09:48,350
+balik dulu.
+
+218
+00:09:48,640 --> 00:09:49,670
+Saya nak uruskan kerja.
+
+219
+00:09:53,640 --> 00:09:54,440
+Jangan tergesa-gesa.
+
+220
+00:09:55,640 --> 00:09:58,840
+Kita boleh bincang tentang peristiwa
+pada tiga tahun yang lalu.
+
+221
+00:10:04,320 --> 00:10:05,350
+Xiaoqi,
+
+222
+00:10:05,520 --> 00:10:07,350
+saya nampak sebuah wayang.
+
+223
+00:10:07,550 --> 00:10:08,400
+Wayang cinta.
+
+224
+00:10:08,550 --> 00:10:09,470
+Penilaiannya bagus.
+
+225
+00:10:09,710 --> 00:10:10,880
+Kalau awak berminat,
+
+226
+00:10:11,030 --> 00:10:12,200
+saya pergi jemput awak
+selepas habis kerja.
+
+227
+00:10:16,280 --> 00:10:16,960
+Abang Mo.
+
+228
+00:10:17,350 --> 00:10:19,350
+Saya baru nak pergi jumpa awak
+di Bahagian Seni.
+
+229
+00:10:19,470 --> 00:10:20,080
+Kebetulannya,
+
+230
+00:10:20,080 --> 00:10:21,280
+terserempak dengan awak di sini.
+
+231
+00:10:21,440 --> 00:10:22,280
+Apa halnya?
+
+232
+00:10:22,470 --> 00:10:23,200
+Macam ini.
+
+233
+00:10:23,350 --> 00:10:23,790
+Kami
+
+234
+00:10:23,880 --> 00:10:24,550
+sedang tunggu
+
+235
+00:10:24,550 --> 00:10:26,790
+lakaran versi pertama
+dari Bahagian Seni.
+
+236
+00:10:27,960 --> 00:10:28,840
+Saya dah menggesa beberapa kali.
+
+237
+00:10:29,030 --> 00:10:29,840
+Mereka tak mempedulikan saya.
+
+238
+00:10:30,150 --> 00:10:32,280
+Oleh itu, saya nak suruh awak
+bantu saya menggesa mereka.
+
+239
+00:10:33,960 --> 00:10:35,080
+Adakah kita rapat?
+
+240
+00:10:36,760 --> 00:10:37,080
+Tak.
+
+241
+00:10:37,230 --> 00:10:37,710
+Maksud saya,
+
+242
+00:10:38,080 --> 00:10:39,200
+awak boleh bantu saya kerana Xiaoqi.
+
+243
+00:10:40,440 --> 00:10:41,280
+Maksud awak,
+
+244
+00:10:41,790 --> 00:10:42,550
+awak nak memikat dia?
+
+245
+00:10:44,200 --> 00:10:46,590
+Dia memang gadis idaman saya.
+
+246
+00:10:51,640 --> 00:10:52,320
+Adakah awak orang tempatan?
+
+247
+00:10:52,910 --> 00:10:53,400
+Bukan,
+
+248
+00:10:53,840 --> 00:10:55,000
+rumah saya tak jauh,
+
+249
+00:10:55,080 --> 00:10:55,590
+hanya memerlukan dua jam
+dengan menaiki kereta.
+
+250
+00:10:55,760 --> 00:10:56,350
+Menaiki kereta?
+
+251
+00:10:56,910 --> 00:10:57,710
+Adakah awak mempunyai kereta dan rumah?
+
+252
+00:10:57,880 --> 00:10:58,350
+Tak ada.
+
+253
+00:10:59,910 --> 00:11:00,760
+Dengar kata,
+
+254
+00:11:01,150 --> 00:11:02,840
+awak hampir dipecat demi seorang hos?
+
+255
+00:11:03,760 --> 00:11:04,840
+Hal sebenar adalah begini.
+
+256
+00:11:04,880 --> 00:11:05,640
+Saya jelaskan kepada awak.
+
+257
+00:11:05,670 --> 00:11:06,400
+Cukup itu.
+
+258
+00:11:07,030 --> 00:11:07,840
+Xiaoqi
+
+259
+00:11:07,960 --> 00:11:09,030
+ialah anak tunggal di rumahnya.
+
+260
+00:11:09,200 --> 00:11:10,230
+Dia anak kesayangan ibu bapanya.
+
+261
+00:11:10,840 --> 00:11:11,590
+Sejurus dia tamat pelajaran
+dari universiti,
+
+262
+00:11:11,880 --> 00:11:12,960
+ibu bapanya belikannya sebuah rumah.
+
+263
+00:11:13,550 --> 00:11:15,320
+Kalau kamu bercinta,
+
+264
+00:11:16,280 --> 00:11:17,280
+adakah awak merancang
+tinggal di rumahnya?
+
+265
+00:11:18,150 --> 00:11:18,550
+Tak.
+
+266
+00:11:18,640 --> 00:11:20,150
+Saya akan beli rumah suatu hari nanti.
+
+267
+00:11:21,640 --> 00:11:22,760
+Syarat awak tak sesuai untuk dia.
+
+268
+00:11:23,000 --> 00:11:23,840
+Lebih baik awak berputus asa.
+
+269
+00:11:24,030 --> 00:11:24,440
+Abang Mo.
+
+270
+00:11:24,520 --> 00:11:25,000
+Oh ya.
+
+271
+00:11:25,440 --> 00:11:26,840
+Saya lupa beritahu awak seperkara.
+
+272
+00:11:27,320 --> 00:11:29,030
+Tiada pertalian darah
+antara saya dan Xiaoqi.
+
+273
+00:11:29,880 --> 00:11:30,200
+Awak...
+
+274
+00:11:30,350 --> 00:11:31,150
+Maksud saya,
+
+275
+00:11:31,520 --> 00:11:32,350
+saya bukan abang dia,
+
+276
+00:11:32,640 --> 00:11:33,670
+juga bukan abang awak.
+
+277
+00:11:35,230 --> 00:11:36,710
+Panggil saya Encik Gu di pejabat.
+
+278
+00:11:38,520 --> 00:11:40,000
+Kamu berdua...
+
+279
+00:11:48,710 --> 00:11:50,030
+Apa... Apa maksud dia?
+
+280
+00:12:16,520 --> 00:12:16,840
+(Baik.)
+
+281
+00:12:17,080 --> 00:12:17,960
+(Pukul berapa?)
+
+282
+00:12:20,350 --> 00:12:21,080
+(Minta maaf.)
+
+283
+00:12:21,590 --> 00:12:23,470
+(Saya ada urusan, tak dapat pergi.)
+
+284
+00:12:30,440 --> 00:12:31,080
+Da Huang.
+
+285
+00:12:31,670 --> 00:12:32,640
+Adakah awak dapat lakaran?
+
+286
+00:12:34,710 --> 00:12:35,440
+Tak.
+
+287
+00:12:36,440 --> 00:12:37,790
+Hal ini dah ditangguhkan sehari.
+
+288
+00:12:38,030 --> 00:12:39,350
+Apa yang Pasukan Seni cakap?
+
+289
+00:12:39,590 --> 00:12:40,640
+Saya tak pergi Pasukan Seni.
+
+290
+00:12:40,670 --> 00:12:42,350
+Saya tiba-tiba ada hal, saya lupa.
+
+291
+00:12:42,550 --> 00:12:43,000
+Da Huang.
+
+292
+00:12:43,320 --> 00:12:44,880
+Bolehkah awak bersikap serius
+semasa bekerja?
+
+293
+00:12:45,030 --> 00:12:46,150
+Kita perlu menepati tarikh akhir!
+
+294
+00:12:46,670 --> 00:12:47,320
+Saya tahu.
+
+295
+00:12:47,400 --> 00:12:48,590
+Pasukan Seni yang berlengah-lengah.
+
+296
+00:12:48,710 --> 00:12:50,400
+Kalau kita tak dapat siapkannya,
+ini tanggungjawab mereka.
+
+297
+00:12:50,520 --> 00:12:50,840
+Awak...
+
+298
+00:12:51,000 --> 00:12:51,550
+Abang Lei.
+
+299
+00:12:52,030 --> 00:12:53,030
+Jangan cemas.
+
+300
+00:12:53,200 --> 00:12:53,910
+Kalau tak dapat siapkannya,
+
+301
+00:12:54,080 --> 00:12:55,200
+kita tangguhkannya untuk sehari.
+
+302
+00:12:55,520 --> 00:12:56,670
+Kerja tak boleh ditangguhkan.
+
+303
+00:12:57,080 --> 00:12:57,520
+Da Huang.
+
+304
+00:12:57,910 --> 00:12:58,840
+Awak akan timbulkan masalah
+
+305
+00:12:58,960 --> 00:12:59,790
+kalau bekerja dengan sikap begini!
+
+306
+00:12:59,880 --> 00:13:01,080
+Pihak syarikat akan memecat awak!
+
+307
+00:13:01,280 --> 00:13:01,590
+Abang Lei.
+
+308
+00:13:02,110 --> 00:13:03,200
+Awak tak patut cakap begitu.
+
+309
+00:13:03,520 --> 00:13:04,350
+Adakah saya sengaja?
+
+310
+00:13:04,400 --> 00:13:04,960
+Abang Lei.
+
+311
+00:13:05,000 --> 00:13:05,350
+Jangan begini.
+
+312
+00:13:05,350 --> 00:13:05,790
+Da Huang.
+
+313
+00:13:05,880 --> 00:13:07,910
+Jangan bertengkar.
+
+314
+00:13:08,000 --> 00:13:08,440
+(Gu Mo hantar dokumen. Lakaran)
+Jangan cakap lagi.
+
+315
+00:13:09,030 --> 00:13:10,000
+Lakaran dah dihantar ke sini.
+
+316
+00:13:10,760 --> 00:13:11,280
+Apa?
+
+317
+00:13:13,440 --> 00:13:14,550
+Saya yang uruskan hal ini selama ini.
+
+318
+00:13:14,670 --> 00:13:15,590
+Mengapa mereka hantar kepada awak?
+
+319
+00:13:16,110 --> 00:13:16,590
+Da Huang.
+
+320
+00:13:16,960 --> 00:13:18,470
+Adakah awak menyinggung perasaan
+seseorang dari Pasukan Seni?
+
+321
+00:13:18,710 --> 00:13:19,880
+Itulah sebab mereka menangguhkan
+masa awak.
+
+322
+00:13:20,670 --> 00:13:21,400
+Siapa yang hantar kepada awak?
+
+323
+00:13:21,790 --> 00:13:22,760
+Encik Gu.
+
+324
+00:13:25,760 --> 00:13:27,080
+Janji kita dapat lakaran.
+
+325
+00:13:27,470 --> 00:13:28,550
+Kita hanya nak bekerja.
+
+326
+00:13:29,280 --> 00:13:29,790
+Abang Lei.
+
+327
+00:13:30,230 --> 00:13:31,320
+Jangan bekerja lebih masa
+untuk dua hari.
+
+328
+00:13:31,550 --> 00:13:32,350
+Balik awal untuk berehat.
+
+329
+00:13:33,000 --> 00:13:33,520
+Tak boleh.
+
+330
+00:13:33,790 --> 00:13:34,110
+Kerja...
+
+331
+00:13:34,280 --> 00:13:35,470
+Kerja saya belum disiapkan.
+
+332
+00:13:35,640 --> 00:13:37,000
+Biar saya uruskan kerja yang seterusnya.
+
+333
+00:13:37,200 --> 00:13:38,350
+Pasukan Seni menangguhkan masa.
+
+334
+00:13:38,590 --> 00:13:39,470
+Ini salah saya.
+
+335
+00:13:39,880 --> 00:13:40,400
+Awak ini.
+
+336
+00:13:40,550 --> 00:13:41,470
+Apa kaitannya dengan awak?
+
+337
+00:13:41,640 --> 00:13:42,080
+Si Beruk.
+
+338
+00:13:42,200 --> 00:13:42,840
+Awak tak faham.
+
+339
+00:13:43,910 --> 00:13:44,400
+Da Huang.
+
+340
+00:13:44,960 --> 00:13:46,350
+Saya bersikap melulu tadi.
+
+341
+00:13:47,080 --> 00:13:48,590
+Saya tak tahu apa
+yang berlaku pada saya.
+
+342
+00:13:50,470 --> 00:13:50,790
+Abang Lei,
+
+343
+00:13:50,910 --> 00:13:51,470
+saya memahami awak.
+
+344
+00:13:51,710 --> 00:13:52,470
+Awak ada kecelaruan obsesif kompulsif.
+
+345
+00:13:52,840 --> 00:13:54,790
+Awak nak siapkan kerja
+dalam masa yang ditetapkan.
+
+346
+00:13:56,280 --> 00:13:57,110
+Saya tak salahkan awak dalam hal ini.
+
+347
+00:13:58,640 --> 00:13:59,670
+Saya ada dua tiket wayang hari ini.
+
+348
+00:14:00,320 --> 00:14:01,670
+Kalau awak ada masa, cari orang
+pergi tonton bersama awak.
+
+349
+00:14:01,910 --> 00:14:02,840
+Jangan bazirkannya.
+
+350
+00:14:05,080 --> 00:14:05,670
+Baik juga.
+
+351
+00:14:06,350 --> 00:14:07,790
+Saya juga tak tahu apa yang
+patut buat kalau balik rumah.
+
+352
+00:14:09,470 --> 00:14:10,080
+Shutian.
+
+353
+00:14:10,320 --> 00:14:11,030
+Apa kata kita pergi bersama?
+
+354
+00:14:11,350 --> 00:14:12,400
+Saya tiada masa malam ini.
+
+355
+00:14:12,550 --> 00:14:13,470
+Ada pertarungan berpasukan.
+
+356
+00:14:14,960 --> 00:14:15,590
+Pergilah.
+
+357
+00:14:15,760 --> 00:14:16,320
+Saya tak dapat pergi.
+
+358
+00:14:16,710 --> 00:14:18,760
+Apa kata saya pergi bersama awak?
+
+359
+00:14:19,550 --> 00:14:20,400
+Baik.
+
+360
+00:14:21,000 --> 00:14:22,200
+Kamu pergi tonton wayang
+
+361
+00:14:22,470 --> 00:14:23,520
+untuk merelakskan sendiri.
+
+362
+00:14:23,670 --> 00:14:25,440
+Mungkin kecekapan kerja
+dapat dipertingkatkan.
+
+363
+00:14:26,470 --> 00:14:28,350
+Saya akan hantar nombor ambil tiket
+kepada awak nanti.
+
+364
+00:14:29,320 --> 00:14:29,710
+Baik.
+
+365
+00:14:31,110 --> 00:14:32,230
+Relaks.
+
+366
+00:14:32,640 --> 00:14:33,110
+Pergi tonton wayang.
+
+367
+00:14:34,280 --> 00:14:35,110
+Bagus.
+
+368
+00:14:55,340 --> 00:14:56,380
+(Sedang ditutupkan)
+
+369
+00:14:58,200 --> 00:14:58,550
+Abang.
+
+370
+00:14:58,790 --> 00:14:59,440
+Di mana kakak ipar?
+
+371
+00:15:00,320 --> 00:15:01,000
+Di pejabat.
+
+372
+00:15:01,710 --> 00:15:02,590
+Saya baru datang dari
+Pasukan Pengaturcaraan.
+
+373
+00:15:02,590 --> 00:15:03,150
+Tiada orang di sana.
+
+374
+00:15:03,280 --> 00:15:03,840
+Ke mana dia pergi?
+
+375
+00:15:04,520 --> 00:15:05,640
+Adakah abang penjaga dia?
+
+376
+00:15:05,880 --> 00:15:06,710
+Bagaimana abang tahu kedudukannya?
+
+377
+00:15:09,400 --> 00:15:10,200
+Adakah kamu bertengkar?
+
+378
+00:15:11,150 --> 00:15:13,670
+Adakah dia balik tanpa beritahu abang
+selepas habis kerja?
+
+379
+00:15:15,550 --> 00:15:16,230
+Ini salah abang.
+
+380
+00:15:16,590 --> 00:15:17,590
+Awak tiada kerja
+
+381
+00:15:17,710 --> 00:15:19,000
+dan ada masa untuk campur tangan
+dalam urusan perkahwinan abang.
+
+382
+00:15:19,550 --> 00:15:20,710
+Saya terpaksa berikan perhatian.
+
+383
+00:15:21,080 --> 00:15:22,760
+Semalam, abang dan kakak ipar
+bercium dengan romantik.
+
+384
+00:15:22,880 --> 00:15:24,400
+Sekarang, seluruh syarikat
+tersebar dengan luas.
+
+385
+00:15:25,640 --> 00:15:26,280
+Sudahkah awak beritahu mak?
+
+386
+00:15:26,760 --> 00:15:28,880
+Maksud abang, tentang Li Man dah balik?
+
+387
+00:15:29,350 --> 00:15:30,350
+Tentulah saya tak beritahu mak.
+
+388
+00:15:30,640 --> 00:15:32,150
+Jika tak, mak akan datang
+jumpa abang semalam.
+
+389
+00:15:33,710 --> 00:15:34,910
+Bagaimana abang nak tunjukkan
+tanda terima kasih?
+
+390
+00:15:35,710 --> 00:15:36,640
+Awak akan dibayar upah bulan ini.
+
+391
+00:15:37,200 --> 00:15:37,790
+Itu sajakah?
+
+392
+00:15:38,110 --> 00:15:38,520
+Cik.
+
+393
+00:15:38,880 --> 00:15:40,280
+Berdasarkan kekerapan awak datang lewat
+dan ponteng kerja,
+
+394
+00:15:40,400 --> 00:15:41,110
+abang tak pecat awak
+
+395
+00:15:41,230 --> 00:15:42,000
+hanya kerana
+
+396
+00:15:42,110 --> 00:15:43,400
+kita dilahirkan ibu bapa yang sama.
+
+397
+00:15:43,590 --> 00:15:44,280
+Kedekut.
+
+398
+00:15:45,320 --> 00:15:46,550
+Asalnya, mak suruh saya panggil kamu
+
+399
+00:15:46,550 --> 00:15:48,030
+balik untuk makan hari ini.
+
+400
+00:15:48,350 --> 00:15:49,520
+Abang betul-betul tak tahu
+ke mana kakak ipar pergi?
+
+401
+00:15:53,910 --> 00:15:55,960
+Sudahkah abang beritahu dia
+tentang Li Man?
+
+402
+00:15:57,150 --> 00:15:57,760
+Awak patut uruskan
+
+403
+00:15:57,880 --> 00:15:59,200
+hubungan awak dan Chen Yiming dulu
+
+404
+00:15:59,280 --> 00:16:00,080
+sebelum campur tangan
+dalam hal orang lain.
+
+405
+00:16:00,320 --> 00:16:01,670
+Dia berada dalam kawalan saya,
+
+406
+00:16:02,000 --> 00:16:03,350
+cuma belum buat dia jadi milik saya.
+
+407
+00:16:04,400 --> 00:16:05,350
+Dengar sini.
+
+408
+00:16:06,030 --> 00:16:07,670
+Kalau hubungan abang dan Li Man
+masih tak selesai,
+
+409
+00:16:08,080 --> 00:16:09,550
+jaga-jaga kakak ipar tak dapat
+tahan dengan abang
+
+410
+00:16:09,760 --> 00:16:10,550
+dan cari lelaki lain untuk balas dendam.
+
+411
+00:16:10,710 --> 00:16:11,200
+Dengar sini.
+
+412
+00:16:11,320 --> 00:16:12,710
+Kalau awak ganggu abang lagi
+pada waktu kerja,
+
+413
+00:16:12,840 --> 00:16:14,000
+awak akan dipecat segera.
+
+414
+00:16:15,110 --> 00:16:17,080
+Emosi abang tak stabil selepas kahwin.
+
+415
+00:16:17,400 --> 00:16:18,710
+Saya bercadang abang pergi
+jumpa doktor psikologi.
+
+416
+00:16:19,320 --> 00:16:21,150
+Selain itu, sekarang waktu habis kerja.
+
+417
+00:16:27,790 --> 00:16:28,760
+Minta maaf, biar saya masuk.
+
+418
+00:16:28,880 --> 00:16:29,320
+Baik.
+
+419
+00:16:30,590 --> 00:16:31,030
+Xiao Lu.
+
+420
+00:16:32,230 --> 00:16:32,880
+Wayang dah mula ditayangkan.
+
+421
+00:16:33,000 --> 00:16:33,590
+Baik.
+
+422
+00:16:34,150 --> 00:16:34,840
+Makan bertih jagung.
+
+423
+00:16:35,230 --> 00:16:35,790
+Terima kasih.
+
+424
+00:17:08,920 --> 00:17:09,590
+Abang Lei.
+
+425
+00:17:10,760 --> 00:17:11,520
+Awak tak apa-apa?
+
+426
+00:17:11,590 --> 00:17:12,310
+Saya tak apa-apa.
+
+427
+00:17:13,430 --> 00:17:14,400
+Saya keluar sebentar.
+
+428
+00:17:35,310 --> 00:17:37,350
+Abang Lei, kenapa dengan awak?
+
+429
+00:17:38,470 --> 00:17:40,710
+Sejurus bunyi dikeluarkan di dalam tadi,
+
+430
+00:17:41,560 --> 00:17:43,520
+jantung saya berdegup dengan laju.
+
+431
+00:17:44,430 --> 00:17:45,110
+Kemudian, saya rasa
+
+432
+00:17:45,680 --> 00:17:46,350
+pernafasan saya
+
+433
+00:17:47,280 --> 00:17:48,640
+tak begitu lancar.
+
+434
+00:17:50,640 --> 00:17:51,680
+Muka awak
+
+435
+00:17:52,070 --> 00:17:53,280
+menjadi pucat.
+
+436
+00:17:56,280 --> 00:17:57,430
+Bolehkah awak berjalan sekarang?
+
+437
+00:17:57,950 --> 00:17:58,230
+Boleh.
+
+438
+00:17:58,470 --> 00:17:59,400
+Saya hantar awak ke hospital.
+
+439
+00:17:59,470 --> 00:17:59,680
+Ayuh.
+
+440
+00:18:00,160 --> 00:18:00,640
+Hospital?
+
+441
+00:18:13,280 --> 00:18:14,520
+Sekarang dah lewat, masih tak balik.
+
+442
+00:18:15,710 --> 00:18:18,000
+Tiada sedikit pun kesedaran diri
+sebagai wanita yang dah kahwin.
+
+443
+00:18:22,160 --> 00:18:22,680
+(Dengar sini.)
+
+444
+00:18:23,280 --> 00:18:25,000
+Kalau hubungan abang dan Li Man
+masih tak selesai,
+
+445
+00:18:25,280 --> 00:18:26,640
+jaga-jaga kakak ipar tak dapat
+tahan dengan abang
+
+446
+00:18:26,880 --> 00:18:27,830
+dan cari lelaki lain untuk balas dendam.
+
+447
+00:18:48,640 --> 00:18:50,230
+Patutlah awak tak hantar
+mesej WeChat kepada saya.
+
+448
+00:19:17,520 --> 00:19:18,680
+Masih tak balas mesej saya.
+
+449
+00:19:30,740 --> 00:19:31,740
+(Jiang Zitong)
+
+450
+00:19:31,740 --> 00:19:33,020
+(Mengeset maklumat)
+
+451
+00:19:33,020 --> 00:19:35,620
+(Nama ditambah ke dalam senarai disekat)
+
+452
+00:19:36,500 --> 00:19:37,660
+(Jiang Yicheng)
+
+453
+00:19:40,060 --> 00:19:42,420
+(Jiang Yicheng)
+
+454
+00:19:43,830 --> 00:19:44,520
+Apa halnya?
+
+455
+00:19:45,190 --> 00:19:45,590
+Itu...
+
+456
+00:19:46,400 --> 00:19:47,640
+Awak hantar sebarang mesej WeChat
+kepada abang.
+
+457
+00:19:48,760 --> 00:19:49,640
+Mesej apa?
+
+458
+00:19:50,350 --> 00:19:51,040
+Apa-apa saja.
+
+459
+00:19:51,400 --> 00:19:52,040
+Jangan tamatkan panggilan.
+
+460
+00:19:59,400 --> 00:20:00,230
+Saya dah hantar,
+
+461
+00:20:00,560 --> 00:20:02,760
+tapi ia menunjukkan abang telah
+mendayakan pengesahan rakan.
+
+462
+00:20:03,420 --> 00:20:04,420
+(Jiang Zitong)
+
+463
+00:20:04,420 --> 00:20:06,420
+(Mengeset maklumat)
+
+464
+00:20:07,760 --> 00:20:08,920
+Mesej berjaya dihantar.
+
+465
+00:20:09,710 --> 00:20:10,760
+Adakah abang masukkan saya
+ke dalam senarai disekat?
+
+466
+00:20:14,950 --> 00:20:15,280
+Apa?
+
+467
+00:20:17,760 --> 00:20:18,710
+Naik gila pula
+
+468
+00:20:19,710 --> 00:20:20,880
+pada waktu malam.
+
+469
+00:20:21,060 --> 00:20:22,180
+(Lu Li)
+
+470
+00:20:22,180 --> 00:20:23,420
+(Mengeset maklumat)
+
+471
+00:20:24,070 --> 00:20:25,000
+(Nama ditambah ke dalam senarai disekat)
+Memandangkan awak tak nak hubungi saya,
+
+472
+00:20:25,400 --> 00:20:26,950
+nama awak boleh dimasukkan
+ke dalam senarai disekat!
+
+473
+00:20:35,880 --> 00:20:36,760
+Bagaimana dengan awak?
+
+474
+00:20:37,190 --> 00:20:37,710
+Saya tak apa-apa.
+
+475
+00:20:37,733 --> 00:20:38,553
+(Bahagian Perubatan Kecemasan)
+
+476
+00:20:38,590 --> 00:20:40,470
+Tiada masalah dengan ujian darah
+dan Elektrokardiografi.
+
+477
+00:20:41,110 --> 00:20:42,350
+Ekokardiografi juga tiada masalah.
+
+478
+00:20:43,190 --> 00:20:45,470
+Adakah bukan disebabkan oleh
+masalah jantung?
+
+479
+00:20:46,000 --> 00:20:48,040
+Mungkin organ lain yang menyebabkan
+kemunculan gejala palpitasi.
+
+480
+00:20:48,520 --> 00:20:50,310
+Doktor juga suruh saya
+memeriksa kelenjar tiroid.
+
+481
+00:20:50,430 --> 00:20:51,160
+Tiada masalah juga.
+
+482
+00:20:52,760 --> 00:20:53,560
+Janji awak tak apa-apa.
+
+483
+00:20:54,040 --> 00:20:55,760
+Awak balik dan tidur baik-baik hari ini.
+
+484
+00:20:56,000 --> 00:20:56,310
+Baik.
+
+485
+00:20:58,520 --> 00:20:59,280
+Sekarang dah lewat.
+
+486
+00:20:59,350 --> 00:20:59,640
+Ayuh.
+
+487
+00:20:59,710 --> 00:21:00,430
+Saya hantar awak balik.
+
+488
+00:21:00,470 --> 00:21:00,880
+Tak payah.
+
+489
+00:21:00,920 --> 00:21:01,710
+Saya boleh balik dengan menaiki teksi.
+
+490
+00:21:01,760 --> 00:21:02,070
+Jangan.
+
+491
+00:21:02,560 --> 00:21:04,710
+Saya akan rasa bersalah
+dan tak dapat tidur.
+
+492
+00:21:04,920 --> 00:21:05,830
+Ayuh, saya hantar awak balik.
+
+493
+00:21:07,430 --> 00:21:07,950
+Baik.
+
+494
+00:21:26,830 --> 00:21:27,640
+Dah pukul 11 malam,
+
+495
+00:21:28,110 --> 00:21:29,110
+masih tak balik.
+
+496
+00:21:34,110 --> 00:21:35,280
+Takkan dia ditimpa masalah?
+
+497
+00:21:58,560 --> 00:21:59,070
+Xiao Lu.
+
+498
+00:21:59,640 --> 00:22:00,800
+Terima kasih atas bantuan awak
+malam ini.
+
+499
+00:22:01,190 --> 00:22:01,920
+Awak asyik menemani saya.
+
+500
+00:22:02,430 --> 00:22:03,230
+Jangan beradat.
+
+501
+00:22:03,950 --> 00:22:04,350
+Abang Lei.
+
+502
+00:22:04,950 --> 00:22:06,560
+Jangan melembur lagi pada hujung minggu.
+
+503
+00:22:06,800 --> 00:22:07,430
+Berehat baik-baik.
+
+504
+00:22:08,280 --> 00:22:09,070
+Kerja belum disiapkan.
+
+505
+00:22:09,310 --> 00:22:10,350
+Saya tak dapat berehat
+dengan tenang hati.
+
+506
+00:22:10,760 --> 00:22:11,110
+Tak apa.
+
+507
+00:22:11,520 --> 00:22:12,760
+Doktor kata, saya tak apa-apa.
+
+508
+00:22:14,230 --> 00:22:15,280
+Utamakan keselamatan
+apabila memandu kereta.
+
+509
+00:22:15,470 --> 00:22:16,040
+Jumpa lagi.
+
+510
+00:22:16,230 --> 00:22:16,760
+Kita berjumpa pada minggu depan.
+
+511
+00:23:18,430 --> 00:23:19,110
+Saya dah balik.
+
+512
+00:23:19,350 --> 00:23:20,280
+Saya bawakan awak ayam goreng.
+
+513
+00:23:21,950 --> 00:23:22,400
+Sekarang dah lewat.
+
+514
+00:23:22,560 --> 00:23:23,190
+Ke mana awak pergi?
+
+515
+00:23:24,950 --> 00:23:25,590
+Saya tiba-tiba ada urusan.
+
+516
+00:23:26,830 --> 00:23:28,310
+Tak selamat kalau gadis keluar
+pada waktu malam.
+
+517
+00:23:28,710 --> 00:23:29,470
+Awak tak tahukah?
+
+518
+00:23:31,230 --> 00:23:32,920
+Adakah awak risau akan saya?
+
+519
+00:23:34,160 --> 00:23:35,230
+Untuk apa saya risau akan awak?
+
+520
+00:23:36,230 --> 00:23:36,430
+Saya...
+
+521
+00:23:38,280 --> 00:23:39,680
+Menurut peraturan tinggal bersama,
+
+522
+00:23:40,000 --> 00:23:41,400
+tak boleh keluarkan suara
+selepas pukul 11 malam.
+
+523
+00:23:42,040 --> 00:23:43,400
+Sekarang pukul 11.40 malam.
+
+524
+00:23:43,950 --> 00:23:45,230
+Awak belum tidur, bukan?
+
+525
+00:23:46,680 --> 00:23:47,710
+Selepas awak balik, awak akan cuci muka
+
+526
+00:23:48,560 --> 00:23:49,310
+atau tukar baju.
+
+527
+00:23:49,880 --> 00:23:50,880
+Saya tak dapat tidur.
+
+528
+00:23:50,950 --> 00:23:51,760
+Terlalu bising.
+
+529
+00:23:53,560 --> 00:23:54,760
+Maafkan saya.
+
+530
+00:23:55,710 --> 00:23:58,400
+Saya betul-betul ada urusan.
+
+531
+00:23:58,950 --> 00:24:00,070
+Saya akan berikan perhatian lain kali.
+
+532
+00:24:04,680 --> 00:24:05,950
+Awak tonton "Peppa Pig"?
+
+533
+00:24:14,920 --> 00:24:15,680
+Awak kata,
+
+534
+00:24:17,110 --> 00:24:18,280
+apa hal yang awak uruskan?
+
+535
+00:24:18,830 --> 00:24:19,830
+Kami pergi tonton wayang.
+
+536
+00:24:20,000 --> 00:24:20,520
+Kemudian...
+
+537
+00:24:20,560 --> 00:24:22,190
+Tonton wayang merupakan sebab
+untuk awak balik lewat?
+
+538
+00:24:22,760 --> 00:24:24,040
+Awak mengubah fikiran saya
+terhadap awak.
+
+539
+00:24:30,590 --> 00:24:31,040
+Oh ya.
+
+540
+00:24:31,920 --> 00:24:33,000
+Habiskan ayam goreng.
+
+541
+00:24:38,190 --> 00:24:39,800
+Pelik betul.
+
+542
+00:24:51,310 --> 00:24:52,430
+Mahu minum susu?
+
+543
+00:24:55,880 --> 00:24:56,710
+Maafkan saya.
+
+544
+00:24:57,000 --> 00:24:58,920
+Saya ganggu awak berehat semalam.
+
+545
+00:25:03,000 --> 00:25:03,560
+Lu Li.
+
+546
+00:25:04,350 --> 00:25:05,350
+Cuba awak mengira.
+
+547
+00:25:05,880 --> 00:25:07,190
+Berapa kali awak meminta maaf
+daripada saya?
+
+548
+00:25:07,310 --> 00:25:08,350
+Pernahkah awak fikir mengapa?
+
+549
+00:25:10,400 --> 00:25:12,190
+Sebab, awak selalu marah.
+
+550
+00:25:12,590 --> 00:25:12,920
+Tak.
+
+551
+00:25:13,280 --> 00:25:14,350
+Awak yang selalu melakukan kesalahan.
+
+552
+00:25:16,590 --> 00:25:17,640
+Kalau saya melakukan kesalahan,
+saya meminta maaf.
+
+553
+00:25:18,430 --> 00:25:19,950
+Ada orang hanya cuba berdalih
+apabila melakukan kesalahan.
+
+554
+00:25:31,640 --> 00:25:32,590
+Saya berdalih tentang apa?
+
+555
+00:25:32,710 --> 00:25:33,520
+Cakap baik-baik.
+
+556
+00:26:07,400 --> 00:26:08,400
+Awak orang dewasa,
+
+557
+00:26:09,160 --> 00:26:10,680
+tapi masih tinggalkan kesan susu
+pada bibir awak.
+
+558
+00:26:26,830 --> 00:26:27,710
+Mak.
+
+559
+00:26:29,520 --> 00:26:31,070
+Saya tak melembur hari ini.
+
+560
+00:26:33,070 --> 00:26:33,920
+Baik.
+
+561
+00:26:37,160 --> 00:26:38,040
+Apa halnya?
+
+562
+00:26:39,110 --> 00:26:41,230
+Mak awak suruh saya hadiri pertemuan
+bersama dia.
+
+563
+00:26:41,800 --> 00:26:42,680
+Awak mahu pergi bersamakah?
+
+564
+00:26:43,710 --> 00:26:44,230
+Ini pertemuan untuk perempuan,
+
+565
+00:26:44,350 --> 00:26:45,470
+untuk apa saya pergi?
+
+566
+00:26:49,920 --> 00:26:50,640
+Sudahlah.
+
+567
+00:26:50,920 --> 00:26:51,880
+Hantar alamat kepada saya.
+
+568
+00:26:52,040 --> 00:26:52,830
+Saya pergi jemput awak
+selepas pertemuan tamat.
+
+569
+00:26:53,430 --> 00:26:53,920
+Benarkah?
+
+570
+00:26:54,640 --> 00:26:55,640
+Saya tak nak mak saya meleteri saya.
+
+571
+00:27:11,950 --> 00:27:13,070
+Ia akan nampak elok
+kalau bunga ini dipendekkan.
+
+572
+00:27:13,110 --> 00:27:14,040
+Tengok, bunga ini cantik.
+
+573
+00:27:14,040 --> 00:27:14,310
+Xiao Li.
+
+574
+00:27:14,560 --> 00:27:15,000
+Mari.
+
+575
+00:27:15,350 --> 00:27:15,800
+Mak.
+
+576
+00:27:16,680 --> 00:27:17,800
+Mengapa awak datang lewat?
+
+577
+00:27:17,830 --> 00:27:18,400
+Saya baru sampai.
+
+578
+00:27:19,280 --> 00:27:20,000
+Yueru.
+
+579
+00:27:20,310 --> 00:27:21,920
+Adakah gadis ini isteri Yicheng?
+
+580
+00:27:23,160 --> 00:27:23,950
+Salam.
+
+581
+00:27:24,950 --> 00:27:25,470
+Salam.
+
+582
+00:27:25,680 --> 00:27:28,830
+Sebelum ini, Yicheng hadiri temu jodoh
+dengan gadis yang tak dikenali.
+
+583
+00:27:29,400 --> 00:27:30,680
+Cepatnya dia dah kahwin.
+
+584
+00:27:31,230 --> 00:27:32,000
+Betul.
+
+585
+00:27:32,230 --> 00:27:33,680
+Banyak gadis yang dia tak suka.
+
+586
+00:27:33,950 --> 00:27:35,400
+Dia hanya jatuh cinta pada Xiao Li
+
+587
+00:27:35,760 --> 00:27:36,710
+pada pandangan pertama.
+
+588
+00:27:37,070 --> 00:27:37,760
+Oleh itu,
+
+589
+00:27:37,920 --> 00:27:39,800
+takdir Tuhan tak dapat dihalang.
+
+590
+00:27:40,560 --> 00:27:40,920
+Benar itu.
+
+591
+00:27:41,190 --> 00:27:41,950
+Nama awak Xiao Li, kan?
+
+592
+00:27:42,230 --> 00:27:43,400
+Apa pekerjaan awak?
+
+593
+00:27:43,710 --> 00:27:44,710
+Saya ialah pengatur cara.
+
+594
+00:27:45,880 --> 00:27:48,040
+Saya jarang nampak gadis yang
+menjadi pengatur cara.
+
+595
+00:27:49,590 --> 00:27:51,800
+Awak anak kaya kepada keluarga
+yang mana satu?
+
+596
+00:27:55,310 --> 00:27:57,230
+Ibu bapa saya hanya pekerja biasa.
+
+597
+00:27:58,110 --> 00:27:59,640
+Biarpun saya beritahu kamu,
+mungkin kamu tak tahu.
+
+598
+00:28:02,110 --> 00:28:03,950
+Saya sangka Jiang Yicheng
+mempunyai cita rasa yang tinggi.
+
+599
+00:28:04,400 --> 00:28:05,470
+Nampaknya, cita rasanya teruk.
+
+600
+00:28:08,760 --> 00:28:10,040
+Siapa awak?
+
+601
+00:28:10,560 --> 00:28:12,920
+Saya salah seorang gadis yang menghadiri
+temu jodoh dengan anak awak.
+
+602
+00:28:16,400 --> 00:28:18,110
+Awak tak reti berdandan, tak elegan
+
+603
+00:28:18,710 --> 00:28:20,190
+dan berpakaian seperti lelaki.
+
+604
+00:28:20,830 --> 00:28:22,760
+Cita rasa Jiang Yicheng
+betul-betul pelik.
+
+605
+00:28:22,950 --> 00:28:24,640
+Dapat pula dia suka akan gadis
+yang memalukan seperti awak.
+
+606
+00:28:25,760 --> 00:28:27,470
+Saya memang tak setanding awak
+dari segi ini.
+
+607
+00:28:28,590 --> 00:28:29,520
+Awak salah cakap.
+
+608
+00:28:32,680 --> 00:28:33,640
+Apa yang saya salah cakap?
+
+609
+00:28:34,000 --> 00:28:35,520
+Awak bukan saja tak setanding dia
+dari segi ini.
+
+610
+00:28:36,110 --> 00:28:37,880
+Malah, dalam mata saya,
+awak langsung tak setanding dia.
+
+611
+00:28:39,560 --> 00:28:40,800
+Berdasarkan saya tak berminat
+terhadap awak
+
+612
+00:28:41,280 --> 00:28:42,400
+dan hanya pilih mengahwininya,
+
+613
+00:28:42,800 --> 00:28:43,920
+daya estetika saya sangat baik.
+
+614
+00:28:44,160 --> 00:28:45,760
+Tambahan pula, cita rasa saya
+sangat tinggi.
+
+615
+00:28:56,350 --> 00:28:57,710
+Mengapa awak tak tahu lawan cakap?
+
+616
+00:28:58,560 --> 00:28:59,710
+Saya tak sempat buat begitu.
+
+617
+00:29:01,110 --> 00:29:02,000
+Koala yang dungu.
+
+618
+00:29:02,760 --> 00:29:03,880
+Mengapa awak datang ke sini?
+
+619
+00:29:04,760 --> 00:29:05,640
+Saya datang jumpa dia untuk sesuatu.
+
+620
+00:29:05,880 --> 00:29:06,680
+Saya bawa dia pergi dulu.
+
+621
+00:29:07,280 --> 00:29:07,800
+Baik.
+
+622
+00:29:08,000 --> 00:29:08,350
+Pergilah.
+
+623
+00:29:08,590 --> 00:29:09,160
+Mak, jumpa lagi.
+
+624
+00:29:09,280 --> 00:29:09,880
+Mak cik, jumpa lagi.
+
+625
+00:29:10,000 --> 00:29:10,230
+Baik.
+
+626
+00:29:10,470 --> 00:29:11,000
+Jumpa lagi.
+
+627
+00:29:11,430 --> 00:29:13,560
+Rapatnya hubungan mereka.
+
+628
+00:29:13,920 --> 00:29:15,110
+Tak boleh berpisah sekejap pun.
+
+629
+00:29:15,520 --> 00:29:16,680
+Awak diberkati Tuhan.
+
+630
+00:29:16,800 --> 00:29:17,230
+Mari.
+
+631
+00:29:17,280 --> 00:29:17,760
+Kita teruskan.
+
+632
+00:29:17,800 --> 00:29:18,680
+Teruskan.
+
+633
+00:29:23,950 --> 00:29:25,400
+Mengapa awak datang jumpa saya?
+
+634
+00:29:26,110 --> 00:29:26,800
+Saya nak tonton wayang,
+
+635
+00:29:27,230 --> 00:29:28,110
+tapi tak nak tonton berseorangan.
+
+636
+00:29:29,070 --> 00:29:30,920
+Namun, saya baru tonton wayang semalam.
+
+637
+00:29:32,920 --> 00:29:33,310
+Maksud saya,
+
+638
+00:29:33,830 --> 00:29:35,280
+wayang yang saya tonton semalam
+tak menarik.
+
+639
+00:29:35,590 --> 00:29:36,760
+Kita boleh tonton wayang lain.
+
+640
+00:29:38,350 --> 00:29:39,190
+Awak buat pilihan.
+
+641
+00:29:42,760 --> 00:29:44,400
+Terima kasih atas bantuan awak tadi.
+
+642
+00:29:45,560 --> 00:29:45,950
+Gadis saya
+
+643
+00:29:46,430 --> 00:29:47,560
+tak boleh dibuli orang lain.
+
+644
+00:29:51,400 --> 00:29:52,110
+Maksud saya,
+
+645
+00:29:53,280 --> 00:29:54,400
+hanya saya yang boleh buli orang saya.
+
+646
+00:29:57,040 --> 00:29:59,000
+Baik, saya biar awak buli saya kelak.
+
+647
+00:30:19,040 --> 00:30:19,760
+Abang Lei, selamat pagi.
+
+648
+00:30:20,000 --> 00:30:20,350
+Selamat pagi.
+
+649
+00:30:20,880 --> 00:30:21,590
+Awak tak apa-apa?
+
+650
+00:30:21,880 --> 00:30:22,280
+Saya tak apa-apa.
+
+651
+00:30:27,590 --> 00:30:28,000
+Selamat pagi.
+
+652
+00:30:34,280 --> 00:30:34,920
+Da Huang.
+
+653
+00:30:36,040 --> 00:30:37,230
+Adakah awak melembur pada hujung minggu?
+
+654
+00:30:38,070 --> 00:30:39,350
+Saya mengubah kesedihan
+menjadi kekuatan.
+
+655
+00:30:41,280 --> 00:30:43,110
+Adakah wayang itu menarik?
+
+656
+00:30:44,040 --> 00:30:45,310
+Sesuai untuk ditonton pasangan kekasih.
+
+657
+00:30:48,110 --> 00:30:51,000
+Rupanya, awak beli
+dua tiket wayang itu untuk...
+
+658
+00:30:51,350 --> 00:30:52,230
+Jangan cakap lagi.
+
+659
+00:30:52,640 --> 00:30:53,760
+Saya hanya akan rasa sedih.
+
+660
+00:30:54,400 --> 00:30:57,350
+Alangkah baik kalau percintaan
+boleh menjadi seperti menulis kod.
+
+661
+00:30:58,110 --> 00:30:58,680
+Semua orang.
+
+662
+00:30:59,280 --> 00:31:01,160
+Tengok mesej dalam kumpulan WeChat.
+
+663
+00:31:04,110 --> 00:31:05,560
+Pengumpulan fikiran kreatif.
+
+664
+00:31:06,070 --> 00:31:08,190
+Pihak syarikat akan mengumpulkan
+ilham kreatif
+
+665
+00:31:08,680 --> 00:31:11,470
+secara individu atau kolektif
+daripada semua pekerja
+
+666
+00:31:11,880 --> 00:31:13,400
+dan pilih fikiran yang terbaik
+untuk mengkajinya.
+
+667
+00:31:13,680 --> 00:31:14,190
+Betul.
+
+668
+00:31:14,800 --> 00:31:16,710
+Sejurus projek kreatif ini dipilih,
+
+669
+00:31:16,920 --> 00:31:17,830
+pencadang fikiran kreatif
+
+670
+00:31:18,310 --> 00:31:19,430
+boleh terus masuk
+
+671
+00:31:19,520 --> 00:31:20,800
+ke pasukan pengkajian permainan baharu
+
+672
+00:31:21,070 --> 00:31:22,350
+dan memegang jawatan utama
+
+673
+00:31:22,470 --> 00:31:24,280
+yang berkaitan dengan
+keprofesionalan sendiri.
+
+674
+00:31:25,710 --> 00:31:27,070
+Ini sepatutnya urusan
+Bahagian Perancangan, bukan?
+
+675
+00:31:27,710 --> 00:31:28,920
+Selain itu, permainan kita
+yang sedia ada
+
+676
+00:31:29,160 --> 00:31:30,470
+amat bagus kesannya.
+
+677
+00:31:31,560 --> 00:31:33,470
+Pengguna selalu mengejar
+perasaan baharu.
+
+678
+00:31:33,800 --> 00:31:34,710
+Ambil tonton wayang sebagai contoh.
+
+679
+00:31:35,040 --> 00:31:36,230
+Adakah awak akan mengulang tonton
+wayang yang sama?
+
+680
+00:31:37,830 --> 00:31:40,040
+Apa kata kita mengkaji permainan maya
+
+681
+00:31:40,160 --> 00:31:42,160
+seperti "Ready Player One"
+yang mempunyai wahah?
+
+682
+00:31:42,560 --> 00:31:43,640
+Pasti ia menjadi hangat
+di seluruh dunia.
+
+683
+00:31:44,190 --> 00:31:44,640
+Da Huang.
+
+684
+00:31:45,110 --> 00:31:45,830
+Fikiran kreatif ini
+
+685
+00:31:45,950 --> 00:31:47,560
+adalah berasaskan teknik yang sedia ada.
+
+686
+00:31:48,760 --> 00:31:50,590
+Kalau kamu ada sebarang idea baik,
+
+687
+00:31:50,920 --> 00:31:51,880
+kamu boleh muat turun
+
+688
+00:31:52,040 --> 00:31:53,400
+borang pengumpulan permainan kreatif
+dalam kumpulan WeChat
+
+689
+00:31:53,590 --> 00:31:54,800
+atau terus beritahu Encik Chen.
+
+690
+00:31:55,190 --> 00:31:56,350
+Sejurus cadangan kamu dipilih,
+
+691
+00:31:57,280 --> 00:31:58,950
+pihak syarikat akan beri kamu ganjaran.
+
+692
+00:31:59,280 --> 00:32:00,280
+Ganjaran tak diperlukan.
+
+693
+00:32:00,710 --> 00:32:01,400
+Namun, Si Beruk,
+
+694
+00:32:01,800 --> 00:32:03,710
+adakah ini kerja yang wajib?
+
+695
+00:32:04,920 --> 00:32:06,590
+Kamu boleh ambil bahagian
+secara sukarela.
+
+696
+00:32:07,520 --> 00:32:09,040
+Kalau prestasi kamu cemerlang,
+
+697
+00:32:09,470 --> 00:32:10,800
+kamu akan ditambah markah
+
+698
+00:32:11,160 --> 00:32:12,590
+dalam penilaian hujung tahun.
+
+699
+00:32:13,070 --> 00:32:13,520
+Tambah markah.
+
+700
+00:32:14,920 --> 00:32:15,350
+Hal ini...
+
+701
+00:32:15,760 --> 00:32:17,920
+Mereka nak paksa kita memeras otak.
+
+702
+00:32:18,350 --> 00:32:19,800
+Kerja dalam tangan
+tak dapat dihabiskan pun,
+
+703
+00:32:20,350 --> 00:32:21,680
+masih perlu buat kerja
+Bahagian Perancangan.
+
+704
+00:32:21,880 --> 00:32:22,520
+Besarnya
+
+705
+00:32:22,760 --> 00:32:23,950
+tekanan ini.
+
+706
+00:32:30,560 --> 00:32:31,310
+Kenapa dengan Abang Lei?
+
+707
+00:32:34,560 --> 00:32:35,520
+Saya pergi tengok.
+
+708
+00:32:49,880 --> 00:32:50,560
+Abang Lei.
+
+709
+00:32:51,760 --> 00:32:52,760
+Awak tak apa-apa?
+
+710
+00:32:53,310 --> 00:32:53,680
+Saya tak apa-apa.
+
+711
+00:32:54,190 --> 00:32:54,760
+Cuma
+
+712
+00:32:55,070 --> 00:32:57,280
+gejala palpitasi seperti kali lepas
+muncul lagi.
+
+713
+00:32:58,070 --> 00:32:59,920
+Takkan saya menghidap
+infarksi miokardium?
+
+714
+00:33:00,400 --> 00:33:00,830
+Mustahil.
+
+715
+00:33:00,950 --> 00:33:01,830
+Jangan cemas.
+
+716
+00:33:02,280 --> 00:33:03,310
+Tenangkan emosi awak dulu.
+
+717
+00:33:03,800 --> 00:33:05,830
+Kali lepas, peperiksaan jantung awak
+tak bermasalah.
+
+718
+00:33:05,920 --> 00:33:06,400
+Awak lupakah?
+
+719
+00:33:07,310 --> 00:33:07,710
+Ya.
+
+720
+00:33:08,920 --> 00:33:09,710
+Abang Lei.
+
+721
+00:33:10,110 --> 00:33:12,310
+Bila gejala ini mula muncul?
+
+722
+00:33:13,830 --> 00:33:16,430
+Sebelum ini, Encik Jiang nak
+pecat Da Huang.
+
+723
+00:33:17,470 --> 00:33:18,310
+Sejak kali itu,
+
+724
+00:33:18,470 --> 00:33:20,400
+saya takut melakukan
+kesalahan yang sama.
+
+725
+00:33:20,710 --> 00:33:21,680
+Oleh itu, setiap kali saya habis
+menulis kod,
+
+726
+00:33:21,800 --> 00:33:22,950
+saya perlu memeriksa banyak kali.
+
+727
+00:33:23,470 --> 00:33:24,160
+Makin saya memeriksa,
+
+728
+00:33:24,520 --> 00:33:26,760
+makin saya tak dapat mengawal sendiri
+untuk fikir tentang hal ini.
+
+729
+00:33:27,230 --> 00:33:27,920
+Selepas fikir tentangnya,
+
+730
+00:33:28,040 --> 00:33:29,800
+otak saya macam hampir meletup.
+
+731
+00:33:31,190 --> 00:33:33,110
+Namun, hal itu dah selesai.
+
+732
+00:33:33,520 --> 00:33:35,590
+Awak tak patut pindahkan
+tekanan begitu kepada sendiri.
+
+733
+00:33:36,000 --> 00:33:36,310
+Betul.
+
+734
+00:33:36,950 --> 00:33:37,400
+Namun,
+
+735
+00:33:37,800 --> 00:33:39,800
+saya tak dapat mengawal emosi sendiri.
+
+736
+00:33:40,110 --> 00:33:41,190
+Ambil semalam sebagai contoh.
+
+737
+00:33:41,430 --> 00:33:42,710
+Saya baring di atas katil
+dan tak dapat tidur.
+
+738
+00:33:42,950 --> 00:33:43,950
+Saya teringat
+
+739
+00:33:44,070 --> 00:33:45,400
+saya digigit anjing semasa kecil.
+
+740
+00:33:45,880 --> 00:33:47,190
+Selepas fikir tentangnya,
+
+741
+00:33:47,400 --> 00:33:48,710
+saya mengesyaki saya menghidap
+penyakit anjing gila.
+
+742
+00:33:48,920 --> 00:33:50,470
+Saya buka mata dan tak tidur
+sepanjang malam.
+
+743
+00:33:51,070 --> 00:33:52,430
+Selain itu, sejurus ada sedikit bunyi,
+
+744
+00:33:52,590 --> 00:33:53,160
+saya rasa
+
+745
+00:33:53,470 --> 00:33:54,760
+saya seperti terkejut.
+
+746
+00:33:54,920 --> 00:33:56,590
+Kaki dan tangan saya mula menjadi kebas.
+
+747
+00:33:56,880 --> 00:33:58,310
+Kemudian, dada saya
+
+748
+00:33:58,430 --> 00:33:59,400
+macam ditekan batu besar,
+
+749
+00:33:59,680 --> 00:34:00,590
+tak dapat bernafas.
+
+750
+00:34:01,280 --> 00:34:02,640
+Saya tak tahu kenapa dengan saya.
+
+751
+00:34:02,920 --> 00:34:03,800
+Namun, kalau terus begini,
+
+752
+00:34:04,040 --> 00:34:05,680
+sistem saya akan rosak.
+
+753
+00:34:06,230 --> 00:34:06,710
+Abang Lei.
+
+754
+00:34:07,070 --> 00:34:08,600
+Badan awak tak bermasalah.
+
+755
+00:34:09,000 --> 00:34:10,670
+Adakah psikologi awak yang bermasalah?
+
+756
+00:34:12,280 --> 00:34:13,710
+Maksud awak, saya...
+
+757
+00:34:14,760 --> 00:34:15,190
+Ayuh.
+
+758
+00:34:15,430 --> 00:34:16,630
+Saya pergi ke hospital bersama awak
+
+759
+00:34:16,910 --> 00:34:17,950
+untuk buat pemeriksaan yang menyeluruh.
+
+760
+00:34:19,000 --> 00:34:20,560
+Namun, sekarang waktu kerja.
+
+761
+00:34:20,950 --> 00:34:21,800
+Kesihatan yang paling penting.
+
+762
+00:34:22,230 --> 00:34:23,230
+Saya mohon cuti daripada Si Beruk.
+
+763
+00:34:23,430 --> 00:34:23,800
+Ayuh.
+
+764
+00:34:27,470 --> 00:34:28,080
+Tanpa awak,
+
+765
+00:34:28,230 --> 00:34:30,040
+saya tak tahu psikologi saya
+yang bermasalah.
+
+766
+00:34:30,710 --> 00:34:31,360
+Terima kasih.
+
+767
+00:34:31,870 --> 00:34:33,430
+Kata-kata awak yang ingatkan saya.
+
+768
+00:34:33,950 --> 00:34:34,840
+Kalau sistem rosak,
+
+769
+00:34:35,190 --> 00:34:36,560
+biasanya ia diakibatkan oleh perisian.
+
+770
+00:34:36,580 --> 00:34:39,500
+(Bilik Rawatan)
+
+771
+00:34:39,560 --> 00:34:40,190
+Dulu,
+
+772
+00:34:40,560 --> 00:34:42,230
+saya selalu rasa saya amat tabah.
+
+773
+00:34:42,840 --> 00:34:43,710
+Semasa saya nampak orang kata
+
+774
+00:34:43,840 --> 00:34:45,040
+mereka ada masalah psikologi,
+
+775
+00:34:45,150 --> 00:34:46,080
+saya mentertawakan mereka.
+
+776
+00:34:46,760 --> 00:34:47,320
+Tak sangka
+
+777
+00:34:47,710 --> 00:34:48,950
+saya juga menjadi orang begini.
+
+778
+00:34:49,630 --> 00:34:51,000
+Tadi, doktor dah kata,
+
+779
+00:34:51,360 --> 00:34:53,000
+semua orang menghadapi
+tekanan kerja yang besar,
+
+780
+00:34:53,280 --> 00:34:55,150
+patut lebih memerhatikan
+kesihatan psikologi.
+
+781
+00:34:55,390 --> 00:34:55,840
+Betul.
+
+782
+00:34:56,190 --> 00:34:57,430
+Kalau awak menghadapi masalah kelak,
+
+783
+00:34:57,630 --> 00:34:58,710
+awak boleh berkomunikasi dengan kami.
+
+784
+00:34:58,870 --> 00:34:59,710
+Kita boleh bersembang
+
+785
+00:34:59,870 --> 00:35:00,360
+untuk lepaskan tekanan.
+
+786
+00:35:00,670 --> 00:35:01,120
+Baik.
+
+787
+00:35:02,630 --> 00:35:03,230
+Betul juga.
+
+788
+00:35:03,600 --> 00:35:05,390
+Biarpun saya balik rumah
+tepat pada masa selepas habis kerja,
+
+789
+00:35:05,670 --> 00:35:06,630
+saya hanya tonton televisyen
+
+790
+00:35:06,800 --> 00:35:07,470
+atau main permainan video.
+
+791
+00:35:07,840 --> 00:35:09,040
+Saya terlalu mengasingkan diri
+daripada orang lain.
+
+792
+00:35:09,710 --> 00:35:10,390
+Asingkan diri daripada orang lain?
+
+793
+00:35:15,320 --> 00:35:16,430
+Asingkan diri daripada orang lain...
+
+794
+00:35:20,230 --> 00:35:20,800
+Xiao Lu.
+
+795
+00:35:22,040 --> 00:35:22,560
+Xiao Lu.
+
+796
+00:35:25,150 --> 00:35:25,710
+Abang Lei.
+
+797
+00:35:26,280 --> 00:35:28,320
+Apa kata awak balik rumah hari ini?
+
+798
+00:35:28,800 --> 00:35:29,560
+Jangan pergi bekerja.
+
+799
+00:35:29,710 --> 00:35:30,230
+Tak payah.
+
+800
+00:35:30,390 --> 00:35:31,520
+Sekarang, saya dah dapat cari
+punca penyakit sendiri.
+
+801
+00:35:31,670 --> 00:35:32,670
+Saya rasa lebih tenang hati.
+
+802
+00:35:33,080 --> 00:35:34,520
+Saya balik dan habiskan
+kerja saya hari ini.
+
+803
+00:35:34,760 --> 00:35:36,040
+Saya takkan melembur esok.
+
+804
+00:35:37,000 --> 00:35:37,320
+Ayuh.
+
+805
+00:35:37,840 --> 00:35:38,230
+Ayuh.
+
+806
+00:35:50,600 --> 00:35:52,360
+(Biarpun saya balik rumah
+tepat pada masa selepas habis kerja,)
+
+807
+00:35:52,710 --> 00:35:54,470
+(saya hanya tonton televisyen
+atau main permainan video.)
+
+808
+00:35:54,950 --> 00:35:56,040
+(Saya terlalu mengasingkan diri
+daripada orang lain.)
+
+809
+00:36:05,340 --> 00:36:08,180
+(Tekanan. Pengasingan kendiri)
+
+810
+00:36:16,420 --> 00:36:19,220
+(Tekanan. Pengasingan kendiri.
+Kecelaruan keresahan)
+
+811
+00:36:23,120 --> 00:36:24,710
+(Kita selalu harungi
+rintangan berseorangan.)
+
+812
+00:36:25,390 --> 00:36:27,040
+(Kesepian bertempur dengan kecacatan.)
+
+813
+00:36:28,060 --> 00:36:31,020
+(Tekanan. Pengasingan kendiri.
+Kecelaruan keresahan. Kesepian)
+
+814
+00:36:45,360 --> 00:36:46,630
+Saya sediakan sesetengah maklumat
+hari ini.
+
+815
+00:36:47,190 --> 00:36:47,950
+Menurut siasatan,
+
+816
+00:36:48,190 --> 00:36:49,950
+orang yang bujang di China
+hampir 200 juta orang.
+
+817
+00:36:50,520 --> 00:36:52,760
+Orang yang tinggal berseorangan
+melebihi 77 juta orang.
+
+818
+00:36:53,280 --> 00:36:55,360
+Sesetengah orang menikmati keseronokan
+memeruk di rumah,
+
+819
+00:36:55,760 --> 00:36:57,870
+tapi 61.74 peratus orang
+
+820
+00:36:58,390 --> 00:37:00,000
+berasa kesepian pada biasanya.
+
+821
+00:37:00,560 --> 00:37:02,560
+Kini, ada satu perkataan yang dipanggil
+remaja sarang kosong.
+
+822
+00:37:03,430 --> 00:37:04,390
+Ertinya, orang muda yang jauhkan diri
+daripada ahli keluarga
+
+823
+00:37:04,710 --> 00:37:06,190
+dan berjuang berseorangan di bandar.
+
+824
+00:37:06,910 --> 00:37:07,560
+Mereka makan, tonton wayang
+
+825
+00:37:07,870 --> 00:37:08,910
+dan main permainan video berseorangan.
+
+826
+00:37:09,320 --> 00:37:10,390
+Ia seperti kehidupan harian kita.
+
+827
+00:37:11,190 --> 00:37:12,670
+Kekurangan teman dan sokongan perasaan.
+
+828
+00:37:13,190 --> 00:37:14,470
+Tiada saluran cari kawan yang sesuai,
+
+829
+00:37:14,870 --> 00:37:16,280
+pasti mereka berasa kesepian.
+
+830
+00:37:16,800 --> 00:37:17,280
+Betul.
+
+831
+00:37:18,230 --> 00:37:19,760
+Dalam persekitaran begini,
+
+832
+00:37:20,230 --> 00:37:21,710
+ramai orang akan berasa kesepian,
+
+833
+00:37:21,910 --> 00:37:23,000
+resah dan rendah diri.
+
+834
+00:37:23,760 --> 00:37:25,430
+Emosi mereka tak dapat dihapuskan.
+
+835
+00:37:25,760 --> 00:37:26,360
+Lama-kelamaan,
+
+836
+00:37:26,760 --> 00:37:27,840
+kesihatan psikologi mereka
+
+837
+00:37:28,000 --> 00:37:29,150
+akan terjejas teruk.
+
+838
+00:37:29,840 --> 00:37:30,630
+Oleh itu, saya fikir
+
+839
+00:37:30,950 --> 00:37:32,000
+kalau ada permainan video
+
+840
+00:37:32,230 --> 00:37:34,520
+yang dapat selesaikan masalah
+hidup secara berasingan,
+
+841
+00:37:35,320 --> 00:37:36,760
+semua orang boleh jadi kawan
+
+842
+00:37:37,150 --> 00:37:38,870
+dalam talian dan kehidupan realiti,
+
+843
+00:37:39,320 --> 00:37:40,040
+itu merupakan perkara baik.
+
+844
+00:37:42,630 --> 00:37:43,150
+Yicheng.
+
+845
+00:37:43,800 --> 00:37:45,120
+Apa pendapat awak terhadap idea ini?
+
+846
+00:37:47,560 --> 00:37:48,190
+Idea ini baik.
+
+847
+00:37:49,000 --> 00:37:50,040
+Namun, bagaimana memecahkan
+
+848
+00:37:50,320 --> 00:37:52,470
+halangan antara dalam talian
+dengan kehidupan realiti
+
+849
+00:37:53,430 --> 00:37:55,320
+adalah kunci untuk permainan teras ini.
+
+850
+00:37:56,230 --> 00:37:58,000
+Saya ada fikiran permulaan,
+
+851
+00:37:58,230 --> 00:37:59,080
+tapi belum menyempurnakannya.
+
+852
+00:38:00,080 --> 00:38:00,870
+Kalau begitu, sempurnakannya saja.
+
+853
+00:38:01,280 --> 00:38:02,560
+Kemudian,
+
+854
+00:38:02,870 --> 00:38:04,150
+serahkan kertas kerja kreatif
+yang lengkap kepada saya.
+
+855
+00:38:04,630 --> 00:38:05,630
+Hal ini dilakukan
+dengan sukarela, bukan?
+
+856
+00:38:06,320 --> 00:38:06,870
+Kenapa?
+
+857
+00:38:07,080 --> 00:38:07,950
+Mahu tarik diri kerana takut?
+
+858
+00:38:08,470 --> 00:38:09,190
+Taklah.
+
+859
+00:38:09,670 --> 00:38:11,430
+Saya hanya rasa,
+benda seperti kertas kerja
+
+860
+00:38:11,630 --> 00:38:13,600
+patut disediakan orang yang profesional
+dari Bahagian Perancangan.
+
+861
+00:38:13,910 --> 00:38:14,670
+Saya takut saya tak dapat buatnya
+dengan baik.
+
+862
+00:38:15,190 --> 00:38:15,630
+Tak apa.
+
+863
+00:38:16,150 --> 00:38:18,360
+Memandangkan pihak syarikat mengumpulkan
+ilham kreatif daripada semua pekerja,
+
+864
+00:38:18,760 --> 00:38:20,800
+ertinya, ia bukan mementingkan
+keprofesionalan kertas kerja,
+
+865
+00:38:21,230 --> 00:38:23,870
+tapi memerlukan daya kreatif dan fikiran
+yang unik terhadap cara permainan.
+
+866
+00:38:24,430 --> 00:38:25,840
+Pengatur cara yang cemerlang
+
+867
+00:38:26,150 --> 00:38:28,430
+perlu mempunyai kemahiran berfikir
+dan merancang terhadap produk.
+
+868
+00:38:28,800 --> 00:38:29,320
+Tambahan pula,
+
+869
+00:38:30,280 --> 00:38:31,320
+bukankah awak kata
+
+870
+00:38:31,320 --> 00:38:32,120
+awak dapat selesaikan sebarang masalah?
+
+871
+00:38:41,520 --> 00:38:41,950
+Baik.
+
+872
+00:38:42,360 --> 00:38:42,800
+Saya akan lakukannya,
+
+873
+00:38:43,470 --> 00:38:44,430
+tapi saya ada satu syarat.
+
+874
+00:38:44,670 --> 00:38:45,080
+Apa syarat awak?
+
+875
+00:38:45,800 --> 00:38:47,000
+Kalau fikiran kreatif saya
+
+876
+00:38:47,230 --> 00:38:48,600
+diterima pihak syarikat,
+
+877
+00:38:49,150 --> 00:38:51,080
+saya nak menjadi pengatur cara utama
+dalam pengkajian permainan.
+
+878
+00:38:51,840 --> 00:38:53,950
+Awak betul-betul berani tanpa berfikir.
+
+879
+00:38:54,630 --> 00:38:55,950
+Awak ingin memanjat tangga kejayaan
+sebaik saja tamat pelajaran.
+
+880
+00:38:56,760 --> 00:38:57,190
+Tahu tak,
+
+881
+00:38:57,800 --> 00:38:58,910
+untuk menjadi pengatur cara utama,
+
+882
+00:38:59,520 --> 00:39:00,600
+betapa banyaknya pengalaman
+yang diperlukan
+
+883
+00:39:01,280 --> 00:39:02,360
+dan betapa besarnya
+tanggungjawab yang perlu dipikul?
+
+884
+00:39:02,800 --> 00:39:03,470
+Saya tahu.
+
+885
+00:39:03,910 --> 00:39:05,190
+Oleh itu, saya ingin mencabar
+
+886
+00:39:05,280 --> 00:39:05,950
+dan cuba.
+
+887
+00:39:06,470 --> 00:39:07,470
+Kalau saya tak dapat lakukannya
+dengan baik,
+
+888
+00:39:07,800 --> 00:39:08,950
+awak boleh singkirkan saya
+bila-bila masa.
+
+889
+00:39:09,390 --> 00:39:09,800
+Baik.
+
+890
+00:39:10,760 --> 00:39:12,230
+Saya akan tunggu dan tengok.
+
+891
+00:39:21,470 --> 00:39:21,910
+Cik Li.
+
+892
+00:39:22,080 --> 00:39:22,600
+Pasti awak susah.
+
+893
+00:39:23,280 --> 00:39:23,950
+Tak apa.
+
+894
+00:39:33,600 --> 00:39:34,120
+Kak Man.
+
+895
+00:39:34,950 --> 00:39:36,910
+Biarpun awak sibuk dengan kerja,
+awak tak boleh lupa makan.
+
+896
+00:39:40,910 --> 00:39:42,430
+Perlukah saya mengupah pembantu rumah
+
+897
+00:39:42,840 --> 00:39:43,840
+untuk memasak untuk awak?
+
+898
+00:39:44,630 --> 00:39:45,390
+Tak payah.
+
+899
+00:39:46,280 --> 00:39:47,120
+Aimi.
+
+900
+00:39:47,800 --> 00:39:49,670
+Bantu saya tempah tiket penerbangan
+untuk balik pada hari lusa.
+
+901
+00:39:50,600 --> 00:39:52,120
+Adakah pihak ibu pejabat suruh awak
+balik untuk bermesyuarat?
+
+902
+00:39:52,390 --> 00:39:52,800
+Tak.
+
+903
+00:39:53,390 --> 00:39:55,360
+Selain itu, batalkan penyewaan rumah
+di sini untuk saya.
+
+904
+00:39:57,280 --> 00:39:58,190
+Awak tak nak pedulikan urusan
+di sini lagi?
+
+905
+00:39:58,910 --> 00:40:01,910
+Tempoh percubaan untuk
+Teknologi Enchant belum tamat.
+
+906
+00:40:03,320 --> 00:40:04,840
+Saya dah serahkannya kepada Wakil Liu.
+
+907
+00:40:05,430 --> 00:40:06,910
+Saya percaya dia dapat
+menguruskan dengan baik.
+
+908
+00:40:12,120 --> 00:40:12,760
+Apa halnya?
+
+909
+00:40:15,000 --> 00:40:15,600
+Kak Man.
+
+910
+00:40:16,760 --> 00:40:18,360
+Awak balik demi Jiang Yicheng.
+
+911
+00:40:18,670 --> 00:40:19,560
+Awak tahu dengan jelas.
+
+912
+00:40:21,150 --> 00:40:22,150
+Saya lupa beritahu awak.
+
+913
+00:40:23,600 --> 00:40:24,630
+Dia dah kahwin.
+
+914
+00:40:25,670 --> 00:40:26,430
+Kahwin?
+
+915
+00:40:27,840 --> 00:40:28,760
+Dengan pengatur cara itu?
+
+916
+00:40:29,600 --> 00:40:30,430
+Mustahil.
+
+917
+00:40:30,670 --> 00:40:31,080
+Ya.
+
+918
+00:40:32,000 --> 00:40:33,000
+Saya juga rasa terkejut.
+
+919
+00:40:33,870 --> 00:40:34,950
+Namun, dia sendiri yang mengakunya.
+
+920
+00:40:36,520 --> 00:40:39,000
+Takkan dia tipu awak?
+
+921
+00:40:41,150 --> 00:40:42,320
+Berdasarkan pemahaman saya terhadap dia,
+
+922
+00:40:42,950 --> 00:40:45,120
+dia takkan bergurau dengan saya
+atas hal begini.
+
+923
+00:40:46,000 --> 00:40:47,520
+Bertahun-tahun ini, demi balik ke sini,
+
+924
+00:40:48,000 --> 00:40:49,800
+awak bekerja dengan susah payah
+sebelum memegang jawatan ini.
+
+925
+00:40:50,470 --> 00:40:51,840
+Awak tahu dengan jelas.
+
+926
+00:40:52,560 --> 00:40:53,600
+Awak nak berputus asa begitu sajakah?
+
+927
+00:40:57,190 --> 00:40:57,800
+Ya.
+
+928
+00:40:59,560 --> 00:41:01,710
+Demi bersama dia secara terang-terangan,
+
+929
+00:41:03,320 --> 00:41:04,150
+selama tiga tahun ini,
+
+930
+00:41:05,000 --> 00:41:06,710
+saya hanya tahu bekerja.
+
+931
+00:41:07,950 --> 00:41:08,600
+Tahukah awak?
+
+932
+00:41:09,320 --> 00:41:11,230
+Saya takkan berehat biarpun jatuh sakit.
+
+933
+00:41:12,190 --> 00:41:13,630
+Mereka rasa saya mabuk kerja
+
+934
+00:41:13,800 --> 00:41:14,560
+dan takkan rasa penat.
+
+935
+00:41:15,320 --> 00:41:16,150
+Namun, Yicheng
+
+936
+00:41:17,630 --> 00:41:19,190
+betul-betul arah dalam kehidupan saya.
+
+937
+00:41:21,040 --> 00:41:21,950
+Oleh itu,
+
+938
+00:41:23,360 --> 00:41:24,760
+saya juga tak tahu apa yang patut buat.
+
+939
+00:41:26,470 --> 00:41:27,390
+Fikiran saya yang paling bodoh adalah
+
+940
+00:41:28,280 --> 00:41:29,670
+saya sangka dia tak bercinta
+selama tiga tahun
+
+941
+00:41:30,150 --> 00:41:31,430
+adalah kerana dia nak tunggu saya.
+
+942
+00:41:32,230 --> 00:41:34,150
+Saya sangka dia tak mengupah
+pengatur cara wanita
+
+943
+00:41:34,630 --> 00:41:35,910
+adalah kerana tak dapat lupakan saya.
+
+944
+00:41:38,230 --> 00:41:39,600
+Akhirnya, saya tahu bahawa
+
+945
+00:41:41,470 --> 00:41:42,470
+semua ini
+
+946
+00:41:44,120 --> 00:41:45,390
+hanya sangkaan saya.
+
+947
+00:41:47,520 --> 00:41:48,190
+Kak Man.
+
+948
+00:41:49,870 --> 00:41:51,520
+Saya rasa ada sesuatu yang tak kena
+dalam hal ini.
+
+949
+00:41:53,910 --> 00:41:54,950
+Cuba awak fikir dengan teliti.
+
+950
+00:41:55,760 --> 00:41:56,390
+Semasa kita nampak
+
+951
+00:41:56,520 --> 00:41:58,760
+Jiang Yicheng bersama pengatur cara itu,
+
+952
+00:41:59,190 --> 00:42:00,950
+adakah pekerja di syarikat mereka
+juga terperanjat?
+
+953
+00:42:03,800 --> 00:42:04,800
+Mereka nampak seperti
+
+954
+00:42:06,150 --> 00:42:07,870
+memang tak tahu bahawa
+mereka ialah pasangan kekasih.
+
+955
+00:42:08,320 --> 00:42:08,950
+Betul.
+
+956
+00:42:09,320 --> 00:42:12,120
+Syarikat mereka tak melarang
+percintaan di pejabat.
+
+957
+00:42:13,120 --> 00:42:14,520
+Mengapa mereka merahsiakan
+perkahwinan mereka?
+
+958
+00:42:16,320 --> 00:42:18,600
+Yicheng memang bukan orang
+yang bersikap curi-curi.
+
+959
+00:42:19,360 --> 00:42:20,760
+Oleh itu, ada sesuatu yang tak kena
+dalam hal ini.
+
+960
+00:42:21,320 --> 00:42:22,190
+Awak pernah beritahu saya,
+
+961
+00:42:22,320 --> 00:42:23,630
+mereka berkenalan
+untuk masa yang pendek.
+
+962
+00:42:24,560 --> 00:42:26,280
+Mengapa mereka tiba-tiba kahwin?
+
+963
+00:42:27,870 --> 00:42:28,840
+Betul cakap awak.
+
+964
+00:42:34,710 --> 00:42:36,230
+Saya akan pergi mengesahkan hal ini.
+
+965
+00:43:10,320 --> 00:43:10,870
+Xiao Lu.
+
+966
+00:43:13,630 --> 00:43:15,230
+Apabila saya tahu punca masalah,
+
+967
+00:43:15,360 --> 00:43:16,600
+seluruh badan saya sangat selesa.
+
+968
+00:43:17,630 --> 00:43:19,080
+Seterusnya, awak hanya
+perlu membetulkannya.
+
+969
+00:43:19,390 --> 00:43:20,470
+Ini kekuatan awak.
+
+970
+00:43:21,190 --> 00:43:22,630
+Terima kasih atas bantuan awak.
+
+971
+00:43:23,150 --> 00:43:24,190
+Saya nak belanja awak makan malam ini.
+
+972
+00:43:24,390 --> 00:43:25,390
+Jangan menolak ajakan saya.
+
+973
+00:43:26,040 --> 00:43:27,000
+Bolehkah saya pesan lauk?
+
+974
+00:43:27,120 --> 00:43:27,840
+Tentulah.
+
+975
+00:43:29,280 --> 00:43:29,760
+Ayuh.
+
+976
+00:43:29,870 --> 00:43:30,560
+Lu Li.
+
+977
+00:43:31,800 --> 00:43:32,560
+Encik Jiang.
+
+978
+00:43:34,080 --> 00:43:35,710
+Awak dah habis kerja, bukan?
+
+979
+00:43:35,840 --> 00:43:36,870
+Mengapa awak masih belum pergi?
+
+980
+00:43:41,710 --> 00:43:43,040
+Adakah awak lupa sesuatu?
+
+981
+00:43:44,000 --> 00:43:45,710
+Adakah awak mempunyai janji temu
+dengan Encik Jiang?
+
+982
+00:43:46,390 --> 00:43:47,230
+Tak ada.
+
+983
+00:43:49,150 --> 00:43:50,120
+Daya ingatan awak
+
+984
+00:43:50,390 --> 00:43:51,190
+betul-betul teruk.
+
+985
+00:43:51,710 --> 00:43:53,520
+Saya betul-betul tak ingat
+apa yang telah saya lupakan.
+
+986
+00:43:54,280 --> 00:43:56,080
+Awak lupa tugas penting
+yang awak terima tadi?
+
+987
+00:43:56,320 --> 00:43:57,230
+Awak kesuntukan masa
+dan tugas ini penting.
+
+988
+00:43:57,390 --> 00:43:58,360
+Masa awak patut digunakan dengan baik.
+
+989
+00:43:59,280 --> 00:44:00,280
+Saya tak lupa.
+
+990
+00:44:00,630 --> 00:44:01,710
+Saya akan menyambar masa saya.
+
+991
+00:44:01,950 --> 00:44:03,230
+Menyambar masa untuk pergi makankah?
+
+992
+00:44:03,840 --> 00:44:04,870
+Xiao Lu.
+
+993
+00:44:05,280 --> 00:44:07,320
+Kita boleh buat janji temu
+untuk makan lain hari.
+
+994
+00:44:07,600 --> 00:44:08,120
+Encik Jiang.
+
+995
+00:44:08,230 --> 00:44:09,470
+Saya pergi dulu.
+
+996
+00:44:10,840 --> 00:44:11,360
+Abang Lei.
+
+997
+00:44:13,190 --> 00:44:14,430
+Ini kereta awakkah?
+
+998
+00:44:14,520 --> 00:44:15,840
+Ya, kenapa?
+
+999
+00:44:16,840 --> 00:44:18,390
+Baru-baru ini, kamu sangat rapat.
+
+1000
+00:44:20,150 --> 00:44:20,600
+Encik Jiang.
+
+1001
+00:44:21,000 --> 00:44:22,040
+Jangan salah faham.
+
+1002
+00:44:22,600 --> 00:44:23,910
+Baru-baru ini, saya tak sihat.
+
+1003
+00:44:24,230 --> 00:44:26,190
+Xiao Lu menemani saya ke hospital
+untuk jumpa doktor
+
+1004
+00:44:26,470 --> 00:44:27,800
+kerana kami ialah rakan sekerja.
+
+1005
+00:44:28,390 --> 00:44:29,230
+Awak jatuh sakitkah?
+
+1006
+00:44:29,840 --> 00:44:31,520
+Saya mengalami masalah psikologi.
+
+1007
+00:44:31,800 --> 00:44:32,280
+Selepas menyelaraskan emosi,
+
+1008
+00:44:32,560 --> 00:44:34,080
+saya akan sembuh.
+
+1009
+00:44:35,470 --> 00:44:36,600
+Baliklah awal untuk berehat.
+
+1010
+00:44:36,710 --> 00:44:37,520
+Baik, Encik Jiang.
+
+1011
+00:44:37,670 --> 00:44:38,320
+Jangan risau.
+
+1012
+00:44:38,470 --> 00:44:39,840
+Saya takkan jejaskan kerja
+kerana badan saya.
+
+1013
+00:44:40,470 --> 00:44:40,760
+Baik.
+
+1014
+00:44:41,120 --> 00:44:42,080
+Awak pergi buat kerja awak.
+
+1015
+00:44:59,870 --> 00:45:01,120
+Awak pergi tonton wayang
+bersama Abang Lei?
+
+1016
+00:45:02,150 --> 00:45:03,840
+Da Huang beli lebih dua tiket wayang.
+
+1017
+00:45:04,000 --> 00:45:04,870
+Kalau tak pergi, bazirkan saja.
+
+1018
+00:45:05,120 --> 00:45:06,520
+Kemudian, Abang Lei tak sihat.
+
+1019
+00:45:06,710 --> 00:45:07,950
+Saya hantar dia ke hospital.
+
+1020
+00:45:08,150 --> 00:45:09,150
+Oleh itu, saya balik rumah lewat.
+
+1021
+00:45:09,630 --> 00:45:10,670
+Mengapa awak tak beritahu saya awal?
+
+1022
+00:45:10,840 --> 00:45:12,080
+Awak tak beri saya peluang
+untuk bercakap.
+
+1023
+00:45:12,230 --> 00:45:12,630
+Awak...
+
+1024
+00:45:13,910 --> 00:45:15,520
+Awak kuat leter, tak cakap poin utama,
+tentulah saya...
+
+1025
+00:45:16,800 --> 00:45:17,280
+Pendek kata,
+
+1026
+00:45:17,630 --> 00:45:19,190
+kalau tiada poin utama
+dalam kertas kerja awak,
+
+1027
+00:45:19,520 --> 00:45:20,710
+saya takkan terima
+dan awak perlu buat semula.
+
+1028
+00:45:21,840 --> 00:45:22,470
+Tahulah saya.
+
+1029
+00:45:22,950 --> 00:45:23,800
+Masuk ke dalam kereta.
+
+1030
+00:45:45,280 --> 00:45:46,600
+(Terdapat pepijat)
+
+1031
+00:45:46,760 --> 00:45:48,040
+(dalam setiap percintaan.)
+
+1032
+00:45:48,430 --> 00:45:50,800
+(Daripada berwaspada terhadap
+serangan penggodam,)
+
+1033
+00:45:50,800 --> 00:45:52,120
+(lebih baik membetulkannya sendiri)
+
+1034
+00:45:52,190 --> 00:45:55,280
+(untuk memperjuangkan hak inisiatif
+dalam percintaan.)
+
+1035
+00:46:05,560 --> 00:46:09,640
+♪Awak tinggi,
+tetapi mempunyai suara kebudak-budakan♪
+
+1036
+00:46:09,760 --> 00:46:10,800
+♪Awak naif♪
+
+1037
+00:46:11,880 --> 00:46:13,080
+♪Dan kecil hati♪
+
+1038
+00:46:14,520 --> 00:46:18,520
+♪Saya kecil molek dan rasa
+tertekan apabila berada di sisi awak♪
+
+1039
+00:46:18,920 --> 00:46:22,720
+♪Saya tidak berani mendampingi awak♪
+
+1040
+00:46:23,480 --> 00:46:27,080
+♪Saya berharap
+dapat jumpa awak setiap pagi♪
+
+1041
+00:46:27,480 --> 00:46:32,080
+♪Dengan begini, kehidupan seharian saya
+menjadi bermakna♪
+
+1042
+00:46:32,600 --> 00:46:36,280
+♪Setiap malam
+saya menunggu bunyi bising awak♪
+
+1043
+00:46:36,600 --> 00:46:40,600
+♪Memecah kesunyian malam♪
+
+1044
+00:46:41,720 --> 00:46:45,160
+♪Apabila telefon berdering,
+saya mendoakan orang itu awak♪
+
+1045
+00:46:45,360 --> 00:46:47,400
+♪Sebaik sahaja mendengar suara awak♪
+
+1046
+00:46:47,680 --> 00:46:50,720
+♪Saya tersenyum dengan lebar♪
+
+1047
+00:46:50,760 --> 00:46:54,080
+♪Kata-kata awak
+kedengaran kebudak-budakan♪
+
+1048
+00:46:54,160 --> 00:46:58,080
+♪Jadi, saya sentiasa membuli awak♪
+
+1049
+00:46:58,960 --> 00:47:00,640
+♪Maafkan saya♪
+
+1050
+00:47:03,640 --> 00:47:07,560
+♪Kadangkala awak
+bertindak mengikut perasaan♪
+
+1051
+00:47:07,800 --> 00:47:09,520
+♪Panas baran♪
+
+1052
+00:47:09,800 --> 00:47:11,520
+♪Dan cemburu♪
+
+1053
+00:47:12,840 --> 00:47:16,800
+♪Jadi, saya berkompromi
+dan memujuk awak♪
+
+1054
+00:47:17,160 --> 00:47:21,560
+♪Cuaca menjadi cerah dengan cepat
+selepas hujan♪
+
+1055
+00:47:21,680 --> 00:47:25,560
+♪Saya berharap
+dapat jumpa awak setiap pagi♪
+
+1056
+00:47:25,640 --> 00:47:30,520
+♪Dengan begini, kehidupan seharian saya
+menjadi bermakna♪
+
+1057
+00:47:30,640 --> 00:47:34,720
+♪Setiap malam
+saya menunggu bunyi bising awak♪
+
+1058
+00:47:34,760 --> 00:47:38,920
+♪Memecah kesunyian malam♪
+
+1059
+00:47:55,040 --> 00:47:59,360
+♪Lagu ini untuk awak♪
+
+1060
+00:47:59,560 --> 00:48:04,080
+♪Kita mesti meneruskan
+perjalanan masa depan bersama♪
+
+1061
+00:48:08,640 --> 00:48:12,280
+♪Apabila telefon berdering,
+saya mendoakan orang itu awak♪
+
+1062
+00:48:12,320 --> 00:48:14,560
+♪Sebaik sahaja mendengar suara awak♪
+
+1063
+00:48:14,600 --> 00:48:17,720
+♪Saya tersenyum dengan lebar♪
+
+1064
+00:48:17,720 --> 00:48:21,280
+♪Kata-kata awak
+kedengaran kebudak-budakan♪
+
+1065
+00:48:21,360 --> 00:48:25,480
+♪Jadi, saya sentiasa membuli awak♪
+
+1066
+00:48:25,960 --> 00:48:28,240
+♪Maafkan saya♪
+
+1067
+00:48:30,080 --> 00:48:32,680
+♪Tidak mengapa♪
+
+1068
+00:48:36,440 --> 00:48:41,040
+♪Saya mencintai awak♪
+
