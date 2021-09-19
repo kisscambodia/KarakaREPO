@@ -1,0 +1,3655 @@
+﻿1
+00:00:27,540 --> 00:00:31,000
+♪Secretly keying love into the program♪
+
+2
+00:00:31,540 --> 00:00:35,000
+♪Ctrl＋Love♪
+
+3
+00:00:35,540 --> 00:00:39,460
+♪Thinking of you is written
+all over the binary♪
+
+4
+00:00:43,460 --> 00:00:46,900
+♪Save and back up every word of concern♪
+
+5
+00:00:47,460 --> 00:00:50,900
+♪Two hearts growing closer♪
+
+6
+00:00:51,100 --> 00:00:52,620
+♪Every tap, every key♪
+
+7
+00:00:52,860 --> 00:00:56,300
+♪The codes are saying I like you♪
+
+8
+00:00:56,820 --> 00:00:59,500
+♪I'll brave through the night♪
+
+9
+00:00:59,540 --> 00:01:04,100
+♪For us, I'll work hard
+to defeat the BUG♪
+
+10
+00:01:05,660 --> 00:01:09,460
+♪Always on standby,
+never lag, never hang♪
+
+11
+00:01:09,740 --> 00:01:11,860
+♪Just to meet you♪
+
+12
+00:01:12,180 --> 00:01:13,860
+♪Just to meet you♪
+
+13
+00:01:13,860 --> 00:01:17,500
+♪Want to be together
+and live in your arms♪
+
+14
+00:01:17,540 --> 00:01:21,500
+♪Spend the four seasons together♪
+
+15
+00:01:21,780 --> 00:01:25,180
+♪I'll key in you and I♪
+
+16
+00:01:25,580 --> 00:01:29,900
+♪In every special and sweet program♪
+
+17
+00:01:31,740 --> 00:01:35,460
+♪I'll key in you and I♪
+
+18
+00:01:35,620 --> 00:01:39,820
+♪In every special and sweet program♪
+
+19
+00:01:40,540 --> 00:01:45,700
+=Cute Programmer=
+
+20
+00:01:46,060 --> 00:01:48,220
+=Episode 17=
+
+21
+00:02:41,679 --> 00:02:42,520
+All done.
+
+22
+00:02:46,080 --> 00:02:47,839
+How do you know how to make up?
+
+23
+00:02:48,639 --> 00:02:50,039
+If you have two women in the family
+
+24
+00:02:50,199 --> 00:02:51,880
+who won't leave home without makeup,
+
+25
+00:02:52,080 --> 00:02:53,440
+you'll pick it up no matter
+how stupid you are.
+
+26
+00:02:59,440 --> 00:03:00,600
+Stop staring at me like that.
+
+27
+00:03:00,759 --> 00:03:02,119
+You make me feel like a pervert.
+
+28
+00:03:03,520 --> 00:03:06,279
+I used to fix Jiang Zitong's hair
+when she was a kid.
+
+29
+00:03:07,479 --> 00:03:09,600
+It's truly blessed to be your sister.
+
+30
+00:03:10,880 --> 00:03:12,320
+My sister is not
+the most blessed person.
+
+31
+00:03:12,440 --> 00:03:13,160
+My wife...
+
+32
+00:03:17,720 --> 00:03:18,839
+It's late.
+
+33
+00:03:19,199 --> 00:03:20,000
+Let's go.
+
+34
+00:03:28,360 --> 00:03:28,880
+Here.
+
+35
+00:03:28,880 --> 00:03:29,600
+Smile.
+
+36
+00:03:31,679 --> 00:03:32,080
+Done.
+
+37
+00:03:33,039 --> 00:03:33,919
+You're here.
+
+38
+00:03:35,639 --> 00:03:37,199
+Do I sign here?
+
+39
+00:03:37,199 --> 00:03:39,160
+I want to take this opportunity
+to show Lu Li around.
+
+40
+00:03:43,479 --> 00:03:45,520
+The summit has not started yet.
+
+41
+00:03:45,720 --> 00:03:47,800
+Let me introduce the investors to you.
+
+42
+00:03:47,960 --> 00:03:48,600
+Sure.
+
+43
+00:03:50,839 --> 00:03:51,559
+Take care.
+
+44
+00:03:51,639 --> 00:03:52,600
+Don't sprain your ankle.
+
+45
+00:03:53,039 --> 00:03:53,839
+I'm fine.
+
+46
+00:03:53,960 --> 00:03:55,279
+Don't worry about me.
+
+47
+00:03:55,559 --> 00:03:56,440
+I'm not worried.
+
+48
+00:03:57,000 --> 00:03:58,320
+I don't want you
+
+49
+00:03:58,679 --> 00:03:59,880
+to embarrass me.
+
+50
+00:04:06,440 --> 00:04:07,759
+Yicheng, this way.
+
+51
+00:04:09,240 --> 00:04:09,839
+Hi.
+
+52
+00:04:09,839 --> 00:04:10,759
+Mr. Jiang.
+
+53
+00:04:10,960 --> 00:04:11,880
+(The 1st Game Developers Summit)
+Mr. Jiang.
+
+54
+00:04:12,639 --> 00:04:13,759
+Mr. Li is over there.
+
+55
+00:04:15,520 --> 00:04:17,040
+I have a new idea.
+
+56
+00:04:17,480 --> 00:04:19,119
+It's an interactive game.
+
+57
+00:04:19,720 --> 00:04:22,119
+We'll connect the mobile phone
+and the computer.
+
+58
+00:04:22,440 --> 00:04:24,239
+When we're out, we can play it
+on our mobile phones.
+
+59
+00:04:24,399 --> 00:04:26,079
+When we are home,
+we can play it on the computers.
+
+60
+00:04:26,839 --> 00:04:27,880
+What do you think?
+
+61
+00:04:29,239 --> 00:04:29,959
+That's not a bad idea.
+
+62
+00:04:35,519 --> 00:04:36,920
+Do you want anything?
+
+63
+00:04:37,119 --> 00:04:38,160
+I'll take it for you.
+
+64
+00:04:42,320 --> 00:04:43,839
+It's okay.
+
+65
+00:04:44,720 --> 00:04:47,160
+You seem like a quiet person.
+
+66
+00:04:49,040 --> 00:04:50,760
+I'm not a quiet person.
+
+67
+00:04:51,079 --> 00:04:53,079
+I simply don't feel like talking
+at the moment.
+
+68
+00:04:53,640 --> 00:04:54,720
+You're really an interesting person.
+
+69
+00:04:55,519 --> 00:04:56,160
+By the way,
+
+70
+00:04:56,320 --> 00:04:58,720
+are you Mr. Jiang's secretary?
+
+71
+00:05:01,239 --> 00:05:02,799
+I'm a programmer.
+
+72
+00:05:03,720 --> 00:05:05,119
+Are you kidding me?
+
+73
+00:05:05,279 --> 00:05:06,000
+I don't believe you
+
+74
+00:05:06,119 --> 00:05:07,799
+unless you can prove it.
+
+75
+00:05:08,320 --> 00:05:09,440
+How can I prove it?
+
+76
+00:05:09,640 --> 00:05:10,239
+What about this?
+
+77
+00:05:10,440 --> 00:05:11,160
+Tell me
+
+78
+00:05:11,320 --> 00:05:14,160
+how to socialize with programmers.
+
+79
+00:05:17,920 --> 00:05:21,679
+You should never call them
+the computer repair technicians.
+
+80
+00:05:22,040 --> 00:05:22,679
+No.
+
+81
+00:05:22,880 --> 00:05:25,119
+You should never point out
+their mistakes.
+
+82
+00:05:26,320 --> 00:05:27,200
+Eat something.
+
+83
+00:05:27,760 --> 00:05:30,480
+Lu Li. Go get the bill.
+
+84
+00:05:32,399 --> 00:05:33,399
+Take care.
+
+85
+00:05:38,880 --> 00:05:39,920
+Mr. Jiang.
+
+86
+00:05:40,720 --> 00:05:42,399
+You're making me look bad.
+
+87
+00:05:43,079 --> 00:05:44,519
+I said I would get the bill.
+
+88
+00:05:45,799 --> 00:05:46,760
+Mr. Li.
+
+89
+00:05:47,040 --> 00:05:48,079
+This is my home ground.
+
+90
+00:05:48,239 --> 00:05:49,640
+Of course, I should be hosting you.
+
+91
+00:05:49,839 --> 00:05:50,760
+Fret not.
+
+92
+00:05:51,000 --> 00:05:52,119
+When I visit Shenzhen in the future,
+
+93
+00:05:52,279 --> 00:05:53,279
+you'll have to buy me a meal.
+
+94
+00:05:57,040 --> 00:05:57,880
+By the way,
+
+95
+00:05:58,959 --> 00:06:01,200
+he is my right-hand man,
+
+96
+00:06:01,519 --> 00:06:02,320
+Liu.
+
+97
+00:06:02,600 --> 00:06:04,160
+He's an all-rounder,
+
+98
+00:06:04,399 --> 00:06:06,600
+but unfortunately, he's still single.
+
+99
+00:06:07,160 --> 00:06:08,279
+Mr. Jiang.
+
+100
+00:06:08,519 --> 00:06:11,880
+Do introduce him to some nice girls
+if you know any.
+
+101
+00:06:12,519 --> 00:06:13,320
+Mr. Li.
+
+102
+00:06:13,559 --> 00:06:15,119
+I don't think I can be of any help.
+
+103
+00:06:17,239 --> 00:06:19,200
+That girl looks pretty decent.
+
+104
+00:06:19,440 --> 00:06:22,000
+It seems like they had a good chat
+
+105
+00:06:22,160 --> 00:06:23,279
+and they both enjoyed it.
+
+106
+00:06:23,399 --> 00:06:24,880
+I find Miss Lu quite interesting too.
+
+107
+00:06:25,040 --> 00:06:26,640
+Besides, she's a programmer.
+
+108
+00:06:26,839 --> 00:06:28,239
+That's right.
+
+109
+00:06:28,519 --> 00:06:30,359
+You shall propose a toast
+
+110
+00:06:30,839 --> 00:06:33,399
+to thank Mr. Jiang
+for introducing a nice girl to you.
+
+111
+00:06:33,519 --> 00:06:34,440
+Thanks, Mr. Jiang.
+
+112
+00:06:34,679 --> 00:06:35,920
+I'm sorry to disappoint you.
+
+113
+00:06:36,480 --> 00:06:37,480
+I should've introduced her earlier.
+
+114
+00:06:38,119 --> 00:06:39,160
+Miss Lu
+
+115
+00:06:39,880 --> 00:06:40,799
+is my wife.
+
+116
+00:06:51,359 --> 00:06:53,320
+It was a misunderstanding.
+
+117
+00:06:53,679 --> 00:06:54,320
+Just a misunderstanding.
+
+118
+00:06:54,399 --> 00:06:56,239
+Cheers.
+
+119
+00:06:56,239 --> 00:06:56,959
+I'm sorry.
+
+120
+00:06:57,160 --> 00:06:58,239
+I should've made it clear earlier.
+
+121
+00:06:58,359 --> 00:06:58,959
+Here.
+
+122
+00:07:20,720 --> 00:07:22,600
+Yicheng said I looked good in blue.
+
+123
+00:07:22,760 --> 00:07:25,799
+I didn't expect you
+to be in the same color as well.
+
+124
+00:07:26,600 --> 00:07:28,559
+He picked this color.
+
+125
+00:07:31,480 --> 00:07:34,359
+Seemingly, he still likes
+the same thing as before.
+
+126
+00:07:36,279 --> 00:07:37,760
+We are different.
+
+127
+00:07:38,160 --> 00:07:40,160
+I used to be just like you,
+
+128
+00:07:41,320 --> 00:07:44,399
+but I'm different now.
+
+129
+00:07:44,839 --> 00:07:46,839
+I can help him in building rapport,
+
+130
+00:07:47,079 --> 00:07:49,880
+and am capable of doing
+many things I couldn't do before.
+
+131
+00:07:52,200 --> 00:07:54,119
+Career and love are separate.
+
+132
+00:07:54,399 --> 00:07:57,000
+I guess he has already
+made his stance clear
+
+133
+00:07:57,160 --> 00:07:58,799
+when he decided to bring me here today.
+
+134
+00:08:01,720 --> 00:08:02,920
+I've been through this,
+
+135
+00:08:03,399 --> 00:08:05,440
+and I want to give you
+a piece of advice.
+
+136
+00:08:05,920 --> 00:08:08,679
+Don't judge a book by its cover.
+
+137
+00:08:09,720 --> 00:08:10,559
+What do you mean?
+
+138
+00:08:11,239 --> 00:08:13,440
+Yicheng is working so hard
+to win all the investors over,
+
+139
+00:08:13,600 --> 00:08:14,279
+because he wants to
+
+140
+00:08:14,359 --> 00:08:16,160
+free himself from his parents.
+
+141
+00:08:16,519 --> 00:08:18,160
+He doesn't want to be threatened
+
+142
+00:08:18,359 --> 00:08:19,920
+to make another choice
+
+143
+00:08:20,399 --> 00:08:21,760
+that he will regret later.
+
+144
+00:08:23,959 --> 00:08:25,519
+I suppose you don't need me
+to elaborate on this further.
+
+145
+00:08:45,479 --> 00:08:46,200
+This...
+
+146
+00:08:46,719 --> 00:08:48,159
+What's going on?
+
+147
+00:08:49,039 --> 00:08:49,799
+Yicheng.
+
+148
+00:08:50,599 --> 00:08:51,599
+Yicheng.
+
+149
+00:08:51,760 --> 00:08:53,039
+Are you all right?
+
+150
+00:08:57,119 --> 00:08:58,400
+Li Man.
+
+151
+00:08:59,400 --> 00:09:00,760
+Don't touch me.
+
+152
+00:09:00,919 --> 00:09:02,159
+I want to go home.
+
+153
+00:09:03,280 --> 00:09:03,640
+You...
+
+154
+00:09:03,640 --> 00:09:04,799
+Don't touch me.
+
+155
+00:09:07,599 --> 00:09:08,200
+Be careful.
+
+156
+00:09:08,479 --> 00:09:09,159
+I want to go home.
+
+157
+00:09:11,479 --> 00:09:12,559
+Be careful.
+
+158
+00:09:12,960 --> 00:09:14,080
+Let me help you.
+
+159
+00:09:16,320 --> 00:09:17,239
+Let me do it.
+
+160
+00:09:21,359 --> 00:09:22,599
+I want to go home.
+
+161
+00:09:31,119 --> 00:09:34,280
+Is Miss Li coming home with us?
+
+162
+00:09:40,799 --> 00:09:42,960
+You should go home early too.
+
+163
+00:09:43,919 --> 00:09:45,760
+Let's go home.
+
+164
+00:09:58,559 --> 00:09:59,320
+Be careful.
+
+165
+00:10:05,440 --> 00:10:06,719
+Goal!
+
+166
+00:10:14,239 --> 00:10:15,039
+Be careful.
+
+167
+00:10:19,200 --> 00:10:20,200
+Be careful.
+
+168
+00:10:22,280 --> 00:10:23,440
+The bed's right here.
+
+169
+00:10:33,479 --> 00:10:34,599
+Li Man.
+
+170
+00:10:37,280 --> 00:10:38,520
+I am Lu Li.
+
+171
+00:10:41,280 --> 00:10:43,000
+I want to go home.
+
+172
+00:10:49,159 --> 00:10:50,239
+You're already home.
+
+173
+00:10:51,039 --> 00:10:51,840
+This is your home.
+
+174
+00:10:52,039 --> 00:10:53,640
+I want to go home.
+
+175
+00:10:54,239 --> 00:10:55,679
+This is your home.
+
+176
+00:10:58,640 --> 00:10:59,320
+Here.
+
+177
+00:10:59,479 --> 00:11:00,640
+Let me help you to bed.
+
+178
+00:11:03,599 --> 00:11:05,520
+Lu Li.
+
+179
+00:11:16,320 --> 00:11:19,320
+Lu Li.
+
+180
+00:12:37,440 --> 00:12:38,760
+Li.
+
+181
+00:12:41,359 --> 00:12:43,320
+Li.
+
+182
+00:12:48,400 --> 00:12:49,799
+Li Man.
+
+183
+00:12:49,826 --> 00:12:52,660
+♪Maybe I'm not the one you love♪
+
+184
+00:12:53,220 --> 00:12:54,860
+♪Maybe I'm not the one you love♪
+
+185
+00:12:56,640 --> 00:12:58,119
+Li.
+
+186
+00:12:58,144 --> 00:13:00,340
+♪Maybe you only want to break out♪
+
+187
+00:13:00,820 --> 00:13:02,180
+♪Maybe you only want to break out♪
+
+188
+00:13:06,180 --> 00:13:08,700
+♪You can't turn back into a caterpillar♪
+
+189
+00:13:09,700 --> 00:13:12,700
+♪You can't break out
+of your cocoon either♪
+
+190
+00:13:13,300 --> 00:13:17,860
+♪So here you are, caught in a struggle♪
+
+191
+00:13:20,660 --> 00:13:23,420
+♪I don't know how to be tender♪
+
+192
+00:13:24,460 --> 00:13:27,020
+♪But I'll learn to bear with you♪
+
+193
+00:13:28,020 --> 00:13:32,940
+♪Who said there's a rainbow
+after the rain?♪
+
+194
+00:13:34,340 --> 00:13:36,860
+♪Maybe I'm not the one you love♪
+
+195
+00:13:37,260 --> 00:13:38,740
+♪Maybe I'm not the one you love♪
+
+196
+00:13:41,660 --> 00:13:44,260
+♪Maybe you only want to break out♪
+
+197
+00:13:44,660 --> 00:13:46,100
+♪Maybe you only want to break out♪
+
+198
+00:13:49,940 --> 00:13:53,340
+♪And turn back on the whole world♪
+
+199
+00:13:53,580 --> 00:13:56,540
+♪Only to worry about your troubles♪
+
+200
+00:13:57,060 --> 00:13:58,820
+♪Suddenly it rains♪
+
+201
+00:13:58,940 --> 00:14:00,580
+♪And you want to go home♪
+
+202
+00:14:00,740 --> 00:14:04,740
+♪I'm all alone on a deserted street♪
+
+203
+00:14:04,820 --> 00:14:08,060
+♪As the sky laughs down at me♪
+
+204
+00:14:08,140 --> 00:14:11,100
+♪Washing down my face with rain♪
+
+205
+00:14:11,580 --> 00:14:12,620
+♪The world is back♪
+
+206
+00:14:12,679 --> 00:14:14,119
+Li.
+
+207
+00:14:14,144 --> 00:14:16,057
+♪But I'm not going back♪
+
+208
+00:14:16,119 --> 00:14:17,400
+Lu Li.
+
+209
+00:14:19,440 --> 00:14:22,119
+I want Lu Li.
+
+210
+00:14:22,359 --> 00:14:24,280
+I want to go home.
+
+211
+00:14:24,320 --> 00:14:26,340
+♪But I'm not going back♪
+
+212
+00:15:41,159 --> 00:15:42,119
+Good morning.
+
+213
+00:15:42,239 --> 00:15:43,119
+Morning.
+
+214
+00:15:43,239 --> 00:15:46,119
+Have you just got up?
+
+215
+00:15:50,000 --> 00:15:55,080
+Were you the one
+who brought me home yesterday?
+
+216
+00:15:56,440 --> 00:15:57,400
+Who else
+
+217
+00:15:57,559 --> 00:15:58,880
+could it be?
+
+218
+00:16:01,719 --> 00:16:03,239
+I remember that Li Man
+insisted on bringing me home.
+
+219
+00:16:03,320 --> 00:16:04,320
+Then...
+
+220
+00:16:12,239 --> 00:16:14,359
+Then, I blacked out.
+
+221
+00:16:14,919 --> 00:16:19,200
+Then, did we...
+
+222
+00:16:25,799 --> 00:16:26,479
+You know it well.
+
+223
+00:16:26,559 --> 00:16:29,520
+I'm uncontrollable when I'm drunk.
+
+224
+00:16:32,119 --> 00:16:33,799
+After I helped you to bed,
+
+225
+00:16:33,919 --> 00:16:35,320
+I went back to my own room.
+
+226
+00:16:35,559 --> 00:16:36,840
+I have no idea
+
+227
+00:16:37,000 --> 00:16:38,119
+what happened in your room later.
+
+228
+00:16:39,960 --> 00:16:40,880
+Then...
+
+229
+00:16:42,799 --> 00:16:44,559
+Who changed my bedsheet?
+
+230
+00:16:47,039 --> 00:16:47,960
+You were drunk
+
+231
+00:16:48,080 --> 00:16:49,280
+and threw up on the bed.
+
+232
+00:16:49,520 --> 00:16:51,159
+If I didn't change the sheet,
+
+233
+00:16:51,320 --> 00:16:52,559
+you would surely give me a mouthful.
+
+234
+00:16:55,960 --> 00:16:57,159
+Is that all?
+
+235
+00:16:57,640 --> 00:16:58,520
+That's all.
+
+236
+00:17:11,400 --> 00:17:13,280
+Thanks for taking care of me last night.
+
+237
+00:17:16,199 --> 00:17:17,079
+You're welcome.
+
+238
+00:17:17,880 --> 00:17:20,760
+Don't drink so much again.
+
+239
+00:17:21,040 --> 00:17:22,439
+You are really heavy.
+
+240
+00:18:13,680 --> 00:18:16,239
+Was it all just a dream?
+
+241
+00:18:22,640 --> 00:18:23,959
+Xiaoqi.
+
+242
+00:18:24,640 --> 00:18:26,319
+Time for breakfast.
+
+243
+00:18:26,599 --> 00:18:28,520
+I'll skip it. I want to keep sleeping.
+
+244
+00:18:30,239 --> 00:18:31,719
+Go back to sleep after you eat.
+
+245
+00:18:31,959 --> 00:18:33,160
+Otherwise, it'll hurt your stomach.
+
+246
+00:18:33,359 --> 00:18:35,040
+The dishes are getting cold.
+
+247
+00:18:59,640 --> 00:19:00,560
+Godmother said
+
+248
+00:19:00,680 --> 00:19:01,880
+that if you don't wake up right away,
+
+249
+00:19:02,000 --> 00:19:03,719
+she will remove your blanket.
+
+250
+00:19:04,760 --> 00:19:06,359
+How did you get in?
+
+251
+00:19:06,640 --> 00:19:08,599
+Your godmother asked me
+to send you some fruit.
+
+252
+00:19:08,719 --> 00:19:09,160
+Don't you think
+
+253
+00:19:09,280 --> 00:19:11,199
+I will forgive you just because
+you brought up my godmother.
+
+254
+00:19:11,359 --> 00:19:12,680
+We are no longer friends.
+
+255
+00:19:12,800 --> 00:19:13,760
+Gu Xiaoqi.
+
+256
+00:19:13,959 --> 00:19:14,800
+I don't want
+
+257
+00:19:14,920 --> 00:19:16,680
+to hear you saying this
+for the third time.
+
+258
+00:19:17,520 --> 00:19:18,359
+Sure.
+
+259
+00:19:18,640 --> 00:19:20,199
+We're no longer friends.
+
+260
+00:19:22,839 --> 00:19:23,479
+This is my room.
+
+261
+00:19:23,599 --> 00:19:24,479
+Get out.
+
+262
+00:19:27,880 --> 00:19:29,800
+This photo was taken on
+an outing we went on
+
+263
+00:19:29,959 --> 00:19:31,800
+when you were in middle school.
+
+264
+00:19:32,839 --> 00:19:33,920
+I bought that music box for you
+
+265
+00:19:34,319 --> 00:19:36,760
+with my first ever pay.
+
+266
+00:19:37,359 --> 00:19:38,640
+I gave that picture to you
+
+267
+00:19:39,079 --> 00:19:40,640
+as a coming-of-age gift.
+
+268
+00:19:41,719 --> 00:19:42,479
+This.
+
+269
+00:19:43,119 --> 00:19:44,079
+When you first entered high school,
+
+270
+00:19:44,199 --> 00:19:45,439
+you had to live on campus.
+
+271
+00:19:45,599 --> 00:19:46,959
+You were scared and you couldn't sleep.
+
+272
+00:19:47,160 --> 00:19:49,680
+I deliberately skipped class
+just to buy this rabbit for you.
+
+273
+00:19:51,719 --> 00:19:52,560
+What are you doing?
+
+274
+00:19:53,280 --> 00:19:54,599
+Are you here to reminisce?
+
+275
+00:19:54,880 --> 00:19:56,040
+Xiaoqi.
+
+276
+00:19:56,719 --> 00:19:57,800
+What I'm saying is
+
+277
+00:19:59,239 --> 00:20:01,439
+I took part in every stage of your life.
+
+278
+00:20:01,760 --> 00:20:03,199
+We are the closest to each other.
+
+279
+00:20:03,479 --> 00:20:04,400
+Therefore, there's no need for you
+
+280
+00:20:04,520 --> 00:20:06,520
+to throw tantrums at me
+because of some unimportant persons.
+
+281
+00:20:06,880 --> 00:20:09,040
+Someone I had a crush on was
+not an unimportant person.
+
+282
+00:20:09,599 --> 00:20:10,880
+Just because we grew up together,
+
+283
+00:20:11,079 --> 00:20:13,239
+it doesn't give you the right
+to interfere in my relationship.
+
+284
+00:20:13,359 --> 00:20:14,119
+No.
+
+285
+00:20:14,640 --> 00:20:16,000
+I was just trying to
+pick the right guy for you.
+
+286
+00:20:16,239 --> 00:20:17,319
+What am I to you?
+
+287
+00:20:17,439 --> 00:20:18,560
+Your rag doll?
+
+288
+00:20:18,800 --> 00:20:20,520
+Do you actually know what you did wrong?
+
+289
+00:20:20,719 --> 00:20:22,079
+Even my parents
+
+290
+00:20:22,239 --> 00:20:23,680
+don't control me like this.
+
+291
+00:20:26,560 --> 00:20:27,359
+Mom.
+
+292
+00:20:30,040 --> 00:20:30,800
+Mom.
+
+293
+00:20:31,839 --> 00:20:33,839
+Don't allow any outsider
+into my room anymore.
+
+294
+00:20:34,079 --> 00:20:35,040
+What's wrong with you?
+
+295
+00:20:35,160 --> 00:20:36,760
+Mo is not an outsider.
+
+296
+00:20:38,719 --> 00:20:40,959
+She is so grumpy.
+
+297
+00:20:41,119 --> 00:20:41,920
+I hope she didn't scare you.
+
+298
+00:20:42,079 --> 00:20:42,920
+Of course, not.
+
+299
+00:20:43,000 --> 00:20:43,839
+I have seen every face of hers.
+
+300
+00:20:43,920 --> 00:20:45,079
+You're right.
+
+301
+00:20:45,319 --> 00:20:46,160
+Let me peel an egg for her.
+
+302
+00:20:46,239 --> 00:20:47,920
+Let me do it.
+
+303
+00:20:49,199 --> 00:20:50,000
+Look at the both of you.
+
+304
+00:20:50,199 --> 00:20:50,880
+You grew up together.
+
+305
+00:20:51,000 --> 00:20:52,199
+Why is she nothing like you?
+
+306
+00:20:52,479 --> 00:20:54,319
+I wish she could be
+half as mature as you.
+
+307
+00:21:00,560 --> 00:21:01,800
+So annoying.
+
+308
+00:21:21,680 --> 00:21:23,319
+Why do you look blank?
+
+309
+00:21:32,719 --> 00:21:33,599
+How do you like it?
+
+310
+00:21:35,439 --> 00:21:36,479
+I can taste the sweetness
+after the bitterness.
+
+311
+00:21:38,160 --> 00:21:39,079
+That's why they say
+
+312
+00:21:39,359 --> 00:21:40,760
+life is just like a cup of tea.
+
+313
+00:21:44,520 --> 00:21:45,800
+It's been a long time
+since I last met you.
+
+314
+00:21:46,640 --> 00:21:47,959
+You haven't explained to me
+
+315
+00:21:48,160 --> 00:21:49,719
+what happened the last time?
+
+316
+00:21:51,959 --> 00:21:53,560
+Didn't you text me
+
+317
+00:21:54,000 --> 00:21:55,439
+all of a sudden
+
+318
+00:21:55,599 --> 00:21:58,319
+to tell me to leave the office?
+
+319
+00:22:00,119 --> 00:22:02,079
+Too many things have happened of late.
+
+320
+00:22:02,319 --> 00:22:05,119
+It felt like it was a long time ago.
+
+321
+00:22:05,959 --> 00:22:07,040
+Lu,
+
+322
+00:22:07,760 --> 00:22:08,760
+are you all right?
+
+323
+00:22:11,199 --> 00:22:13,800
+Perhaps I've been too occupied with work.
+
+324
+00:22:15,560 --> 00:22:16,839
+Speaking of work,
+
+325
+00:22:17,280 --> 00:22:19,119
+the senior you met
+
+326
+00:22:19,359 --> 00:22:21,280
+at the tea house last time
+
+327
+00:22:21,560 --> 00:22:23,079
+is Jiang Yicheng.
+
+328
+00:22:23,400 --> 00:22:25,239
+He is the founder of Enchant Technology.
+
+329
+00:22:25,880 --> 00:22:28,880
+He gave me a call just to ask about you.
+
+330
+00:22:29,199 --> 00:22:30,680
+Do you know each other?
+
+331
+00:22:32,719 --> 00:22:34,760
+I'm working at Enchant now.
+
+332
+00:22:35,839 --> 00:22:37,839
+In fact, I sent you a text
+
+333
+00:22:38,400 --> 00:22:40,400
+because of him as well.
+
+334
+00:22:50,280 --> 00:22:51,719
+Look at you.
+
+335
+00:22:52,439 --> 00:22:55,800
+You even disguised as a man.
+
+336
+00:22:57,640 --> 00:22:59,040
+They say you're stubborn.
+
+337
+00:22:59,359 --> 00:23:01,280
+I think you're more than just stubborn.
+
+338
+00:23:01,439 --> 00:23:03,520
+You're foolish.
+
+339
+00:23:04,359 --> 00:23:06,160
+Are you calling me a fool?
+
+340
+00:23:08,280 --> 00:23:10,760
+These days, the world is
+full of intelligent people.
+
+341
+00:23:10,959 --> 00:23:12,719
+In order to achieve a goal,
+
+342
+00:23:13,000 --> 00:23:14,479
+what we lack is
+usually not intelligence,
+
+343
+00:23:14,719 --> 00:23:17,680
+but this foolishness.
+
+344
+00:23:18,560 --> 00:23:19,479
+That's nice.
+
+345
+00:23:19,839 --> 00:23:20,280
+Initially,
+
+346
+00:23:20,479 --> 00:23:22,520
+I wanted to recommend you
+to work for their company.
+
+347
+00:23:22,800 --> 00:23:25,680
+Anyway, it has now ended up
+the way I wanted it to.
+
+348
+00:23:26,959 --> 00:23:27,680
+Professor,
+
+349
+00:23:27,959 --> 00:23:29,520
+do you know Li Man?
+
+350
+00:23:29,920 --> 00:23:31,319
+Of course.
+
+351
+00:23:31,479 --> 00:23:32,719
+She was one of my students.
+
+352
+00:23:33,160 --> 00:23:36,319
+There aren't many girls in
+the faculty of computer science.
+
+353
+00:23:36,479 --> 00:23:37,599
+Not only is she a pretty girl,
+
+354
+00:23:37,719 --> 00:23:38,719
+but she's also a smart one.
+
+355
+00:23:39,160 --> 00:23:40,839
+She left a very strong impression on me.
+
+356
+00:23:42,479 --> 00:23:43,920
+Why did you bring her up
+all of a sudden?
+
+357
+00:23:45,400 --> 00:23:47,680
+I heard gossip in the office.
+
+358
+00:23:48,040 --> 00:23:51,319
+It's said that
+she used to date Mr. Jiang.
+
+359
+00:23:54,560 --> 00:23:55,640
+Yes.
+
+360
+00:23:56,239 --> 00:23:58,040
+During their college days,
+
+361
+00:23:58,280 --> 00:24:00,959
+they were a famous couple on campus.
+
+362
+00:24:02,000 --> 00:24:04,400
+I thought
+
+363
+00:24:04,719 --> 00:24:06,400
+they would end up together.
+
+364
+00:24:08,319 --> 00:24:09,599
+What a pity.
+
+365
+00:24:10,000 --> 00:24:11,719
+Li Man left the country later.
+
+366
+00:24:12,839 --> 00:24:13,719
+Yes.
+
+367
+00:24:14,400 --> 00:24:17,880
+That incident has
+hit Yicheng particularly hard.
+
+368
+00:24:18,599 --> 00:24:19,839
+Because of Li Man,
+
+369
+00:24:20,400 --> 00:24:21,680
+he ran into a car accident.
+
+370
+00:24:23,280 --> 00:24:24,839
+I worried
+
+371
+00:24:25,000 --> 00:24:26,359
+that he wouldn't recover from it.
+
+372
+00:24:27,800 --> 00:24:29,760
+Fortunately, he got over it.
+
+373
+00:24:33,119 --> 00:24:36,359
+It seems like he genuinely liked her.
+
+374
+00:24:38,000 --> 00:24:39,760
+By the way,
+
+375
+00:24:40,079 --> 00:24:43,520
+you somewhat share a resemblance
+with Li Man.
+
+376
+00:24:44,479 --> 00:24:45,719
+How so?
+
+377
+00:24:46,000 --> 00:24:46,880
+Look.
+
+378
+00:24:47,439 --> 00:24:48,359
+Both of you are different from Yicheng,
+
+379
+00:24:48,520 --> 00:24:50,359
+the genius.
+
+380
+00:24:50,479 --> 00:24:51,880
+Both of you work very hard.
+
+381
+00:24:52,160 --> 00:24:53,800
+Once you set your goal,
+
+382
+00:24:53,959 --> 00:24:56,040
+you will keep moving forward
+and never give up.
+
+383
+00:24:56,800 --> 00:24:57,680
+Besides,
+
+384
+00:24:58,160 --> 00:25:01,520
+both your names have "Li".
+
+385
+00:25:02,119 --> 00:25:04,160
+What a coincidence, right?
+
+386
+00:25:05,439 --> 00:25:07,079
+Yes. It really is.
+
+387
+00:25:35,239 --> 00:25:36,719
+Why are you on leave again?
+
+388
+00:25:37,119 --> 00:25:38,239
+What's wrong?
+
+389
+00:25:39,319 --> 00:25:41,800
+Leader Zhang, our companies
+are working together
+
+390
+00:25:41,880 --> 00:25:43,599
+to develop "Xuan Zhong Ji".
+
+391
+00:25:43,760 --> 00:25:45,319
+I hope we can be more considerate
+of each other.
+
+392
+00:25:45,599 --> 00:25:47,520
+Without this server,
+
+393
+00:25:47,640 --> 00:25:49,119
+our team will not be able
+
+394
+00:25:49,119 --> 00:25:50,239
+to work normally.
+
+395
+00:25:50,319 --> 00:25:51,280
+Miss Li.
+
+396
+00:25:51,640 --> 00:25:53,119
+Our company specially assigned
+this server
+
+397
+00:25:53,319 --> 00:25:55,239
+to our team.
+
+398
+00:25:55,439 --> 00:25:56,239
+If you need anything,
+
+399
+00:25:56,359 --> 00:25:57,760
+you can request it from the company.
+
+400
+00:25:57,959 --> 00:26:00,040
+First come first serve.
+
+401
+00:26:00,079 --> 00:26:00,599
+Precisely.
+
+402
+00:26:00,760 --> 00:26:01,199
+Your team's name
+
+403
+00:26:01,319 --> 00:26:02,640
+is not written on the server.
+
+404
+00:26:02,800 --> 00:26:03,560
+Exactly.
+
+405
+00:26:03,760 --> 00:26:05,239
+If it's on
+a first come first serve basis,
+
+406
+00:26:05,520 --> 00:26:07,199
+I received the parcel.
+
+407
+00:26:07,359 --> 00:26:08,439
+I unboxed it.
+
+408
+00:26:08,599 --> 00:26:10,680
+Look at the paper cuts on my hands.
+
+409
+00:26:10,839 --> 00:26:12,000
+You snatched it from us.
+
+410
+00:26:12,199 --> 00:26:12,959
+Snatched?
+
+411
+00:26:13,160 --> 00:26:14,920
+This has always belonged to us.
+
+412
+00:26:15,239 --> 00:26:17,520
+To be honest, we applied
+for a server a long time ago.
+
+413
+00:26:17,640 --> 00:26:19,520
+It's true that it will
+take some time to arrive.
+
+414
+00:26:19,680 --> 00:26:21,359
+The server belongs to the company.
+
+415
+00:26:21,800 --> 00:26:23,599
+It should be provided
+to those who need it more.
+
+416
+00:26:23,719 --> 00:26:24,680
+Miss Li.
+
+417
+00:26:24,920 --> 00:26:25,959
+It's not that we don't want to
+give up the server,
+
+418
+00:26:26,160 --> 00:26:28,280
+but our team needs it too.
+
+419
+00:26:28,599 --> 00:26:30,479
+Miss Li. Stop arguing with them.
+
+420
+00:26:30,719 --> 00:26:32,079
+Let's talk to Mr. Jiang directly.
+
+421
+00:26:32,560 --> 00:26:33,479
+The only thing these people know
+
+422
+00:26:33,680 --> 00:26:35,359
+is to sneak on others.
+
+423
+00:26:35,800 --> 00:26:36,560
+Who's sneaking on whom?
+
+424
+00:26:36,560 --> 00:26:37,160
+Who are you talking about?
+
+425
+00:26:37,280 --> 00:26:38,079
+Who are you talking about?
+
+426
+00:26:38,280 --> 00:26:39,040
+What's with the fuss?
+
+427
+00:26:39,160 --> 00:26:40,239
+I'm talking about you.
+
+428
+00:26:40,280 --> 00:26:40,880
+What's wrong?
+
+429
+00:26:40,880 --> 00:26:41,640
+What are you doing?
+
+430
+00:26:42,839 --> 00:26:44,079
+You only know how to sneak on others.
+
+431
+00:26:44,719 --> 00:26:45,319
+Hit me, then.
+
+432
+00:26:45,880 --> 00:26:46,800
+Stop yelling.
+
+433
+00:26:47,239 --> 00:26:48,520
+He's the one who's being unreasonable.
+
+434
+00:26:48,520 --> 00:26:49,719
+Miss Li, aren't you going to stop them?
+
+435
+00:26:50,319 --> 00:26:51,199
+Stop.
+
+436
+00:26:52,599 --> 00:26:53,359
+Stop.
+
+437
+00:27:04,160 --> 00:27:05,719
+Sit down.
+
+438
+00:27:12,439 --> 00:27:14,000
+This is not going to solve anything.
+
+439
+00:27:14,400 --> 00:27:16,000
+Since neither of the parties
+wants to give in,
+
+440
+00:27:16,479 --> 00:27:17,560
+we should compete for it.
+
+441
+00:27:17,800 --> 00:27:18,719
+Do you want to fight?
+
+442
+00:27:18,920 --> 00:27:20,119
+Sure. Let's fight.
+
+443
+00:27:20,119 --> 00:27:20,359
+Yes.
+
+444
+00:27:21,239 --> 00:27:21,800
+We are programmers
+
+445
+00:27:21,880 --> 00:27:23,880
+and we don't solve issues with violence.
+
+446
+00:27:24,040 --> 00:27:26,119
+We are going to fight with keyboards.
+
+447
+00:27:26,239 --> 00:27:27,520
+Whatever it is,
+
+448
+00:27:27,719 --> 00:27:29,400
+our team will certainly beat you.
+
+449
+00:27:29,599 --> 00:27:30,520
+Keep boasting.
+
+450
+00:27:30,760 --> 00:27:32,040
+We'll find out.
+
+451
+00:27:33,599 --> 00:27:34,680
+Miss Li.
+
+452
+00:27:34,959 --> 00:27:36,599
+What do you think about my suggestion?
+
+453
+00:27:37,680 --> 00:27:38,760
+How are we going to do this?
+
+454
+00:27:39,479 --> 00:27:40,520
+We'll use the airplanes.
+
+455
+00:27:47,839 --> 00:27:49,719
+Her words are truly horrifying.
+
+456
+00:27:49,839 --> 00:27:51,920
+How are we going to do this?
+
+457
+00:27:51,920 --> 00:27:54,680
+Are you saying we should have a match
+
+458
+00:27:54,800 --> 00:27:56,119
+to find out who writes the best program
+to control the airplanes?
+
+459
+00:27:56,239 --> 00:27:58,400
+AI is the soul of a game.
+
+460
+00:27:58,520 --> 00:27:59,800
+However smart humans are,
+
+461
+00:28:00,000 --> 00:28:02,439
+we are no match for Alpha Go.
+
+462
+00:28:02,680 --> 00:28:05,719
+Perhaps we should write an AI program.
+
+463
+00:28:06,000 --> 00:28:07,280
+What are the details?
+
+464
+00:28:07,479 --> 00:28:09,199
+Firstly, there will be
+
+465
+00:28:09,359 --> 00:28:11,199
+100 auto-generated enemy aircraft
+in the game.
+
+466
+00:28:11,359 --> 00:28:13,239
+They will be circling the area
+
+467
+00:28:13,359 --> 00:28:14,520
+on random routes.
+
+468
+00:28:14,680 --> 00:28:16,000
+Both of the teams
+
+469
+00:28:16,199 --> 00:28:18,560
+will appoint someone to write
+an AI program
+
+470
+00:28:18,599 --> 00:28:19,719
+for aircraft of the same model.
+
+471
+00:28:19,839 --> 00:28:22,239
+Within a certain time frame,
+
+472
+00:28:22,400 --> 00:28:24,719
+we need to prevent our aircraft
+from being crashed,
+
+473
+00:28:24,920 --> 00:28:27,319
+and in the meantime, bring down as many
+enemy aircraft as possible.
+
+474
+00:28:28,160 --> 00:28:29,119
+Those are the rules.
+
+475
+00:28:30,920 --> 00:28:32,680
+Miss Li, what do you think?
+
+476
+00:28:32,800 --> 00:28:34,520
+Do you agree with this idea?
+
+477
+00:28:34,760 --> 00:28:35,640
+We accept it.
+
+478
+00:28:35,760 --> 00:28:36,319
+Okay.
+
+479
+00:28:36,439 --> 00:28:36,680
+Well.
+
+480
+00:28:36,800 --> 00:28:37,800
+We will send...
+
+481
+00:28:37,959 --> 00:28:38,439
+This guy.
+
+482
+00:28:38,560 --> 00:28:39,400
+Miss Li.
+
+483
+00:28:40,400 --> 00:28:41,000
+I heard that you were also a top student
+
+484
+00:28:41,160 --> 00:28:43,959
+who graduated from the Computer Science
+Faculty of the University of Xinhai.
+
+485
+00:28:44,160 --> 00:28:45,800
+Let's have a one-on-one.
+
+486
+00:28:47,280 --> 00:28:49,239
+It's been a long time
+since I last did coding.
+
+487
+00:28:49,439 --> 00:28:51,839
+I'm no longer familiar
+with the keyboard.
+
+488
+00:28:55,359 --> 00:28:58,040
+If Miss Li refuses to accept
+the one-on-one,
+
+489
+00:29:02,680 --> 00:29:04,199
+you should just surrender.
+
+490
+00:29:12,079 --> 00:29:13,719
+Although I'm no longer familiar with it,
+
+491
+00:29:14,079 --> 00:29:15,680
+I still have the foundation.
+
+492
+00:29:16,239 --> 00:29:17,439
+It will only take me a while
+
+493
+00:29:17,680 --> 00:29:19,199
+to get used to it.
+
+494
+00:29:19,599 --> 00:29:21,280
+After all, it's an invitation
+from my junior.
+
+495
+00:29:21,400 --> 00:29:22,839
+I dare not reject it.
+
+496
+00:29:26,520 --> 00:29:27,599
+Let's do this.
+
+497
+00:29:29,920 --> 00:29:31,040
+Since both of you have agreed to this,
+
+498
+00:29:31,160 --> 00:29:33,000
+let me read out the rules.
+
+499
+00:29:33,160 --> 00:29:35,160
+You will be allowed two hours
+to complete the coding.
+
+500
+00:29:35,280 --> 00:29:36,280
+When you're done with the coding,
+
+501
+00:29:36,479 --> 00:29:39,920
+the aircraft of both parties
+will be launched at the same time.
+
+502
+00:29:40,160 --> 00:29:41,680
+It will last for five minutes.
+
+503
+00:29:41,880 --> 00:29:43,839
+Whoever shoots down
+the most number of aircraft
+
+504
+00:29:44,000 --> 00:29:45,959
+will be the winner.
+
+505
+00:29:46,079 --> 00:29:46,719
+Start.
+
+506
+00:30:09,479 --> 00:30:12,319
+Miss Li does have a decent typing speed.
+
+507
+00:30:12,520 --> 00:30:15,119
+She said that she hadn't
+been doing this frequently.
+
+508
+00:30:15,880 --> 00:30:17,839
+Being humble doesn't make one weak.
+
+509
+00:30:17,959 --> 00:30:19,439
+This is her strategy.
+
+510
+00:30:21,040 --> 00:30:23,880
+Shutian, who do you think
+will be the winner?
+
+511
+00:30:24,079 --> 00:30:25,680
+When you're writing an AI program,
+
+512
+00:30:25,880 --> 00:30:27,479
+the most important thing
+is decision-making.
+
+513
+00:30:27,760 --> 00:30:29,000
+It's just like a chess game.
+
+514
+00:30:29,199 --> 00:30:30,880
+Every environmental factor
+in the present
+
+515
+00:30:31,040 --> 00:30:33,119
+will affect their next decisions.
+
+516
+00:30:33,400 --> 00:30:36,000
+The primary decision in this AI program
+
+517
+00:30:36,119 --> 00:30:37,920
+is about how to bring down
+as many planes as possible
+
+518
+00:30:38,040 --> 00:30:41,199
+within a limited time.
+
+519
+00:30:41,640 --> 00:30:44,400
+If one doesn't understand
+the goal thoroughly,
+
+520
+00:30:44,640 --> 00:30:47,640
+this will lead to one
+making wrong decisions.
+
+521
+00:30:47,920 --> 00:30:49,119
+And then?
+
+522
+00:30:49,400 --> 00:30:50,719
+And then, keep watching.
+
+523
+00:30:51,160 --> 00:30:53,040
+I think Lu...
+
+524
+00:30:53,239 --> 00:30:55,239
+Lu's coding is too simple.
+
+525
+00:30:55,359 --> 00:30:57,520
+It seems like there are
+a lot of loopholes.
+
+526
+00:30:57,800 --> 00:30:58,839
+That's not good.
+
+527
+00:30:59,040 --> 00:31:00,079
+Let me remind her.
+
+528
+00:31:00,719 --> 00:31:01,880
+It's too late now.
+
+529
+00:31:05,839 --> 00:31:06,640
+Old Ape.
+
+530
+00:31:10,959 --> 00:31:12,199
+All right.
+
+531
+00:31:12,400 --> 00:31:13,880
+Time's up.
+
+532
+00:31:14,079 --> 00:31:15,800
+Please leave the keyboard.
+
+533
+00:31:16,239 --> 00:31:19,000
+Both of you have completed the coding.
+
+534
+00:31:19,160 --> 00:31:22,079
+Now, please launch your aircraft
+
+535
+00:31:22,199 --> 00:31:25,280
+into the space.
+
+536
+00:31:26,880 --> 00:31:28,319
+Five minutes, starting in
+
+537
+00:31:29,000 --> 00:31:31,839
+three, two, one.
+
+538
+00:31:32,119 --> 00:31:33,199
+Start!
+
+539
+00:31:51,319 --> 00:31:53,079
+The Health Point of Lu's aircraft
+is seeing a steep fall.
+
+540
+00:31:53,160 --> 00:31:54,119
+Yes.
+
+541
+00:31:56,439 --> 00:31:57,160
+Done.
+
+542
+00:32:05,119 --> 00:32:05,959
+She lost.
+
+543
+00:32:08,400 --> 00:32:09,319
+Yicheng.
+
+544
+00:32:11,079 --> 00:32:12,400
+Mr. Jiang...
+
+545
+00:32:12,640 --> 00:32:13,839
+It's not the end yet.
+
+546
+00:32:13,880 --> 00:32:14,839
+Lu will not necessarily lose.
+
+547
+00:32:14,959 --> 00:32:15,439
+Exactly.
+
+548
+00:32:15,640 --> 00:32:17,119
+Facts speak louder than words.
+
+549
+00:32:17,287 --> 00:32:18,807
+Just admit defeat.
+
+550
+00:32:19,119 --> 00:32:20,800
+Why are you being so mean?
+
+551
+00:32:20,959 --> 00:32:22,319
+You are the loser.
+
+552
+00:32:22,319 --> 00:32:24,400
+No. Mr. Jiang...
+
+553
+00:32:24,800 --> 00:32:25,800
+I think you're mistaken.
+
+554
+00:32:26,079 --> 00:32:27,680
+The Health Point of Miss Li's aircraft
+
+555
+00:32:27,839 --> 00:32:28,920
+and the number of
+the aircraft she shot down
+
+556
+00:32:29,079 --> 00:32:30,520
+are both ahead of her opponent's.
+
+557
+00:32:30,719 --> 00:32:31,359
+Exactly.
+
+558
+00:32:31,479 --> 00:32:33,719
+However, her robot is acting
+too aggressively.
+
+559
+00:32:34,880 --> 00:32:35,359
+No...
+
+560
+00:32:35,680 --> 00:32:36,920
+Isn't it good to be aggressive?
+
+561
+00:32:37,199 --> 00:32:38,239
+When you're designing
+
+562
+00:32:38,400 --> 00:32:39,439
+the strategy of an AI,
+
+563
+00:32:39,560 --> 00:32:40,760
+you can't focus only on the AI itself.
+
+564
+00:32:41,160 --> 00:32:43,880
+You need to also take into account
+its surroundings.
+
+565
+00:32:44,079 --> 00:32:45,319
+The enemies in the game
+
+566
+00:32:45,599 --> 00:32:47,640
+know how to evaluate
+the strength of their opponents.
+
+567
+00:32:47,800 --> 00:32:50,359
+The stronger their opponents are,
+
+568
+00:32:50,479 --> 00:32:53,079
+the more the fear.
+They might even run away
+
+569
+00:32:53,239 --> 00:32:55,359
+to find a weaker opponent.
+
+570
+00:32:59,839 --> 00:33:00,880
+Indeed.
+
+571
+00:33:01,040 --> 00:33:01,959
+It's getting more and more difficult
+
+572
+00:33:02,119 --> 00:33:04,400
+for Miss Li's aircraft to
+get near to the enemy aircraft.
+
+573
+00:33:04,560 --> 00:33:06,239
+They are now approaching
+Lu Li's aircraft,
+
+574
+00:33:06,319 --> 00:33:07,520
+the one with lesser Health Point.
+
+575
+00:33:07,839 --> 00:33:09,880
+But, Lu's aircraft has
+too little Health Point.
+
+576
+00:33:10,079 --> 00:33:12,000
+It seems like it's going to crash soon.
+
+577
+00:33:12,199 --> 00:33:13,199
+Look at the time.
+
+578
+00:33:13,400 --> 00:33:14,280
+Even if the aircraft crashes,
+
+579
+00:33:14,479 --> 00:33:16,000
+it won't leave the opponent
+much time too.
+
+580
+00:33:16,920 --> 00:33:18,479
+You're right.
+
+581
+00:33:18,920 --> 00:33:20,000
+The goal of this game
+
+582
+00:33:20,119 --> 00:33:21,319
+is not to defend the aircraft,
+
+583
+00:33:21,520 --> 00:33:22,560
+but to bring down more enemies
+
+584
+00:33:22,719 --> 00:33:24,239
+within five minutes.
+
+585
+00:33:25,040 --> 00:33:27,880
+She intentionally lowered
+her aircraft's Health Point.
+
+586
+00:33:28,479 --> 00:33:31,800
+She acted weak to get
+the enemy aircraft to approach her,
+
+587
+00:33:31,920 --> 00:33:34,880
+and with that, to achieve more kills.
+
+588
+00:33:35,280 --> 00:33:36,760
+She's willing to
+sacrifice her aircraft for this.
+
+589
+00:33:36,959 --> 00:33:39,160
+Lu is really smart.
+
+590
+00:33:39,239 --> 00:33:40,319
+Well done.
+
+591
+00:33:40,560 --> 00:33:41,560
+We'll definitely lose.
+
+592
+00:33:42,640 --> 00:33:43,640
+What are you talking about?
+
+593
+00:33:44,700 --> 00:33:46,860
+(Final score: Li Man 35, Lu Li 39)
+
+594
+00:33:48,040 --> 00:33:49,280
+39, 35.
+
+595
+00:33:49,400 --> 00:33:51,640
+We won.
+
+596
+00:33:52,160 --> 00:33:53,199
+I'm sweating.
+
+597
+00:33:53,199 --> 00:33:54,199
+Me too. It was really a tight match.
+
+598
+00:33:55,040 --> 00:33:57,640
+You won. Good job.
+
+599
+00:34:00,400 --> 00:34:02,239
+Those weren't flaws,
+
+600
+00:34:02,400 --> 00:34:03,520
+but baits.
+
+601
+00:34:03,959 --> 00:34:05,199
+I lost the game.
+
+602
+00:34:05,359 --> 00:34:06,599
+You beat me fair and square.
+
+603
+00:34:06,880 --> 00:34:08,879
+There are only a handful of people
+who have beaten Miss Li fair and square.
+
+604
+00:34:09,080 --> 00:34:10,080
+Koala Lu.
+
+605
+00:34:10,239 --> 00:34:11,520
+You made me proud.
+
+606
+00:34:12,719 --> 00:34:14,639
+It's just winning a game.
+
+607
+00:34:14,840 --> 00:34:17,439
+Let's see who has the last laugh.
+
+608
+00:34:18,040 --> 00:34:20,719
+The one who has the last laugh
+is not necessarily the winner.
+
+609
+00:34:20,840 --> 00:34:22,280
+She could be the clown too.
+
+610
+00:34:22,919 --> 00:34:23,560
+Miss Li,
+
+611
+00:34:23,560 --> 00:34:25,479
+what you said just now
+doesn't quite make sense.
+
+612
+00:34:25,760 --> 00:34:27,840
+Winning this game is important too.
+
+613
+00:34:28,439 --> 00:34:30,520
+For now,
+
+614
+00:34:30,679 --> 00:34:32,080
+this server belongs to us.
+
+615
+00:34:32,239 --> 00:34:32,679
+Don't worry.
+
+616
+00:34:32,800 --> 00:34:33,840
+We will make good use of it,
+
+617
+00:34:33,919 --> 00:34:34,239
+right?
+
+618
+00:34:34,320 --> 00:34:35,120
+Yes.
+
+619
+00:34:35,159 --> 00:34:36,000
+We'll make good use of it.
+
+620
+00:34:37,199 --> 00:34:40,399
+Miss Li's team will take the server.
+
+621
+00:34:44,080 --> 00:34:45,879
+Mr. Jiang, we made a deal.
+
+622
+00:34:46,040 --> 00:34:47,719
+The winner gets the server.
+
+623
+00:34:47,919 --> 00:34:48,600
+Besides, we need it
+
+624
+00:34:48,719 --> 00:34:51,399
+to develop "Xuan Zhong Ji".
+
+625
+00:34:53,760 --> 00:34:55,560
+I'm here to inform you
+
+626
+00:34:56,639 --> 00:34:58,360
+that you are no longer needed
+
+627
+00:34:58,520 --> 00:34:59,679
+in the development of "Xuan Zhong Ji".
+
+628
+00:35:02,360 --> 00:35:03,479
+Why?
+
+629
+00:35:05,360 --> 00:35:07,800
+I have other arrangements for you.
+
+630
+00:35:08,000 --> 00:35:08,719
+Besides,
+
+631
+00:35:09,239 --> 00:35:11,040
+although you're given permission
+to use the server,
+
+632
+00:35:11,320 --> 00:35:13,239
+you have to work in the conference room.
+
+633
+00:35:13,399 --> 00:35:15,199
+Then, you can each mind
+your own business.
+
+634
+00:35:15,439 --> 00:35:16,760
+Mr. Jiang,
+
+635
+00:35:17,320 --> 00:35:20,639
+didn't you say that you'd appoint Lu
+as the lead programmer?
+
+636
+00:35:20,800 --> 00:35:21,719
+Moreover,
+
+637
+00:35:21,879 --> 00:35:23,439
+Lu has always been the one
+
+638
+00:35:23,560 --> 00:35:24,919
+liaising with the other departments.
+
+639
+00:35:25,080 --> 00:35:26,280
+You're removing her from the team
+all of a sudden.
+
+640
+00:35:26,399 --> 00:35:27,360
+Is this...
+
+641
+00:35:27,760 --> 00:35:29,159
+This is the company's decision.
+
+642
+00:35:29,399 --> 00:35:30,959
+Lu Li will represent the company
+
+643
+00:35:31,080 --> 00:35:33,919
+and take part in the Game Design
+Competition held by Netfalse.
+
+644
+00:35:37,399 --> 00:35:39,360
+Mr. Jiang, I need to talk to you.
+
+645
+00:35:41,919 --> 00:35:42,840
+Come to my office.
+
+646
+00:35:50,080 --> 00:35:50,639
+That...
+
+647
+00:35:50,719 --> 00:35:51,840
+I'm sorry.
+
+648
+00:35:52,239 --> 00:35:54,080
+We'll head to the conference room.
+
+649
+00:35:54,399 --> 00:35:56,560
+Remember to send it to us later.
+
+650
+00:35:56,679 --> 00:35:57,479
+Take care.
+
+651
+00:35:57,479 --> 00:35:58,239
+Good job.
+
+652
+00:36:04,560 --> 00:36:05,560
+Miss Li.
+
+653
+00:36:06,520 --> 00:36:08,280
+About that server...
+
+654
+00:36:08,479 --> 00:36:10,760
+We'll send it to you later.
+
+655
+00:36:11,399 --> 00:36:12,399
+Thanks.
+
+656
+00:36:13,439 --> 00:36:14,639
+It's okay.
+
+657
+00:36:17,520 --> 00:36:19,040
+I can't accept this.
+
+658
+00:36:19,399 --> 00:36:20,719
+I have accepted this.
+
+659
+00:36:21,280 --> 00:36:22,760
+What happened to
+all your physical training?
+
+660
+00:36:25,520 --> 00:36:26,560
+Mr. Jiang.
+
+661
+00:36:26,919 --> 00:36:28,439
+When did you make this decision?
+
+662
+00:36:28,600 --> 00:36:30,080
+Why haven't you mentioned it before?
+
+663
+00:36:32,159 --> 00:36:33,639
+I hope I'm not disturbing you.
+
+664
+00:36:33,760 --> 00:36:34,479
+Can I help you?
+
+665
+00:36:35,280 --> 00:36:36,399
+I need to talk to you
+
+666
+00:36:36,560 --> 00:36:37,600
+about work.
+
+667
+00:36:38,040 --> 00:36:39,040
+Wait a minute.
+
+668
+00:36:39,159 --> 00:36:39,800
+Sure.
+
+669
+00:36:45,320 --> 00:36:47,239
+The Netfalse competition doesn't have
+a specific theme.
+
+670
+00:36:47,639 --> 00:36:49,479
+Someone will send you
+the complete rules later.
+
+671
+00:36:49,760 --> 00:36:51,560
+The company only asks for one thing.
+
+672
+00:36:51,719 --> 00:36:53,360
+You have to get the champion.
+
+673
+00:36:54,719 --> 00:36:55,520
+Mr. Jiang.
+
+674
+00:36:56,360 --> 00:36:57,719
+I think it will be better
+
+675
+00:36:57,879 --> 00:36:59,639
+if you can assign this task
+to another colleague.
+
+676
+00:36:59,840 --> 00:37:01,679
+I wish to continue my current job
+
+677
+00:37:01,760 --> 00:37:02,879
+and participate in the development
+of "Xuan Zhong Ji".
+
+678
+00:37:03,040 --> 00:37:04,600
+This is the company's decision.
+
+679
+00:37:04,760 --> 00:37:06,320
+You shall just follow the orders.
+
+680
+00:37:06,760 --> 00:37:08,560
+I'll get colleagues
+from other departments to help you out.
+
+681
+00:37:09,239 --> 00:37:10,360
+He's right, Lu Li.
+
+682
+00:37:10,560 --> 00:37:11,879
+Netfalse has promised
+
+683
+00:37:12,120 --> 00:37:13,000
+to provide talented projects
+
+684
+00:37:13,159 --> 00:37:15,239
+with incubator resources
+and financial support.
+
+685
+00:37:15,520 --> 00:37:16,560
+Besides, this contest
+
+686
+00:37:16,719 --> 00:37:18,159
+is the best and the fastest way
+
+687
+00:37:18,239 --> 00:37:19,399
+to make our company's name known.
+
+688
+00:37:19,639 --> 00:37:21,199
+If you can get the first place,
+
+689
+00:37:21,439 --> 00:37:22,520
+many companies in this industry
+
+690
+00:37:22,679 --> 00:37:24,280
+will notice Enchant Technology.
+
+691
+00:37:25,087 --> 00:37:27,127
+This can also help Yicheng
+
+692
+00:37:27,520 --> 00:37:28,959
+in winning more investors over.
+
+693
+00:37:32,280 --> 00:37:34,520
+Yicheng is working so hard
+to win all the investors over,
+
+694
+00:37:34,760 --> 00:37:35,919
+because he wants to
+
+695
+00:37:36,040 --> 00:37:37,280
+free himself from his parents.
+
+696
+00:37:37,760 --> 00:37:39,360
+He doesn't want to be threatened
+
+697
+00:37:39,600 --> 00:37:43,040
+to make another choice that
+he'll regret later.
+
+698
+00:37:45,159 --> 00:37:48,000
+You want me to take part in the
+competition to earn more investment.
+
+699
+00:37:51,360 --> 00:37:52,639
+This is part of the reason.
+
+700
+00:37:53,159 --> 00:37:53,919
+The most important thing is
+
+701
+00:37:54,479 --> 00:37:55,919
+with "Xuan Zhong Ji",
+
+702
+00:37:56,199 --> 00:37:57,399
+you've already proven your ability
+
+703
+00:37:57,520 --> 00:37:58,479
+in planning and creating.
+
+704
+00:37:58,800 --> 00:37:59,919
+Therefore, I hope that...
+
+705
+00:38:09,159 --> 00:38:10,679
+Why was Lu Li running away?
+
+706
+00:38:11,840 --> 00:38:12,919
+I was about to ask you.
+
+707
+00:38:13,239 --> 00:38:14,919
+Why is her temper
+getting worse and worse?
+
+708
+00:38:15,080 --> 00:38:16,560
+This is between you and her.
+
+709
+00:38:16,760 --> 00:38:17,760
+You shall settle it at home.
+
+710
+00:38:18,479 --> 00:38:19,719
+Lu Li is too young.
+
+711
+00:38:19,919 --> 00:38:21,280
+She doesn't know how to separate work
+from her personal life.
+
+712
+00:38:21,479 --> 00:38:22,719
+You need to talk to her nicely.
+
+713
+00:38:23,360 --> 00:38:25,120
+Was she listening to
+what I said just now?
+
+714
+00:38:25,600 --> 00:38:27,320
+I'll teach her a lesson when I get home.
+
+715
+00:38:27,639 --> 00:38:30,120
+You can do it however you like.
+
+716
+00:38:30,439 --> 00:38:33,199
+You don't have to explain
+the details to us.
+
+717
+00:38:33,399 --> 00:38:34,439
+I'm still single.
+
+718
+00:38:34,600 --> 00:38:35,479
+I can't take this.
+
+719
+00:38:38,239 --> 00:38:39,760
+Are you done?
+
+720
+00:38:42,719 --> 00:38:45,639
+I'm here to talk to you
+about the equipment.
+
+721
+00:38:45,840 --> 00:38:47,199
+I guess I shall talk to the
+administration department directly.
+
+722
+00:38:47,360 --> 00:38:48,239
+You guys go ahead.
+
+723
+00:38:57,840 --> 00:38:59,159
+How can I help you?
+
+724
+00:38:59,919 --> 00:39:00,679
+I heard
+
+725
+00:39:00,840 --> 00:39:02,239
+that you removed Lu Li
+from the "Xuan Zhong Ji" team.
+
+726
+00:39:03,360 --> 00:39:04,239
+You too.
+
+727
+00:39:05,000 --> 00:39:06,120
+You promised her
+
+728
+00:39:06,360 --> 00:39:07,719
+that if her proposal was approved,
+
+729
+00:39:07,879 --> 00:39:09,159
+you would make her the lead programmer.
+
+730
+00:39:09,399 --> 00:39:10,120
+Since you have made a promise,
+
+731
+00:39:10,280 --> 00:39:11,639
+you shouldn't break it.
+
+732
+00:39:13,040 --> 00:39:14,639
+Do you think I really want to do this?
+
+733
+00:39:14,919 --> 00:39:16,800
+EG was the one who was
+against this idea.
+
+734
+00:39:17,120 --> 00:39:18,199
+Is this Li Man's idea?
+
+735
+00:39:19,199 --> 00:39:20,719
+She is EG's representative.
+
+736
+00:39:21,439 --> 00:39:23,520
+Her idea is EG's idea.
+
+737
+00:39:25,360 --> 00:39:27,120
+Lu Li indeed lacks experience.
+
+738
+00:39:27,479 --> 00:39:29,560
+However, she came up with the core idea.
+
+739
+00:39:29,840 --> 00:39:31,959
+She understands "Xuan Zhong Ji" the best.
+
+740
+00:39:32,239 --> 00:39:34,000
+That's why I made a deal with Li Man.
+
+741
+00:39:34,120 --> 00:39:35,199
+As long as Lu Li wins
+
+742
+00:39:35,360 --> 00:39:36,439
+the Netfalse competition,
+
+743
+00:39:36,840 --> 00:39:37,919
+EG won't oppose
+
+744
+00:39:38,040 --> 00:39:39,320
+her being the lead programmer
+of "Xuan Zhong Ji" again.
+
+745
+00:39:43,000 --> 00:39:44,800
+Judging from Lu Li's expression,
+
+746
+00:39:44,959 --> 00:39:46,120
+she has no idea about
+what's actually going on.
+
+747
+00:39:46,280 --> 00:39:47,959
+Why didn't you explain it to her?
+
+748
+00:39:48,840 --> 00:39:49,719
+There was an outsider here.
+
+749
+00:39:49,840 --> 00:39:50,959
+I wasn't able to say anything.
+
+750
+00:39:55,600 --> 00:39:56,760
+What are you doing?
+
+751
+00:39:56,919 --> 00:39:58,399
+What's with this sinister smile?
+
+752
+00:39:59,679 --> 00:40:00,600
+Refusing to communicate
+
+753
+00:40:01,159 --> 00:40:03,399
+and an ineffective communication
+
+754
+00:40:03,560 --> 00:40:05,399
+will bring about regrets.
+
+755
+00:40:06,080 --> 00:40:07,399
+What's with all the philosophy?
+
+756
+00:40:08,840 --> 00:40:09,879
+Figure it out yourself.
+
+757
+00:40:32,280 --> 00:40:33,040
+Rubbish.
+
+758
+00:40:33,199 --> 00:40:33,800
+Rubbish.
+
+759
+00:40:34,000 --> 00:40:34,760
+Rubbish.
+
+760
+00:40:34,879 --> 00:40:35,479
+Rubbish.
+
+761
+00:40:35,520 --> 00:40:36,439
+Xiaoqi.
+
+762
+00:40:36,919 --> 00:40:37,639
+Who's there?
+
+763
+00:40:40,239 --> 00:40:42,239
+What are you doing here?
+
+764
+00:40:42,399 --> 00:40:43,919
+You haven't been visiting me.
+
+765
+00:40:46,439 --> 00:40:47,719
+Are you still angry with him?
+
+766
+00:40:49,560 --> 00:40:50,399
+Imagine there's a guy
+
+767
+00:40:50,639 --> 00:40:52,399
+always interfering
+in your relationships,
+
+768
+00:40:52,520 --> 00:40:53,800
+how can you not be angry at him?
+
+769
+00:40:54,360 --> 00:40:55,399
+I always thought
+
+770
+00:40:55,560 --> 00:40:57,399
+my love radar was broken.
+
+771
+00:40:57,679 --> 00:40:59,800
+It turns out it's his brain
+that's broken.
+
+772
+00:41:02,159 --> 00:41:03,439
+Have you ever wondered
+
+773
+00:41:03,600 --> 00:41:04,679
+why he is doing this?
+
+774
+00:41:05,000 --> 00:41:06,280
+Of course, I know.
+
+775
+00:41:06,600 --> 00:41:08,800
+Because he is a Scorpio.
+
+776
+00:41:13,080 --> 00:41:14,040
+You don't know
+
+777
+00:41:14,239 --> 00:41:16,959
+how insanely controlling
+
+778
+00:41:17,080 --> 00:41:18,639
+he is.
+
+779
+00:41:19,159 --> 00:41:21,439
+He came to my place today
+and told me not to get angry
+
+780
+00:41:21,679 --> 00:41:23,919
+over some unimportant persons.
+
+781
+00:41:24,120 --> 00:41:25,320
+You be the judge.
+
+782
+00:41:25,560 --> 00:41:27,159
+Is that a decent thing to say?
+
+783
+00:41:27,520 --> 00:41:29,760
+My mom likes him so much.
+
+784
+00:41:29,959 --> 00:41:31,280
+I'm angry every time
+I'm reminded of this.
+
+785
+00:41:31,800 --> 00:41:34,239
+I'm so angry.
+
+786
+00:41:38,159 --> 00:41:38,560
+Never mind.
+
+787
+00:41:38,679 --> 00:41:39,600
+Let's not talk about him.
+
+788
+00:41:40,000 --> 00:41:40,639
+By the way,
+
+789
+00:41:40,760 --> 00:41:41,439
+have you taken your dinner?
+
+790
+00:41:41,639 --> 00:41:42,120
+I haven't.
+
+791
+00:41:42,280 --> 00:41:42,919
+Great.
+
+792
+00:41:43,159 --> 00:41:44,679
+I can finally have a barbecue at home.
+
+793
+00:41:44,879 --> 00:41:45,840
+I'm afraid that I might not be able
+to finish it by myself,
+
+794
+00:41:46,000 --> 00:41:46,679
+and I daren't order it.
+
+795
+00:41:47,000 --> 00:41:47,919
+What do you want?
+
+796
+00:41:48,239 --> 00:41:48,959
+Anything.
+
+797
+00:41:49,080 --> 00:41:49,600
+You decide.
+
+798
+00:41:49,679 --> 00:41:50,239
+Sure.
+
+799
+00:41:56,840 --> 00:41:57,959
+You're here.
+
+800
+00:41:58,959 --> 00:41:59,879
+Xiaoqi,
+
+801
+00:42:00,159 --> 00:42:01,360
+what's wrong with the cat?
+
+802
+00:42:01,560 --> 00:42:02,760
+It doesn't seem like
+it's in a good mood.
+
+803
+00:42:03,040 --> 00:42:04,199
+It's in estrus.
+
+804
+00:42:04,399 --> 00:42:06,280
+I've been looking for a partner for it.
+
+805
+00:42:07,360 --> 00:42:09,120
+If you know any handsome male cats,
+
+806
+00:42:09,280 --> 00:42:10,159
+do let me know.
+
+807
+00:42:18,660 --> 00:42:20,740
+(Jiang Yicheng)
+
+808
+00:42:23,180 --> 00:42:23,740
+(Jiang Yicheng)
+
+809
+00:42:23,740 --> 00:42:25,260
+(Shut down)
+
+810
+00:42:28,479 --> 00:42:28,959
+(Hi.)
+
+811
+00:42:29,560 --> 00:42:31,760
+(The number you've dialed
+is unavailable.)
+
+812
+00:42:35,040 --> 00:42:36,439
+How dare she turn off her phone?
+
+813
+00:42:37,080 --> 00:42:37,959
+It's okay if you don't want
+to pick up the call,
+
+814
+00:42:38,080 --> 00:42:39,239
+but how dare you turn off your phone?
+
+815
+00:42:39,879 --> 00:42:40,840
+Stupid Koala.
+
+816
+00:42:41,000 --> 00:42:42,639
+You're always annoying me.
+
+817
+00:42:49,439 --> 00:42:50,199
+Here.
+
+818
+00:42:51,679 --> 00:42:52,280
+Here.
+
+819
+00:42:52,439 --> 00:42:54,399
+Let's toast to our friendship.
+
+820
+00:43:00,239 --> 00:43:01,199
+This is the best.
+
+821
+00:43:02,159 --> 00:43:03,280
+Nothing beats
+
+822
+00:43:03,280 --> 00:43:05,159
+having a barbecue with my best friend.
+
+823
+00:43:05,840 --> 00:43:07,800
+All the men can go to hell.
+
+824
+00:43:12,520 --> 00:43:13,439
+Wait a minute.
+
+825
+00:43:14,159 --> 00:43:15,840
+You can't be drinking like this.
+
+826
+00:43:17,760 --> 00:43:18,639
+I'm thirsty.
+
+827
+00:43:19,919 --> 00:43:21,120
+You're smiling like this again.
+
+828
+00:43:22,280 --> 00:43:23,679
+You wear this smile
+
+829
+00:43:23,800 --> 00:43:24,919
+whenever you're pretending to be happy.
+
+830
+00:43:27,360 --> 00:43:30,040
+Li, what happened?
+
+831
+00:43:30,639 --> 00:43:32,159
+Did Jiang Yicheng bully you?
+
+832
+00:43:33,479 --> 00:43:34,479
+No.
+
+833
+00:43:34,719 --> 00:43:35,959
+Something happened
+
+834
+00:43:36,120 --> 00:43:37,120
+at work.
+
+835
+00:43:37,320 --> 00:43:38,719
+Work?
+
+836
+00:43:39,120 --> 00:43:40,320
+Do you think I'll believe you?
+
+837
+00:43:40,479 --> 00:43:41,800
+If it's just about work,
+
+838
+00:43:42,000 --> 00:43:43,719
+you would be sitting
+in front of the computer,
+
+839
+00:43:43,879 --> 00:43:46,199
+analyzing your strength
+and your weaknesses.
+
+840
+00:43:49,560 --> 00:43:52,800
+Have Jiang Yicheng and Li Man
+got back together?
+
+841
+00:44:02,479 --> 00:44:04,639
+(The difference between
+men and machines is that)
+
+842
+00:44:05,399 --> 00:44:07,600
+(men get manipulated by emotions.)
+
+843
+00:44:08,320 --> 00:44:11,199
+(That's why we can't always be rational)
+
+844
+00:44:11,199 --> 00:44:12,639
+(like the machines.)
+
+845
+00:44:21,880 --> 00:44:25,960
+♪Tall and big,
+you have a childish voice♪
+
+846
+00:44:26,080 --> 00:44:27,120
+♪Naive♪
+
+847
+00:44:28,200 --> 00:44:29,400
+♪Petty♪
+
+848
+00:44:30,840 --> 00:44:34,840
+♪Small and little,
+I feel a little stressed around you♪
+
+849
+00:44:35,240 --> 00:44:39,040
+♪Afraid to go near♪
+
+850
+00:44:39,800 --> 00:44:43,400
+♪I hope to see you every morning♪
+
+851
+00:44:43,800 --> 00:44:48,400
+♪So that my day can be meaningful♪
+
+852
+00:44:48,920 --> 00:44:52,600
+♪Waiting to hear your voice every night♪
+
+853
+00:44:52,920 --> 00:44:56,920
+♪To break the silence of the night♪
+
+854
+00:44:58,040 --> 00:45:01,480
+♪Every time the phone rings,
+I wish it were you♪
+
+855
+00:45:01,680 --> 00:45:03,720
+♪When I hear your voice♪
+
+856
+00:45:04,000 --> 00:45:07,040
+♪A smile grows on my face♪
+
+857
+00:45:07,080 --> 00:45:10,400
+♪Your words are
+always a little childish♪
+
+858
+00:45:10,480 --> 00:45:14,400
+♪It makes me want to tease you♪
+
+859
+00:45:15,280 --> 00:45:16,960
+♪Sorry♪
+
+860
+00:45:19,960 --> 00:45:23,880
+♪Sometimes you're a little stubborn♪
+
+861
+00:45:24,120 --> 00:45:25,840
+♪A bad temper♪
+
+862
+00:45:26,120 --> 00:45:27,840
+♪With a touch of jealousy♪
+
+863
+00:45:29,160 --> 00:45:33,120
+♪So I'll just have to coax you
+and let you have your way♪
+
+864
+00:45:33,480 --> 00:45:37,880
+♪Hurry, hurry, go away rain♪
+
+865
+00:45:38,000 --> 00:45:41,880
+♪I hope to see you every morning♪
+
+866
+00:45:41,960 --> 00:45:46,840
+♪So that my day can be meaningful♪
+
+867
+00:45:46,960 --> 00:45:51,040
+♪Waiting to hear your voice every night♪
+
+868
+00:45:51,080 --> 00:45:55,240
+♪To break the silence of the night♪
+
+869
+00:46:11,360 --> 00:46:15,680
+♪This song is for you,
+the one I love the most♪
+
+870
+00:46:15,880 --> 00:46:20,400
+♪We'll walk down
+the path of the future together♪
+
+871
+00:46:24,960 --> 00:46:28,600
+♪Every time the phone rings,
+I wish it were you♪
+
+872
+00:46:28,640 --> 00:46:30,880
+♪When I hear your voice♪
+
+873
+00:46:30,920 --> 00:46:34,040
+♪A smile grows on my face♪
+
+874
+00:46:34,040 --> 00:46:37,600
+♪Your words are always
+a little childish♪
+
+875
+00:46:37,680 --> 00:46:41,800
+♪It makes me want to tease you♪
+
+876
+00:46:42,280 --> 00:46:44,560
+♪Sorry♪
+
+877
+00:46:46,400 --> 00:46:49,000
+♪Never mind♪
+
+878
+00:46:52,760 --> 00:46:57,360
+♪I love you♪
+
