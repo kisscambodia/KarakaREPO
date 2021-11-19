@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=155967,RESOLUTION=640x360,NAME="360p"
+https://raw.githubusercontent.com/kakuy24/file/main/hellbound/EP-04/360/g51pvkgi.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=653248,RESOLUTION=1280x720,NAME="720p"
+https://raw.githubusercontent.com/kakuy24/file/main/hellbound/EP-04/720/5eup1mcz.m3u8
