@@ -1,0 +1,3735 @@
+﻿1
+00:00:01,000 --> 00:00:08,000
+<font color="#ff00ff">- Original SUB by hadilan </font><font color="#138ce9">- subscene.com -</font>
+<font color="#ffff00">Colored HI and improvements by </font><font color="#f0100f">GoldBerg_44</font>
+
+2
+00:00:08,790 --> 00:00:10,410
+- <font color="#ff00ff">[DOOR SLAMS]</font>
+- <font color="#ff00ff">[FOOTSTEPS ECHOING]</font>
+
+3
+00:00:10,500 --> 00:00:12,500
+- <font color="#ff00ff">[CHAINS RATTLING]</font>
+- <font color="#ff00ff">[DISTANT WAILING]</font>
+
+4
+00:00:14,700 --> 00:00:16,370
+<font color="#ff00ff">[HINGES GRINDING]</font>
+
+5
+00:00:18,750 --> 00:00:20,120
+<font color="#ff00ff">[GATE SLAMS]</font>
+
+6
+00:00:22,040 --> 00:00:23,450
+<font color="#ff00ff">[MEN SCREAMING]</font>
+
+7
+00:00:32,410 --> 00:00:33,290
+<font color="#ff00ff">[SNAPS FINGERS]</font>
+
+8
+00:00:33,370 --> 00:00:34,700
+<font color="#ff00ff">[SQUEAKING]</font>
+
+9
+00:00:38,830 --> 00:00:39,830
+<font color="#ff00ff">[FINGERS SNAP]</font>
+
+10
+00:00:40,370 --> 00:00:42,080
+<font color="#ff00ff">[SIGHS]</font> Ohh...
+
+11
+00:00:44,080 --> 00:00:48,040
+If there is one thing
+in this hellish world I cannot abide,
+
+12
+00:00:49,580 --> 00:00:50,910
+it is wasted talent.
+
+13
+00:00:52,540 --> 00:00:53,700
+Ten years
+
+14
+00:00:54,580 --> 00:00:56,500
+in this dimeritium shit-den
+
+15
+00:00:57,290 --> 00:00:59,660
+over a petty debt to the Cintran crown.
+
+16
+00:01:00,620 --> 00:01:03,120
+For a mage of your ability, it's...
+
+17
+00:01:03,200 --> 00:01:04,660
+<font color="#ff00ff">[SNAPS FINGERS]</font>
+
+18
+00:01:05,160 --> 00:01:06,500
+...criminal. <font color="#ff00ff">[CHUCKLES]</font>
+
+19
+00:01:08,290 --> 00:01:09,830
+What do you want, Lydia?
+
+20
+00:01:10,330 --> 00:01:11,910
+Don't be so sour, Rience.
+
+21
+00:01:12,000 --> 00:01:15,080
+You must shoulder some of the blame
+for your current situation.
+
+22
+00:01:16,000 --> 00:01:19,910
+Only a fool would cross Calanthe
+without covering his tracks.
+
+23
+00:01:21,000 --> 00:01:23,290
+Hm. May she rot in peace.
+
+24
+00:01:23,370 --> 00:01:24,790
+<font color="#ff00ff">[RUMBLING]</font>
+
+25
+00:01:25,700 --> 00:01:26,950
+Calanthe is dead?
+
+26
+00:01:28,080 --> 00:01:29,450
+<font color="#138ce9">LYDIA:</font> As a desert spring.
+
+27
+00:01:31,540 --> 00:01:33,200
+Not that it helps you much.
+
+28
+00:01:33,790 --> 00:01:35,330
+Your conviction lives on.
+
+29
+00:01:36,120 --> 00:01:37,120
+But perhaps...
+
+30
+00:01:38,950 --> 00:01:40,290
+we can find a remedy.
+
+31
+00:01:41,250 --> 00:01:42,450
+<font color="#ff00ff">[JINGLING]</font>
+
+32
+00:01:45,910 --> 00:01:48,790
+<font color="#ff00ff">[WHISPERS]</font> There is a girl,
+a little lost cub.
+
+33
+00:01:49,660 --> 00:01:53,870
+My sources tell me she was last seen
+at a market on the outskirts of Sodden.
+
+34
+00:01:53,950 --> 00:01:57,660
+For now, only the White Flame
+is hunting her.
+
+35
+00:01:57,750 --> 00:02:00,200
+But when others learn of her,
+they'll hunt too.
+
+36
+00:02:00,290 --> 00:02:02,540
+And we must get to her first.
+
+37
+00:02:04,120 --> 00:02:06,370
+And are willing to, say...
+
+38
+00:02:08,080 --> 00:02:11,000
+put another iron in the fire to ensure it.
+
+39
+00:02:14,250 --> 00:02:18,790
+My freedom in exchange for being
+the White Flame's bounty hunter...
+
+40
+00:02:20,410 --> 00:02:24,370
+I have no interest
+in owing a favor to Nilfgaard's false god.
+
+41
+00:02:25,040 --> 00:02:26,370
+<font color="#ff00ff">[RUMBLING]</font>
+
+42
+00:02:27,370 --> 00:02:31,620
+How fortunate, then, for us both
+that I'm not working for Nilfgaard.
+
+43
+00:02:37,370 --> 00:02:38,660
+<font color="#ff00ff">[RAZOR SCRAPING]</font>
+
+44
+00:03:03,410 --> 00:03:06,660
+<i>♪ What for do you yearn? ♪</i>
+
+45
+00:03:06,750 --> 00:03:10,500
+<i>- ♪ It's the point of no return... ♪</i>
+- <font color="#ff00ff">[LAUGHTER]</font>
+
+46
+00:03:11,250 --> 00:03:14,080
+<i>♪ After everything we did, we saw... ♪</i>
+
+47
+00:03:14,160 --> 00:03:17,750
+- <font color="#ff00ff">[CHEERING]</font>
+- <i>♪ You turned your back on me ♪</i>
+
+48
+00:03:17,830 --> 00:03:23,450
+<i>♪ What for do you yearn? ♪</i>
+
+49
+00:03:24,330 --> 00:03:25,580
+When I was a lass,
+
+50
+00:03:25,660 --> 00:03:29,200
+me playmate had a little brother
+that was born with no ears.
+
+51
+00:03:29,290 --> 00:03:33,540
+Just some little lumps of flesh,
+like cauliflower. Deaf as a post.
+
+52
+00:03:33,620 --> 00:03:35,200
+<i>♪ ...my days when I'm through... ♪</i>
+
+53
+00:03:35,290 --> 00:03:38,040
+I'd give anything
+to switch places with him now.
+
+54
+00:03:38,120 --> 00:03:39,360
+<i>♪ ...will ring quite as true ♪</i>
+
+55
+00:03:39,410 --> 00:03:44,500
+<i>- ♪ As burn... ♪</i>
+- Here you go, love.
+
+56
+00:03:44,580 --> 00:03:50,790
+<i>♪ Burn, Butcher, burn ♪</i>
+
+57
+00:03:51,290 --> 00:03:53,120
+<i>♪ Burn, Butcher, burn ♪</i>
+
+58
+00:03:53,200 --> 00:03:55,250
+<i>♪ Burn, burn, burn ♪</i>
+
+59
+00:03:55,330 --> 00:03:57,540
+<font color="#ff00ff">[SOFTLY]</font> <i>♪ Burn, burn, burn... ♪</i>
+
+60
+00:03:59,040 --> 00:04:01,330
+<i>♪ Watch me burn ♪</i>
+
+61
+00:04:02,700 --> 00:04:04,330
+<i>♪ All the memories ♪</i>
+
+62
+00:04:05,450 --> 00:04:07,870
+<i>♪ Of you ♪</i>
+
+63
+00:04:08,950 --> 00:04:11,580
+<font color="#138ce9">ISTREDD:</font> "Boats no longer safe
+for elves," says Fringilla.
+
+64
+00:04:11,660 --> 00:04:14,450
+"Now we need a land route
+to Cintra," says Fringilla...
+
+65
+00:04:14,540 --> 00:04:18,790
+Well, the Yaruga
+is flooded and unpassable.
+
+66
+00:04:20,450 --> 00:04:23,750
+Foltest has fortified Brugge
+beyond recognition.
+
+67
+00:04:24,910 --> 00:04:26,660
+<font color="#ff00ff">[SIGHS]</font> Brokilon...
+
+68
+00:04:28,040 --> 00:04:29,500
+No.
+
+69
+00:04:31,160 --> 00:04:32,250
+<font color="#ff00ff">[SIGHS]</font>
+
+70
+00:04:33,700 --> 00:04:34,700
+Huh.
+
+71
+00:04:35,580 --> 00:04:38,200
+Either point me
+to something useful or kindly piss off!
+
+72
+00:04:38,290 --> 00:04:39,290
+<font color="#ff00ff">[YELPS]</font>
+
+73
+00:04:40,580 --> 00:04:42,700
+<font color="#ff00ff">[SIGHS]</font> There you go.
+
+74
+00:04:43,580 --> 00:04:45,160
+<font color="#ff00ff">[RUSHING]</font>
+
+75
+00:04:46,200 --> 00:04:47,410
+<font color="#ff00ff">[DEEP WHOOSHING]</font>
+
+76
+00:04:49,120 --> 00:04:50,700
+- <font color="#ff00ff">[WHOOSHING]</font>
+- Stay back!
+
+77
+00:04:54,160 --> 00:04:56,120
+- <font color="#ff00ff">[WOOD CREAKING]</font>
+- <font color="#ff00ff">[INHALES]</font>
+
+78
+00:04:58,580 --> 00:05:00,000
+<font color="#ff00ff">[GOAT BLEATING]</font>
+
+79
+00:05:04,910 --> 00:05:06,540
+Jaskier, where the fuck are you?
+
+80
+00:05:07,370 --> 00:05:08,750
+<font color="#138ce9">GUARD:</font> String up the scum.
+
+81
+00:05:09,450 --> 00:05:11,580
+I'll give you "Fuck the North."
+
+82
+00:05:12,540 --> 00:05:14,580
+<font color="#138ce9">MAN:</font> Come on, men! We're sailing!
+
+83
+00:05:14,660 --> 00:05:17,580
+Anyone who's comin' with us, get on board.
+
+84
+00:05:17,660 --> 00:05:19,750
+This is the last call!
+
+85
+00:05:20,410 --> 00:05:21,410
+Shit.
+
+86
+00:05:24,500 --> 00:05:27,040
+<font color="#ff00ff">[JASKIER GROANING]</font> Oh, oww...
+
+87
+00:05:27,540 --> 00:05:28,750
+<font color="#ff00ff">[SNIFFS]</font>
+
+88
+00:05:30,250 --> 00:05:31,790
+<font color="#ff00ff">[SIGHS]</font> Uh...
+
+89
+00:05:32,620 --> 00:05:33,750
+Hello?
+
+90
+00:05:33,830 --> 00:05:35,790
+- Is anyone there?
+- <font color="#ff00ff">[FINGERS SNAP]</font>
+
+91
+00:05:36,910 --> 00:05:38,410
+Well, that's unsettling.
+
+92
+00:05:40,330 --> 00:05:42,370
+Uh, look, I don't have any money.
+
+93
+00:05:43,160 --> 00:05:45,950
+- I am but a, uh... a humble bard.
+- <font color="#ff00ff">[FLOORBOARDS CREAK]</font>
+
+94
+00:05:46,040 --> 00:05:47,040
+<font color="#ff00ff">[FINGERS SNAP]</font>
+
+95
+00:05:49,410 --> 00:05:52,790
+Or... or if this is about your wife,
+your mistress, niece,
+
+96
+00:05:52,870 --> 00:05:55,200
+then I... I... I can...
+I can promise you that wasn't me.
+
+97
+00:05:55,290 --> 00:05:57,620
+I've never met them.
+You've got the wrong man!
+
+98
+00:05:57,700 --> 00:05:59,370
+- <font color="#ff00ff">[FINGERS SNAP]</font>
+- <font color="#ff00ff">[FLAME FLARES]</font>
+
+99
+00:06:00,200 --> 00:06:03,410
+<font color="#ff00ff">[BREATHING SHAKILY]</font>
+Look, if you're just a really big fan,
+
+100
+00:06:03,500 --> 00:06:06,910
+then please note that I'm not willing
+to discuss the subjects of my work,
+
+101
+00:06:07,000 --> 00:06:10,620
+its inspiration or characters,
+fictitious or otherwise.
+
+102
+00:06:10,700 --> 00:06:12,540
+So why don't you just show yourself,
+
+103
+00:06:12,620 --> 00:06:15,950
+and we can have a nice chat,
+and you can tell me what you want from me?
+
+104
+00:06:16,040 --> 00:06:16,870
+<font color="#ff00ff">[FINGERS SNAP]</font>
+
+105
+00:06:16,950 --> 00:06:19,040
+- Fucking... fuck!
+- Shhh.
+
+106
+00:06:19,120 --> 00:06:21,160
+<font color="#ff00ff">[GROANING]</font>
+
+107
+00:06:21,950 --> 00:06:23,620
+- Hello, Jaskier.
+- <font color="#ff00ff">[SHUDDERS]</font>
+
+108
+00:06:34,250 --> 00:06:36,080
+I said, who the fuck are you?
+
+109
+00:06:36,160 --> 00:06:37,750
+I heard. I heard.
+
+110
+00:06:39,250 --> 00:06:41,120
+My name is Geralt of Rivia. <font color="#ff00ff">[SIGHS]</font>
+
+111
+00:06:41,950 --> 00:06:44,250
+I apologize for the abrupt intrusion.
+
+112
+00:06:44,910 --> 00:06:46,330
+Time was of the essence.
+
+113
+00:06:47,370 --> 00:06:49,830
+- Triss Merigold sent me to you.
+- <font color="#ff00ff">[PORTAL BUBBLING]</font>
+
+114
+00:06:50,330 --> 00:06:51,910
+- I need your help.
+- <font color="#ff00ff">[WHOOSH]</font>
+
+115
+00:06:52,500 --> 00:06:53,500
+You're a witcher.
+
+116
+00:06:54,700 --> 00:06:55,870
+<font color="#ff00ff">[GERALT SIGHS]</font>
+
+117
+00:06:57,160 --> 00:06:58,870
+And you're a monolith expert.
+
+118
+00:06:58,950 --> 00:07:01,910
+Do you know of the stellacite tower
+just outside the city?
+
+119
+00:07:02,000 --> 00:07:05,080
+Yes, I know it. I know
+it's one of the oldest in existence.
+
+120
+00:07:05,160 --> 00:07:09,580
+I hate to be the bearer of bad news.
+It fell during the Slaughter of Cintra.
+
+121
+00:07:10,200 --> 00:07:13,660
+And now a new subspecies
+of monsters are coming out of it.
+
+122
+00:07:14,910 --> 00:07:19,370
+My theory is that they were nesting
+in the subterranean structure for years,
+
+123
+00:07:19,450 --> 00:07:21,910
+which might explain the unique mutations.
+
+124
+00:07:24,790 --> 00:07:26,580
+<font color="#ff00ff">[CHUCKLING]</font>
+
+125
+00:07:27,540 --> 00:07:30,700
+Tell Triss, uh...
+I don't understand the prank, but...
+
+126
+00:07:31,750 --> 00:07:32,910
+points for imagination.
+
+127
+00:07:33,830 --> 00:07:36,250
+And they say
+witchers are humorless bastards.
+
+128
+00:07:36,330 --> 00:07:39,080
+All respect, Mr... Mr. Rivia.
+
+129
+00:07:40,120 --> 00:07:41,950
+I'm trying to help elves find refuge here.
+
+130
+00:07:42,040 --> 00:07:44,870
+You have any idea
+how completely fucking insane you sound?
+
+131
+00:07:44,950 --> 00:07:46,790
+- Hmm.
+- <font color="#ff00ff">[ISTREDD SIGHS]</font>
+
+132
+00:07:52,450 --> 00:07:53,870
+- <font color="#ff00ff">[WET THUMP]</font>
+- Sh...
+
+133
+00:07:57,410 --> 00:07:59,040
+Will you help me or not?
+
+134
+00:07:59,620 --> 00:08:00,700
+<font color="#ff00ff">[SQUELCHING]</font>
+
+135
+00:08:01,370 --> 00:08:03,370
+<font color="#ff00ff">[SEABIRDS CALLING]</font>
+
+136
+00:08:07,700 --> 00:08:09,620
+Hello. How are you, then, my sweet?
+
+137
+00:08:09,700 --> 00:08:11,260
+- Mornin' special.
+- <font color="#138ce9">WOMAN:</font> Please, sir!
+
+138
+00:08:11,290 --> 00:08:13,950
+- I'm not in the mood.
+- You owe me money from last week. You do.
+
+139
+00:08:14,040 --> 00:08:15,330
+<font color="#ff00ff">[KISSING]</font> Come on, come on.
+
+140
+00:08:15,410 --> 00:08:17,870
+- Come on, you know you want some!
+- <font color="#138ce9">WOMAN:</font> Come on!
+
+141
+00:08:17,950 --> 00:08:19,620
+- Where would you be going?
+- Oi! Hey!
+
+142
+00:08:19,700 --> 00:08:21,450
+Don't walk away from it now!
+
+143
+00:08:21,540 --> 00:08:22,700
+Come inside!
+
+144
+00:08:22,790 --> 00:08:25,080
+I've got some fluffy biscuits
+need butterin'.
+
+145
+00:08:25,160 --> 00:08:28,660
+Oooh! Fancy a bit of how's your father?
+<font color="#ff00ff">[CHUCKLES]</font>
+
+146
+00:08:28,750 --> 00:08:31,590
+How would you like to make some money
+on your feet instead of your back?
+
+147
+00:08:31,660 --> 00:08:32,660
+Hmm.
+
+148
+00:08:33,540 --> 00:08:35,160
+Aren't you a pretty thing?
+
+149
+00:08:36,200 --> 00:08:37,580
+I could be convinced.
+
+150
+00:08:39,580 --> 00:08:42,160
+A twisted mermaid. Cost you extra, though.
+
+151
+00:08:42,250 --> 00:08:43,950
+My knees aren't what they once was.
+
+152
+00:08:44,040 --> 00:08:45,830
+My friend, he's missing.
+
+153
+00:08:46,790 --> 00:08:50,450
+I fear he may have got into some trouble
+with one of the guards down at the dock.
+
+154
+00:08:50,540 --> 00:08:52,160
+I need you to go to the garrison
+
+155
+00:08:52,660 --> 00:08:55,950
+and see if any little shit-birds
+under the name of Jaskier have been caged.
+
+156
+00:08:56,040 --> 00:08:58,160
+You're going to all that trouble,
+paying someone
+
+157
+00:08:58,250 --> 00:09:00,080
+- for such a simple task?
+- <font color="#ff00ff">[JINGLING]</font>
+
+158
+00:09:00,660 --> 00:09:01,910
+<font color="#138ce9">YENNEFER:</font> Half now.
+
+159
+00:09:03,580 --> 00:09:04,580
+Half when you return.
+
+160
+00:09:08,160 --> 00:09:09,370
+<font color="#ff00ff">[CHUCKLES]</font>
+
+161
+00:09:09,450 --> 00:09:12,620
+Well, then.
+Never look a gift whore in the mouth.
+
+162
+00:09:13,450 --> 00:09:14,620
+I'll be seeing you.
+
+163
+00:09:25,040 --> 00:09:26,120
+<font color="#ff00ff">[BIRDSONG]</font>
+
+164
+00:09:26,200 --> 00:09:27,870
+<font color="#ff00ff">[HORSE NEIGHING]</font>
+
+165
+00:09:27,950 --> 00:09:29,370
+<font color="#ff00ff">[GOATS BLEATING]</font>
+
+166
+00:09:30,450 --> 00:09:33,540
+<font color="#138ce9">ISTREDD:</font> Are you always this talkative,
+or should I take it personally?
+
+167
+00:09:34,040 --> 00:09:36,370
+<font color="#138ce9">GERALT:</font> Why don't you tell me more
+about this monolith?
+
+168
+00:09:36,870 --> 00:09:39,000
+I can tell you it's indestructible.
+
+169
+00:09:39,080 --> 00:09:40,120
+They all are.
+
+170
+00:09:40,200 --> 00:09:42,910
+How can mysterious monsters
+be nesting in a solid structure?
+
+171
+00:09:43,000 --> 00:09:44,830
+How can you be sure it's this one?
+
+172
+00:09:45,330 --> 00:09:47,500
+This is the only one that shattered.
+
+173
+00:09:47,580 --> 00:09:50,790
+The sheer force it would require,
+what could possibly do that?
+
+174
+00:09:50,870 --> 00:09:53,000
+You're the expert. Why don't you tell me?
+
+175
+00:09:55,950 --> 00:09:57,080
+It's this way.
+
+176
+00:10:01,160 --> 00:10:02,160
+Hmm.
+
+177
+00:10:05,120 --> 00:10:07,120
+- <font color="#138ce9">ISTREDD:</font> Try to keep up.
+- <font color="#138ce9">DRIVER:</font> Hah!
+
+178
+00:10:08,620 --> 00:10:10,790
+You know,
+I've never actually seen this one.
+
+179
+00:10:11,660 --> 00:10:13,500
+Calanthe didn't allow access.
+
+180
+00:10:14,620 --> 00:10:15,910
+And Nilfgaard did.
+
+181
+00:10:17,540 --> 00:10:18,750
+What are you saying?
+
+182
+00:10:19,950 --> 00:10:23,080
+- You only came here to study monoliths?
+- No, I came here to help the elves.
+
+183
+00:10:24,160 --> 00:10:25,370
+You want to help the elves
+
+184
+00:10:25,450 --> 00:10:28,540
+by joining a kingdom
+that regularly massacres whole villages?
+
+185
+00:10:30,290 --> 00:10:33,120
+On the surface of it, there seems to be
+a bit of a conflict there.
+
+186
+00:10:33,660 --> 00:10:36,700
+I suppose you only believe in helping
+the vulnerable if there's coin in it?
+
+187
+00:10:37,200 --> 00:10:38,700
+Everyone has an agenda.
+
+188
+00:10:39,290 --> 00:10:42,040
+- Even the helpful few, like yourself.
+- <font color="#ff00ff">[HORSE NEIGHING]</font>
+
+189
+00:10:42,120 --> 00:10:43,040
+Charming.
+
+190
+00:10:43,120 --> 00:10:45,450
+You two, back on the road!
+
+191
+00:10:45,540 --> 00:10:49,950
+It's all right. I'm an official researcher
+for Fringilla Vigo. It all checks out.
+
+192
+00:10:50,040 --> 00:10:53,040
+I don't give a shit.
+You're trespassing Nilfgaardian land.
+
+193
+00:10:53,120 --> 00:10:54,910
+Sir, be reasonable. We're passing through.
+
+194
+00:10:55,000 --> 00:10:56,760
+- We don't want...
+- If you aren't fucking deaf,
+
+195
+00:10:56,790 --> 00:10:58,150
+- you're fucking stupid.
+- <font color="#ff00ff">[GRUNTS]</font>
+
+196
+00:10:58,200 --> 00:10:59,700
+I said... <font color="#ff00ff">[GROANS]</font>
+
+197
+00:10:59,790 --> 00:11:02,200
+<font color="#138ce9">SOLDIER:</font> Hey, you, stay where you are!
+
+198
+00:11:02,290 --> 00:11:03,620
+- Stay where you are!
+- <font color="#ff00ff">[NEIGHS]</font>
+
+199
+00:11:03,700 --> 00:11:04,790
+- <font color="#ff00ff">[WHOOSHING]</font>
+- <font color="#ff00ff">[YELLS]</font>
+
+200
+00:11:08,080 --> 00:11:09,250
+<font color="#ff00ff">[SOLDIER GASPS]</font>
+
+201
+00:11:11,080 --> 00:11:12,080
+See?
+
+202
+00:11:12,660 --> 00:11:13,700
+I am helpful.
+
+203
+00:11:13,790 --> 00:11:14,910
+<font color="#ff00ff">[HORSE SNORTS]</font>
+
+204
+00:11:16,200 --> 00:11:17,200
+Hmm.
+
+205
+00:11:23,000 --> 00:11:24,580
+<font color="#ff00ff">[POLES SWISHING]</font>
+
+206
+00:11:33,330 --> 00:11:35,450
+I've been looking for you all over!
+
+207
+00:11:36,660 --> 00:11:38,660
+Given up on magic lessons already?
+
+208
+00:11:38,750 --> 00:11:41,830
+Geralt said when you know how to fight
+something, it becomes less threatening.
+
+209
+00:11:44,500 --> 00:11:47,120
+- Do you even know what you're fighting?
+- <font color="#ff00ff">[GRUNTING]</font>
+
+210
+00:11:48,450 --> 00:11:49,450
+Come inside.
+
+211
+00:11:49,950 --> 00:11:52,410
+Let's do something
+that will actually challenge you.
+
+212
+00:11:53,160 --> 00:11:54,160
+I'll be in soon.
+
+213
+00:12:01,250 --> 00:12:02,750
+<font color="#ff00ff">[GRUNTING]</font>
+
+214
+00:12:07,160 --> 00:12:08,540
+Are we going to talk about this?
+
+215
+00:12:08,620 --> 00:12:11,160
+- There's nothing to talk about.
+- The hell there isn't.
+
+216
+00:12:11,250 --> 00:12:15,290
+- A Cintran princess with Elder blood.
+- Legends aren't science.
+
+217
+00:12:15,910 --> 00:12:18,580
+We don't know
+that Elder blood can make witcher mutagen.
+
+218
+00:12:18,660 --> 00:12:20,290
+We don't even really know what it is!
+
+219
+00:12:21,620 --> 00:12:22,660
+<font color="#ff00ff">[SIGHS]</font>
+
+220
+00:12:23,160 --> 00:12:24,580
+I watch my men die,
+
+221
+00:12:26,040 --> 00:12:28,660
+waiting for the final blow to destroy us.
+
+222
+00:12:28,750 --> 00:12:31,040
+But now, Ciri is here.
+
+223
+00:12:31,580 --> 00:12:33,330
+And you arrive too.
+
+224
+00:12:33,910 --> 00:12:35,160
+It can't be a coincidence.
+
+225
+00:12:35,250 --> 00:12:37,410
+She is a living, breathing girl.
+
+226
+00:12:37,910 --> 00:12:40,450
+Not some tool
+for you to use when you're desperate.
+
+227
+00:12:42,540 --> 00:12:43,750
+I'm not desperate.
+
+228
+00:12:45,580 --> 00:12:46,620
+I'm hopeful.
+
+229
+00:12:48,330 --> 00:12:50,500
+For the first time in a long time.
+
+230
+00:12:52,000 --> 00:12:54,870
+You, me, and Ciri,
+
+231
+00:12:55,580 --> 00:12:58,290
+we have a chance
+to do something extraordinary.
+
+232
+00:13:01,000 --> 00:13:02,080
+<font color="#ff00ff">[SIGHS]</font>
+
+233
+00:13:03,450 --> 00:13:06,000
+I liked you better
+when you were a cynical old codger.
+
+234
+00:13:11,370 --> 00:13:12,620
+If we do this...
+
+235
+00:13:14,620 --> 00:13:16,200
+it's because she wants to.
+
+236
+00:13:17,450 --> 00:13:18,790
+She gets to decide.
+
+237
+00:13:22,790 --> 00:13:24,290
+<font color="#ff00ff">[CIRI GRUNTING]</font>
+
+238
+00:13:28,790 --> 00:13:30,620
+<font color="#ff00ff">[HORSE WHINNYING]</font>
+
+239
+00:13:34,620 --> 00:13:36,080
+<font color="#138ce9">WOMAN:</font> Get off my daughter!
+
+240
+00:13:36,580 --> 00:13:38,250
+Leave her alone, now!
+
+241
+00:13:38,330 --> 00:13:40,910
+You cannot do this! Stop!
+
+242
+00:13:41,000 --> 00:13:41,870
+<font color="#ff00ff">[SOBBING]</font> No!
+
+243
+00:13:41,950 --> 00:13:44,370
+- <font color="#138ce9">GIRL:</font> Mummy, don't let them take me!
+- <font color="#138ce9">MOTHER:</font> It's okay!
+
+244
+00:13:44,450 --> 00:13:46,010
+- <font color="#138ce9">MOTHER:</font> Give her back.
+- <font color="#138ce9">GIRL:</font> Mummy!
+
+245
+00:13:46,040 --> 00:13:47,640
+- Get your hands off my daughter!
+- Mummy!
+
+246
+00:13:47,660 --> 00:13:49,410
+- <font color="#138ce9">MAN:</font> Dirty little...
+- <font color="#138ce9">MOTHER:</font> No, stop!
+
+247
+00:13:49,500 --> 00:13:51,540
+<font color="#ff00ff">[SPEAKING IN ELDER]</font>
+
+248
+00:13:52,580 --> 00:13:55,330
+<font color="#ff00ff">[REPEATING SPELL]</font>
+
+249
+00:13:56,160 --> 00:13:58,750
+<font color="#138ce9">OLD WOMAN:</font> <i>Your power, you need it.</i>
+
+250
+00:13:58,830 --> 00:14:00,830
+<font color="#ff00ff">[OVERLAPPING VOICES]</font>
+<i>All you have to do is ask.</i>
+
+251
+00:14:00,910 --> 00:14:01,910
+No!
+
+252
+00:14:02,700 --> 00:14:04,660
+<font color="#ff00ff">[SPEAKING IN ELDER]</font>
+
+253
+00:14:04,750 --> 00:14:07,910
+<font color="#ff00ff">[REPEATING SPELL]</font>
+
+254
+00:14:10,540 --> 00:14:13,120
+<font color="#138ce9">PROSTITUTE:</font> Oi!
+What's wrong with your hand?
+
+255
+00:14:13,200 --> 00:14:14,790
+- <font color="#ff00ff">[MOTHER SOBBING]</font> No!
+- Nothing.
+
+256
+00:14:16,910 --> 00:14:17,830
+My friend?
+
+257
+00:14:17,910 --> 00:14:19,450
+No one by the name of Jaskier.
+
+258
+00:14:21,500 --> 00:14:23,290
+Oh, I feel you, sister.
+
+259
+00:14:25,500 --> 00:14:26,540
+Frequent any taverns?
+
+260
+00:14:29,080 --> 00:14:30,620
+- Huh?
+- Just sayin'.
+
+261
+00:14:30,700 --> 00:14:31,870
+From experience.
+
+262
+00:14:32,410 --> 00:14:36,000
+When I lose a man, he's usually back
+at the first place I found him.
+
+263
+00:14:36,540 --> 00:14:37,750
+Bottom of a bottle.
+
+264
+00:14:44,040 --> 00:14:45,750
+<font color="#ff00ff">[BREATHING SHAKILY]</font>
+
+265
+00:14:49,250 --> 00:14:51,700
+<font color="#138ce9">RIENCE:</font> I'll be honest,
+I wasn't expecting this.
+
+266
+00:14:52,370 --> 00:14:53,370
+<font color="#ff00ff">[JASKIER WHIMPERS]</font>
+
+267
+00:14:53,410 --> 00:14:56,120
+You're so tight-lipped
+about your old friend the witcher.
+
+268
+00:14:56,750 --> 00:14:59,750
+My lips are loose. You can ask anybody.
+
+269
+00:15:00,250 --> 00:15:02,450
+- <font color="#ff00ff">[SNIFFLES]</font>
+- Shall we try a different technique?
+
+270
+00:15:02,540 --> 00:15:03,830
+<font color="#ff00ff">[LAUGHS]</font>
+
+271
+00:15:03,910 --> 00:15:04,910
+Yeah.
+
+272
+00:15:05,330 --> 00:15:07,830
+You know, I was just thinking about this,
+and I, uh...
+
+273
+00:15:07,910 --> 00:15:09,620
+I don't think it's your technique.
+
+274
+00:15:09,700 --> 00:15:12,250
+I've not seen Geralt in months.
+
+275
+00:15:12,330 --> 00:15:14,660
+Not since he abandoned me in Cairngorn,
+
+276
+00:15:14,750 --> 00:15:17,750
+much... much like he abandoned
+his Child Surprise
+
+277
+00:15:17,830 --> 00:15:20,790
+who I met only the once,
+when she was still in the womb.
+
+278
+00:15:20,870 --> 00:15:25,660
+I don't know where they are,
+I don't know where they're going,
+
+279
+00:15:25,750 --> 00:15:28,620
+and I don't know
+why you're doing this to me!
+
+280
+00:15:29,120 --> 00:15:32,250
+- It's such a shame you can't be useful.
+- <font color="#ff00ff">[GASPS AND SNIFFLES]</font>
+
+281
+00:15:32,830 --> 00:15:36,000
+See, people think Chaos comes
+from nothing, but that's wrong.
+
+282
+00:15:37,580 --> 00:15:39,660
+No, to draw it, you need a source.
+
+283
+00:15:40,790 --> 00:15:42,120
+<font color="#ff00ff">[WHIMPERS]</font>
+
+284
+00:15:42,200 --> 00:15:44,000
+See, fire is a forbidden source
+
+285
+00:15:44,080 --> 00:15:46,700
+because it usually consumes
+those that draw from it.
+
+286
+00:15:48,290 --> 00:15:49,910
+Unless you're very talented.
+
+287
+00:15:51,580 --> 00:15:53,700
+- Then the body can withstand it.
+- <font color="#ff00ff">[MUMBLES]</font>
+
+288
+00:15:55,660 --> 00:15:58,950
+- Mm-mm.
+- But it consumes the soul.
+
+289
+00:15:59,040 --> 00:16:00,290
+<font color="#ff00ff">[JASKIER MOANS]</font>
+
+290
+00:16:00,370 --> 00:16:01,750
+<font color="#ff00ff">[SCREAMS]</font>
+
+291
+00:16:01,830 --> 00:16:04,700
+- <font color="#ff00ff">[LAUGHS]</font>
+- Please, I don't know anything!
+
+292
+00:16:04,790 --> 00:16:06,040
+No, no, no, no.
+
+293
+00:16:06,750 --> 00:16:09,290
+The songs in your catalog
+would suggest otherwise.
+
+294
+00:16:09,370 --> 00:16:11,160
+<font color="#ff00ff">[YELLS]</font>
+
+295
+00:16:11,250 --> 00:16:13,370
+Listen to me, please! Please listen to me.
+
+296
+00:16:13,450 --> 00:16:15,290
+I... I am a bard.
+
+297
+00:16:15,370 --> 00:16:17,660
+<font color="#ff00ff">[LAUGHS]</font> I am brilliant.
+
+298
+00:16:17,750 --> 00:16:19,330
+This is what I do.
+
+299
+00:16:19,410 --> 00:16:22,250
+He grunts, and I tell stories.
+
+300
+00:16:22,330 --> 00:16:23,620
+He mentions a witcher keep,
+
+301
+00:16:23,700 --> 00:16:27,790
+and I turn it into a magical,
+mystical hideaway in the mountains.
+
+302
+00:16:27,870 --> 00:16:30,250
+So please listen to me
+when I tell you this.
+
+303
+00:16:30,330 --> 00:16:32,580
+- He doesn't share details.
+- Hmm.
+
+304
+00:16:33,290 --> 00:16:35,620
+He does not have friends.
+
+305
+00:16:36,540 --> 00:16:38,250
+And he does not...
+
+306
+00:16:38,330 --> 00:16:40,700
+<font color="#ff00ff">[SCREAMING]</font> ...have weaknesses!
+
+307
+00:16:42,290 --> 00:16:43,330
+<font color="#ff00ff">[GLASS SMASHES]</font>
+
+308
+00:16:43,410 --> 00:16:44,790
+<font color="#ff00ff">[JASKIER LAUGHS]</font>
+
+309
+00:16:46,080 --> 00:16:48,910
+<font color="#ff00ff">[SLURRING]</font> I knew I'd find you here.
+You lazy lout.
+
+310
+00:16:49,000 --> 00:16:50,160
+<font color="#ff00ff">[HICCUPS]</font>
+
+311
+00:16:50,250 --> 00:16:52,040
+Leaving me at home to rot!
+
+312
+00:16:52,120 --> 00:16:54,760
+Uh... uh... This is... this is my wife.
+She has nothing to do with this.
+
+313
+00:16:54,790 --> 00:16:57,660
+- Please let her go...
+- If you know what's good for you, leave.
+
+314
+00:16:58,250 --> 00:16:59,250
+Now.
+
+315
+00:17:02,200 --> 00:17:03,040
+<font color="#ff00ff">[WHISPERS]</font> Yeah.
+
+316
+00:17:03,120 --> 00:17:05,080
+If you knew what's good for you,
+
+317
+00:17:05,160 --> 00:17:07,160
+you'd shut the fuck up. <font color="#ff00ff">[HICCUPS]</font>
+
+318
+00:17:09,040 --> 00:17:09,950
+Have it your way.
+
+319
+00:17:10,040 --> 00:17:12,910
+No, no! No, please! Don't hurt her!
+Leave her alone, please!
+
+320
+00:17:13,000 --> 00:17:14,120
+She's done nothing!
+
+321
+00:17:14,790 --> 00:17:16,250
+Oh, gods!
+
+322
+00:17:16,330 --> 00:17:18,330
+<font color="#ff00ff">[SCREAMING]</font>
+
+323
+00:17:20,790 --> 00:17:22,080
+<font color="#ff00ff">[BOTH GASPING]</font>
+
+324
+00:17:24,910 --> 00:17:26,870
+- <font color="#138ce9">YENNEFER:</font> Come on!
+- <font color="#ff00ff">[JASKIER GROANS]</font>
+
+325
+00:17:28,000 --> 00:17:29,000
+Oh fuck!
+
+326
+00:17:42,950 --> 00:17:44,450
+<font color="#138ce9">ISTREDD:</font> Oh shit.
+
+327
+00:18:06,750 --> 00:18:10,950
+It takes generations of erosion
+to even make a dent in stellacite. This...
+
+328
+00:18:12,450 --> 00:18:14,370
+this is a scientific revelation.
+
+329
+00:18:14,450 --> 00:18:17,450
+It... it defies
+every historical precedent, Witcher.
+
+330
+00:18:17,540 --> 00:18:18,750
+This changes everything.
+
+331
+00:18:19,330 --> 00:18:22,000
+I was expecting tracks. Bones.
+
+332
+00:18:23,700 --> 00:18:24,700
+Anything.
+
+333
+00:18:25,540 --> 00:18:27,790
+- I have to go down there.
+- We have to go down there.
+
+334
+00:18:34,000 --> 00:18:35,370
+<font color="#ff00ff">[BLADE BEING SHARPENED]</font>
+
+335
+00:18:48,330 --> 00:18:49,330
+Thirsty?
+
+336
+00:18:56,040 --> 00:18:57,040
+<font color="#138ce9">CIRI:</font> Thanks.
+
+337
+00:19:01,910 --> 00:19:04,040
+I thought you were gonna be a spoiled,
+
+338
+00:19:04,120 --> 00:19:06,660
+high-bred, drip-nosed royal from the West.
+
+339
+00:19:07,750 --> 00:19:09,620
+- And you are.
+- <font color="#ff00ff">[MEN CHUCKLE]</font>
+
+340
+00:19:12,330 --> 00:19:13,410
+But...
+
+341
+00:19:14,160 --> 00:19:16,040
+you're impressing all of us out there.
+
+342
+00:19:19,250 --> 00:19:21,410
+Not enough to join Geralt in Cintra.
+
+343
+00:19:22,450 --> 00:19:24,010
+You think you should have been invited?
+
+344
+00:19:25,830 --> 00:19:27,080
+Well, it's my home.
+
+345
+00:19:31,870 --> 00:19:33,080
+My fight.
+
+346
+00:19:35,870 --> 00:19:36,910
+My life.
+
+347
+00:19:40,580 --> 00:19:41,950
+I need to show you something.
+
+348
+00:19:50,000 --> 00:19:51,870
+When the Conjunction happened,
+
+349
+00:19:51,950 --> 00:19:55,660
+it wasn't just the elves, humans, dwarves.
+
+350
+00:19:55,750 --> 00:19:58,160
+Spheres of beasts collided too.
+
+351
+00:20:00,080 --> 00:20:02,330
+Mages weaponized monsters.
+
+352
+00:20:02,950 --> 00:20:05,370
+Tried to conquer the lands with them.
+
+353
+00:20:05,910 --> 00:20:07,330
+Fucking idiots.
+
+354
+00:20:08,750 --> 00:20:11,370
+Of course,
+the monsters destroyed everything.
+
+355
+00:20:11,450 --> 00:20:14,080
+Then, 300 years ago,
+
+356
+00:20:14,580 --> 00:20:15,950
+mages weaponized men.
+
+357
+00:20:16,660 --> 00:20:18,620
+Mutated them with elixirs.
+
+358
+00:20:18,700 --> 00:20:20,790
+Made them faster. Stronger.
+
+359
+00:20:21,410 --> 00:20:23,160
+Brutal enough to kill the beasts.
+
+360
+00:20:23,750 --> 00:20:27,040
+The witchers saved humanity
+from extinction.
+
+361
+00:20:30,580 --> 00:20:33,540
+Do you know why
+there are fewer of us each winter, Ciri?
+
+362
+00:20:35,410 --> 00:20:37,950
+Because when Kaer Morhen was destroyed,
+
+363
+00:20:38,040 --> 00:20:41,080
+so was the mutagen
+that allowed us to make new witchers.
+
+364
+00:20:43,120 --> 00:20:44,750
+But I think you can help.
+
+365
+00:20:48,120 --> 00:20:50,040
+Ever heard of feainnewedd?
+
+366
+00:20:51,830 --> 00:20:53,500
+It's an ancient flower.
+
+367
+00:20:53,580 --> 00:20:55,330
+Only grows one place.
+
+368
+00:20:55,830 --> 00:20:57,790
+Where Elder blood has spilled.
+
+369
+00:21:04,290 --> 00:21:06,830
+These have been sprouting
+all over the training course.
+
+370
+00:21:06,910 --> 00:21:07,910
+Yeah.
+
+371
+00:21:14,830 --> 00:21:16,200
+<font color="#ff00ff">[SOFTLY]</font> Where I've bled.
+
+372
+00:21:22,370 --> 00:21:25,160
+But my... my grandmother,
+she hated the elves.
+
+373
+00:21:25,750 --> 00:21:26,830
+<font color="#ff00ff">[EXHALES GENTLY]</font>
+
+374
+00:21:26,910 --> 00:21:28,660
+Sometimes our deepest hate
+
+375
+00:21:28,750 --> 00:21:31,700
+is for the things
+we cannot change about ourselves.
+
+376
+00:21:49,120 --> 00:21:50,120
+<font color="#ff00ff">[SIGHS]</font>
+
+377
+00:21:51,330 --> 00:21:53,620
+Something bad is brewing out there.
+
+378
+00:21:54,620 --> 00:21:58,080
+With a vial of your blood,
+we could protect generations to come.
+
+379
+00:22:01,250 --> 00:22:03,200
+How are you so sure it will work?
+
+380
+00:22:04,830 --> 00:22:05,910
+I'm not.
+
+381
+00:22:07,160 --> 00:22:08,410
+Ah...
+
+382
+00:22:13,250 --> 00:22:14,250
+I'll do it.
+
+383
+00:22:15,950 --> 00:22:17,200
+On one condition.
+
+384
+00:22:19,950 --> 00:22:21,660
+You have to test it on me first.
+
+385
+00:22:23,750 --> 00:22:24,910
+<font color="#ff00ff">[SCREAMS]</font>
+
+386
+00:22:28,080 --> 00:22:29,080
+Forget it.
+
+387
+00:22:33,790 --> 00:22:34,790
+Come.
+
+388
+00:22:39,830 --> 00:22:41,580
+My men are warriors now.
+
+389
+00:22:45,660 --> 00:22:47,580
+But they were boys in pain once.
+
+390
+00:22:48,660 --> 00:22:50,250
+If they even survived.
+
+391
+00:22:51,000 --> 00:22:52,160
+And not many did.
+
+392
+00:22:53,500 --> 00:22:55,120
+I'll not take that chance with you.
+
+393
+00:22:56,000 --> 00:22:57,080
+Because I'm a girl?
+
+394
+00:22:57,580 --> 00:22:59,370
+Because you're Geralt's child.
+
+395
+00:22:59,870 --> 00:23:01,370
+<font color="#ff00ff">[SCOFFS]</font> I'm not a child.
+
+396
+00:23:01,950 --> 00:23:05,500
+- Because we care about you.
+- And I care about all of you!
+
+397
+00:23:07,290 --> 00:23:08,750
+You said it yourself!
+
+398
+00:23:11,200 --> 00:23:12,450
+Witchers are dying.
+
+399
+00:23:13,540 --> 00:23:14,910
+<font color="#ff00ff">[WHISPERS]</font> One by one.
+
+400
+00:23:15,700 --> 00:23:16,700
+You'll fight.
+
+401
+00:23:17,950 --> 00:23:19,000
+You'll die.
+
+402
+00:23:20,790 --> 00:23:23,370
+And all of those boys' suffering
+will have been for nothing.
+
+403
+00:23:23,450 --> 00:23:24,450
+<font color="#ff00ff">[GRUNTS]</font>
+
+404
+00:23:25,160 --> 00:23:26,160
+<font color="#ff00ff">[GROWLS]</font>
+
+405
+00:23:31,540 --> 00:23:33,000
+<font color="#ff00ff">[WHISPERS]</font> I've destroyed
+
+406
+00:23:33,750 --> 00:23:35,290
+so many things.
+
+407
+00:23:37,330 --> 00:23:38,580
+Please, just...
+
+408
+00:23:39,540 --> 00:23:41,290
+let me help heal something for once.
+
+409
+00:23:44,910 --> 00:23:46,160
+I'm meant for this.
+
+410
+00:23:53,040 --> 00:23:54,450
+<font color="#138ce9">GERALT:</font> There's no nest.
+
+411
+00:23:54,950 --> 00:23:57,040
+There's no evidence
+they've been here at all.
+
+412
+00:23:57,120 --> 00:23:58,200
+Unbelievable.
+
+413
+00:23:59,370 --> 00:24:01,540
+How could this happen? What could do this?
+
+414
+00:24:02,750 --> 00:24:03,580
+Monsters.
+
+415
+00:24:03,660 --> 00:24:04,950
+Explain.
+
+416
+00:24:06,200 --> 00:24:10,450
+Historians have always theorized that
+monoliths are scars from the Conjunction.
+
+417
+00:24:10,540 --> 00:24:12,290
+Leftover points of impact.
+
+418
+00:24:13,080 --> 00:24:15,620
+- Yes. I have read books before.
+- Well, think about it.
+
+419
+00:24:15,700 --> 00:24:19,120
+Monsters didn't exist
+on this plane before the Conjunction.
+
+420
+00:24:19,620 --> 00:24:21,700
+All species were separated
+on different spheres
+
+421
+00:24:21,790 --> 00:24:23,910
+till those spheres merged into one.
+
+422
+00:24:24,000 --> 00:24:26,370
+A Conjunction like that
+would've required two things.
+
+423
+00:24:26,450 --> 00:24:27,950
+A massive surge of energy
+
+424
+00:24:28,040 --> 00:24:30,080
+and... and conduits to channel it.
+
+425
+00:24:30,160 --> 00:24:33,120
+Now, what if
+the monoliths aren't points of impact?
+
+426
+00:24:34,040 --> 00:24:35,330
+What if they're the conduits?
+
+427
+00:24:40,620 --> 00:24:42,870
+I worry about you mages more and more.
+
+428
+00:24:42,950 --> 00:24:44,580
+<font color="#ff00ff">[WIND WHISTLING]</font>
+
+429
+00:24:44,660 --> 00:24:47,660
+Perhaps humans
+just shouldn't live for so long.
+
+430
+00:24:48,290 --> 00:24:50,950
+- I've seen them communicating.
+- Hmm.
+
+431
+00:24:53,120 --> 00:24:54,410
+<font color="#ff00ff">[THUNDER RUMBLING]</font>
+
+432
+00:24:54,500 --> 00:24:55,790
+<font color="#ff00ff">[SIGHS]</font>
+
+433
+00:24:57,790 --> 00:25:00,590
+<font color="#138ce9">ISTREDD:</font> You say this monolith toppled
+during the Slaughter of Cintra.
+
+434
+00:25:00,660 --> 00:25:03,450
+- That makes perfect sense.
+- <font color="#138ce9">GERALT:</font> And yet it doesn't.
+
+435
+00:25:04,450 --> 00:25:06,450
+<font color="#ff00ff">[LIQUID DRIPPING]</font>
+
+436
+00:25:49,540 --> 00:25:51,250
+<font color="#ff00ff">[SPEAKING IN ELDER]</font>
+
+437
+00:25:57,160 --> 00:25:58,750
+<font color="#ff00ff">[TRISS CONTINUES SPEAKING IN ELDER]</font>
+
+438
+00:26:09,870 --> 00:26:12,200
+<font color="#ff00ff">[SOFTLY]</font> Did it... did it work?
+
+439
+00:26:20,870 --> 00:26:21,910
+It worked.
+
+440
+00:26:23,700 --> 00:26:25,040
+<font color="#ff00ff">[SIGHS]</font>
+
+441
+00:26:28,700 --> 00:26:30,370
+I just need a moment to prepare.
+
+442
+00:26:31,540 --> 00:26:32,540
+<font color="#138ce9">TRISS:</font> Prepare?
+
+443
+00:26:34,790 --> 00:26:36,910
+- For what?
+- She wants to be the first.
+
+444
+00:26:38,700 --> 00:26:40,830
+- The first?
+- New witcher.
+
+445
+00:26:41,700 --> 00:26:42,700
+It was her choice.
+
+446
+00:26:47,160 --> 00:26:48,290
+<font color="#ff00ff">[LAUGHS]</font>
+
+447
+00:26:48,370 --> 00:26:51,450
+- <font color="#ff00ff">[GASPS]</font> Who the fuck was that?
+- How should I know?
+
+448
+00:26:51,540 --> 00:26:54,910
+- You're the one he kidnapped.
+- You mages don't all share an alma mater?
+
+449
+00:26:55,000 --> 00:26:57,510
+- You didn't catch him at an alumni event?
+- I was looking forward
+
+450
+00:26:57,540 --> 00:26:59,870
+to a few more thank yous,
+perhaps some genuflection.
+
+451
+00:26:59,950 --> 00:27:01,000
+He's after Geralt.
+
+452
+00:27:01,580 --> 00:27:03,830
+What? Why? What does he want with him?
+
+453
+00:27:03,910 --> 00:27:06,290
+You know, I assumed
+it was to drink tea and eat crumpets
+
+454
+00:27:06,370 --> 00:27:08,450
+and wax nostalgic over old times.
+
+455
+00:27:08,540 --> 00:27:09,950
+I don't know, Yennefer.
+
+456
+00:27:10,040 --> 00:27:12,750
+So why don't you conjure up a portal
+
+457
+00:27:12,830 --> 00:27:15,040
+or do your mind talking and warn him?
+
+458
+00:27:15,120 --> 00:27:16,290
+You owe him that.
+
+459
+00:27:16,370 --> 00:27:19,700
+I owe him as much as he owes me.
+Nothing more, nothing less.
+
+460
+00:27:19,790 --> 00:27:21,160
+Anyway, I can't.
+
+461
+00:27:21,700 --> 00:27:23,000
+No magic, remember?
+
+462
+00:27:23,620 --> 00:27:26,750
+- Fuck!
+- You don't get to play damsel in distress.
+
+463
+00:27:27,870 --> 00:27:29,370
+<font color="#ff00ff">[SIGHS]</font> That's my job.
+
+464
+00:27:30,620 --> 00:27:32,200
+- What's going on here?
+- Uh, gentlemen.
+
+465
+00:27:32,290 --> 00:27:34,910
+Good morning. Good to see you.
+You're certainly looming.
+
+466
+00:27:35,000 --> 00:27:37,370
+- Um...
+- Ah, are we working this morning, love?
+
+467
+00:27:37,950 --> 00:27:39,450
+- <font color="#ff00ff">[GROANS]</font>
+- <font color="#138ce9">JASKIER:</font> Ohh!
+
+468
+00:27:39,540 --> 00:27:41,790
+- <font color="#ff00ff">[MAN MOANS]</font>
+- Oh, she's so scary.
+
+469
+00:27:42,290 --> 00:27:43,450
+<font color="#138ce9">MAN:</font> Come 'ere!
+
+470
+00:27:43,540 --> 00:27:45,290
+This way. This way. Run. Run.
+
+471
+00:27:45,370 --> 00:27:46,660
+- Oi!
+- Oi, you. Stop!
+
+472
+00:27:46,750 --> 00:27:47,870
+<font color="#ff00ff">[GROANS]</font>
+
+473
+00:27:47,950 --> 00:27:49,160
+You stop there!
+
+474
+00:27:49,250 --> 00:27:50,250
+Uh, that way. Go!
+
+475
+00:27:50,290 --> 00:27:53,580
+Gentlemen, gentlemen, many men
+have wanted to punch me in the face.
+
+476
+00:27:53,660 --> 00:27:56,040
+Now is your chance! Come on!
+
+477
+00:27:58,910 --> 00:28:00,790
+- <font color="#138ce9">MAN 1:</font> Stop!
+- <font color="#138ce9">MAN 2:</font> Come back 'ere!
+
+478
+00:28:01,370 --> 00:28:03,160
+- <font color="#ff00ff">[GRUNTS]</font>
+- <font color="#138ce9">MAN 1:</font> Come on, lads!
+
+479
+00:28:03,870 --> 00:28:05,540
+- Move!
+- <font color="#138ce9">MAN 2:</font> Where?
+
+480
+00:28:05,620 --> 00:28:07,000
+<font color="#138ce9">MAN 1:</font> Head down there!
+
+481
+00:28:08,000 --> 00:28:09,540
+Oi! This way!
+
+482
+00:28:10,040 --> 00:28:11,040
+<font color="#138ce9">MAN 1:</font> We'll find you!
+
+483
+00:28:12,120 --> 00:28:13,500
+- In there!
+- There she is!
+
+484
+00:28:13,580 --> 00:28:14,410
+No good hiding!
+
+485
+00:28:14,500 --> 00:28:15,700
+- We'll find you.
+- Thank you.
+
+486
+00:28:15,790 --> 00:28:17,620
+- <font color="#ff00ff">[BANGING]</font>
+- Open the fucking door!
+
+487
+00:28:17,700 --> 00:28:18,830
+<font color="#138ce9">GUARD:</font> You're ours now.
+
+488
+00:28:18,910 --> 00:28:20,450
+<font color="#138ce9">MAN 2:</font> Open this door now!
+
+489
+00:28:20,540 --> 00:28:23,040
+<font color="#138ce9">PROSTITUTE:</font> Sorry, love.
+A girl's gotta eat.
+
+490
+00:28:23,120 --> 00:28:24,160
+<font color="#ff00ff">[BANGING CONTINUES]</font>
+
+491
+00:28:24,250 --> 00:28:26,250
+<font color="#ff00ff">[WATER SPLASHING]</font>
+
+492
+00:28:31,160 --> 00:28:33,160
+<font color="#ff00ff">[FOOTSTEPS]</font>
+
+493
+00:28:35,120 --> 00:28:36,540
+<font color="#ff00ff">[DOOR OPENS]</font>
+
+494
+00:28:37,080 --> 00:28:38,580
+What are you doing?
+
+495
+00:28:40,000 --> 00:28:42,660
+I know you know how dangerous this is.
+
+496
+00:28:43,660 --> 00:28:44,950
+I'm not afraid.
+
+497
+00:28:45,040 --> 00:28:46,620
+Have you thought about Geralt?
+
+498
+00:28:47,500 --> 00:28:48,620
+What he'd say?
+
+499
+00:28:50,620 --> 00:28:52,750
+Why do you want this so badly, Ciri?
+
+500
+00:29:01,500 --> 00:29:03,660
+Because I am sick of feeling lost.
+
+501
+00:29:05,750 --> 00:29:08,040
+Everything I was told my whole life
+
+502
+00:29:08,620 --> 00:29:09,620
+was a lie.
+
+503
+00:29:11,370 --> 00:29:14,410
+And the people I loved most
+in this world were taken from me
+
+504
+00:29:14,500 --> 00:29:16,040
+before I could find the truth.
+
+505
+00:29:17,040 --> 00:29:19,330
+What you're doing
+won't change any of that.
+
+506
+00:29:20,080 --> 00:29:23,540
+But it might help me find a new truth.
+
+507
+00:29:29,870 --> 00:29:32,830
+Maybe there's another way
+to find out where your powers came from.
+
+508
+00:29:36,160 --> 00:29:37,200
+What, you...
+
+509
+00:29:37,290 --> 00:29:39,750
+you mean like you did with the myriapod?
+
+510
+00:29:39,830 --> 00:29:41,950
+Slightly less scientific than that.
+
+511
+00:29:43,370 --> 00:29:44,870
+It's called a Dol Durza.
+
+512
+00:29:45,750 --> 00:29:48,620
+It translates roughly
+to Valley of the Soul.
+
+513
+00:29:49,660 --> 00:29:52,910
+It allows me to enter the deepest layer
+of your consciousness
+
+514
+00:29:53,000 --> 00:29:54,790
+and uncover things
+that may be hidden there.
+
+515
+00:29:55,450 --> 00:29:59,000
+Genetic memories
+that tell the story of who you really are.
+
+516
+00:29:59,080 --> 00:30:00,580
+Where you really come from.
+
+517
+00:30:01,540 --> 00:30:03,410
+Is... It's dangerous?
+
+518
+00:30:03,500 --> 00:30:06,450
+No. It just requires
+that we trust each other.
+
+519
+00:30:17,040 --> 00:30:18,080
+All right, then.
+
+520
+00:30:22,450 --> 00:30:23,620
+Clear your mind.
+
+521
+00:30:24,200 --> 00:30:26,620
+Take three deep breaths.
+
+522
+00:30:32,500 --> 00:30:35,910
+<font color="#ff00ff">[SPEAKING IN ELDER]</font>
+
+523
+00:30:37,200 --> 00:30:39,290
+<font color="#ff00ff">[VOICE ECHOING]</font>
+
+524
+00:30:40,950 --> 00:30:42,080
+<font color="#ff00ff">[EXHALES]</font>
+
+525
+00:30:42,160 --> 00:30:43,160
+<font color="#ff00ff">[WHISPERING SOUNDS]</font>
+
+526
+00:30:43,200 --> 00:30:44,950
+<font color="#ff00ff">[GASPS]</font>
+
+527
+00:30:56,700 --> 00:30:57,700
+How?
+
+528
+00:30:59,000 --> 00:31:00,000
+Trust.
+
+529
+00:31:03,370 --> 00:31:06,120
+Come on, then, Lambchop!
+It's my turn now!
+
+530
+00:31:06,200 --> 00:31:07,700
+<font color="#ff00ff">[YELLING]</font>
+
+531
+00:31:09,200 --> 00:31:10,700
+<font color="#ff00ff">[LAUGHTER]</font>
+
+532
+00:31:13,160 --> 00:31:16,160
+<font color="#138ce9">DARA:</font> <i>You bring terror
+and you bring death wherever you are!</i>
+
+533
+00:31:16,250 --> 00:31:17,580
+<font color="#ff00ff">[ECHOES]</font> <i>...wherever you are...</i>
+
+534
+00:31:18,700 --> 00:31:21,000
+<font color="#138ce9">WOMAN 1:</font> Ma'am,
+a present from His Majesty.
+
+535
+00:31:22,700 --> 00:31:24,580
+<font color="#138ce9">CALANTHE:</font> Tell Eist I love it.
+
+536
+00:31:24,660 --> 00:31:26,870
+<font color="#138ce9">WOMAN 2:</font> A fine sash for a fine queen.
+
+537
+00:31:29,370 --> 00:31:30,540
+<font color="#ff00ff">[CIRI GASPS]</font>
+
+538
+00:31:31,870 --> 00:31:33,870
+<font color="#ff00ff">[OVERLAPPING VOICES ECHOING]</font>
+
+539
+00:31:36,120 --> 00:31:37,250
+Come on, watch him.
+
+540
+00:31:37,330 --> 00:31:38,750
+<font color="#ff00ff">[RAUCOUS LAUGHTER]</font>
+
+541
+00:31:45,620 --> 00:31:47,660
+- <font color="#ff00ff">[GASPING]</font>
+- Don't be afraid.
+
+542
+00:31:48,160 --> 00:31:49,700
+Nothing can hurt you here.
+
+543
+00:31:50,330 --> 00:31:53,330
+All of this, it's just... it's you.
+
+544
+00:31:54,370 --> 00:31:55,500
+<font color="#ff00ff">[BOY LAUGHS]</font>
+
+545
+00:31:58,160 --> 00:31:59,660
+<font color="#ff00ff">[CHILDREN LAUGHING]</font>
+
+546
+00:32:08,200 --> 00:32:10,120
+<font color="#138ce9">BOY:</font> <i>There's no way you can get five.</i>
+
+547
+00:32:10,910 --> 00:32:13,620
+<font color="#138ce9">CIRI:</font> <i>You're not taking a bite
+of that bread before I try it.</i>
+
+548
+00:32:14,120 --> 00:32:15,910
+<font color="#138ce9">PAVETTA:</font> We've been right here.
+
+549
+00:32:17,080 --> 00:32:18,410
+The whole time.
+
+550
+00:32:18,500 --> 00:32:20,000
+<font color="#ff00ff">[ECHOES]</font> <i>...the whole time...</i>
+
+551
+00:32:25,200 --> 00:32:27,200
+<font color="#ff00ff">[WHISPERING VOICES OVERLAPPING]</font>
+
+552
+00:32:29,700 --> 00:32:30,700
+Mother.
+
+553
+00:32:30,750 --> 00:32:31,910
+<font color="#ff00ff">[WHOOSHING]</font>
+
+554
+00:32:32,790 --> 00:32:33,910
+Would you like a story?
+
+555
+00:32:34,000 --> 00:32:35,450
+<font color="#ff00ff">[ECHOES]</font> <i>...like a story...</i>
+
+556
+00:32:36,160 --> 00:32:37,580
+You can see us.
+
+557
+00:32:39,500 --> 00:32:40,580
+What's wrong?
+
+558
+00:32:41,250 --> 00:32:43,000
+This isn't how it's supposed to work.
+
+559
+00:32:43,080 --> 00:32:46,660
+Come on, Ciri, let's go back.
+You've had enough.
+
+560
+00:32:46,750 --> 00:32:47,830
+<font color="#ff00ff">[ECHOES]</font> <i>...enough...</i>
+
+561
+00:32:50,250 --> 00:32:51,250
+<font color="#ff00ff">[DOOR OPENS]</font>
+
+562
+00:32:51,330 --> 00:32:52,450
+<font color="#ff00ff">[CREAKING]</font>
+
+563
+00:32:54,500 --> 00:32:56,040
+<font color="#ff00ff">[DISTANT WAILING]</font>
+
+564
+00:32:57,120 --> 00:32:58,660
+<font color="#ff00ff">[BABY CRYING]</font>
+
+565
+00:32:59,830 --> 00:33:01,830
+<font color="#ff00ff">[CRIES ECHOING]</font>
+
+566
+00:33:06,830 --> 00:33:08,830
+This isn't how
+it's supposed to work at all.
+
+567
+00:33:08,910 --> 00:33:10,160
+<font color="#ff00ff">[RATS SQUEAKING]</font>
+
+568
+00:33:14,290 --> 00:33:15,410
+<font color="#138ce9">PAVETTA: </font><font color="#ff00ff">[MUFFLED]</font><font color="#138ce9"></font> Hush.
+
+569
+00:33:15,910 --> 00:33:19,370
+Hush now, and Mummy will tell you a story.
+
+570
+00:33:20,910 --> 00:33:22,910
+<font color="#ff00ff">[LOW MURMURING]</font>
+
+571
+00:33:28,080 --> 00:33:29,830
+- <font color="#ff00ff">[CREAKING]</font>
+- <font color="#ff00ff">[BABY GURGLING]</font>
+
+572
+00:33:35,160 --> 00:33:36,620
+They'd kill her if they knew.
+
+573
+00:33:37,160 --> 00:33:38,200
+It's a prophecy.
+
+574
+00:33:38,290 --> 00:33:39,910
+Maybe it's not true.
+
+575
+00:33:40,000 --> 00:33:41,700
+<font color="#138ce9">DUNY:</font> It doesn't matter if it's true.
+
+576
+00:33:41,790 --> 00:33:44,410
+It only matters if the people believe it.
+
+577
+00:33:46,620 --> 00:33:47,750
+And they will.
+
+578
+00:33:55,580 --> 00:33:57,080
+<font color="#ff00ff">[LOW RUMBLING]</font>
+
+579
+00:33:59,120 --> 00:34:00,200
+The boat's ready.
+
+580
+00:34:02,620 --> 00:34:05,120
+We can leave under the cover of darkness.
+
+581
+00:34:08,790 --> 00:34:10,450
+This is the night they died.
+
+582
+00:34:12,540 --> 00:34:13,540
+My parents.
+
+583
+00:34:14,660 --> 00:34:15,660
+<font color="#ff00ff">[GASPS]</font>
+
+584
+00:34:17,120 --> 00:34:19,580
+- Ciri, come on.
+- Wait. I don't want to leave them yet.
+
+585
+00:34:19,660 --> 00:34:21,250
+<font color="#138ce9">TRISS:</font> Something isn't right.
+
+586
+00:34:22,330 --> 00:34:23,330
+<font color="#ff00ff">[GASPS]</font>
+
+587
+00:34:27,330 --> 00:34:29,660
+<font color="#ff00ff">[OVERLAPPING VOICES]</font> <i>What are you, child?</i>
+
+588
+00:34:30,200 --> 00:34:31,790
+<font color="#ff00ff">[WHISPERING]</font> <i>Cirilla.</i>
+
+589
+00:34:34,160 --> 00:34:36,660
+<i>Ciri.</i>
+
+590
+00:34:38,790 --> 00:34:41,200
+<i>Ciri.</i>
+
+591
+00:34:47,580 --> 00:34:50,370
+<i>- Ciri.
+- Ciri.</i>
+
+592
+00:34:53,950 --> 00:34:55,790
+<i>Ciri.</i>
+
+593
+00:34:57,580 --> 00:34:59,580
+<font color="#ff00ff">[WHISPERING VOICES CONTINUING]</font>
+
+594
+00:35:04,120 --> 00:35:06,370
+<font color="#138ce9">ISTREDD:</font> I was at a dig
+in Nazair a while back.
+
+595
+00:35:06,450 --> 00:35:07,870
+I... I witnessed something.
+
+596
+00:35:07,950 --> 00:35:11,330
+There was this monolith
+started emitting strange vibrations,
+
+597
+00:35:11,410 --> 00:35:13,830
+like it was channeling
+a massive energy surge.
+
+598
+00:35:13,910 --> 00:35:17,040
+It only lasted a few seconds,
+but look. Look, look at the date.
+
+599
+00:35:17,910 --> 00:35:20,200
+It happened the night Cintra fell.
+The same night as this.
+
+600
+00:35:21,540 --> 00:35:22,910
+<font color="#ff00ff">[THUNDER RUMBLING]</font>
+
+601
+00:35:23,000 --> 00:35:25,620
+You think
+this is where the energy surge originated.
+
+602
+00:35:25,700 --> 00:35:29,000
+Which activated the conduit system.
+The monoliths started talking.
+
+603
+00:35:30,160 --> 00:35:32,080
+What does that have to do with monsters?
+
+604
+00:35:34,290 --> 00:35:38,000
+It wasn't a Conjunction.
+At least, not how we've been thinking.
+
+605
+00:35:38,080 --> 00:35:40,620
+The other spheres didn't merge, they...
+
+606
+00:35:41,200 --> 00:35:43,370
+they collided, then separated again.
+
+607
+00:35:44,540 --> 00:35:47,040
+If the original spheres
+are still out there somewhere
+
+608
+00:35:47,540 --> 00:35:49,620
+and our monoliths are calling to them...
+
+609
+00:35:51,290 --> 00:35:54,500
+then the monsters aren't new,
+they're just new to here.
+
+610
+00:35:57,450 --> 00:35:59,870
+And they're using our monoliths
+as gateways.
+
+611
+00:35:59,950 --> 00:36:01,950
+<font color="#ff00ff">[THUNDER CRASHING]</font>
+
+612
+00:36:12,290 --> 00:36:13,330
+Where are we?
+
+613
+00:36:14,870 --> 00:36:16,160
+I don't know.
+
+614
+00:36:20,660 --> 00:36:22,080
+<font color="#ff00ff">[BABY CRYING]</font>
+
+615
+00:36:28,660 --> 00:36:31,620
+<font color="#138ce9">ISTREDD:</font> Tell me how you knew
+that monsters and monoliths were linked.
+
+616
+00:36:32,660 --> 00:36:34,540
+<font color="#138ce9">GERALT:</font> What is it you're hoping to hear?
+
+617
+00:36:36,500 --> 00:36:37,500
+Your agenda.
+
+618
+00:36:38,290 --> 00:36:40,870
+If you have information
+that could advance our civilization,
+
+619
+00:36:40,950 --> 00:36:44,120
+- I have a right to know.
+- Why? So you can help the elves?
+
+620
+00:36:46,080 --> 00:36:47,330
+<font color="#ff00ff">[WIND WHISTLING]</font>
+
+621
+00:36:47,410 --> 00:36:48,410
+<font color="#ff00ff">[SIGHS]</font>
+
+622
+00:36:48,950 --> 00:36:51,870
+I came to Cintra
+'cause I thought someone might be here.
+
+623
+00:36:51,950 --> 00:36:53,620
+- A woman.
+- Hmph.
+
+624
+00:36:54,200 --> 00:36:55,250
+Yennefer.
+
+625
+00:36:57,910 --> 00:36:59,080
+<font color="#ff00ff">[THUNDER RUMBLING]</font>
+
+626
+00:37:00,830 --> 00:37:01,830
+Yennefer?
+
+627
+00:37:02,410 --> 00:37:03,410
+Mmm.
+
+628
+00:37:04,120 --> 00:37:06,200
+- Of...
+- Of Vengerberg?
+
+629
+00:37:09,410 --> 00:37:10,500
+You know Yenna?
+
+630
+00:37:11,200 --> 00:37:12,200
+Yen.
+
+631
+00:37:13,500 --> 00:37:14,500
+I did.
+
+632
+00:37:16,540 --> 00:37:17,540
+Yes.
+
+633
+00:37:19,910 --> 00:37:22,080
+- Me too.
+- <font color="#ff00ff">[THUNDER CRASHING]</font>
+
+634
+00:37:26,080 --> 00:37:27,080
+You loved her.
+
+635
+00:37:27,620 --> 00:37:29,250
+Love. I never stopped.
+
+636
+00:37:31,250 --> 00:37:34,910
+I thought after Sodden, after everything
+they did to her at Aretuza, she...
+
+637
+00:37:35,410 --> 00:37:37,750
+she would make her way here for refuge.
+
+638
+00:37:39,160 --> 00:37:40,950
+After Sodden?
+
+639
+00:37:42,290 --> 00:37:44,890
+After she burned through Nilfgaard's army
+and saved the Continent.
+
+640
+00:37:44,950 --> 00:37:46,350
+We should all be praising her name.
+
+641
+00:37:50,120 --> 00:37:51,160
+Yen's alive?
+
+642
+00:37:52,950 --> 00:37:54,330
+<font color="#ff00ff">[BABY CRYING]</font>
+
+643
+00:37:56,200 --> 00:37:58,370
+<font color="#ff00ff">[WOMAN SINGING]</font>
+
+644
+00:38:06,580 --> 00:38:08,580
+- <font color="#ff00ff">[SINGING]</font>
+- <font color="#ff00ff">[BABY CRYING]</font>
+
+645
+00:38:24,580 --> 00:38:26,000
+Do you know who she is?
+
+646
+00:38:28,000 --> 00:38:29,000
+No.
+
+647
+00:38:31,290 --> 00:38:32,370
+Very well.
+
+648
+00:38:33,870 --> 00:38:36,200
+I will tell you the story
+of the elven warrior
+
+649
+00:38:37,700 --> 00:38:39,450
+made to kill the human invader.
+
+650
+00:38:40,330 --> 00:38:42,250
+The human she fell in love with.
+
+651
+00:38:43,410 --> 00:38:44,410
+Nivellen's story.
+
+652
+00:38:45,410 --> 00:38:47,370
+- <font color="#ff00ff">[WHOOSHING]</font>
+- <font color="#ff00ff">[GASPING]</font>
+
+653
+00:38:47,450 --> 00:38:48,950
+- <font color="#ff00ff">[CRACKING]</font>
+- <font color="#138ce9">CIRI:</font> She's dying.
+
+654
+00:38:49,040 --> 00:38:50,910
+- <font color="#ff00ff">[WOMAN GASPING]</font>
+- <font color="#ff00ff">[BABY CRYING]</font>
+
+655
+00:38:56,290 --> 00:38:57,870
+<font color="#ff00ff">[TRISS SPEAKING IN ELDER]</font>
+
+656
+00:38:57,950 --> 00:38:59,750
+You could have united our races.
+
+657
+00:39:00,410 --> 00:39:02,450
+And now, my sweet daughter...
+
+658
+00:39:02,540 --> 00:39:04,540
+<font color="#ff00ff">[DEEP VOICE OVERLAPS]</font>
+...you will destroy them.
+
+659
+00:39:04,620 --> 00:39:07,750
+- <font color="#ff00ff">[GASPING]</font> Ciri!
+- <font color="#ff00ff">[VOICES OVERLAPPING]</font> You cannot help us.
+
+660
+00:39:08,290 --> 00:39:09,750
+- <font color="#ff00ff">[RUMBLING]</font>
+- <font color="#138ce9">TRISS:</font> Ciri!
+
+661
+00:39:09,830 --> 00:39:11,330
+- <font color="#ff00ff">[WHOOSHING]</font>
+- Help!
+
+662
+00:39:12,250 --> 00:39:14,620
+- <font color="#ff00ff">[CHOKING]</font>
+- Child of Elder blood,
+
+663
+00:39:14,700 --> 00:39:15,830
+child of wrath.
+
+664
+00:39:15,910 --> 00:39:18,000
+- The time of contempt is nigh.
+- <font color="#ff00ff">[RUMBLING]</font>
+
+665
+00:39:18,830 --> 00:39:22,200
+The world will die amidst frost
+and be reborn of the new sun.
+
+666
+00:39:22,700 --> 00:39:23,700
+Reborn of Elder blood,
+
+667
+00:39:24,500 --> 00:39:26,580
+of the seed that has been sown.
+
+668
+00:39:26,660 --> 00:39:29,910
+A seed that will not sprout,
+but will burst into flame.
+
+669
+00:39:30,000 --> 00:39:31,200
+<font color="#ff00ff">[TRISS SCREAMS]</font>
+
+670
+00:39:31,290 --> 00:39:32,750
+<font color="#ff00ff">[INTENSE RUMBLING]</font>
+
+671
+00:39:34,660 --> 00:39:36,120
+<font color="#ff00ff">[HORSES NEIGHING]</font>
+
+672
+00:39:42,000 --> 00:39:43,160
+Ciri!
+
+673
+00:39:44,620 --> 00:39:45,830
+Geralt!
+
+674
+00:39:45,910 --> 00:39:48,120
+<font color="#ff00ff">[ECHOING]</font> <i>Geralt!</i>
+
+675
+00:39:48,200 --> 00:39:51,040
+<i>Geralt! Geralt!</i>
+
+676
+00:39:52,040 --> 00:39:53,540
+Geralt!
+
+677
+00:39:54,120 --> 00:39:56,620
+<i>Geralt! Geralt!</i>
+
+678
+00:39:56,700 --> 00:39:58,330
+<font color="#ff00ff">[RUMBLING]</font>
+
+679
+00:40:02,120 --> 00:40:03,410
+<font color="#ff00ff">[GRUNTS]</font>
+
+680
+00:40:08,790 --> 00:40:11,080
+<font color="#ff00ff">[INTENSE CRASHING]</font>
+
+681
+00:40:12,080 --> 00:40:13,580
+- <font color="#ff00ff">[COUGHING]</font>
+- Triss! Triss!
+
+682
+00:40:14,080 --> 00:40:15,330
+<font color="#ff00ff">[GASPING]</font>
+
+683
+00:40:15,830 --> 00:40:16,830
+- Triss.
+- No! No!
+
+684
+00:40:16,910 --> 00:40:19,450
+- Let me help you.
+- No, no, no! <font color="#ff00ff">[GROANS]</font>
+
+685
+00:40:19,540 --> 00:40:20,950
+<font color="#ff00ff">[WHISPERS]</font> Something is ending.
+
+686
+00:40:22,370 --> 00:40:23,580
+It's because of you.
+
+687
+00:40:23,660 --> 00:40:24,910
+<font color="#ff00ff">[GASPING]</font>
+
+688
+00:40:25,450 --> 00:40:27,450
+A seed that bursts into flame.
+
+689
+00:40:28,580 --> 00:40:29,910
+It's you.
+
+690
+00:40:31,120 --> 00:40:32,660
+You will destroy us all.
+
+691
+00:40:33,370 --> 00:40:34,450
+I saw it.
+
+692
+00:40:35,540 --> 00:40:37,160
+<font color="#ff00ff">[SHUDDERING]</font>
+
+693
+00:40:38,200 --> 00:40:39,700
+No one can stop it.
+
+694
+00:40:39,790 --> 00:40:41,370
+<font color="#ff00ff">[PANTING]</font>
+
+695
+00:40:42,160 --> 00:40:43,540
+<font color="#138ce9">TRISS:</font> Not even him.
+
+696
+00:40:44,620 --> 00:40:46,950
+<font color="#ff00ff">[SOBBING]</font>
+
+697
+00:40:54,330 --> 00:40:58,080
+<font color="#138ce9">ISTREDD:</font> Where did those stellacite
+fragments go? Whose voice was that?
+
+698
+00:40:58,160 --> 00:40:59,160
+Quiet.
+
+699
+00:40:59,250 --> 00:41:00,830
+<font color="#ff00ff">[CLINKING AND CREAKING SOUNDS]</font>
+
+700
+00:41:01,450 --> 00:41:02,790
+<font color="#ff00ff">[FAINT ROARING]</font>
+
+701
+00:41:02,870 --> 00:41:03,950
+<font color="#138ce9">ISTREDD:</font> What is it?
+
+702
+00:41:06,500 --> 00:41:07,910
+<font color="#ff00ff">[GROWLING]</font>
+
+703
+00:41:08,790 --> 00:41:10,620
+- <font color="#ff00ff">[HOOFBEATS]</font>
+- <font color="#ff00ff">[DEEP RUMBLING]</font>
+
+704
+00:41:12,700 --> 00:41:14,370
+<font color="#ff00ff">[INTENSE RUMBLING]</font>
+
+705
+00:41:14,450 --> 00:41:16,290
+<font color="#ff00ff">[TEARING AND CRASHING]</font>
+
+706
+00:41:17,290 --> 00:41:18,790
+<font color="#ff00ff">[RUMBLING CRASH]</font>
+
+707
+00:41:19,790 --> 00:41:21,330
+<font color="#ff00ff">[SNARLING]</font>
+
+708
+00:41:22,580 --> 00:41:23,870
+<font color="#ff00ff">[LOW ROARING]</font>
+
+709
+00:41:23,950 --> 00:41:26,250
+<font color="#ff00ff">[THUNDERING STEPS]</font>
+
+710
+00:41:28,040 --> 00:41:29,330
+<font color="#ff00ff">[CHITTERS]</font>
+
+711
+00:41:32,830 --> 00:41:34,620
+<font color="#ff00ff">[GROWLS AND SCREECHES]</font>
+
+712
+00:41:34,700 --> 00:41:35,700
+<font color="#138ce9">GERALT:</font> Fuck.
+
+713
+00:41:38,080 --> 00:41:39,830
+Who is the girl who called to you?
+
+714
+00:41:40,450 --> 00:41:42,290
+And what the hell was that thing?
+
+715
+00:41:42,870 --> 00:41:45,910
+- Do you think Nilfgaard knows about this?
+- Open a portal.
+
+716
+00:41:47,370 --> 00:41:48,370
+Now.
+
+717
+00:41:51,950 --> 00:41:54,250
+Vesemir, I want it done. Now.
+
+718
+00:42:18,290 --> 00:42:19,540
+<font color="#138ce9">VESEMIR:</font> Geralt.
+
+719
+00:42:27,160 --> 00:42:28,160
+Are you certain?
+
+720
+00:42:32,410 --> 00:42:33,580
+<font color="#ff00ff">[SIGHS]</font>
+
+721
+00:42:34,750 --> 00:42:35,910
+<font color="#ff00ff">[SIGHS]</font>
+
+722
+00:42:40,370 --> 00:42:41,580
+<font color="#138ce9">GERALT:</font> What are you doing?
+
+723
+00:42:42,950 --> 00:42:45,500
+- Geralt.
+- She's meant to be. To rebuild us.
+
+724
+00:42:45,580 --> 00:42:46,620
+She is not.
+
+725
+00:42:47,200 --> 00:42:49,620
+She's a girl. All you'll do is poison her.
+
+726
+00:42:49,700 --> 00:42:52,700
+- She can do this.
+- I made him do it, Geralt.
+
+727
+00:42:53,200 --> 00:42:56,120
+Stop. I wanted him to try. Geralt, stop!
+
+728
+00:42:56,200 --> 00:42:59,450
+Did you not think of the consequences?
+What if you were killed?
+
+729
+00:43:00,120 --> 00:43:01,120
+Stop.
+
+730
+00:43:01,660 --> 00:43:02,660
+Stop!
+
+731
+00:43:03,700 --> 00:43:05,620
+All I ever think about are consequences.
+
+732
+00:43:05,700 --> 00:43:07,580
+No matter how hard I train,
+
+733
+00:43:07,660 --> 00:43:10,080
+no matter what I do,
+it'll never be enough.
+
+734
+00:43:10,160 --> 00:43:12,160
+You are already enough, Cirilla.
+
+735
+00:43:14,450 --> 00:43:15,700
+You are extraordinary.
+
+736
+00:43:19,660 --> 00:43:21,330
+<font color="#ff00ff">[WHISPERS]</font> I want to be like you,
+
+737
+00:43:22,250 --> 00:43:23,250
+Geralt.
+
+738
+00:43:25,080 --> 00:43:28,160
+I want to be indifferent to the past.
+
+739
+00:43:29,000 --> 00:43:30,000
+To the lies.
+
+740
+00:43:30,500 --> 00:43:32,870
+- To the things I've done.
+- <font color="#ff00ff">[SIGHS]</font>
+
+741
+00:43:34,870 --> 00:43:35,870
+Please.
+
+742
+00:43:41,500 --> 00:43:42,700
+Let me have that.
+
+743
+00:43:42,790 --> 00:43:44,000
+<font color="#ff00ff">[BREATHING SHAKILY]</font>
+
+744
+00:43:46,620 --> 00:43:48,540
+That is not how it works.
+
+745
+00:43:50,250 --> 00:43:54,250
+Neither you nor I
+can just forget who we are.
+
+746
+00:43:55,330 --> 00:43:57,370
+We can't kill our feelings.
+
+747
+00:43:58,540 --> 00:43:59,910
+Our best chance
+
+748
+00:44:00,870 --> 00:44:03,660
+is to kill the hatred
+that we may hold onto...
+
+749
+00:44:06,370 --> 00:44:07,370
+and move on.
+
+750
+00:44:17,250 --> 00:44:18,250
+<font color="#ff00ff">[CHAIN RATTLES]</font>
+
+751
+00:44:18,330 --> 00:44:19,370
+<font color="#ff00ff">[CIRI SHUDDERS]</font>
+
+752
+00:44:22,200 --> 00:44:24,040
+<font color="#ff00ff">[UNFASTENS STRAP]</font>
+
+753
+00:44:35,830 --> 00:44:37,330
+Go and get your things.
+
+754
+00:44:57,910 --> 00:44:59,330
+<font color="#ff00ff">[SIGHS]</font>
+
+755
+00:45:03,790 --> 00:45:06,330
+<font color="#138ce9">ISTREDD:</font> Is that
+what Calanthe was protecting?
+
+756
+00:45:06,410 --> 00:45:09,450
+<font color="#ff00ff">[SIGHS]</font> What did she know?
+What does all this mean?
+
+757
+00:45:11,410 --> 00:45:12,830
+<font color="#ff00ff">[SIGHS]</font>
+
+758
+00:45:16,790 --> 00:45:17,910
+<font color="#ff00ff">[GROANS]</font>
+
+759
+00:45:20,250 --> 00:45:21,830
+Apologies, King Roegner.
+
+760
+00:45:24,620 --> 00:45:25,620
+<font color="#ff00ff">[SIGHS]</font>
+
+761
+00:45:46,540 --> 00:45:48,040
+<font color="#ff00ff">[WHISPERS]</font> Cintra...
+
+762
+00:45:49,450 --> 00:45:50,540
+Calanthe.
+
+763
+00:45:54,080 --> 00:45:55,450
+Why does it stop?
+
+764
+00:45:55,950 --> 00:45:57,700
+Ah, it doesn't make any sense.
+
+765
+00:45:59,080 --> 00:46:00,950
+<font color="#ff00ff">[GRUNTS]</font> What does this all mean?
+
+766
+00:46:03,200 --> 00:46:04,750
+- <font color="#ff00ff">[WOMAN SCREAMING]</font>
+- <font color="#ff00ff">[WAVES RUSHING]</font>
+
+767
+00:46:04,830 --> 00:46:06,620
+- <font color="#ff00ff">[SHIP CREAKING]</font>
+- <font color="#ff00ff">[CHILD CRYING]</font>
+
+768
+00:46:09,790 --> 00:46:11,540
+<font color="#ff00ff">[COUGHING]</font>
+
+769
+00:46:16,620 --> 00:46:18,200
+<font color="#ff00ff">[SCREAMS]</font>
+
+770
+00:46:24,250 --> 00:46:26,000
+<font color="#ff00ff">[WAVE CRASHES]</font>
+
+771
+00:46:26,080 --> 00:46:27,580
+<font color="#ff00ff">[PANTING]</font>
+
+772
+00:46:57,700 --> 00:46:58,790
+You wished to see me?
+
+773
+00:46:59,290 --> 00:47:01,580
+There are fewer and fewer new arrivals.
+
+774
+00:47:02,750 --> 00:47:06,700
+I received word
+that guards have begun boarding ships.
+
+775
+00:47:06,790 --> 00:47:09,910
+Even in Oxenfurt,
+and they've always been on our side.
+
+776
+00:47:10,000 --> 00:47:12,000
+We... we need to find an alternative.
+
+777
+00:47:12,500 --> 00:47:13,500
+I am.
+
+778
+00:47:15,000 --> 00:47:16,540
+I didn't mean to alarm you, I just...
+
+779
+00:47:17,410 --> 00:47:19,450
+I want you to have
+all the information I do.
+
+780
+00:47:19,540 --> 00:47:20,660
+So that we can...
+
+781
+00:47:22,080 --> 00:47:23,440
+we can be in step with each other.
+
+782
+00:47:24,910 --> 00:47:26,370
+<font color="#ff00ff">[FOOTSTEPS IN HALLWAY]</font>
+
+783
+00:47:27,160 --> 00:47:28,160
+What?
+
+784
+00:47:28,950 --> 00:47:31,910
+Nothing. It's just
+I've had leaders, followers,
+
+785
+00:47:33,790 --> 00:47:34,790
+but...
+
+786
+00:47:35,200 --> 00:47:37,120
+I've never had a partner before.
+
+787
+00:47:40,200 --> 00:47:41,330
+Neither have I.
+
+788
+00:47:44,160 --> 00:47:45,500
+It's not terrible.
+
+789
+00:47:46,080 --> 00:47:47,250
+<font color="#ff00ff">[BOTH LAUGH]</font>
+
+790
+00:47:50,660 --> 00:47:51,790
+<font color="#138ce9">FRINGILLA:</font> Mmm.
+
+791
+00:47:51,870 --> 00:47:53,410
+The next ship is due soon.
+
+792
+00:47:54,330 --> 00:47:55,330
+Come.
+
+793
+00:47:56,250 --> 00:47:58,580
+I want my people to meet their liberator.
+
+794
+00:48:19,120 --> 00:48:20,160
+Your papers.
+
+795
+00:48:20,660 --> 00:48:21,500
+What?
+
+796
+00:48:21,580 --> 00:48:23,120
+Stand in line with the others.
+
+797
+00:48:23,620 --> 00:48:25,540
+- <font color="#ff00ff">[HORSE NEIGHS]</font>
+- <font color="#ff00ff">[GOAT BLEATS]</font>
+
+798
+00:48:28,700 --> 00:48:29,540
+<font color="#138ce9">MAN:</font> Name.
+
+799
+00:48:29,620 --> 00:48:32,370
+- <font color="#138ce9">GUARD:</font> Have your papers ready!
+- Cormeth from Oxenfurt.
+
+800
+00:48:34,000 --> 00:48:35,000
+Welcome.
+
+801
+00:48:36,830 --> 00:48:37,830
+Name!
+
+802
+00:48:38,870 --> 00:48:41,160
+Dara, of the Marble Gardens.
+
+803
+00:48:45,700 --> 00:48:47,000
+Welcome back to your land, son.
+
+804
+00:48:49,620 --> 00:48:50,620
+Name.
+
+805
+00:48:53,370 --> 00:48:55,750
+You must declare yourself
+before entering Xin'trea.
+
+806
+00:48:55,830 --> 00:48:57,750
+- Stand aside.
+- Fall back in line!
+
+807
+00:48:57,830 --> 00:49:00,500
+- I said stand aside.
+- Perhaps you didn't hear.
+
+808
+00:49:02,120 --> 00:49:04,250
+There's no entry until you report.
+
+809
+00:49:04,830 --> 00:49:05,830
+So who are you?
+
+810
+00:49:07,160 --> 00:49:10,910
+I am Commander Mawr Dyffryn aep Ceallach.
+
+811
+00:49:11,870 --> 00:49:13,580
+Who the fuck are you?
+
+812
+00:49:13,660 --> 00:49:14,660
+<font color="#138ce9">FRINGILLA:</font> Cahir!
+
+813
+00:49:17,750 --> 00:49:18,830
+Welcome home.
+
+814
+00:49:20,410 --> 00:49:21,830
+Good to see you alive.
+
+815
+00:49:33,000 --> 00:49:36,120
+<font color="#138ce9">OLD WOMAN:</font> <i>Your friends are faring
+so much better than you.</i>
+
+816
+00:49:36,700 --> 00:49:38,830
+<i>One has command,</i>
+
+817
+00:49:38,910 --> 00:49:40,200
+<i>the other hope.</i>
+
+818
+00:49:41,290 --> 00:49:43,500
+<font color="#138ce9">MAN:</font> This is bullshit.
+I saw her go in the door.
+
+819
+00:49:43,580 --> 00:49:45,200
+Oh, shit.
+
+820
+00:49:45,290 --> 00:49:47,700
+You can't do this.
+We've earned that reward.
+
+821
+00:49:48,290 --> 00:49:51,290
+You wouldn't even have
+that traitorous mage if it wasn't for us.
+
+822
+00:49:51,370 --> 00:49:52,970
+<font color="#138ce9">SOLDIER:</font> Reward's already been claimed.
+
+823
+00:49:53,000 --> 00:49:55,500
+<font color="#138ce9">OLD WOMAN:</font> <i>You know
+what you need, Piglet.</i>
+
+824
+00:49:55,580 --> 00:49:57,160
+<font color="#ff00ff">[WHISPERING VOICES]</font>
+
+825
+00:49:57,250 --> 00:49:59,160
+<i>Your magic.</i>
+
+826
+00:49:59,700 --> 00:50:00,750
+Now fuck off!
+
+827
+00:50:01,370 --> 00:50:02,450
+All right, all right!
+
+828
+00:50:10,540 --> 00:50:13,000
+<i>You're running out of time.</i>
+
+829
+00:50:13,540 --> 00:50:15,040
+Get your fucking hands off me.
+
+830
+00:50:15,120 --> 00:50:17,410
+I'm gonna take pleasure in your execution.
+
+831
+00:50:17,910 --> 00:50:19,830
+<i>Show me what you want.</i>
+
+832
+00:50:20,950 --> 00:50:23,330
+<i>Heal your wounds.</i>
+
+833
+00:50:24,120 --> 00:50:26,500
+Fucking... fucky... fuck.
+
+834
+00:50:27,910 --> 00:50:30,620
+<i>You know the words.</i>
+
+835
+00:50:30,700 --> 00:50:31,910
+<i>Say them!</i>
+
+836
+00:50:32,000 --> 00:50:33,790
+Behold the mother of forests,
+
+837
+00:50:34,290 --> 00:50:36,620
+the Deathless Mother nesting in dreams.
+
+838
+00:50:37,410 --> 00:50:39,580
+Turn your back to the forest, hut, hut.
+
+839
+00:50:40,620 --> 00:50:41,620
+Oh!
+
+840
+00:50:43,200 --> 00:50:45,410
+- Yennefer!
+- <font color="#138ce9">MAN:</font> Ahem.
+
+841
+00:50:45,500 --> 00:50:47,410
+Peeping Toms get the clink.
+
+842
+00:50:49,000 --> 00:50:50,250
+Gentlemen! Uh...
+
+843
+00:50:52,620 --> 00:50:54,910
+<font color="#138ce9">OLD WOMAN:</font> So good to see you again.
+
+844
+00:50:56,330 --> 00:50:58,870
+All alone in a world that hates you,
+
+845
+00:50:58,950 --> 00:51:01,290
+with no way to protect yourself.
+
+846
+00:51:02,160 --> 00:51:04,080
+How delicious.
+
+847
+00:51:05,000 --> 00:51:06,120
+I managed.
+
+848
+00:51:07,160 --> 00:51:09,410
+And yet you're here.
+
+849
+00:51:10,410 --> 00:51:12,370
+I'm not stupid.
+I meant what I said before.
+
+850
+00:51:12,450 --> 00:51:14,080
+I'm done dealing in debts.
+
+851
+00:51:14,580 --> 00:51:16,120
+I want to make a trade.
+
+852
+00:51:16,200 --> 00:51:17,540
+I know what you want.
+
+853
+00:51:18,450 --> 00:51:21,580
+All that wrath
+and righteous anger raging inside you.
+
+854
+00:51:22,330 --> 00:51:25,000
+I can smell your desires
+like rotting meat.
+
+855
+00:51:25,790 --> 00:51:28,330
+But I'm not here to grant wishes.
+
+856
+00:51:28,410 --> 00:51:32,330
+I'm simply a guide
+to get you exactly what you deserve.
+
+857
+00:51:33,200 --> 00:51:34,790
+Just ask your friends.
+
+858
+00:51:34,870 --> 00:51:36,410
+I deserve to survive.
+
+859
+00:51:37,200 --> 00:51:40,450
+I've earned it. I deserve access to Chaos.
+
+860
+00:51:40,540 --> 00:51:42,250
+I know how you can get it.
+
+861
+00:51:42,330 --> 00:51:43,910
+How you can steal it.
+
+862
+00:51:44,000 --> 00:51:45,200
+<font color="#138ce9">YENNEFER:</font> Steal what?
+
+863
+00:51:48,200 --> 00:51:49,200
+Me.
+
+864
+00:51:52,870 --> 00:51:54,080
+And who are you?
+
+865
+00:51:56,790 --> 00:51:59,870
+I'm the key
+to you getting your power back.
+
+866
+00:52:01,000 --> 00:52:03,540
+And a great deal more than that.
+
+867
+00:52:05,000 --> 00:52:08,000
+All you have to do
+is deliver me to the right lock.
+
+868
+00:52:09,120 --> 00:52:12,200
+A shattered black door
+just outside Cintra.
+
+869
+00:52:12,200 --> 00:52:27,200
+<font color="#ff00ff">- Original SUB by hadilan </font><font color="#138ce9">- subscene.com -</font>
+<font color="#ffff00">Colored HI and improvements by </font><font color="#f0100f">GoldBerg_44</font>
+
